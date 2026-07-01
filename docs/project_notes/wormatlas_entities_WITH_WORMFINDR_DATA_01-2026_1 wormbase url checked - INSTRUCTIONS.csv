@@ -1,0 +1,267 @@
+WORMATLAS ENTITY MAPPING - COMPLETION GUIDE
+
+✓ CURRENT STATUS: 565 CELLS IMPORTED FROM WORMFINDR
+
+You have successfully imported 565 late L1 cells from WormFindr Information Cards.
+"All cells have WormBase IDs, organ systems, cell types, and lineage information."
+
+YOUR NEXT STEPS:
+Enhance the imported data to make it AI-ready and complete your deliverables.
+
+
+
+PRIORITY 1: ENHANCE DESCRIPTIONS (Column K)
+ESTIMATED TIME: 3-4 days | TARGET: 50-70 priority cells
+
+CURRENT STATE:
+  • Descriptions are brief (1-2 sentences)
+  • Example: 'int1DL is a epithelial cell in the alimentary system. Dorsal left cell in first ring.'
+
+TARGET STATE (RAG-Ready):
+"  • 50-200 words in natural, conversational language"
+"  • Include: location, structure, development, visible features"
+  • Write as if explaining to a student
+
+ENHANCEMENT TEMPLATE - Answer these 5 questions:
+"  1. WHAT IS IT? (cell type, general location)"
+"  2. WHERE EXACTLY? (spatial context, neighbors, position)"
+"  3. WHAT DOES IT LOOK LIKE? (shape, size, visible structures)"
+"  4. HOW DID IT DEVELOP? (lineage, division timing, fate)"
+"  5. KEY FEATURES? (organelles, markers, distinguishing characteristics)"
+
+EXAMPLE - BEFORE:
+'int1DL is a epithelial cell in the alimentary system of C. elegans. Dorsal left cell in
+first intestinal ring. Embryonic lineage: Ealaad'
+
+EXAMPLE - AFTER (RAG-Ready):
+'int1DL is a large epithelial cell that forms part of the dorsal wall of the first intestinal
+"ring in C. elegans. This cell is one of four cells (int1DL, int1DR, int1VL, int1VR) that"
+"comprise the anteriormost intestinal ring, positioned immediately posterior to the pharyngeal-"
+intestinal valve. The cell has a cuboidal shape with an apical surface lined with dense
+"microvilli facing the intestinal lumen for nutrient absorption. During embryonic development,"
+int1DL arises from the Ealaad lineage within the E (endoderm) lineage. The cell contains
+prominent gut granules visible as autofluorescent birefringent structures.'
+
+WHICH CELLS TO ENHANCE FIRST:
+  ★ GROUP 1 : (FOR EXAMPLE) All intestinal cells (~20 cells)
+"     Search for: int1DL, int1DR, int1VL, int1VR, int2D, int2V, int3D, int3V, etc."
+     These are rows 6-25 approximately
+
+  ★ GROUP 2 : Major neurons (~30 cells)
+     Filter Column N (location_description) for 'Nervous'
+"     Focus on: ASE, AWC, AIY, RIM, AVA, AVB, sensory and motor neurons"
+
+  ★ GROUP 3 : Pharynx & muscle (~20 cells)
+     Filter Column N for 'Pharynx' or 'Muscle'
+
+RESOURCES FOR DESCRIPTIONS:
+  • Column E (WormAtlas link) - Click these links for detailed info
+  • Column F (WormBase link) - Additional anatomical details
+  • WormAtlas handbook pages you're already familiar with
+
+
+
+PRIORITY 2: ADD FUNCTION INFORMATION (Column L)
+ESTIMATED TIME: 1-2 days | TARGET: 50-70 priority cells
+
+CURRENT STATE:
+  • All cells show: 'Unknown - function not yet characterized in this dataset'
+
+YOUR TASK:
+  • Research and add biological function (20-100 words)
+"  • Describe what the cell DOES, not what it IS"
+  • Use natural language
+
+EXAMPLES:
+
+Intestinal cells:
+"'Primary functions include digestion of food materials, absorption and transport of processed"
+"nutrients, synthesis and storage of macromolecules including lipids and glycogen, production"
+"of yolk proteins for oocyte development, and participation in innate immune responses to"
+pathogens. The cell secretes digestive enzymes into the intestinal lumen.'
+
+"Sensory neurons (e.g., ASE):"
+'Chemosensory neuron involved in salt taste perception and chemotaxis. ASEL and ASER show
+left-right asymmetry in gene expression and respond to different salt concentrations. Critical
+for navigation of salt gradients in the environment.'
+
+"Motor neurons (e.g., AVA):"
+'Command interneuron that coordinates backward locomotion. Receives sensory input and sends
+motor output to body wall muscles via neuromuscular junctions. Part of the backward movement
+circuit activated during avoidance behavior.'
+
+IF FUNCTION IS TRULY UNKNOWN:
+  Keep as: 'Unknown - function not yet characterized'
+  Don't invent or guess!
+
+
+
+PRIORITY 3: ENHANCE SYNONYMS (Column M)
+ESTIMATED TIME: 1 day | TARGET: All enhanced cells
+
+CURRENT STATE:
+  • Basic variations: 'int1DL; int1dl; INT1DL'
+
+YOUR TASK:
+  • Add WormBase ontology synonyms
+  • Include all spelling variations
+  • Format: semicolon-separated
+
+HOW TO GET WORMBASE SYNONYMS:
+  1. Click the WormBase link in Column Q (or copy WBbt ID from Column F)
+  2. Scroll to 'Synonyms' section on WormBase page
+  3. Copy all synonyms
+"  4. Paste into Column M (add to existing, don't replace)"
+
+EXAMPLE:
+Before: 'int1DL; int1dl; INT1DL'
+After:  'int1DL; int1dl; INT1DL; int 1DL; int1 DL; intestinal cell 1 dorsal left;
+         first intestinal ring dorsal left cell; E lineage intestinal cell 1DL'
+
+
+
+PRIORITY 4: ADD RAG COLUMNS (Columns U & V)
+ESTIMATED TIME: 1-2 hours | TARGET: Top 20 most important cells
+
+These columns are OPTIONAL but make AI search much more powerful.
+Only fill for your most important cells (20-30 max).
+
+COLUMN U: common_questions
+  • What questions will researchers ask about this cell?
+  • Format: Question-separated list
+  • Example for int1DL:
+    'What is the function of int1DL? Where is int1DL located? What genes are expressed
+     in int1DL? How does int1DL differ from other intestinal cells? When does int1DL
+     form during development?'
+
+COLUMN V: key_concepts
+  • Main topics/processes this cell is associated with
+  • Format: Comma-separated keywords
+  • Example for int1DL:
+"    'digestion, nutrient absorption, apical-basal polarity, microvilli, gut granules,"
+"     yolk production, intestinal ring I, alimentary system, E lineage, epithelial cell'"
+
+WHICH CELLS SHOULD GET RAG COLUMNS:
+  • All intestinal cells (~20 cells)
+"  • Major landmark neurons (ASE, AWC, AIY, AVA, AVB, etc.)"
+  • Cells you reference most often in your research
+
+
+
+PRIORITY 5: BUILD RELATIONSHIPS TABLE
+ESTIMATED TIME: 1-2 days | TARGET: 100-150 relationships
+
+Go to the 'Relationships' tab and document how cells connect to each other.
+
+RELATIONSHIP TYPES:
+  • part_of: Cell is part of a larger structure (int1DL part_of int-ring-I)
+  • develops_from: Developmental lineage (int1DL develops_from Ealaad)
+  • adjacent_to: Spatial neighbors (int1DL adjacent_to int1DR)
+  • connected_to: Physical connections (neuron connected_to muscle)
+  • expresses: Gene expression (int1DL expresses vit-2)
+  • contains: Structures within cell (int1DL contains gut-granules)
+
+HOW TO CREATE RELATIONSHIP IDs:
+"  Option 1 (Simple): Just number them: rel-001, rel-002, rel-003, etc."
+  Option 2 (Auto): Use Excel formula in Column A row 3:
+"           =""rel-""&TEXT(ROW()-2,""000"")"
+           Then drag down to auto-generate IDs
+
+EXAMPLE RELATIONSHIPS FOR INT1DL:
+  rel-001 | int1DL | part_of      | int-ring-I  | 1.0 | WormAtlas Intestine
+  rel-002 | int1DL | adjacent_to  | int1DR      | 1.0 | WormAtlas IntFIG5
+  rel-003 | int1DL | adjacent_to  | int1VL      | 1.0 | WormAtlas IntFIG5
+  rel-004 | int1DL | develops_from| Ealaad      | 1.0 | WormFindr lineage
+  rel-005 | int1DL | contains     | gut-granules| 1.0 | IntFIG1
+
+GOAL: Document at least 5-10 relationships per priority cell (100-150 total)
+
+
+
+PRIORITY 6: MAP FIGURES TABLE
+ESTIMATED TIME: 1-2 hours | TARGET: 5-10 key figures
+
+Go to the 'Figures' tab and document which cells appear in which figures.
+
+EXAMPLE FOR IntFIG1:
+  IntFIG1 | A | intestine    | primary   | Diagram showing full intestine     | diagram
+  IntFIG1 | B | int1DL       | labeled   | Cell labeled in first ring         | diagram
+  IntFIG1 | C | gut-granules | primary   | Autofluorescent granules visible   | epifluorescent
+
+This helps AI answer: 'Show me figures containing int1DL'
+
+
+
+PRIORITY 7: UPDATE STATUS COLUMN
+ESTIMATED TIME: 5 minutes | TARGET: All enhanced cells
+
+"After enhancing each cell, change Column T from 'review' to 'validated'"
+
+This helps you track progress:
+  • review = Imported but needs enhancement
+"  • validated = Description enhanced, function added, ready for database"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DELIVERABLES CHECKLIST
+
+✓ 565 cells imported from WormFindr (COMPLETE)
+□ 70 priority cells enhanced with detailed descriptions
+□ 70 priority cells have function information
+□ 70 priority cells have enhanced synonyms
+"□ 20 top cells have RAG columns (U, V) filled"
+□ 100-150 relationships documented
+□ 5-10 figures mapped
+□ All enhanced cells marked 'validated' in status column
+
+
+
+PRODUCTIVITY TIPS
+
+FILTER & SORT:
+  • Use Excel's filter feature (Data → Filter) to focus on specific organ systems
+  • Sort by Column N (location_description) to group similar cells
+
+WORK IN BATCHES:
+  • Enhance all intestinal cells at once (you'll get faster)
+"  • Then all neurons, then all muscle cells"
+
+USE THE LINKS:
+  • Column E has WormAtlas links - click them for detailed info
+  • Column Q has WormBase links - great for synonyms and functions
+
+SAVE FREQUENTLY:
+  • Excel auto-save is your friend
+  • Make backup copies at end of each day
+
+NEED HELP?
+
+Refer back to your project documentation or reach out to your team.

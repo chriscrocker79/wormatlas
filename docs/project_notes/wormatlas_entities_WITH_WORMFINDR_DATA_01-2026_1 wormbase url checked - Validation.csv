@@ -1,0 +1,2 @@
+entity_id,wormbase_id,test_url,test_date,url_works,data_available,response_time_ms,issues_found,tested_by
+Entity being tested,WBbt ID to test,API endpoint,When tested,YES/NO,YES/NO,Milliseconds,Any problems,Who tested

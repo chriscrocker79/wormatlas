@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WormAtlas Workflow Manager</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --primary: #2563eb; --success: #10b981; --warning: #f59e0b;
+            --danger: #ef4444; --gray-50: #f9fafb; --gray-100: #f3f4f6;
+            --gray-200: #e5e7eb; --gray-300: #d1d5db; --gray-600: #4b5563;
+            --gray-700: #374151; --gray-800: #1f2937; --gray-900: #111827;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--gray-50); color: var(--gray-900); line-height: 1.6;
+        }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        header {
+            background: white; border-bottom: 3px solid var(--primary);
+            padding: 20px; margin-bottom: 30px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header-content {
+            max-width: 1400px; margin: 0 auto; display: flex;
+            justify-content: space-between; align-items: center;
+            flex-wrap: wrap; gap: 15px;
+        }
+        h1 { color: var(--primary); font-size: 1.8rem; }
+        .user-info { display: flex; align-items: center; gap: 15px; }
+        select, button {
+            padding: 8px 16px; border-radius: 6px;
+            border: 1px solid var(--gray-300); font-size: 0.95rem; cursor: pointer;
+        }
+        button {
+            background: var(--primary); color: white; border: none;
+            font-weight: 500; transition: background 0.2s;
+        }
+        button:hover { background: #1d4ed8; }
+        button:disabled { background: var(--gray-400); cursor: not-allowed; }
+        button.secondary { background: var(--gray-600); }
+        button.secondary:hover { background: var(--gray-700); }
+        button#syncBtn { background: var(--success); }
+        button#syncBtn:hover { background: #059669; }
+        .nav-tabs {
+            display: flex; gap: 10px; margin-bottom: 30px;
+            border-bottom: 2px solid var(--gray-200); flex-wrap: wrap;
+        }
+        .nav-tab {
+            padding: 12px 24px; background: none; border: none;
+            border-bottom: 3px solid transparent; cursor: pointer;
+            font-weight: 500; color: var(--gray-600); transition: all 0.2s;
+        }
+        .nav-tab:hover { color: var(--primary); background: var(--gray-50); }
+        .nav-tab.active { color: var(--primary); border-bottom-color: var(--primary); }
+        .grid { display: grid; gap: 20px; }
+        .grid-2 { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+        .card {
+            background: white; border-radius: 8px; padding: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .card h2 { font-size: 1.3rem; margin-bottom: 15px; color: var(--gray-800); }
+        .team-member {
+            padding: 15px; border-left: 4px solid var(--primary);
+            background: var(--gray-50); border-radius: 4px; margin-bottom: 15px;
+        }
+        .team-member h4 { font-size: 1rem; color: var(--gray-800); margin-bottom: 5px; }
+        .team-member .role { font-size: 0.85rem; color: var(--gray-600); margin-bottom: 8px; }
+        .status-badge {
+            display: inline-block; padding: 4px 12px; border-radius: 12px;
+            font-size: 0.8rem; font-weight: 600; margin-top: 5px;
+        }
+        .status-working { background: #dbeafe; color: #1e40af; }
+        .status-available { background: #d1fae5; color: #065f46; }
+        .phase-card { border-left: 4px solid var(--gray-300); }
+        .phase-card.active { border-left-color: var(--primary); }
+        .phase-card.complete { border-left-color: var(--success); opacity: 0.7; }
+        .phase-progress {
+            width: 100%; height: 8px; background: var(--gray-200);
+            border-radius: 4px; overflow: hidden; margin: 10px 0;
+        }
+        .phase-progress-bar { height: 100%; background: var(--primary); transition: width 0.3s; }
+        .task-list { list-style: none; }
+        .task-item {
+            padding: 12px; margin: 8px 0; background: var(--gray-50);
+            border-radius: 4px; display: flex; justify-content: space-between;
+            align-items: center; gap: 10px;
+        }
+        .task-item.complete { opacity: 0.6; text-decoration: line-through; }
+        .task-checkbox { width: 20px; height: 20px; cursor: pointer; }
+        .task-text { flex: 1; }
+        .task-assignee {
+            font-size: 0.85rem; color: var(--gray-600);
+            padding: 4px 8px; background: white; border-radius: 4px;
+        }
+        .task-actions {
+            display: flex; gap: 4px;
+        }
+        .task-edit {
+            padding: 4px 8px; font-size: 0.8rem; background: var(--warning);
+            color: white; border: none; border-radius: 4px; cursor: pointer;
+        }
+        .task-edit:hover { background: #d97706; }
+        .task-delete {
+            padding: 4px 8px; font-size: 0.8rem; background: var(--danger);
+            color: white; border: none; border-radius: 4px; cursor: pointer;
+        }
+        .task-delete:hover { background: #dc2626; }
+        .activity-item {
+            padding: 12px; border-left: 3px solid var(--gray-300);
+            margin-bottom: 12px; background: var(--gray-50); border-radius: 4px;
+        }
+        .activity-time { font-size: 0.8rem; color: var(--gray-600); margin-bottom: 5px; }
+        .modal {
+            display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.5); z-index: 1000;
+            align-items: center; justify-content: center;
+        }
+        .modal.active { display: flex; }
+        .modal-content {
+            background: white; padding: 30px; border-radius: 8px;
+            max-width: 500px; width: 90%; max-height: 90vh; overflow-y: auto;
+        }
+        .form-group { margin-bottom: 20px; }
+        .form-group label {
+            display: block; margin-bottom: 5px;
+            font-weight: 500; color: var(--gray-700);
+        }
+        .form-group input, .form-group select, .form-group textarea {
+            width: 100%; padding: 10px; border: 1px solid var(--gray-300);
+            border-radius: 4px; font-size: 1rem;
+        }
+        .form-group textarea { min-height: 100px; resize: vertical; }
+        .modal-buttons {
+            display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px;
+        }
+        .hidden { display: none; }
+        .stats-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px; margin-bottom: 20px;
+        }
+        .stat-card { text-align: center; padding: 15px; background: var(--gray-50); border-radius: 6px; }
+        .stat-number { font-size: 2rem; font-weight: bold; color: var(--primary); }
+        .stat-label { font-size: 0.9rem; color: var(--gray-600); margin-top: 5px; }
+        @media (max-width: 768px) {
+            h1 { font-size: 1.4rem; }
+            .grid-2 { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>🪱 WormAtlas Workflow Manager</h1>
+            <div class="user-info">
+                <select id="currentUser">
+    <option value="">Select Your Name...</option>
+    <option value="David Hall">David Hall</option>
+    <option value="Nathan Schroeder">Nathan Schroeder</option>
+    <option value="Chris Crocker">Chris Crocker</option>
+    <option value="Laura Herndon">Laura Herndon</option>
+    <option value="Cathy Wolkow">Cathy Wolkow</option>
+    <option value="Malia Jennings">Malia Jennings</option>
+    <option value="Gregory Parks">Gregory Parks</option>
+</select>
+                <button onclick="showHelp()">Help</button>
+                <button onclick="syncData()" id="syncBtn">🔄 Sync</button>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="nav-tabs">
+            <button class="nav-tab active" onclick="showTab('dashboard')">Dashboard</button>
+            <button class="nav-tab" onclick="showTab('team')">Team Status</button>
+            <button class="nav-tab" onclick="showTab('phases')">Project Phases</button>
+            <button class="nav-tab" onclick="showTab('activity')">Activity Feed</button>
+            <button class="nav-tab" onclick="showTab('files')">Files & Links</button>
+        </div>
+
+        <div id="dashboard-tab" class="tab-content">
+            <div class="stats-grid">
+                <div class="stat-card"><div class="stat-number" id="stat-complete">0</div><div class="stat-label">Tasks Complete</div></div>
+                <div class="stat-card"><div class="stat-number" id="stat-active">0</div><div class="stat-label">Active Tasks</div></div>
+                <div class="stat-card"><div class="stat-number" id="stat-progress">0%</div><div class="stat-label">Overall Progress</div></div>
+                <div class="stat-card"><div class="stat-number" id="stat-days">--</div><div class="stat-label">Days Elapsed</div></div>
+            </div>
+            <div class="grid grid-2">
+                <div class="card">
+                    <h2>📊 Current Phase</h2>
+                    <div id="current-phase-info"><p>Select your name above to get started!</p></div>
+                </div>
+                <div class="card">
+                    <h2>✅ My Active Tasks</h2>
+                    <div id="my-tasks"><p>No tasks assigned yet.</p></div>
+                </div>
+            </div>
+            <div class="card" style="margin-top: 20px;">
+                <h2>📈 Phase Progress</h2>
+                <div id="phases-overview"></div>
+            </div>
+        </div>
+
+        <div id="team-tab" class="tab-content hidden">
+            <div class="card">
+                <h2>👥 Team Members</h2>
+                <div id="team-list"></div>
+            </div>
+        </div>
+
+        <div id="phases-tab" class="tab-content hidden">
+            <button onclick="showAddTaskModal()" style="margin-bottom: 20px;">+ Add New Task</button>
+            <div class="grid grid-2" id="phases-list"></div>
+        </div>
+
+        <div id="activity-tab" class="tab-content hidden">
+            <div class="card">
+                <h2>📝 Recent Activity</h2>
+                <div id="activity-list"><p>No activity yet.</p></div>
+            </div>
+        </div>
+
+        <div id="files-tab" class="tab-content hidden">
+            <div class="grid grid-2">
+                <div class="card">
+                    <h2>📁 Project Files</h2>
+                    <p style="margin-bottom: 15px; color: #4b5563;">Add file links below (Google Drive, Dropbox, etc.)</p>
+                    <div style="background: #f9fafb; padding: 15px; border-radius: 6px;">
+                        <p style="margin-bottom: 10px;">
+                            <strong>📊 Entity Mapping:</strong><br>
+                            <input type="text" id="link-entity" placeholder="Paste link..." style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #d1d5db; border-radius: 4px;">
+                            <button onclick="saveLink('entity')" style="margin-top: 5px;">Save</button>
+                        </p>
+                        <p style="margin-bottom: 10px;">
+                            <strong>📋 Migration Workflow:</strong><br>
+                            <input type="text" id="link-migration" placeholder="Paste link..." style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #d1d5db; border-radius: 4px;">
+                            <button onclick="saveLink('migration')" style="margin-top: 5px;">Save</button>
+                        </p>
+                        <p style="margin-bottom: 10px;">
+                            <strong>🎨 Templates:</strong><br>
+                            <input type="text" id="link-templates" placeholder="Paste link..." style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #d1d5db; border-radius: 4px;">
+                            <button onclick="saveLink('templates')" style="margin-top: 5px;">Save</button>
+                        </p>
+                        <p>
+                            <strong>🐛 Bug Workflow:</strong><br>
+                            <input type="text" id="link-bugs" placeholder="Paste link..." style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #d1d5db; border-radius: 4px;">
+                            <button onclick="saveLink('bugs')" style="margin-top: 5px;">Save</button>
+                        </p>
+                    </div>
+                    <div id="saved-links" style="margin-top: 20px;"></div>
+                </div>
+                <div class="card">
+                    <h2>🔗 Quick Links</h2>
+                    <p style="padding: 10px 0; border-bottom: 1px solid #e5e7eb;">
+                        <a href="https://www.wormatlas.org" target="_blank" style="color: #2563eb;">🌐 WormAtlas.org</a>
+                    </p>
+                    <p style="padding: 10px 0;">
+                        <a href="https://www.wormbase.org" target="_blank" style="color: #2563eb;">🔬 WormBase</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add Task Modal -->
+    <div id="addTaskModal" class="modal">
+        <div class="modal-content">
+            <h2>Add New Task</h2>
+            <form id="addTaskForm">
+                <div class="form-group">
+                    <label>Phase</label>
+                    <select id="taskPhase" required><option value="">Select Phase...</option></select>
+                </div>
+                <div class="form-group">
+                    <label>Task Description</label>
+                    <textarea id="taskDescription" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label>Assign To</label>
+                   <select id="taskAssignee" required>
+    <option value="">Select Team Member...</option>
+    <option value="David Hall">David Hall</option>
+    <option value="Nathan Schroeder">Nathan Schroeder</option>
+    <option value="Chris Crocker">Chris Crocker</option>
+    <option value="Laura Herndon">Laura Herndon</option>
+    <option value="Cathy Wolkow">Cathy Wolkow</option>
+    <option value="Malia Jennings">Malia Jennings</option>
+    <option value="Gregory Parks">Gregory Parks</option>
+</select>
+                </div>
+                <div class="modal-buttons">
+                    <button type="button" class="secondary" onclick="closeAddTaskModal()">Cancel</button>
+                    <button type="submit">Add Task</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Edit Task Modal (NEW!) -->
+    <div id="editTaskModal" class="modal">
+        <div class="modal-content">
+            <h2>Edit Task</h2>
+            <form id="editTaskForm">
+                <input type="hidden" id="editTaskId">
+                <div class="form-group">
+                    <label>Task Description</label>
+                    <textarea id="editTaskDescription" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label>Assign To</label>
+                    <select id="editTaskAssignee" required>
+    <option value="">Select Team Member...</option>
+    <option value="David Hall">David Hall</option>
+    <option value="Nathan Schroeder">Nathan Schroeder</option>
+    <option value="Chris Crocker">Chris Crocker</option>
+    <option value="Laura Herndon">Laura Herndon</option>
+    <option value="Cathy Wolkow">Cathy Wolkow</option>
+    <option value="Malia Jennings">Malia Jennings</option>
+    <option value="Gregory Parks">Gregory Parks</option>
+</select>
+                </div>
+                <div class="modal-buttons">
+                    <button type="button" class="secondary" onclick="closeEditTaskModal()">Cancel</button>
+                    <button type="submit">Save Changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const API_URL = 'workflow-backend.php';
+        const USE_BACKEND = true;
+
+        // Save queue to prevent race conditions
+        let saveInProgress = false;
+        let pendingSave = false;
+
+        const projectData = {
+            startDate: new Date('2026-01-21'),
+            team: [],
+            phases: [],
+            activity: [],
+            fileLinks: {}
+        };
+
+        async function saveToBackend() {
+            if (saveInProgress) {
+                pendingSave = true;
+                return;
+            }
+
+            saveInProgress = true;
+            
+            try {
+                console.log('Saving to backend...');
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        action: 'save',
+                        data: {
+                            team: projectData.team,
+                            phases: projectData.phases,
+                            activity: projectData.activity,
+                            fileLinks: projectData.fileLinks
+                        }
+                    })
+                });
+                
+                const result = await response.json();
+                if (result.success) {
+                    console.log('Data saved to backend');
+                } else {
+                    console.error('Save failed:', result.error);
+                }
+            } catch (error) {
+                console.error('Error saving to backend:', error);
+            } finally {
+                saveInProgress = false;
+                
+                if (pendingSave) {
+                    pendingSave = false;
+                    setTimeout(() => saveToBackend(), 100);
+                }
+            }
+        }
+
+        async function loadFromBackend() {
+            try {
+                const response = await fetch(API_URL + '?action=load');
+                const data = await response.json();
+                
+                if (data.success && data.data) {
+                    projectData.team = data.data.team || [];
+                    projectData.phases = data.data.phases || [];
+                    projectData.activity = data.data.activity || [];
+                    projectData.fileLinks = data.data.fileLinks || {};
+                    if (Array.isArray(projectData.fileLinks)) {
+                        projectData.fileLinks = {};
+                    }
+                    localStorage.setItem('wormatlas-workflow', JSON.stringify(projectData));
+                    console.log('Data loaded from backend');
+                }
+            } catch (error) {
+                console.error('Error loading from backend:', error);
+            }
+        }
+
+        async function saveData() {
+            localStorage.setItem('wormatlas-workflow', JSON.stringify(projectData));
+            if (USE_BACKEND) {
+                await saveToBackend();
+            }
+        }
+
+        function loadData() {
+            if (USE_BACKEND) {
+                loadFromBackend().then(() => renderAll());
+            } else {
+                const saved = localStorage.getItem('wormatlas-workflow');
+                if (saved) {
+                    try {
+                        const parsed = JSON.parse(saved);
+                        projectData.team = parsed.team || [];
+                        projectData.phases = parsed.phases || [];
+                        projectData.activity = parsed.activity || [];
+                        projectData.fileLinks = parsed.fileLinks || {};
+                        projectData.startDate = new Date(parsed.startDate || projectData.startDate);
+                    } catch (e) {
+                        console.error('Error loading data:', e);
+                    }
+                }
+                renderAll();
+            }
+        }
+
+        async function syncData() {
+            const syncBtn = document.getElementById('syncBtn');
+            syncBtn.disabled = true;
+            syncBtn.textContent = '🔄 Syncing...';
+            
+            try {
+                if (USE_BACKEND) {
+                    await saveToBackend();
+                    await loadFromBackend();
+                    renderAll();
+                } else {
+                    await saveData();
+                }
+                
+                syncBtn.textContent = '✓ Synced';
+                setTimeout(() => {
+                    syncBtn.textContent = '🔄 Sync';
+                    syncBtn.disabled = false;
+                }, 2000);
+            } catch (error) {
+                console.error('Sync error:', error);
+                syncBtn.textContent = '✗ Error';
+                setTimeout(() => {
+                    syncBtn.textContent = '🔄 Sync';
+                    syncBtn.disabled = false;
+                }, 2000);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            loadData();
+            if (USE_BACKEND) {
+                setInterval(() => {
+                    if (!saveInProgress) {
+                        loadFromBackend().then(() => renderAll());
+                    }
+                }, 120000);
+            }
+        });
+
+        function renderAll() {
+            renderDashboard();
+            renderTeam();
+            renderPhases();
+            renderActivity();
+            updateStats();
+            loadFileLinks();
+        }
+
+        function showTab(tabName) {
+            document.querySelectorAll('.tab-content').forEach(tab => tab.classList.add('hidden'));
+            document.querySelectorAll('.nav-tab').forEach(btn => btn.classList.remove('active'));
+            document.getElementById(tabName + '-tab').classList.remove('hidden');
+            event.target.classList.add('active');
+        }
+
+        function renderDashboard() {
+            const currentUser = document.getElementById('currentUser').value;
+            const activePhase = projectData.phases.find(p => p.tasks.some(t => !t.complete));
+            const phaseInfo = document.getElementById('current-phase-info');
+            
+            if (activePhase) {
+                const progress = calculatePhaseProgress(activePhase);
+                phaseInfo.innerHTML = `
+                    <h3>${activePhase.icon} ${activePhase.name}</h3>
+                    <p><strong>Duration:</strong> ${activePhase.duration}</p>
+                    <div class="phase-progress">
+                        <div class="phase-progress-bar" style="width: ${progress}%"></div>
+                    </div>
+                    <p style="margin-top: 10px;">${progress}% complete</p>
+                `;
+            }
+
+            const myTasksDiv = document.getElementById('my-tasks');
+            if (currentUser) {
+                const userTasks = getAllTasks().filter(t => t.assignee === currentUser && !t.complete);
+                if (userTasks.length > 0) {
+                    myTasksDiv.innerHTML = userTasks.map(t => `
+                        <div class="task-item">
+                            <input type="checkbox" class="task-checkbox" onchange="toggleTask(${t.id})">
+                            <span class="task-text">${t.text}</span>
+                        </div>
+                    `).join('');
+                } else {
+                    myTasksDiv.innerHTML = '<p>No active tasks assigned to you. Great job!</p>';
+                }
+            } else {
+                myTasksDiv.innerHTML = '<p>Select your name to see your tasks.</p>';
+            }
+
+            const phasesOverview = document.getElementById('phases-overview');
+            phasesOverview.innerHTML = projectData.phases.map(phase => {
+                const progress = calculatePhaseProgress(phase);
+                return `
+                    <div style="margin-bottom: 20px;">
+                        <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+                            <span>${phase.icon} ${phase.name}</span>
+                            <span>${progress}%</span>
+                        </div>
+                        <div class="phase-progress">
+                            <div class="phase-progress-bar" style="width: ${progress}%"></div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function renderTeam() {
+            const teamList = document.getElementById('team-list');
+            teamList.innerHTML = projectData.team.map(member => {
+                const activeTasks = getAllTasks().filter(t => t.assignee === member.name && !t.complete);
+                return `
+                    <div class="team-member">
+                        <h4>${member.name}</h4>
+                        <div class="role">${member.role}</div>
+                        <span class="status-badge status-${member.status}">${member.status.toUpperCase()}</span>
+                        ${activeTasks.length > 0 ? `
+                            <div style="margin-top: 10px; padding: 10px; background: white; border-radius: 4px;">
+                                <strong>Active tasks: ${activeTasks.length}</strong>
+                                <ul style="margin: 5px 0 0 20px;">
+                                    ${activeTasks.slice(0, 3).map(t => `<li style="font-size: 0.85rem; margin: 3px 0;">${t.text}</li>`).join('')}
+                                    ${activeTasks.length > 3 ? `<li style="font-size: 0.85rem;">+ ${activeTasks.length - 3} more</li>` : ''}
+                                </ul>
+                            </div>
+                        ` : '<p style="margin-top: 10px; font-size: 0.9rem; color: #10b981;">✓ No active tasks</p>'}
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function renderPhases() {
+            const phasesList = document.getElementById('phases-list');
+            const phaseSelect = document.getElementById('taskPhase');
+            
+            phasesList.innerHTML = projectData.phases.map(phase => {
+                const progress = calculatePhaseProgress(phase);
+                const isComplete = progress === 100;
+                const hasActive = phase.tasks.some(t => !t.complete);
+                
+                return `
+                    <div class="card phase-card ${isComplete ? 'complete' : hasActive ? 'active' : ''}">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+                            <h3>${phase.icon} ${phase.name}</h3>
+                            <span style="font-size: 0.9rem; color: #4b5563;">${phase.duration}</span>
+                        </div>
+                        <div class="phase-progress">
+                            <div class="phase-progress-bar" style="width: ${progress}%"></div>
+                        </div>
+                        <p style="margin: 10px 0; font-size: 0.9rem; color: #4b5563;">
+                            ${phase.tasks.filter(t => t.complete).length} of ${phase.tasks.length} tasks complete
+                        </p>
+                        <ul class="task-list">
+                            ${phase.tasks.map(task => `
+                                <li class="task-item ${task.complete ? 'complete' : ''}">
+                                    <input type="checkbox" class="task-checkbox" 
+                                           ${task.complete ? 'checked' : ''}
+                                           onchange="toggleTask(${task.id})">
+                                    <span class="task-text">${task.text}</span>
+                                    <span class="task-assignee">${task.assignee}</span>
+                                    <div class="task-actions">
+                                        <button class="task-edit" onclick="showEditTaskModal(${task.id})">✏️</button>
+                                        <button class="task-delete" onclick="deleteTask(${task.id})">✕</button>
+                                    </div>
+                                </li>
+                            `).join('')}
+                        </ul>
+                    </div>
+                `;
+            }).join('');
+
+            phaseSelect.innerHTML = '<option value="">Select Phase...</option>' + 
+                projectData.phases.map(p => `<option value="${p.id}">${p.icon} ${p.name}</option>`).join('');
+        }
+
+        function renderActivity() {
+            const activityList = document.getElementById('activity-list');
+            const recentActivity = projectData.activity.slice(-30).reverse();
+            
+            if (recentActivity.length === 0) {
+                activityList.innerHTML = '<p>No activity yet.</p>';
+                return;
+            }
+
+            activityList.innerHTML = recentActivity.map(item => {
+                const time = new Date(item.timestamp);
+                const timeStr = time.toLocaleString();
+                return `
+                    <div class="activity-item">
+                        <div class="activity-time">${timeStr}</div>
+                        <div style="color: #1f2937;">
+                            <strong>${item.user}</strong> ${item.action}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function updateStats() {
+            const allTasks = getAllTasks();
+            const completeTasks = allTasks.filter(t => t.complete).length;
+            const activeTasks = allTasks.filter(t => !t.complete).length;
+            const progress = allTasks.length > 0 ? Math.round((completeTasks / allTasks.length) * 100) : 0;
+            const daysSinceStart = Math.floor((new Date() - projectData.startDate) / (1000 * 60 * 60 * 24));
+            
+            document.getElementById('stat-complete').textContent = completeTasks;
+            document.getElementById('stat-active').textContent = activeTasks;
+            document.getElementById('stat-progress').textContent = progress + '%';
+            document.getElementById('stat-days').textContent = daysSinceStart;
+        }
+
+        function getAllTasks() {
+            return projectData.phases.flatMap(p => p.tasks || []);
+        }
+
+        function calculatePhaseProgress(phase) {
+            if (!phase.tasks || phase.tasks.length === 0) return 0;
+            const complete = phase.tasks.filter(t => t.complete).length;
+            return Math.round((complete / phase.tasks.length) * 100);
+        }
+
+        async function toggleTask(taskId) {
+            const currentUser = document.getElementById('currentUser').value;
+            if (!currentUser) {
+                alert('Please select your name first!');
+                const checkbox = event.target;
+                checkbox.checked = !checkbox.checked;
+                return;
+            }
+
+            const task = getAllTasks().find(t => t.id === taskId);
+            if (task) {
+                task.complete = !task.complete;
+                projectData.activity.push({
+                    timestamp: new Date().toISOString(),
+                    user: currentUser,
+                    action: task.complete ? `completed "${task.text}"` : `reopened "${task.text}"`
+                });
+                
+                await saveData();
+                renderAll();
+            }
+        }
+
+        async function deleteTask(taskId) {
+            const currentUser = document.getElementById('currentUser').value;
+            if (!currentUser) {
+                alert('Please select your name first!');
+                return;
+            }
+
+            const task = getAllTasks().find(t => t.id === taskId);
+            if (!task) return;
+            
+            if (!confirm(`Delete task: "${task.text}"?`)) {
+                return;
+            }
+            
+            for (let phase of projectData.phases) {
+                const taskIndex = phase.tasks.findIndex(t => t.id === taskId);
+                if (taskIndex !== -1) {
+                    phase.tasks.splice(taskIndex, 1);
+                    projectData.activity.push({
+                        timestamp: new Date().toISOString(),
+                        user: currentUser,
+                        action: `deleted task "${task.text}"`
+                    });
+                    await saveData();
+                    renderAll();
+                    break;
+                }
+            }
+        }
+
+        // NEW: Show Edit Task Modal
+        function showEditTaskModal(taskId) {
+            const task = getAllTasks().find(t => t.id === taskId);
+            if (!task) return;
+            
+            document.getElementById('editTaskId').value = taskId;
+            document.getElementById('editTaskDescription').value = task.text;
+            document.getElementById('editTaskAssignee').value = task.assignee;
+            document.getElementById('editTaskModal').classList.add('active');
+        }
+
+        // NEW: Close Edit Task Modal
+        function closeEditTaskModal() {
+            document.getElementById('editTaskModal').classList.remove('active');
+            document.getElementById('editTaskForm').reset();
+        }
+
+        // NEW: Edit Task Form Handler
+        document.getElementById('editTaskForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const taskId = parseInt(document.getElementById('editTaskId').value);
+            const newDescription = document.getElementById('editTaskDescription').value;
+            const newAssignee = document.getElementById('editTaskAssignee').value;
+            const currentUser = document.getElementById('currentUser').value;
+            
+            if (!currentUser) {
+                alert('Please select your name first!');
+                return;
+            }
+
+            const task = getAllTasks().find(t => t.id === taskId);
+            if (task) {
+                const oldDescription = task.text;
+                const oldAssignee = task.assignee;
+                
+                task.text = newDescription;
+                task.assignee = newAssignee;
+
+                // Log what changed
+                const changes = [];
+                if (oldDescription !== newDescription) {
+                    changes.push(`description to "${newDescription}"`);
+                }
+                if (oldAssignee !== newAssignee) {
+                    changes.push(`assignee from ${oldAssignee} to ${newAssignee}`);
+                }
+
+                if (changes.length > 0) {
+                    projectData.activity.push({
+                        timestamp: new Date().toISOString(),
+                        user: currentUser,
+                        action: `edited task "${oldDescription}" - changed ${changes.join(' and ')}`
+                    });
+                }
+
+                await saveData();
+                renderAll();
+                closeEditTaskModal();
+            }
+        });
+
+        function showAddTaskModal() {
+            document.getElementById('addTaskModal').classList.add('active');
+        }
+
+        function closeAddTaskModal() {
+            document.getElementById('addTaskModal').classList.remove('active');
+            document.getElementById('addTaskForm').reset();
+        }
+
+        document.getElementById('addTaskForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const phaseId = parseInt(document.getElementById('taskPhase').value);
+            const description = document.getElementById('taskDescription').value;
+            const assignee = document.getElementById('taskAssignee').value;
+            const currentUser = document.getElementById('currentUser').value;
+            
+            if (!currentUser) {
+                alert('Please select your name first!');
+                return;
+            }
+
+            const phase = projectData.phases.find(p => p.id === phaseId);
+            if (phase) {
+                const newTaskId = Math.max(...getAllTasks().map(t => t.id), 0) + 1;
+                phase.tasks.push({
+                    id: newTaskId,
+                    text: description,
+                    assignee: assignee,
+                    complete: false
+                });
+
+                projectData.activity.push({
+                    timestamp: new Date().toISOString(),
+                    user: currentUser,
+                    action: `added task "${description}" for ${assignee}`
+                });
+
+                await saveData();
+                renderAll();
+                closeAddTaskModal();
+            }
+        });
+
+        document.getElementById('currentUser').addEventListener('change', function() {
+            renderDashboard();
+        });
+
+        function showHelp() {
+            alert(`WormAtlas Workflow Manager - Quick Guide
+
+1. SELECT YOUR NAME from the dropdown
+2. View YOUR TASKS on Dashboard tab
+3. Check off tasks as you complete them
+4. Edit tasks (description or assignment) with ✏️ button
+5. See TEAM STATUS to see what others are working on
+6. Go to PROJECT PHASES to see all tasks
+7. Add new tasks with "+ Add New Task" button
+8. Check ACTIVITY FEED for recent updates
+9. Add FILE LINKS in Files & Links tab
+
+Your progress saves automatically!
+
+${USE_BACKEND ? 'Data syncs with database. Click Sync to get latest updates from team.' : 'Currently in local mode - only you can see your changes.'}`);
+        }
+
+        async function saveLink(type) {
+            const input = document.getElementById('link-' + type);
+            const url = input.value.trim();
+            if (url) {
+                projectData.fileLinks[type] = url;
+                await saveData();
+                loadFileLinks();
+                input.value = '';
+                alert('Link saved!');
+            }
+        }
+
+        function loadFileLinks() {
+            const savedLinksDiv = document.getElementById('saved-links');
+            const links = projectData.fileLinks || {};
+            const linkNames = {
+                'entity': '📊 Entity Mapping',
+                'migration': '📋 Migration Workflow',
+                'templates': '🎨 Templates',
+                'bugs': '🐛 Bug Workflow'
+            };
+            
+            const html = Object.keys(links).length > 0 ? 
+                '<h3 style="margin-top: 20px; margin-bottom: 10px;">Saved Links:</h3>' +
+                Object.entries(links).map(([type, url]) => `
+                    <p style="padding: 10px; background: #f9fafb; border-radius: 4px; margin-bottom: 8px;">
+                        <a href="${url}" target="_blank" style="color: #2563eb;">${linkNames[type] || type}</a>
+                        <button onclick="deleteLink('${type}')" style="margin-left: 10px; padding: 4px 8px; font-size: 0.85rem; background: #ef4444;">Delete</button>
+                    </p>
+                `).join('') : '';
+            
+            savedLinksDiv.innerHTML = html;
+        }
+
+        async function deleteLink(type) {
+            if (confirm('Delete this link?')) {
+                delete projectData.fileLinks[type];
+                await saveData();
+                loadFileLinks();
+            }
+        }
+
+        // Modal click outside to close
+        document.getElementById('addTaskModal').addEventListener('click', function(e) {
+            if (e.target.id === 'addTaskModal') {
+                closeAddTaskModal();
+            }
+        });
+
+        document.getElementById('editTaskModal').addEventListener('click', function(e) {
+            if (e.target.id === 'editTaskModal') {
+                closeEditTaskModal();
+            }
+        });
+    </script>
+</body>
+</html>

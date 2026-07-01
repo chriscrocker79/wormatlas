@@ -1,0 +1,24 @@
+{
+  // Recommended VS Code extensions for WormAtlas development.
+  // When you open this project in VS Code, it will offer to install these.
+  // This file is safe to commit — it contains no secrets.
+  "recommendations": [
+    // PHP
+    "bmewburn.vscode-intelephense-client",   // PHP IntelliSense (autocomplete, error checking)
+    "xdebug.php-debug",                      // PHP debugging
+
+    // Python
+    "ms-python.python",                      // Python language support
+    "ms-python.black-formatter",             // Python code formatter
+
+    // Git
+    "eamodio.gitlens",                       // Enhanced Git history and blame
+
+    // Accessibility
+    "deque-systems.axe-linter",              // Flags accessibility issues in HTML as you type
+
+    // General
+    "editorconfig.editorconfig",             // Consistent formatting across editors
+    "streetsidesoftware.code-spell-checker"  // Catches typos in code and comments
+  ]
+}

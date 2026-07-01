@@ -1,0 +1,2 @@
+figure_id,panel,entity_id,visibility,description_in_figure,image_type,magnification
+Figure identifier,A/B/C or blank,Entity shown,primary/secondary/labeled,What entity looks like,DIC/TEM/epifluorescent/etc,"e.g., 400x"

@@ -1,0 +1,5 @@
+relationship_id,entity_from,relationship_type,entity_to,confidence,evidence_source,notes
+"Unique ID (e.g., rel-001)",Starting entity ID,Type of relationship,Ending entity ID,Certainty (0.0-1.0),Where documented,Additional context
+rel-001,int1DL,part_of,int-ring-I,1.0,WormAtlas Intestine page,One of four cells
+rel-002,int-ring-I,part_of,intestine,1.0,WormAtlas Intestine page,Anteriormost ring
+rel-003,intestine,adjacent_to,gonad,1.0,IntFIG1,Runs parallel along body
