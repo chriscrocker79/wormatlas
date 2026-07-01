@@ -497,6 +497,79 @@ Status key:
 
 ---
 
+### Decision: Git Hosting Platform — GitHub — DECIDED
+
+- **Status:** DECIDED
+- **Date logged:** July 2026
+
+#### Decision
+GitHub (github.com) is the version control and code hosting platform
+for the WormAtlas redevelopment project.
+
+- Repository: https://github.com/chriscrocker79/wormatlas
+- Visibility: Public
+- Account: chriscrocker79
+
+#### Rationale
+- The bioinformatics and C. elegans research community uses GitHub
+  as standard. WormBase and most related projects are hosted there.
+  External collaborators will expect to find WormAtlas code on GitHub.
+- David Hall and Nate Schroeder are non-UofI affiliates. University
+  of Illinois GitLab cannot reliably grant accounts to external
+  collaborators, which ruled out university Git hosting.
+- GitHub free plan covers all project needs with no maintenance
+  burden on Greg Parks or university IT infrastructure.
+- Public visibility was chosen after GitHub's free plan was found
+  to not enforce branch protection rules on private repositories.
+  Public code is consistent with WormAtlas's open-access mission.
+  Credentials are protected by .gitignore regardless of visibility.
+- GitLab.com: REJECTED — smaller community, higher complexity,
+  no meaningful advantage for this stack and team size.
+- University GitLab: REJECTED — cannot grant accounts to non-UofI
+  team members including lab directors.
+
+#### Repository structure
+- `main` branch is protected via branch protection rule
+- All work done on feature branches, merged via pull request
+- Branch naming, commit message format, and merge rules are
+  documented in conventions.md
+- Required approvals set to 1 — solo developer self-approves
+  pull requests before merging to main
+
+#### Files committed in initial scaffold
+- `.gitignore` — prevents secrets, credentials, ChromaDB data,
+  and local config from ever being committed
+- `README.md` — project overview, setup instructions, team list,
+  Git workflow summary
+- `.env.example` — safe template for environment variables
+  (Voyage AI key, database credentials)
+- `config/database.example.php` — safe template for database
+  credentials
+- `.vscode/extensions.json` — recommended VS Code extensions
+  for all team members
+- `docs/project_notes/` — all project knowledge files
+  (decisions.md, bugs.md, key_facts.md, conventions.md,
+  GLOSSARY.md, ACCESSIBILITY_CHECKLIST.md)
+
+#### Security conventions established
+- `config/database.php` is gitignored — never committed
+- `.env` is gitignored — never committed
+- `.sql` database dumps are gitignored — never committed
+- All secrets live in environment variables only
+- See conventions.md → Security section for full policy
+
+#### Team access
+- Chris Crocker: Owner (full access)
+- David Hall: Read access (visibility into project progress)
+- Nate Schroeder: Read access (visibility into project progress)
+- Additional team members to be added as needed
+
+#### Open questions resolved
+- Open question #1 (Git hosting platform) is now DECIDED
+  and can be removed from the Open Questions table
+
+---
+
 ## OPEN QUESTIONS
 These items need a decision but have not yet been discussed.
 Each must be logged as a DECIDED entry before work begins on that area.
