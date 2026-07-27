@@ -1,0 +1,766 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary R</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - R </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style6"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style6"><font
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style6">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="102"><span class="style6"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style6"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="5r"></a><a href="../images/Z1Z4lineages.jpg" target="_blank">5R</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>5R and 5L are alternate lineage patterns of the hermaphrodite which are related by twofold rotational symmetry. </p>
+									<p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z1.ppa;class=Cell" target="_blank">VU, Z1.ppa</a> (Ventral Uterine precursor; generates uterus, spermatheca and spermatheca-uterine valve cells)<br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z1.ppp;class=Cell" target="_blank">AC, Z1.ppp </a>(Anchor Cell)<a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z4.aaa;class=Cell" target="_blank"><br>
+												VU, Z4.aaa</a> (Ventral Uterine precursor; generates uterus, spermatheca and spermatheca-uterine valve cells)<a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z4.aap;class=Cell" target="_blank"><br>
+													VU, Z4.aap</a> (Ventral Uterine precursor; generates uterus, spermatheca and spermatheca-uterine valve cells) </p>
+								<p><br>
+									See <a href="lglossary.htm#5l" target="_blank">5L</a> <br>
+									See <a href="sglossary.htm#somaticprimordium" target="_blank">Somatic primordium </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rselection"></a><a href="http://www.bio.miami.edu/tom/courses/bil160/bil160goods/16_rKselection.html" target="_blank">r-selection</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>Evolutionary survival strategy which is typically found in unstable environments where the ability to reproduce quickly is critical for successful survival. r is the growth rate term in the <a href="http://mathworld.wolfram.com/LogisticEquation.html" target="_blank">logistic equation (Verhulst model) </a> of population dynamics. Traits that correspond to species that follow an r-selected behavioral strategy usually include: small size, rapid development, high rates of fertility, short generation time and  relatively brief life span. </p>
+									<p>Free-living <em>C. elegans</em> adopts this  strategy to make best use of its uncertain environmental conditions. K-selection strategy, by contrast, favors  slow development, long life span, and a prolonged period of fertility, with  greater parental investment in a few progeny.</p>
+								<p><br>
+									See <a href="kglossary.htm#kselection" target="_blank">K-selection</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="rachis"></a><a href="../hermaphrodite/germ line/Images/germfig1leg.htm" target="_blank">Rachis</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A large <a href="../hermaphrodite/germ line/Images/germfig2leg.htm" target="_blank">syncytial  compartment of germline cytoplasm</a> which is produced by the fusion of all  mitotic and meiotic germ cells at their basal pole  to join a common  lengthwise tube running centrally through the distal arm of the gonad. The rachis contains no nuclei, but many  mitochondria and ribosomes. Each germ  cell retains its own nucleus and  plasma membranes, so as to remain separate from surrounding germ cells. A thin version of the rachis may extend into  the loop, or possibly into the proximal gonad arm. It has also been called the &ldquo;core&rdquo; of the  gonad (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000404;class=Paper" target="_blank">Wolf et al., 1978</a>). The rachis  occurs in both the <a href="../hermaphrodite/germ line/Images/germfig1leg.htm" target="_blank">hermaphrodite</a> and <a href="../male/germline/images/MaleReproFIG17A.jpg" target="_blank">male gonad</a> arms, and links germ cells  which can go on to become either sperm or oocytes.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="radialmuscle"></a><a href="../hermaphrodite/musclenonstriated/Images/musfig17leg.htm" target="_blank">Radial muscle</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The form of the pharyngeal  muscles, whose <a href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" target="_blank">myofilament lattice</a> is oriented in radial fashion with respect  to the central lumen. Contraction of  radial muscles is expected to cause the pharyngeal tissue to thin, dilating the  lumen and probably enlarging the outer diameter of the pharynx. Thus the lumen  probably closes during muscle relaxation. Most pharyngeal muscles form a two cell syncytium, in which each parent  cell contains just one radial sarcomere; therefore these can be included in the  single sarcomere class. One pharyngeal  muscle, <a href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank">m8</a>, appears to have smooth muscle properties rather than radial  properties.</p>
+									<p><br>
+										See <a href="sglossary.htm#singlesarcomeremuscle" target="_blank">Single sarcomere muscle</a><br>
+										See <a href="sglossary.htm#smoothmuscle" target="_blank">Smooth muscle</a><br>
+										See <a href="sglossary.htm#striatedmuscle" target="_blank">Striated muscle</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="raft"></a>Raft</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="lglossary.htm#lipidraft" target="_blank">Lipid raft </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ray"></a><a href="../male/rays/Rayframeset.html" target="_blank">Ray</a></font></strong></font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>Specialized <a href="../male/neuronalsupport/images/MaleNeuroFIG1.jpg" target="_blank">bristle-like  sensory structure</a> extending into <a href="../male/rays/images/MaleRayFIG1.jpg" target="_blank">the fan of the male tail</a>, containing two  neuronal processes, a structural cell process and a thin hypodermal coat facing  the fan cuticle.</p>
+									<p>A second (archaic) definition of the same word can refer to <a href="../hermaphrodite/pharynx/Images/phafig7Aleg.htm" target="_blank">each of the three thin extensions of the pharyngeal lumen</a>; one ray of the lumen  always points to the ventral side of the head, while the others point dorsolaterally.</p>
+								<p><br>
+									See <a href="fglossary.htm#fan" target="_blank">Fan</a> <br>
+									See <a href="gglossary.htm#genitalpapilla" target="_blank">Genital papilla</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="raycell"></a><a href="../male/rays/images/MaleRayFIG2.jpg" target="_blank">Ray cell</a><a href="http://www.wormatlas.org/ver1/maleHandbook/figsMale/MaleEpiFIG13B.jpg" target="_blank"> </a></font></strong></font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>The constituents  of the sensory rays of the male tail; this attribution generally refers to the  two sensory cells, <a href="../male/rays/images/MaleRayFIG2.jpg" target="_blank">RnA or RnB, but can also refer to the structural cell,  Rnst</a> but is rarely to refer to the sister hypodermal cell.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="raycellgroup"></a><a href="../male/rays/images/MaleRayFIG2.jpg" target="_blank">Ray cell group</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top>The cluster of daughter  cells from<a href="../male/hypodermis/images/MaleHypFIG3A.jpg" target="_blank"> the lineage</a> of any of the tail seam cells, consisting of two  neurons, a structural cell and a hypodermal cell, that are needed to form a  sensory ray in the male tail. Not every  ray cell group successfully forms a normal ray, even in wild type animals;  occasional cell groups may spontaneously produce a fused ray with a neighboring  cell group or just a small papilla that fails to elongate.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rayextension"></a><a href="../male/hypodermis/images/MaleHypFIG5.jpg" target="_blank">Ray extension</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td align="left" valign=top>The morphogenetic process  by which each ray cell group of the male tail changes in shape from an early  papilla to its final finger-like shape within the fan.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rayprecursorcell"></a><a href="../male/hypodermis/images/MaleHypFIG3A.jpg" target="_blank">Ray precursor cell</a><a href="http://www.wormatlas.org/ver1/maleHandbook/figsMale/MaleEpiFIG3A.jpg" target="_blank"> </a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font>Rn cell (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellipodium"><p>Nine pairs of blast cells derived from the three most posterior pairs of seam cells (<a href="http://www.wormatlas.org/ver1/maleHandbook/figsMale/MaleEpiFIG2A.jpg" target="_blank">V5, V6, T</a>) in the male animal that give rise to the ray cell groups by divisions occurring in late L3 and L4 larval stages (<a href="http://www.wormbook.org/chapters/www_maledevelopment/maledevelopment.html" target="_blank">Emmons, 2005</a>). These cells then differentiate to produce<a href="../male/hypodermis/images/MaleHypFIG2.jpg" target="_blank"> the nine pairs of sensory rays</a> in the adult male tail, plus a set of hypodermal cells that fuse into the tail's hypodermal syncytium. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="receptor"></a>Receptor</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellipodium"><p>This term has multiple uses and can refer to a molecule, to a specialized cell extension such as a cilium,  or to a whole cell involved in the transduction of a signal. The signal may represent communication  between two cells within the animal, or an external feature in the environment  of the animal such as a chemical, pheromone, temperature gradient, etc.</p>
+									<p> <br>
+										See <a href="nglossary.htm#neurotransmitter" target="_blank">Neurotransmitter</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="reciprocalsynapse"></a><a href="http://www.wormatlas.org/ver1/durbinv1.2/chapter7.html#tth_sEc7.3" target="_blank">Reciprocal synapse</a></font></b></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A category of synaptic connection in which the synapse is independently specified in each direction (neuron A connects to neuron B and there is a reverse synapse from B to A). Often reciprocal pairs are adjacent.</p>
+									<p><br>
+										See <a href="fglossary.htm#feedback" target="_blank">Feedback</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="reconstitutionofpronuclei"></a>Reconstitution of pronuclei </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><br>
+							</font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="pglossary.htm#pronucleareformation" target="_blank">Pronuclear reformation</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rectalcommissure"></a>Rectal commissure</font></strong></td>
+							<td valign=top>Dorso-rectal commissure (S) </td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A bilateral pair of minor commissures in the tail between the dorso-rectal ganglion and the preanal ganglion, traveling alongside the left and right sides of the rectum in close apposition to rectal hypodermis and the anal sphincter muscle. These commissures are formed by processes of three neurons; <a href="../neurons/Individual Neurons/DVAframeset.html" target="_blank">DVA</a>, <a href="../neurons/Individual Neurons/DVBframeset.html" target="_blank">DVB</a> and <a href="../neurons/Individual Neurons/DVCframeset.html" target="_blank">DVC</a>. <a href="../neurons/Individual Neurons/DVAframeset.html" target="_blank">DVA</a> neuron's process travels from the right side whereas those         of <a href="../neurons/Individual Neurons/DVBframeset.html" target="_blank">DVB</a> and <a href="../neurons/Individual Neurons/DVCframeset.html" target="_blank">DVC</a> travel from the left side.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rectalcuticle"></a><a href="http://www.wormatlas.org/ver1/handbook/fig.s/rect3.jpg" target="_blank">Rectal cuticle</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A specialized cuticle lining the rectal passage which is continuous with the bodywall cuticle in the tail, formed principally by the rectal epithelial cells. The apical specialization of the rectal gland cells also produces cuticle in discrete patches (Hall, unpublished data).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rectalepithelium"></a><a href="../hermaphrodite/rectum/jump.html?newLink=mainframe.htm&newAnchor=Rectalepithelium4" target="_blank">Rectal epithelium</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p><a href="../hermaphrodite/rectum/Images/rectfig3A_Eleg.htm" target="_blank">These cells</a> include: <a href="http://www.wormbase.org/db/cell/cell.cgi?name=B;class=Cell" target="_blank">B</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=f;class=Cell" target="_blank">F</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=y;class=Cell" target="_blank">Y</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=u;class=Cell" target="_blank">U</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=K%27;class=Cell" target="_blank">K'</a> and <a href="http://www.wormbase.org/db/cell/cell.cgi?name=k;class=Cell" target="_blank">K</a>. All <a href="../hermaphrodite/rectum/Images/rectfig3Fleg.htm" target="_blank">rectal epithelial cells</a> contain secretory membrane stacks along this region facing the lumenal cuticle and produce some portion of the cuticular lining of the rectum. These are interfacial cells that connect the alimentary system to the main body syncytium, analogous to the function of the <a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">arcade cells</a> of the lips.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rectalgland"></a><a href="../hermaphrodite/rectum/jump.html?newLink=mainframe.htm&newAnchor=Rectalgland3" target="_blank">Rectal gland</a></font></strong></td>
+							<td valign=top><a href="#matingresistance"></a></td>
+							<td valign=top><p><a href="#matingresistance"><span class="style4"></span></a></p></td>
+							<td valign=top><p>A  set of<a href="../hermaphrodite/rectum/Images/rectfig2leg.htm" target="_blank"> three large cells</a> (<a href="http://www.wormbase.org/db/cell/cell.cgi?name=rect_D;class=Cell" target="_blank">rectD</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=rect_VL;class=Cell" target="_blank">rectVL</a> and <a href="http://www.wormbase.org/db/cell/cell.cgi?name=rect_VR;class=Cell" target="_blank">rectVR</a>) that <a href="../hermaphrodite/rectum/Images/rectfig1leg.htm" target="_blank">lie next to the intestine</a> and connect to the intestinal lumen just posterior to the rectal valve. These cells form both microvilli  and some cuticle along the posterior border of the intestinal lumen and the  near portion of the rectal lumen and are presumed to secrete materials into these lumenal spaces, perhaps to  aid digestion and/or molting, or as a source of pheromones to signal  neighboring animals.</p>
+									<p><br>
+										See <a href="cglossary.htm#caudalglands" target="_blank">Caudal glands</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rectalmuscle"></a><a href="../hermaphrodite/rectum/jump.html?newLink=mainframe.htm&newAnchor=Musclecellsofthehindgut5" target="_blank">Rectal muscle</a></font></strong></td>
+							<td valign=top><p>Anal sphincter (S)<br>
+							  Anal dilator (S)<br>
+							  Anal depressor (S)
+							</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This term can refer to either of the two enteric muscles, the <a href="../hermaphrodite/musclenonstriated/jump.html?newLink=mainframe.htm&newAnchor=Analsphinctermuscle5" target="_blank">sphincter</a> (also known as the dialator) or the<a href="../hermaphrodite/musclenonstriated/jump.html?newLink=mainframe.htm&newAnchor=Analdepressormuscle4" target="_blank"> depressor</a>, which reside in the posterior region and function in the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=gaba&rendertype=figure&id=A6411" target="_blank">defecation cycle</a>. The <a href="../hermaphrodite/musclenonstriated/Images/musfig20leg.htm" target="_blank">sphincter muscle</a> is thought to open and close the <a href="../hermaphrodite/rectum/Images/rectfig1leg.htm" target="_blank">rectal valve</a> while the <a href="../hermaphrodite/musclenonstriated/Images/musfig19leg.htm" target="_blank">depressor muscle</a> acts to open the rectal passageway. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rectalopening"></a><a href="../hermaphrodite/rectum/Images/rectfig2leg.htm" target="_blank">Rectal opening</a></font></strong></td>
+							<td valign=top>Anus (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The caudal opening of the rectum in the  tail of the hermaphrodite. In mature males this is called the <a href="../male/postcloacal/images/MalePCSFIG1A.jpg" target="_blank">cloacal opening</a>. The opening is covered by specialized hypodermal cells whose apical surfaces are bound by cuticle and whose basal surfaces are covered by the basal lamina. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="rectalvalve"></a><a href="../hermaphrodite/rectum/jump.html?newLink=mainframe.htm&newAnchor=Rectalvalve2" target="_blank">Rectal valve</a></font></b></td>
+							<td valign=top>Intestinal-rectal valve (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><a href="../hermaphrodite/rectum/Images/rectfig2leg.htm" target="_blank">Two small epithelial cells</a> (<a href="http://www.wormbase.org/db/cell/cell.cgi?name=virL;class=Cell" target="_blank">virL</a> and <a href="http://www.wormbase.org/db/cell/cell.cgi?name=virR;class=Cell" target="_blank">virR</a>) form the valve by blocking the lumen of the posterior intestine. Narrow channels perforate the occlusion to allow digested material to leak into the rectum and then the anus. It is not clear that this functions as a true valve as the cells do not appear to have any contractile elements. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="rectum"></a><a href="../hermaphrodite/rectum/Rectframeset.html" target="_blank">Rectum</a></font></b></td>
+							<td valign=top><a href="../male/alimproct/Procframeset.html" target="_blank">Proctodeum</a> (S) </td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A<a href="../hermaphrodite/rectum/Images/rectfig1leg.htm" target="_blank"> cuticle-lined sinus  opening</a> on the posterior ventral surface of the animal, from which the  alimentary system excretes waste products. It lies just behind the <a href="../hermaphrodite/rectum/jump.html?newLink=mainframe.htm&newAnchor=Rectalvalve2" target="_blank">rectal  valve</a> and may receive secretions from the <a href="../hermaphrodite/rectum/jump.html?newLink=mainframe.htm&newAnchor=Rectalgland3" target="_blank">rectal gland cells</a>. It is formed by a tube of large<a href="../hermaphrodite/rectum/jump.html?newLink=mainframe.htm&newAnchor=Rectalepithelium4" target="_blank"> rectal  epithelial cells</a>, some of which can also act as blast cells for late larval  cell divisions. The rectum may be opened  by contractions of the <a href="../hermaphrodite/musclenonstriated/jump.html?newLink=mainframe.htm&newAnchor=Analsphinctermuscle5" target="_blank">anal sphincter muscle</a>, which is firmly secured to the roof of  the rectal cuticle. In males, the rectum (called the <a href="../male/alimproct/Procframeset.html" target="_blank">proctodeum</a>) provides an outflow for the genital tract as well as the alimentary tract. It also houses the copulatory structures.</p>
+									<p><br>
+										See <a href="pglossary.htm#proctodeum" target="_blank">Proctodeum</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="recycling"></a>Recycling<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.841" target="_blank"></a></font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>Typically this refers to the recycling of receptors to the plasma membrane as a step in the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=intracellulartrafficking&rendertype=figure&id=A2630" target="_blank">endocytic pathway</a>. This usually occurs via recycling endosomes. </p>
+									<br>
+								See <a href="eglossary.htm#endocytosis" target="_blank">Endocytosis</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="recyclingendosome"></a><a href="http://www.barthgrant.com/movies/" target="_blank">Recycling endosome</a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=wormbook.figgrp.2630" target="_blank"> </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An endosome that recycles receptors to the plasma membrane. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="reflexion" id="reflexion"></a>Reflexed/ Reflexion</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a 
+href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>Bending of an organ to  become doubled back upon itself; generally used with respect to describe the<a href="../hermaphrodite/reproductive/Images/reprofig1leg.htm" target="_blank"> &ldquo;reflexed&rdquo; gonad arm</a>, a very long tubular organ which stretches out lengthwise  within the body cavity and reverses (reflexes) once to extend for an additional  distance next to itself. The <a href="../hermaphrodite/germ line/Images/germfig6leg.htm" target="_blank">amphidelphic gonad</a> of <em>C. elegans</em> produces two equivalent &ldquo;proximal&rdquo; arms  projecting away from the vulva, and each arm reflexes once (near the head or  tail) before projecting a &ldquo;distal arm&rdquo; in the opposite direction and  terminating again in the region of the vulva.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="refreactile"></a>Refractile/ Refractility</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A property (of a cell or cell  part) of being highly visible by light microscopy due to the noticeable  refraction of light compared to the surrounding area, whether under normal  illumination, or under specialized optics such as DIC or polarized light. In <em>C. elegans</em> structures such as the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=methods_nomarksiimages&rendertype=figure&id=A8013" target="_blank">intestine</a> or <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=programcelldeath&rendertype=figure&id=A4678" target="_blank">apoptotic cells</a> are particularly noticeable due to their refractile properties. </p>
+									<p><br>
+										See <a href="dglossary.htm#dicmicroscopy" target="_blank">DIC microscopy </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="refractory"></a>Refractory<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=peristalsis+AND+ce2%5Bbook%5D+AND+1726%5Buid%5D&rid=ce2.figgrp.824" target="_blank"></a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>Unresponsive  to a given signal or stimulus.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="regulation"></a>Regulation/ Regulative potential </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>The ability of the cells  within the organism to detect changes in cell fates of neighboring cells and to  reprogram their own cell fates to adopt a fate that best suits the needs of the  entire organism. Such regulatory  re-programming is common in higher animals, but rather uncommon in nematode  cell lineages. In <em>C. elegans</em>, the fates  of most adult cells are strictly ruled by internal programming decisions  governed by their specific cell lineage, and not by signaling from neighboring  cells (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston and Horvitz, 1977</a>).  Limited examples of regulation have been detected in the later  differentiation of somatic gonad structures and other secondary sexual features  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000463;class=Paper" target="_blank">Sulston and White, 1980</a>;<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000731;class=Paper" target="_blank"> Sternberg and Horvitz, 1984</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="reiteratedcelllineages"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.section.693" target="_blank">Reiterated cell lineages</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A repeated pattern of cell lineage produced by the patterned expression of specific genes. </p>
+									<p><br>
+										See<a href="#reiterative"> Reiterative</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="reiterative"></a>Reiterative</font></strong></td>
+							<td valign=top><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.section.693" target="_blank">Reiterated neurons</a> (S) </td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A lineage pattern in which certain progeny cells  repeat a pattern of cell divisions previously displayed by either the parent  cell or the grandparent cell&nbsp; (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000500;class=Paper" target="_blank">Sulston and Horvitz, 1981</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000507;class=Paper" target="_blank">Chalfie et al., 1981</a>). Some mutants, such as <em><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00002993;class=Gene" target="_blank">lin-4</a> </em>and <em><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00006818;class=Gene" target="_blank">unc-86</a></em>, can  cause defects in the control of reiterative lineages, leading to either the  loss of certain postembryonic structures, or to gross proliferations and the  creation of many extra (small) cells in place of normal blast cells, or to the  creation of supernumerary structures.</p>
+									<p><br>
+										See <a href="pglossary.htm#proliferative" target="_blank">Proliferative</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rennettecell"></a>Rennette cell</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A modified form of excretory cell found in some nematode species that  may replace the functions of the excretory canal and gland cells (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=5062966&query_hl=39&itool=pubmed_docsum" target="_blank">Narang, 1972</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="repellant" id="repellant"></a>Repellant/ Repulsion</font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A moiety that causes an  animal (cell, tissue or cell part) to move away from that moiety.<br>
+								Repulsion  of <em>C. elegans</em> individuals can be elicited by various environmental stimuli,  including acid pH (H+), D-tryptophan and high osmolarity  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000117;class=Paper" target="_blank">Dusenbery, 1975</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000082;class=Paper" target="_blank">Culotti and Russell, 1978</a>). Repulsive guidance of a migrating cell process will stimulate the  process to grow away from the source of the repellant (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002378;class=Paper" target="_blank">Wadsworth et al., 1996</a>).</p>
+									<p><br>
+										See <a href="aglossary.htm#attractant" target="_blank">Attractant</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="reproductivetract"></a>Reproductive tract</font></strong></td>
+							<td valign=top>Genital tract (S) </td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>The portion of the body  that is devoted to production, storage and fertilization of germ cells and the  incubation of fertilized eggs. In the <a href="../hermaphrodite/introduction/IMAGES/introfig1leg.htm" target="_blank">adult hermaphrodite</a> this term would encompass the <a href="../hermaphrodite/reproductive/Images/reprofig1leg.htm" target="_blank">distal gonad arms, the proximal  gonad</a>, <a href="../hermaphrodite/somatic gonad/Images/somaticfig7leg.htm" target="_blank">spermatheca</a>, <a href="../hermaphrodite/egglaying apparatus/Images/eggfig1leg.htm" target="_blank">uterus</a> and <a href="../hermaphrodite/egglaying apparatus/Images/eggfig6ABleg.htm" target="_blank">vulva</a>. In  the <a href="../hermaphrodite/introduction/IMAGES/introfig5leg.htm" target="_blank">adult male</a>, it would refer to the <a href="../male/somaticgonad/images/MaleReproFIG2.jpg" target="_blank">gonad</a>, <a href="../male/somaticgonad/images/MaleReproFIG12.jpg" target="_blank">vas deferens</a> and <a href="../male/reproproctodeum/images/MaleProcFIG2.jpg" target="_blank">cloaca</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rer"></a>RER<a href="http://www.wormatlas.org/ver1/handbook/alimentary/alimentary1.htm#pharyngealgland" target="_blank"></a></font></strong></td>
+							<td valign=top>Rough endoplasmic reticulum </td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top>See <a href="eglossary.htm#endoplasmicreticulum" target="_blank">Endoplasmic reticulum </a>
+									<p><a href="http://www.wormatlas.org/ver1/glossaries/gglossary.htm" target="_blank"></a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="residualbody"></a><a href="http://www.mcb.arizona.edu/wardlab/budding.html" target="_blank">Residual body</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A <a href="../hermaphrodite/germ line/Images/germfig7Bleg.htm" target="_blank">cytoplast which forms in  the germline</a> during the <a href="../hermaphrodite/germ line/Images/germfig7Aleg.htm" target="_blank">late stage of meiotic cell division of a spermatocyte</a>. Initially it is <a href="http://www.mcb.arizona.edu/wardlab/buddingvid.html" target="_blank">connected to several secondary spermatocytes</a> and  receives some cytoplasmic elements by transfer across the syncytial bridge, but these products are discarded into the cytoplast as the individual spermatocytes  mature to become <a href="http://www.mcb.arizona.edu/wardlab/spermatids.html" target="_blank">spermatids</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="resorption"></a>Resorption<a href="http://www.wormatlas.org/ver1/handbook/fig.s/alim18a.jpg" target="_blank"></a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Analogous to the  metamorphic changes in some higher animals, <em>C. elegans</em> can resorb some  structures when reshaping its body, particularly in dauer formation and in male  tail formation. To become thinner and  less voluminous, the predauer larva resorbs some epithelial tissues (esp seam  cell) via autophagy (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00006070;class=Paper" target="_blank">Melendez et al., 2003</a>). During male tail morphogenesis, the larval tail spike is resorbed during  a phase called<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=maledevelopment&rendertype=figure&id=A3004" target="_blank"> retraction</a>, during which many cells crawl anteriorly.</p>
+									<p><br>
+										See <a href="#retraction">Retraction </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><p><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="respiration"></a>Respiration</font></strong></p>
+									<p>&nbsp;</p>
+								<p>&nbsp;</p></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The physiological rate of oxygen consumption per  individual. <em>C. elegans</em> and <em>C. briggsae</em> are not adapted to anaerobic conditions and require oxygen to develop and  thrive. However, they can temporarily  survive in complete anoxic conditions by entering a quiescent (cryptobiotic)  state (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005267;class=Paper" target="_blank">Padilla et al., 2002</a>).</p></td>
+						</tr>
+						<tr class="style18">
+						  <td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="response"></a>Response<a href="http://www.wormatlas.org/ver1/handbook/fig.s/alim16.jpg" target="_blank"></a></font></strong></td>
+						  <td valign=top><p>&nbsp;</p></td>
+						  <td valign=top>&nbsp;</td>
+						  <td valign=top><p>Has several meanings, including a special meaning as <a href="../male/introduction/images/MaleIntroFIG3.jpg" target="_blank">step in male mating behavior</a> called "response to contact" (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002109;class=Paper" target="_blank">Liu and Sternberg, 1995</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025021;class=Paper" target="_blank">Peden and Barr, 2005</a>)
+						    .<p><br>
+					        See <a href="mglossary.htm#malematingbehavior" target="_blank">Male mating behavior</a></p></td>
+						  </tr>
+						<tr class="style18">
+							<td valign=top><p><strong><font face="Arial, 
+Helvetica, sans-serif"><a name="reticularmembrane"></a>Reticular membrane</font></strong></p></td>
+							<td valign=top height="111">&nbsp;</td>
+							<td valign=top height="111"><p><span class="style4"></span></p></td>
+							<td valign=top height="111"><p>A conformation of the rough  endoplasmic reticulum in which it dilates somewhat to form a series of inflated  balloon-like spaces that can show as alternating light and dark stripes within  the cell body, either by light microscopy (in muscle, see <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005269;class=Paper" target="_blank">Rolls et al., 2002</a>)  or by TEM (in some ray neuron cells, see <a href="http://www.wormatlas.org/ver1/Sulston%20postembmale_1980/toc.html" target="_blank">Sulston et al., 1980</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="retraction"></a>Retraction</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This term has several uses in <em>C. elegans</em>:</p>
+									<p><strong>1) </strong>A feature in male tail development where the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=maledevelopment&rendertype=figure&id=A3004" target="_blank">shape of the male tail</a> is created by the retraction of surrounding tissues which leads to the formation of <a href="../male/rays/images/MaleRayFIG1.jpg" target="_blank">the fan and the rays</a>. The retraction is a property of the hypodermal cells of the tail (<a href="http://www.wormbook.org/chapters/www_maledevelopment/maledevelopment.html" target="_blank">Emmons, 2006</a>). </p>
+								<p><strong>2)</strong> A feature in axon remodeling or growth cone guidance.</p>
+								<p><strong>3)</strong> A feature of <a href="http://www.mcb.arizona.edu/wardlab/crawlingvid.html" target="_blank">sperm movement</a> which occurs by extension of the leading edge of the pseudopod, followed by attachment to the substrate and then retraction of the cell body.</p>
+								<p><br>
+									See <a href="fglossary.htm#fanformation" target="_blank">Fan formation</a><br>
+									See <a href="#resorption">Resorption </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="retractorcell"></a>Retractor cell</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style4"> <a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM2R.paa;class=Cell" target="_blank">SM2R.paa</a> <a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM1R.ppp;class=Cell" target="_blank">SM1R.ppp</a><br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM1L.ppp;class=Cell" target="_blank">SM1L.ppp</a> <br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM1L.ppa;class=Cell" target="_blank">SM1L.ppa</a> <br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM2R.apa;class=Cell" target="_blank">SM2R.apa</a> <a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM2L.apa;class=Cell" target="_blank">SM2L.apa</a> <br>
+							</p></td>
+							<td valign=top><p>Dorsal right spicule retractor<br>
+								Ventral right spicule retractor <br>
+								Dorsal left spicule retractor<br>
+								Ventral left spicule retractor<br>
+								Right gubernacular retractor <br>
+								Left gubernacular retractor</p>
+									<p><br>
+										See <a href="#retractormuscle">Retractor muscle</a> <br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><strong><font face="Arial, 
+Helvetica, sans-serif"><a name="retractormuscle"></a>Retractor muscle</font></strong></p></td>
+							<td valign=top height="111"><p><font face="Arial, Helvetica, 
+sans-serif">retr (abbrev) </font></p>
+									<p><font face="Arial, Helvetica, 
+sans-serif">dsrL<br>
+										dsrR<br>
+										vsrL<br>
+										vsrR<br>
+										grtL<br>
+										grtR</font><font face="Arial, Helvetica, 
+sans-serif"><br>
+										</font></p></td>
+							<td valign=top height="111"><p class="style4">&nbsp;</p>
+									<p class="style4"><a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM1L.ppp;class=Cell" target="_blank">SM1L.ppp</a><br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM2R.paa;class=Cell" target="_blank">SM2R.paa</a><br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM1L.ppa;class=Cell" target="_blank">SM1L.ppa</a><br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM1R.ppp;class=Cell" target="_blank">SM1R.ppp<br>
+											</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM2L.apa;class=Cell" target="_blank">SM2L.apa</a><br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM2L.pap;class=Cell" target="_blank">SM2R.apa</a> <br>
+											<br>
+								</p></td>
+							<td valign=top height="111"><p>Male specific muscles  that come from two groups: the <a href="../male/musclemale/jump.html?newLink=mainframe.htm&newAnchor=Spiculeretractormuscles11" target="_blank">spicule retractors</a> (<a href="../male/musclemale/images/MaleMusFIG23.jpg" target="_blank">dsrL/R and vsrL/R</a>) and the <a href="../male/musclemale/jump.html?newLink=mainframe.htm&newAnchor=Gubernacularretractormuscles" target="_blank">gubernacular retractors</a> (<a href="../male/musclemale/images/MaleMusFIG34.jpg" target="_blank">grtL/R</a>). The <a href="../male/musclemale/images/MaleMusFIG23.jpg" target="_blank">spicule retractor muscles attach</a> to the base of each spicule and the sublateral body wall where contraction of these muscles pulls the spicules up inside the body of the animal. The <a href="../male/musclemale/images/MaleMusFIG34.jpg" target="_blank">gubernacular retractor muscles attach</a> at their ventral edges to the gubernaculum and overlying proctodeal epithelium while their dorsal edges attach to the sublateral dorsal body wall and control the positioning of the gubernaculum during copulation. </p>
+									<p><br>
+										See <a href="#retractorcell">Retractor cell </a><br>
+										See <a href="sglossary.htm#spicule" target="_blank">Spicule </a><br>
+										See <a href="gglossary.htm#gubernaculum" target="_blank">Gubernaculum</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="retroveiscularganglion"></a><a href="../cellIDhead1.html" target="_blank">Retrovesicular ganglion</a></font></strong></td>
+							<td valign=top>RVG</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>The retrovesicular ganglion <a href="../hermaphrodite/nervous/Images/neurofig17leg.htm" target="_blank">lies at the anterior limit of  the ventral nerve cord</a>, near the ventral ganglion and nerve ring in the  head posterior to the excretory pore. It is open and continuous with the region containing the motoneurons of the ventral cord. In the early L1 this ganglion holds 12 neuron cell bodies plus one neuroblast (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston and Horvitz, 1977</a>; <a href="http://www.wormatlas.org/ver1/MoW_built0.92/toc.html" target="_blank">White et al., 1986</a>). In the adult animal, the ganglion holds 20 neuron cell bodies. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="reversal"></a>Reversal</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A  characteristic behavior of normal animals after sensory input to the head  (touch, heat, aversive stimuli), in which the animal stops forward motion and  immediately begins to move backwards for one or more body lengths, after which  the animal usually resumes forward motion (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000075;class=Paper" target="_blank">Croll,  1975</a>). The are other distinctive types  of reversals, including the omega turn, and in the male mating behavior, a deep  ventral bend beginning near its tail while moving backwards.</p>
+									<p><br>
+										See <a href="dglossary.htm#deepventralbend" target="_blank">Deep ventral bend</a><br>
+										See <a href="mglossary.htm#malematingbehavior" target="_blank">Male mating behavior</a> <br>
+										See <a href="oglossary.htm#omegaturn" target="_blank">Omega turn</a><br>
+										See <a href="pglossary.htm#pirouette" target="_blank">Pirouette</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rhabditid"></a><a href="http://www.nyu.edu/projects/fitch/fresearch/fsystemat/fsystemat.html" target="_blank">Rhabditidae</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A group of <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=phylorhab&rendertype=figure&id=A7098" target="_blank">nematode species</a> that includes a large number of ecologically and genetically diverse species, including <em>C. elegans</em>. It is a subset of the Phasmidia (Secernentea),  categorized on the basis of their mouthparts, which have given rise to many  parasitic species, including many plant parasites, as well as many free-living  soil nematodes (<a href="http://www.wormbook.org/chapters/www_phylogrhabditids/phylorhab.html" target="_blank">Kiontke and  Fitch, 2005</a>; <a href="http://www.wormbook.org/chapters/www_evoldevnematode/evoldevnematode.html" target="_blank">Sommer, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rhabdion"></a>Rhabdion/ Rhabdia </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Specialized types of <a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">cuticle  lining individual zones within the buccal passage</a>; thus the cheilostom is lined  by the cheilorhabdion, the prostom lined by the prorhabdion, etc. (Bird and  Bird, 1991, after Goodey, 1963; Van de Velde and Coomans, 1991).</p>
+									<p><br>
+										See <a href="cglossary.htm#cheilorhabdion" target="_blank">Cheilorhabdion </a><br>
+										See <a href="mglossary.htm#mesorhabdion" target="_blank">Mesorhabdion</a><br>
+										See <a href="mglossary.htm#metarhabdion" target="_blank">Metarhabdion</a><br>
+										See <a href="pglossary.htm#prohabdion" target="_blank">Prorhabdion</a><br>
+										See <a href="tglossary.htm#telorhabdion" target="_blank">Telorhabdion</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rhabditin"></a>Rhabditin</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"></font></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Birefringent crystals which  collect in the gut 4-6 hours after the first cleavage and are an early marker for gut differentiation and are thought to be products of tryptophan catabolism (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001797;class=Paper" target="_blank">Goldstein, 1993</a>).</p>
+									<p><br>
+										See <a href="gglossary.htm#gutgranule" target="_blank">Gut granule</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ribosome"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.figgrp.4165" target="_blank">Ribosome</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>Large <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=mechregultranslation&rendertype=figure&id=A1414" target="_blank">macromolecular complexes</a> that function  to <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1077" target="_blank">translate</a> mRNAs into protein. Free  ribosomes<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1072" target="_blank"> lie within the cytoplasm</a> in loose clusters, whereas other ribosomes  are firmly attached on rough endoplasmic reticulum.&nbsp; These two classes of ribosomes generally  produce protein for different destinations. <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2206" target="_blank">Free ribosomes generally produce soluble proteins</a> meant to lie within  the cytoplasm, whereas <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2205" target="_blank">RER ribosomes</a> produce proteins that are first  sequestered inside the RER, or in the RER membrane, prior to export from the  cell or packaging in a cell membrane or an organelle lumen.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="richmedia"></a>Rich media</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A culture medium that  contains nutrients in excess of the minimum necessary to sustain life, normal  development and reproduction. Such additional additives might be included to promote faster growth, longer life,  or healthier activity.</p>
+									<p><br>
+										See <a href="dglossary.htm#definedmedium" target="_blank">Defined medium</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rightroller"></a>Right roller </font></strong></td>
+							<td valign=top><p>Right-hand roller (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><a href="http://www.wormclassroom.org/movies/RolHalf.mov" target="_blank">Rolling movement</a> is caused by disruption of the normal function of collagen genes that form the cuticle such that the animals roll around a right handed helix pattern. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><p><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ringanddot"></a><a href="../male/rays/images/MaleRayFIG6.jpg" target="_blank">Ring and dot</a></font></strong></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A staining pattern observed  by light microscopy at the tips of the rays in the developing male tail,  apparently caused by the robust adherens junctions which secure the distal  structural process to the hyp and/or  cuticle (the ring) and the distal end of the <a href="../male/rays/images/MaleRayFIG2.jpg" target="_blank">RnB</a> cilium <a href="../male/rays/images/MaleRayFIG5CD.jpg" target="_blank">to the cuticle opening</a> (the dot). Ray 6 does not show this pattern since it is the only one not open at its tip. The feature was originally noted by DIC optics, but is also  congruent with the pattern of MH27 [JAM-1] staining, and with serial thin  section data.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ringcell"></a>Ring cell</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><a href="../hermaphrodite/egglaying apparatus/Images/eggfig7leg.htm" target="_blank">Vulval epithelial cells</a> (A, B1, B2, C, D, E, F) undergo <a href="../hermaphrodite/egglaying apparatus/Images/eggfig9leg.htm" target="_blank">morphological changes</a> generating a seven stacked ring formation. Specific cells migrate towards the center forming half toroid. These half toroids fuse together in a stereotyped sequence for form the vulval rings (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004123;class=Paper" target="_blank">Shemer et al., 2000</a>).</p>
+									<p><br>
+										See <a href="vglossary.htm#vulva" target="_blank">Vulva</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rncells"></a><a href="../male/rays/images/MaleRayFIG2.jpg" target="_blank">Rn cells</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><a href="../male/rays/images/MaleRayFIG1.jpg" target="_blank">Nine bilateral pairs of rays</a> (numbered n, 1-9). <a href="../male/rays/images/MaleRayFIG5AB.jpg" target="_blank">Each ray</a> consists of the endings of two sensory neurons (RnA and RnB) surrounded by a ray structural cell (Rnst).</p>
+									<p><br>
+										See <a href="#raycellgroup">Ray cell group</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rnai" id="rnai"></a>RNAi</font></strong></td>
+							<td valign=top>RNA-mediated interference </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This refers both to a common  technique with which one can produce &ldquo;mutant&rdquo; phenotypes in wild type animals (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003005;class=Paper" target="_blank">Fire et al., 1998</a>),  and to the normal developmental process by which an animal cell can protect  itself against invading viruses (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026973;class=Paper" target="_blank">Schott et al., 2005</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026709;class=Paper" target="_blank">Wilkins et al., 2005</a>) and transposable elements  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00006203;class=Paper" target="_blank">Sijen and Plasterk, 2003</a>). In worms, individual cells can use this  process to detect invading (foreign) dsRNAs and to destroy them. As a laboratory method, the RNAi response is  utilized to trick cells into blocking the normal expression and function of the  gene of choice.</p>
+									<p><br>
+										See <a href="iglossary.htm#immuneresponse" target="_blank">Immune response</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="roamingbehavior"></a>Roaming behavior</font></strong></td>
+							<td valign=top>Dwelling (A) </td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A behavioral state in which the  nematode tends to move forward actively at relatively high speed, with a  reduced rate of turning (<a href="http://www.wormbook.org/chapters/www_chemosensation/chemosensation.html#sec3_1" target="_blank">Bargmann, 2006</a>). This behavior is equivalent to the &ldquo;rover&rdquo; behavior in<em> Drosophila </em>(<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026600;class=Paper" target="_blank">Cheung et al., 2005</a>). Some wild strains, including the Bristol lab  strain, use this strategy when they find food to disperse themselves from their  neighbors to forage alone (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003187;class=Paper" target="_blank">de Bono and Bargmann, 1998</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rodlikelethality"></a>Rod-like lethality</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A common phenotype in  certain types of mutants (for instance in the Ras pathway) in which the animals  adopt a rigid shrunken appearance at the late L1 stage before dying. This is visibly  different from &ldquo;scrawny&rdquo; L1s in some other lethal phenotypes in which the dying  animal is also quite thin but much more  mobile.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="roller"></a><a href="http://130.15.90.245/movies/C.%20elegans%20Roller%20Mutant.mov" target="_blank">Roller</a></font></strong></td>
+							<td valign=top>Rol</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A genetic mutation affecting the cuticle structure that  causes a helical twist in the shape of the body, forcing the animal to move in  a characteristic rolling or circular motion, dominated by the shape and  handedness of the helical twist (it can be either left- or right-handed in nature). As the  animal slowly progresses forward, it tends to rotate around its long axis, and  over time the animal may be confined to a small circle on the bacterial lawn.</p>
+									<p><br>
+										See <a href="lglossary.htm#leftroller" target="_blank">Left roller</a><br>
+										See<a href="#rightroller"> Right roller</a><br>
+										See <a href="fglossary.htm#fiberlayers" target="_blank">Fiber layers</a><br>
+										See <a href="lglossary.htm#locomotion" target="_blank">Locomotion</a><br>
+										See <a href="sglossary.htm#squatphenotype" target="_blank">Squat phenotype</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rootlet"></a>Rootlet</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="sglossary.htm#striatedrootlet" target="_blank">Striated rootlet </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rosette"></a>Rosette<a href="http://www.wormatlas.org/ver1/handbook/fig.s/GonFIG12A.jpg" target="_blank"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A&nbsp; briefly observed structure which appears by  DIC optics. About 10 minutes before cell division, just prior to dissolution of the nuclear membrane and the formation of the metaphase plate, the nucleoplasm surrounding the nucleolus becomes coarsely granular and can produce a rosette pattern around the nucleolus (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston and Horvitz, 1977</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rotation"></a>Rotation</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p><strong>1)</strong> Can refer to a  <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">specific step during prophase of the one cell embryo</a>, when the centrosomes and  pronuclei rotate 90&deg; in synchrony to a new orientation at the exact  center of the embryo (<a href="http://www.wormbook.org/chapters/www_celldivision/celldivision.html" target="_blank">Oegema and Hyman, 2006</a>). </p>
+									<p><strong>2)</strong> Can also refer to the<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=asymcelldiv&rendertype=figure&id=A4241" target="_blank"> early two cell stage</a>, after the centrosomes migrate onto a transverse plane, the P1 nucleus rotates 90&deg;to align the centrosomes on the AP axis (<a href="http://www.wormbook.org/chapters/www_asymcelldiv/asymcelldiv.html" target="_blank">G&ouml;nczy and Rose, 2005</a>).</p>
+							  <p><br>
+									See <a href="cglossary.htm#centration" target="_blank">Centration</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="roughendoplasmicreticulum"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2205" target="_blank">Rough endoplasmic reticulum</a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=rough+ER+AND+mboc4%5Bbook%5D+AND+373481%5Buid%5D&rid=mboc4.figgrp.2205" target="_blank"> </a></font></strong></td>
+							<td valign=top><p>Rough ER<br>
+								RER</p></td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A subset of the endoplasmic  reticulum that is studded with ribosomes (giving it the rough appearance) and  is generally in continuity with the nuclear envelope. In neurons, most RER lie in the cell body, but some may  also extend into cell processes and even this distant domain remains in  continuity with that in the cell body (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005269;class=Paper" target="_blank">Rolls et al., 2002</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="rubberbandphenotype"></a>Rubberband phenotype </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A characteristic  body-shortening behavior seen in some mutations affecting neuromuscular  signaling where the entire body undergoes coordinate contraction of all bodywall  muscles in synchrony to shorten the animal, and then coordinate relaxation to  restore the animal to full length (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001525;class=Paper" target="_blank">Levin and Horvitz, 1992</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00006135;class=Paper" target="_blank">de la Cruz et al., 2003</a>).</p>
+									<p><br>
+										See <a href="cglossary.htm#convulsion" target="_blank">Convulsion</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="run" id="run"></a>Run</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style4"></span></td>
+							<td valign=top><p>A period of forward motion that is not interrupted by  a reversal. Different behavioral states  tend to produce either short runs, or mostly long runs (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003740;class=Paper" target="_blank">Pierce-Shimomura et  al., 1999</a>; <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec7_6" target="_blank">Lockery</a> in <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html" target="_blank">Hart, 2006</a>)</p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: September 20, 2011. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary R. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.18</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

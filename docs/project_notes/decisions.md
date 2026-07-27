@@ -202,16 +202,21 @@ Status key:
 - Each figure record includes a standard set of metadata fields
   covering panels, visible entities, technical imaging details,
   and RAG-specific fields
-- RAG-specific fields required on every figure:
-  - ai_summary: a plain-language description of what the figure
-    shows overall, written for retrieval (50-150 words)
-  - ai_answerable_questions: a list of questions this figure
-    could help answer (minimum 3 questions per figure)
+- RAG-specific fields required on every figure record:
+  - ai_summary: a plain-language description of what that specific
+    panel shows, written for retrieval (50-150 words)
+  - ai_answerable_questions: a list of questions that specific panel
+    could help answer (minimum 3 questions per figure record)
+- "Per figure record" means per row in the figures table — since the
+  corrected schema stores one row per panel, a multi-panel figure
+  (e.g., IntFIG1 with panels A, B, C) requires a distinct ai_summary
+  and ai_answerable_questions for each panel, not one shared summary
+  copied across all of that figure's rows
 - These fields mirror the common_questions and key_concepts fields
   on entity records — figures must meet the same RAG-readiness
   standard as entities
-- Panel-level fields: panel_id (A/B/C), description, image_type,
-  view_orientation, magnification, source_reference
+- Panel-level fields: panel_id (A, B, C, D...; any number of panels),
+  description, image_type, view_orientation, magnification, source_reference
 - Entity visibility fields: entity_id, wormbase_id, visibility
   level (primary/secondary/labeled/visible), panels the entity
   appears in
@@ -221,7 +226,33 @@ Status key:
   queries. Without structured metadata, the RAG pipeline cannot
   surface figures in response to visual or anatomical questions
 - Gold standard template: IntFIG1 metadata (intestine article)
+- Not all technical fields apply to every figure — many WormAtlas
+  figures are diagrams/illustrations rather than photomicrographs,
+  so fields like magnification, scale_bar, and strain are frequently
+  not applicable. See conventions.md → Figure Metadata Conventions
+  for the N/A-vs-blank distinction and the corresponding
+  scripts/import_figures.py handling requirement (N/A → explicit
+  NULL; genuinely blank required field → import warning, not a
+  hard failure).
 - Logged: [May 2026]
+
+#### Correction — July 2026
+- Original wording specified RAG fields "per figure," written before
+  the figure_id UNIQUE constraint bug (see Figures Base Table entry →
+  Correction — July 2026) was caught. With that bug fixed, a
+  multi-panel figure is stored as multiple rows sharing one figure_id
+  — one per panel. "Per figure" is now clarified as "per figure
+  record" (i.e., per panel row).
+- Rationale: IntFIG1's three panels (diagram, DIC, epifluorescent)
+  show genuinely different content — a single blended summary would
+  reduce retrieval precision and would need to be copy-pasted
+  identically across all panel rows, creating drift risk if only one
+  copy is later edited.
+- Each panel's ai_summary should open with a brief anchor identifying
+  it as part of the larger figure, e.g., "One of three panels in
+  IntFIG1 depicting the intestine..." — so the panel's independent
+  content is still traceable back to the full figure.
+- Caught while drafting the IntFIG1 gold-standard row, July 2026.
 
 ---
 
@@ -349,6 +380,138 @@ Status key:
 - Does not require CMS to be built first
 - Logged: Spreadsheet analysis, January 2026
 
+### Decision: Glossary Entity Backfill Runs in Parallel with Figure Cataloguing — DECIDED
+
+- **Status:** DECIDED — signed off by Chris Crocker
+- **Date drafted:** July 2026
+- **Date decided:** July 2026
+- **Relates to:** Figure Cataloguing Begins Immediately — DECIDED
+
+#### Context
+The Entities tab currently holds 574 records: 573 of type `cell` and 1
+of type `organ`. There are zero records of type `structure`, `tissue`,
+`gene`, `gene-family`, `protein`, `cell-group`, `organism`,
+`developmental-stage`, or `process` (verified July 2026 against the
+current export).
+
+The first real figure catalogued, IntFIG1, immediately required an
+entity that does not exist: gut granules, a `structure`. This is not an
+edge case — every non-cellular feature encountered during figure
+cataloguing (microvilli, basal lamina, terminal web, lumen) will hit the
+same empty category.
+
+#### Conflict considered
+Completing the entity backfill BEFORE resuming figure cataloguing was
+proposed and rejected: it conflicts with "Figure Cataloguing Begins
+Immediately — DECIDED," which states figure metadata entry begins
+"alongside entity enrichment, not after." Running the two in parallel is
+consistent with that decision and is what it already anticipated.
+
+#### Decision
+- Glossary backfill begins now, with mechanical extraction scripted and
+  classification assigned to a non-technical editor (Laura Herndon,
+  Cathy Wolkow, Eli Conklin, or Malia Jennings).
+- Figure cataloguing continues uninterrupted, using PENDING-
+  placeholders freely as gaps appear.
+- The PENDING-[descriptive-name] convention is NOT retired by this work.
+  Figure cataloguing is what surfaces missing entities in the first
+  place (see key_facts.md → Known Data Gaps); a glossary pass is an
+  educated head start, not a complete solution. PENDING remains the
+  permanent safety valve for structures the glossary did not anticipate.
+
+#### Sequencing
+1. Inventory pass (scoping). A Python parse script performs the
+   mechanical extraction — for every wormatlas.org glossary term it
+   pulls the term, its anchor slug (the entity_id candidate per the
+   anchor-slug convention), any abbreviation/cell name, synonyms marked
+   (S), lineage, whether the row links to a WormBase WBbt ID, whether
+   the row is only a "See X" cross-reference, and whether a matching
+   record already exists in the Entities tab. An editor then performs
+   the classification the script cannot: confirming the proposed
+   entity_type, flagging terms that are not entities at all (e.g.
+   Ablation, Adaptation, Acentriolar on Glossary A), and flagging
+   ambiguous cases. Ambiguous classifications are flagged, never
+   guessed. Purpose: the size of this job is unknown until it is
+   counted.
+   (Refinement, July 2026: the original draft had the editor produce the
+   list manually. The mechanical extraction is now scripted; the
+   classification remains human. Scope is functionally identical.)
+2. Record creation for everything the editor marked as a genuine,
+   not-yet-present entity in step 1.
+3. Figure cataloguing continues throughout steps 1 and 2.
+4. PENDING- values replaced with real entity_ids once records exist. The
+   real id comes from the term's glossary anchor (see entity_id
+   Construction for Non-Cell Entities — Glossary Anchor Slug).
+5. Only then, the figure_entities foreign key is added (see
+   anatomical_entities Table Schema → Constraint note).
+
+#### Downstream RAG impact
+PENDING entities are invisible to search. A researcher querying "gut
+granules" retrieves nothing, even though IntFIG1 panel C shows them
+clearly, because there is no entity record for the retrieval join to
+land on. Every unbackfilled placeholder is a hole in retrieval coverage.
+This is the primary reason the backfill starts now rather than after
+cataloguing completes.
+
+- **Logged by:** Claude (drafted) — signed off by Chris Crocker, July 2026.
+
+### Decision: Stub Entity Records Permitted for Glossary Backfill — DECIDED
+
+- **Status:** DECIDED — signed off by Chris Crocker. This entry creates
+  an exception to guidance in key_facts.md; the matching amendment is in
+  key_facts.md → Spreadsheet Editing Guidelines (stub exception) and
+  → Known Data Gaps (stub tracking).
+- **Date drafted:** July 2026
+- **Date decided:** July 2026
+
+#### Conflict declared
+key_facts.md → Column Priority Tiers lists description, function, and
+wormbase_id as REQUIRED — "never leave these blank." The
+anatomical_entities schema permits all three to be NULL and provides
+status='draft' precisely for incomplete records. The two documents
+disagreed. This entry resolves the disagreement for one specific case
+and does not otherwise relax the REQUIRED tier.
+
+#### Decision
+Entity records created during the glossary backfill may be entered as
+stubs. A stub fills only:
+
+    entity_id, entity_name, entity_type, species, taxon_id,
+    data_source, curator_name, status='draft'
+
+and leaves description, function, wormbase_id, and all HIGHLY
+RECOMMENDED and OPTIONAL columns blank until enrichment.
+
+#### Rationale
+- Every NOT NULL column in the anatomical_entities schema is satisfied
+  by a stub — this is schema-legal, not a workaround.
+- status='draft' already communicates incompleteness. A stub is not a
+  validated record pretending to be complete.
+- The blocking problem is figure_entities.entity_type, which is NOT NULL
+  and has no source when an entity record does not exist. A stub
+  supplies entity_type at a fraction of the cost of a full record.
+- Full records require a WormBase Ontology Browser lookup per term
+  (never invented — see WormBase IDs Are the Canonical Identifier) plus
+  50-200 words of prose each. Requiring that before figure cataloguing
+  can proceed serialises the two largest remaining workstreams against a
+  9-month deadline.
+- The RAG Readiness Standard is unaffected: an entity still requires
+  description, function, synonyms, primary_figures, and
+  status='validated' to be RAG-ready. Stubs are explicitly not RAG-ready
+  and are not counted as such.
+
+#### Guardrails
+- Stubs are permitted ONLY for glossary backfill entities created to
+  unblock figure cataloguing. They are not a general licence to skip
+  REQUIRED columns during normal enrichment — the Priority Rule in
+  key_facts.md still stands.
+- Every stub carries status='draft'. A stub must never be set to
+  'review' or 'validated' until its REQUIRED columns are complete.
+- Stub count is tracked in key_facts.md → Known Data Gaps alongside
+  PENDING placeholders, so outstanding work stays visible.
+
+- **Logged by:** Claude (drafted) — signed off by Chris Crocker, July 2026.
+
 ### Decision: entity_mentions Table — DECIDED
 - A dedicated `entity_mentions` table tracks every occurrence of every
   entity across all articles
@@ -428,6 +591,362 @@ Status key:
 
 ---
 
+## FIGURES & CONTENT PAGES SCHEMA
+
+### Decision: Figures Base Table, Join Tables, and Content Pages Table — DECIDED
+- **Status:** DECIDED — signed off by Chris Crocker, David Hall, and
+  Nate Schroeder, including the new `both`/`b` sex-abbreviation
+  convention
+- **Date drafted:** July 2026
+- **Date decided:** July 2026
+- **Context:** Figure cataloguing (IntFIG1, IntFIG2, IntFIG3, IntFIG5 first)
+  is already DECIDED to begin immediately (see: Figure Cataloguing Begins
+  Immediately). The `article_figures` and `figure_entities` join tables were
+  named in the Standardized Figure Metadata Structure decision, but no
+  CREATE TABLE statements were ever logged, and no base table for figure
+  content itself (ai_summary, microscopy_technique, etc.) had been named.
+  This entry proposes concrete schema for all of this so
+  `scripts/import_figures.py` can be written against something authoritative.
+
+#### Proposed schema
+
+```sql
+-- Base table for figure content and metadata
+CREATE TABLE figures (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    figure_id VARCHAR(50) NOT NULL,               -- e.g. "IntFIG1", matches spreadsheet exactly — no longer UNIQUE alone, see compound key below
+    panel VARCHAR(5) NOT NULL,                     -- capital letters (A, B, C, D...); no limit on number of panels (per conventions.md)
+    description_in_figure TEXT,
+    image_type ENUM('DIC','TEM','epifluorescent','diagram','merged') NOT NULL,
+    view_orientation VARCHAR(100),
+    magnification VARCHAR(50),
+    source_reference VARCHAR(255),
+    microscopy_technique ENUM('DIC','TEM','epifluorescent','diagram','merged'),
+    specimen_stage VARCHAR(50),
+    specimen_sex VARCHAR(50),
+    strain VARCHAR(100),
+    image_source VARCHAR(255),                    -- format: "[Photographer/Lab] archive_ref", e.g. "[Hall] N510-R338"
+    scale_bar VARCHAR(50),
+    ai_summary TEXT,                              -- 50-150 words, required per RAG readiness standard
+    ai_answerable_questions TEXT,                 -- minimum 3 questions; type TBD, see open items
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    INDEX idx_figure_id (figure_id),
+    UNIQUE KEY uq_figure_id_panel (figure_id, panel)
+    -- One figure_id can have multiple rows (one per panel), but the same
+    -- figure_id + panel combination cannot repeat. Corrects the original
+    -- figure_id-only UNIQUE constraint, which made it structurally
+    -- impossible to store multi-panel figures like IntFIG1 (A/B/C).
+);
+
+-- Join table: which figures appear in which articles
+CREATE TABLE article_figures (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    article_id INT NOT NULL,
+    figure_id INT NOT NULL,
+    display_order INT NOT NULL,
+    section_heading VARCHAR(255),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (article_id) REFERENCES content_pages(id),
+    FOREIGN KEY (figure_id) REFERENCES figures(id),
+    INDEX idx_article_id (article_id),
+    INDEX idx_figure_id (figure_id)
+);
+
+-- Join table: which entities are visible in which figures
+CREATE TABLE figure_entities (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    figure_id INT NOT NULL,
+    entity_id VARCHAR(50) NOT NULL,               -- string business key, matches anatomical_entities.entity_id (see rationale)
+    panel VARCHAR(5) NOT NULL,      -- capital letters (A, B, C, D...); no limit on number of panels
+    visibility ENUM('primary','secondary','labeled','visible') NOT NULL,
+    entity_type VARCHAR(30) NOT NULL,             -- mirrors entity_type ENUM values, hyphenated (e.g. cell-group)
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (figure_id) REFERENCES figures(id),
+    INDEX idx_figure_id (figure_id),
+    INDEX idx_entity_id (entity_id)
+);
+
+-- Content pages ("articles") table
+CREATE TABLE content_pages (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    content_id VARCHAR(100) NOT NULL UNIQUE,      -- matches existing data-content-id attribute already used in HTML
+                                                    -- e.g. "elegans-h-intestine" (see conventions.md HTML section)
+    content_type VARCHAR(50) NOT NULL,             -- e.g. "anatomical-handbook", matches data-content-type
+    species VARCHAR(50) NOT NULL,
+    sex ENUM('hermaphrodite','male','both') NOT NULL,  -- values per key_facts.md; NOT NULL so the compound
+                                                         -- constraint below can enforce uniqueness reliably
+    system VARCHAR(50) NOT NULL,
+    subsystem VARCHAR(50) NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    INDEX idx_content_id (content_id),
+    UNIQUE KEY uq_species_sex_system_subsystem (species, sex, system, subsystem)
+    -- Safety net independent of content_id string construction: guarantees the database
+    -- itself cannot hold two rows for the same species+sex+system+subsystem combination,
+    -- even if a content_id is ever mistyped, duplicated, or doesn't follow the slug
+    -- convention correctly. See "content_id / multi-sex article identity" note in Rationale.
+);
+```
+
+#### Rationale
+
+- **`content_id` as the identifying column for `content_pages`:** conventions.md
+  already shows this exact attribute in production HTML
+  (`data-content-id="elegans-h-intestine"`), and the PHP-Generated JSON
+  Metadata Block decision confirms it's already how the CMS identifies a
+  page internally. Using it here requires no new naming scheme.
+
+- **Compound `UNIQUE` constraint on `(species, sex, system, subsystem)`:**
+  The one existing `content_id` example (`elegans-h-intestine`) implies a
+  species+sex+subsystem naming pattern, but that pattern was never formally
+  documented anywhere prior to this entry — see the matching addition to
+  GLOSSARY.md drafted alongside this decision. Rather than rely solely on
+  editors and the CMS constructing `content_id` correctly by convention
+  across 800+ pages, this constraint enforces species/sex/system/subsystem
+  uniqueness at the database level as a backstop. `sex` is changed to an
+  `ENUM` (matching the `hermaphrodite | male | both` values already
+  established in key_facts.md) rather than a free-text `VARCHAR`, and
+  `sex`, `system`, and `subsystem` are all made `NOT NULL` — MariaDB
+  treats `NULL` values in a unique key as distinct from one another, so
+  a nullable column would silently defeat this safety net.
+
+- **`entity_id` as VARCHAR business key in `figure_entities` (not an
+  artificial integer FK):** Three independent parts of the existing
+  knowledge base already treat the string `entity_id` (e.g. `int1DL`) as
+  the de facto join key across the system:
+  1. Live HTML markup (conventions.md) uses `data-entity-id="int1DL"` —
+     called out as a fixed attribute name, never to be substituted.
+  2. The already-DECIDED `entity_mentions` table uses `entity_id` as a
+     plain column, implying the same string is matched against page
+     content during indexing.
+  3. key_facts.md and conventions.md both state entity IDs must match
+     the spreadsheet exactly, and the Entity Data Pipeline decision says
+     spreadsheet values are written to MySQL without transformation.
+  Introducing a different, artificial PK for `figure_entities` alone
+  would break this existing pattern and require an extra translation
+  step nowhere else in the pipeline needs. Recommendation: `figures`
+  and `content_pages` keep standard `INT AUTO_INCREMENT` PKs per
+  conventions.md's general rule (this rule governs a table's own PK,
+  not what others use as a foreign key to reach it), while
+  `anatomical_entities` — once its own CREATE TABLE is formally logged
+  — should expose `entity_id VARCHAR(50) NOT NULL UNIQUE` as the
+  column everything else joins against, alongside its own internal
+  `id INT AUTO_INCREMENT PRIMARY KEY`.
+
+#### Open items — all resolved
+All three open items originally raised by this decision have now been resolved:
+Item 1 (anatomical_entities schema) — see anatomical_entities Table Schema — DECIDED, below
+Item 2 (content_id article identity / both-b sex convention) — resolved as part of this entry's DECIDED status (see Rationale above)
+Item 3 (ai_answerable_questions column type) — see ai_answerable_questions Column Type — TEXT — DECIDED, below
+
+| # | Question | Notes |
+|---|----------|-------|
+
+Item 2 (`content_id` article identity / compound `UNIQUE(species, sex,
+system, subsystem)` constraint / `both`-`b` sex convention) is resolved
+as part of this DECIDED status — see Rationale above and the companion
+GLOSSARY.md addition.
+
+#### Correction — July 2026
+- Original schema defined `figure_id` as `UNIQUE` alone, which would
+  have made it impossible to store more than one row per figure_id —
+  incompatible with real multi-panel figures (e.g., IntFIG1 has panels
+  A, B, and C, each with different image_type, magnification, and
+  content). Corrected to a compound `UNIQUE(figure_id, panel)` key.
+  Caught while cataloguing IntFIG1, the first real figure entered.
+
+- **Logged by:** Claude (drafted) — signed off by Chris Crocker, David
+  Hall, and Nate Schroeder, July 2026.
+
+### Decision: figure_entities Uniqueness Constraint — DRAFTED, AWAITING SIGN-OFF
+
+- **Status:** DRAFTED — awaiting sign-off from Chris Crocker, David Hall,
+  and Nate Schroeder. This entry MODIFIES a previously signed-off
+  CREATE TABLE statement and must not be applied before sign-off.
+- **Date drafted:** July 2026
+- **Modifies:** Figures Base Table, Join Tables, and Content Pages Table
+  — DECIDED (signed off July 2026)
+
+#### Conflict declared
+The `figure_entities` CREATE TABLE in the entry above was signed off
+with no UNIQUE constraint. This entry proposes adding one. It is a
+design change to signed-off schema, not a typo correction, and is
+logged separately rather than edited into the original entry.
+
+#### Proposed change
+Add to CREATE TABLE figure_entities:
+
+    UNIQUE KEY uq_figure_entity_panel (figure_id, entity_id, panel)
+
+#### Rationale
+- scripts/import_figures.py must be safely re-runnable — the Figures tab
+  will be imported many times as cataloguing proceeds across 800+
+  figures (see conventions.md → Spreadsheet Import Scripts).
+- Re-running is achieved with INSERT ... ON DUPLICATE KEY UPDATE, which
+  requires a unique key to detect the duplicate. Without one, every
+  re-import appends a complete second set of entity rows, silently.
+- (figure_id, entity_id, panel) is the natural business key: an entity
+  appears in a given panel of a given figure once. The same entity
+  legitimately appears in multiple panels (intestine appears in IntFIG1
+  A, B, and C) and in multiple figures, so no narrower constraint is
+  correct.
+- Mirrors the existing UNIQUE(figure_id, panel) on `figures`, added in
+  the July 2026 correction for the same class of reason.
+
+#### Note
+`figure_id` here is the INT foreign key to figures(id), not the string
+figure identifier — see conventions.md → "figure_id means two different
+things."
+
+- **Logged by:** Claude (drafted for review)
+
+
+### Decision: anatomical_entities Table Schema — DECIDED
+- **Status:** DECIDED — signed off by Chris Crocker
+- **Date drafted:** July 2026
+- **Context:** decisions.md had repeatedly described this table's properties
+  across multiple entries (Unified Entities Table, Extended Entity Type
+  ENUM, RAG Readiness Standard, Entity Data Pipeline) but no CREATE TABLE
+  had ever been logged. The "Figures Base Table, Join Tables, and Content
+  Pages Table" decision assumed `anatomical_entities` exposes
+  `entity_id VARCHAR(50) NOT NULL UNIQUE` as its join key — this entry
+  confirms that assumption formally.
+  
+  #### Constraint — figure_entities foreign key is DEFERRED, not optional
+
+- This entry states that figure_entities.entity_id "can now reference
+  this table's entity_id column with a proper FOREIGN KEY." That FK
+  must NOT be created until the PENDING entity backfill is complete.
+
+- Reason: the PENDING-[descriptive-name] convention (conventions.md →
+  Figure Metadata Conventions) deliberately creates entity_id values
+  for structures visible in figures that have no record in the
+  Entities tab yet — e.g. PENDING-gut-granules in IntFIG1 panel C.
+  A FOREIGN KEY enforces that a value already exists in the
+  referenced table. Adding it now would cause every PENDING row to
+  be rejected at import, blocking figure cataloguing entirely.
+
+- Current state: the logged CREATE TABLE figure_entities does NOT
+  include this FK. Nothing is broken today. This note exists to
+  prevent it being "helpfully" added later by someone reading the
+  anatomical_entities entry in isolation.
+
+- Sequence that must be followed:
+  1. Complete figure cataloguing, using PENDING- placeholders freely
+  2. Backfill real entity records from the WormAtlas.org glossary
+  3. Replace every PENDING- value with its real entity_id
+  4. Verify zero remaining PENDING- values in figure_entities
+  5. Only then add the FOREIGN KEY constraint
+
+- Step 4 is a hard gate. Adding the FK with even one PENDING- value
+  remaining will fail, and the error message will not explain why.
+
+#### Schema
+
+```sql
+CREATE TABLE anatomical_entities (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    entity_id VARCHAR(50) NOT NULL UNIQUE,        -- business key, e.g. "int1DL" — matches spreadsheet exactly
+    entity_name VARCHAR(255) NOT NULL,
+    common_name VARCHAR(255),
+    entity_type ENUM('cell','cell-group','organ','tissue','structure',
+                      'gene','gene-family','protein','organism',
+                      'developmental-stage','process') NOT NULL,
+    parent_entity_id VARCHAR(50),                 -- self-referencing FK to entity_id, nullable
+    wormbase_id VARCHAR(50),                       -- nullable: 10 cells confirmed missing this per key_facts.md
+    species VARCHAR(50) NOT NULL,
+    taxon_id VARCHAR(50) NOT NULL,                 -- e.g. "NCBITaxon:6239"
+    developmental_stage ENUM('embryo','L1','L2','L3','L4','dauer','adult','all'),
+                                                    -- full C. elegans life cycle: embryo, four larval
+                                                    -- stages, dauer (alternative L3), adulthood.
+                                                    -- 'all' reserved for stage-independent entities
+                                                    -- (e.g. a gene expressed across all stages)
+    sex ENUM('hermaphrodite','male','both'),
+    description TEXT,                              -- 50-200 words per RAG Readiness Standard when status='validated'
+    function TEXT,
+    synonyms TEXT,
+    location_description TEXT,
+    size_description VARCHAR(255),
+    primary_figures TEXT,                          -- raw import field from spreadsheet; see note below
+    wormbase_url VARCHAR(255),
+    data_source VARCHAR(100) NOT NULL,
+    curator_name VARCHAR(100) NOT NULL,
+    status ENUM('draft','review','validated') NOT NULL DEFAULT 'draft',
+    common_questions TEXT,
+    key_concepts TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (parent_entity_id) REFERENCES anatomical_entities(entity_id),
+    INDEX idx_entity_id (entity_id),
+    INDEX idx_entity_type (entity_type),
+    INDEX idx_parent_entity_id (parent_entity_id)
+);
+```
+
+#### Notes
+
+- **`developmental_stage` ENUM confirmed July 2026:** key_facts.md previously
+  listed `embryo / L1 / adult / dauer / all`, while GLOSSARY.md separately
+  documented the full `L1–L4` larval range — an inconsistency between the
+  two files. Resolved: full life cycle is embryonic stage, four larval
+  stages (L1–L4), dauer (alternative L3), and adulthood. `all` is retained
+  from key_facts.md's original list for stage-independent entities. Both
+  key_facts.md and GLOSSARY.md should be updated to match this ENUM so the
+  three files stay consistent.
+- **`primary_figures` retained as TEXT, flagged for future deprecation:**
+  This field may become redundant once `figure_entities` (DECIDED in the
+  Figures Base Table entry above) is populated, since that table tracks
+  entity-to-figure relationships with panel and visibility detail that
+  `primary_figures` cannot capture. Kept as-is for now because it is the
+  current spreadsheet source of truth and no migration has happened yet.
+  Do not remove this column until `figure_entities` is confirmed to be a
+  complete replacement — revisit after Phase 1 figure cataloguing.
+- **`entity_id` as business key confirmed:** resolves open item #1 from the
+  Figures Base Table, Join Tables, and Content Pages Table decision.
+  `figure_entities.entity_id` can now reference this table's `entity_id`
+  column with a proper FOREIGN KEY, rather than an unconfirmed assumption.
+
+---
+
+### Decision: ai_answerable_questions Column Type — TEXT — DECIDED
+- **Status:** DECIDED — signed off by Chris Crocker
+- **Date drafted:** July 2026
+- **Context:** Resolves open item #3 from the Figures Base Table, Join
+  Tables, and Content Pages Table decision — whether `ai_answerable_questions`
+  on the `figures` table should be `TEXT` (delimited) or native `JSON`.
+
+#### Decision
+`ai_answerable_questions` is stored as `TEXT`, not `JSON`.
+
+#### Rationale
+- MariaDB's `JSON` type is not a distinct binary-optimized type — it is
+  implemented as `LONGTEXT` with an automatic `CHECK (JSON_VALID(...))`
+  constraint. Choosing JSON here would not provide a storage or query
+  performance advantage over TEXT.
+- The sibling entity fields performing the same function —
+  `common_questions` and `key_concepts` on `anatomical_entities` — are
+  documented in key_facts.md as free text, "separated by spaces or line
+  breaks," filled in directly by non-technical editors in the spreadsheet.
+  Making `ai_answerable_questions` JSON while these remain TEXT would be
+  an inconsistency with no real benefit.
+- Requiring valid JSON syntax in a spreadsheet cell would create friction
+  for non-technical team members (Laura Herndon, Cathy Wolkow, Eli Conklin,
+  Malia Jennings) — inconsistent with the project's non-technical-editor
+  support requirement.
+- The "minimum 3 questions" requirement (per the Standardized Figure
+  Metadata Structure decision) is enforced at the Python import-script
+  level — counting delimited entries and flagging rows below the minimum —
+  not as a database constraint. This matches how required-field rules are
+  already enforced elsewhere in the pipeline (spreadsheet convention +
+  import validation, not DB-level constraints).
+- **Logged by:** Claude (drafted) — signed off by Chris Crocker, July 2026.
+
+---
+
 ## URL STRUCTURE
 
 ### Decision: Hierarchical Clean URLs — DECIDED
@@ -461,6 +980,90 @@ Status key:
 - WBbt IDs for anatomy terms, WBGene IDs for genes
 - Never invent or assume a WormBase ID — look it up or flag it as missing
 - Logged: Project start
+
+### Decision: entity_id Construction for Non-Cell Entities — Glossary Anchor Slug — DECIDED
+
+- **Status:** DECIDED — signed off by Chris Crocker
+- **Date drafted:** July 2026
+- **Date decided:** July 2026
+- **Relates to:** Glossary Entity Backfill Runs in Parallel with Figure
+  Cataloguing; Stub Entity Records Permitted for Glossary Backfill;
+  Entity Data Pipeline; WormBase IDs Are the Canonical Identifier
+
+#### Context
+Cells have always had an obvious entity_id: the cell name itself
+(int1DL), matched to the spreadsheet exactly (conventions.md →
+Scientific Content Conventions). Non-cell entities — the structures,
+processes, tissues, and other terms created during the glossary
+backfill — had no defined entity_id convention. The
+PENDING-[descriptive-name] placeholder (conventions.md → Figure
+Metadata Conventions) is a temporary stand-in, not a real entity_id,
+and does not define one. This entry defines the real convention.
+
+#### Decision
+The entity_id for a non-cell entity created during the glossary backfill
+is the term's existing HTML anchor slug on the wormatlas.org glossary
+page — the value inside `<a name="...">` on that term's row.
+
+Examples (from Glossary A):
+- Adherens junction → `adherensjunction`
+- Axoneme        → `axoneme`
+- A band         → `aband`
+- Axon guidance  → `axonguidance`
+
+#### Scope
+- This convention governs entity_id construction for NON-CELL entities
+  only. Cells retain their existing convention (entity_id = cell name,
+  e.g. int1DL) unchanged.
+- The anchor slug becomes the value written into the spreadsheet's
+  entity_id column, so conventions.md's "entity IDs match the
+  spreadsheet exactly" rule is preserved — the spreadsheet value simply
+  is the anchor.
+
+#### Clarifications (must be applied)
+
+1. Malformed anchors are flagged, not blindly used. Some anchors carry
+   typos or inconsistent casing — e.g. the AC/VU decision row on
+   Glossary A has the anchor `ACVUdecison` (misspelled). Rule: use the
+   anchor exactly as written by default, but the inventory pass (see
+   Glossary Backfill decision, step 1) flags any anchor that appears
+   malformed for editor review. Where a malformed anchor is corrected,
+   the editor records a deliberate, reviewed slug in the inventory — the
+   correction is documented, never silently auto-generated. A typo must
+   not be baked into a permanent join key.
+
+2. PENDING- placeholders resolve to the anchor, not the placeholder
+   name. When a PENDING- value is replaced with a real entity_id
+   (backfill sequence step 4), the replacement comes from the term's
+   glossary anchor, NOT by de-hyphenating the placeholder. Example:
+   PENDING-gut-granules resolves to the gut granules anchor (e.g.
+   `gutgranules`), not to `gut-granules`. Do not guess the real id from
+   the placeholder text.
+
+3. Anchors are unique per page only — cross-page collisions must be
+   caught. entity_id must be globally unique because it is the join key
+   used by figure_entities, entity_mentions, and cell_lineage. Glossary
+   anchors are only guaranteed unique within a single letter page. The
+   parse script must check for the same anchor appearing on two
+   different pages and flag any collision for resolution before records
+   are created.
+
+#### Casing note
+Anchor slugs are lowercase with spaces removed (`adherensjunction`),
+which differs from cell entity_ids, which preserve mixed-case cell names
+(int1DL). This difference is intentional and acceptable — entity_id only
+needs to be unique and stable, and the two entity classes never share
+ids. Do not "normalize" casing across entity types; doing so would break
+existing joins on cell records.
+
+#### Downstream RAG impact
+entity_id is the permanent key every retrieval join lands on. Fixing the
+convention before mass record creation means figure_entities,
+entity_mentions, and cell_lineage all point at stable values from day
+one. A convention chosen after hundreds of records exist would require
+rewriting every join.
+
+- **Logged by:** Claude (drafted) — signed off by Chris Crocker, July 2026.
 
 ### Decision: Species and Taxonomy Use NCBI Taxon IDs — DECIDED
 - C. elegans: NCBITaxon:6239
@@ -514,7 +1117,7 @@ for the WormAtlas redevelopment project.
 - The bioinformatics and C. elegans research community uses GitHub
   as standard. WormBase and most related projects are hosted there.
   External collaborators will expect to find WormAtlas code on GitHub.
-- David Hall and Nate Schroeder are non-UofI affiliates. University
+- Nate Schroeder are non-UofI affiliates. University
   of Illinois GitLab cannot reliably grant accounts to external
   collaborators, which ruled out university Git hosting.
 - GitHub free plan covers all project needs with no maintenance

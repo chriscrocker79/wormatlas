@@ -64,13 +64,27 @@
 - These two records are the gold standard templates for all enrichment work
 - Total entities currently in spreadsheet: 574
 - Status values: draft / review / validated
-- Developmental stage values: embryo / L1 / adult / dauer / all
+- Developmental stage values: embryo / L1 / L2 / L3 / L4 / dauer / adult / all
+(Full C. elegans life cycle: embryonic stage, four larval stages L1–L4,
+dauer as an alternative L3, and adulthood. all is reserved for entities
+that are not stage-specific, e.g. a gene expressed across all stages.
+This value set is DECIDED — see decisions.md → anatomical_entities Table
+Schema.)
 - Sex values: hermaphrodite / male / both
 - Entity types permitted in spreadsheet: cell, cell-group, organ, tissue,
   structure, gene, protein
 - Entity types confirmed in use (have records): cell, organ
 - Entity types permitted but not yet populated: cell-group, tissue,
   structure, gene, protein
+- entity_id construction:
+  - Cells: entity_id = cell name, exactly as in the spreadsheet
+    (e.g. int1DL).
+  - Non-cell entities (created via glossary backfill): entity_id = the
+    term's wormatlas.org glossary anchor slug — the `<a name="...">`
+    value on that term's row (e.g. adherensjunction, axoneme). See
+    decisions.md → entity_id Construction for Non-Cell Entities —
+    Glossary Anchor Slug. Malformed anchors are flagged in the inventory
+    pass and corrected under review; never bake a typo into an entity_id.
 
 ## Entity Counts by Organ System (as of January 2026)
 - Nervous system: 316 cells
@@ -107,14 +121,34 @@ Source file: wormatlas_entities_WITH_WORMFINDR_DATA_01-2026
 - Target for Phase 1: 100-150 relationships
 
 ### Figures tab
-- Total records: 0
-- Column structure is ready: figure_id, panel, entity_id,
-  visibility, description_in_figure, image_type, magnification
+- Total records: 4 rows covering 1 figure — IntFIG1, panels A/B/C.
+  Panel C carries a second entity-only row (PENDING-gut-granules).
+- Column structure: COMPLETE as of July 2026. All 17 columns required
+  by the DECIDED `figures` schema are present, the microscopy_technique
+  header typo is corrected, and header whitespace has been cleaned.
+- IntFIG1 is the validated gold-standard reference — match its format
+  and level of detail for all subsequent figure rows. Verified against
+  the schema and Figure Metadata Conventions, July 2026.
 - 800+ figures on the site need cataloguing
-- Priority figures to enter first: IntFIG1, IntFIG2, IntFIG3, IntFIG5
+- Priority figures to enter next: IntFIG2, IntFIG3, IntFIG5
   (already referenced in validated entity records)
-- Figure cataloguing can begin immediately — does not require
-  CMS to be built first
+- Figure cataloguing does not require the CMS to be built first
+
+### Figures Pipeline — Status Update (July 2026)
+- Database schema for figures is now fully DECIDED: `figures`,
+  `article_figures`, `figure_entities`, `content_pages`, and
+  `anatomical_entities` tables are all logged in decisions.md with
+  signed-off CREATE TABLE statements (Chris Crocker, David Hall,
+  Nate Schroeder)
+- All previously open schema questions are resolved:
+  - `anatomical_entities` schema — DECIDED
+  - `content_id` article-identity / `both`-`b` sex convention — DECIDED
+  - `ai_answerable_questions` column type — DECIDED as TEXT
+- `scripts/import_figures.py` is no longer blocked by any undecided
+  schema and can be written against the current, authoritative schema
+- Spreadsheet Figures tab column update: COMPLETE (July 2026).
+  No remaining blockers. Figure cataloguing is unblocked and IntFIG1
+  is entered and verified.
 
 ### Validation tab
 - Total records: 0
@@ -123,11 +157,79 @@ Source file: wormatlas_entities_WITH_WORMFINDR_DATA_01-2026
 
 ## Known Data Gaps
 - int-ring-I referenced in Relationships tab but missing from Entities tab
+- Figure cataloguing is surfacing anatomical structures visible in
+  figures that do not yet have entity_id records in the Entities tab
+  (e.g., gut granules, seen in IntFIG1 panel C). The WormAtlas.org
+  glossary will be used as the source to backfill these missing
+  entities. Until backfilled, figure rows needing an unrecorded
+  entity use a temporary placeholder: entity_id = "PENDING-[descriptive
+  name]" (e.g., PENDING-gut-granules), to be corrected once the real
+  entity_id exists.
+ - Entity types with zero records as of July 2026: cell-group, tissue,
+  structure, gene, gene-family, protein, organism,
+  developmental-stage, process. The tab currently holds 573 `cell`
+  and 1 `organ` record. Every non-cellular structure encountered
+  during figure cataloguing (gut granules, microvilli, basal lamina,
+  terminal web, lumen) will require a new record.
+- Entity backfill from the WormAtlas.org glossary runs IN PARALLEL
+  with figure cataloguing, not after it. See decisions.md → Glossary
+  Entity Backfill Runs in Parallel with Figure Cataloguing.
+- FOREIGN KEY on figure_entities.entity_id must NOT be added until
+  every PENDING- placeholder has been replaced with a real entity_id.
+  See decisions.md → anatomical_entities Table Schema → Constraint —
+  figure_entities foreign key is DEFERRED, not optional. 
 - 10 cells missing WormBase IDs: AC, ADLL, ADLR, P12.pa,
   PVDL, PVDR, SML, SMR, VD12, VD13
 - Relationships table is early stage — only 3 entries, target is 100-150
 - Figures tab is empty — largest data gap relative to RAG requirements
 - No P. pacificus or S. stercoralis entities exist yet
+- FK constraint on figure_entities.entity_id must not be added until
+  every PENDING- placeholder is backfilled. See decisions.md →
+  anatomical_entities Table Schema → Constraint note.
+- Glossary backfill stub records: entity records entered as stubs during
+  the glossary backfill (see decisions.md → Stub Entity Records
+  Permitted for Glossary Backfill) are tracked here alongside PENDING-
+  placeholders so outstanding enrichment work stays visible. Running
+  count: 0 as of July 2026 — update as stubs are created. A stub is
+  complete only when its REQUIRED columns are filled and status is
+  promoted from 'draft'.
+- PENDING- placeholder resolution uses the glossary anchor: when a
+  PENDING-[name] value is replaced with a real entity_id, the real id is
+  the term's glossary anchor slug (e.g. PENDING-gut-granules →
+  gutgranules), NOT a de-hyphenated version of the placeholder. See
+  decisions.md → entity_id Construction for Non-Cell Entities.
+- Glossary backfill inventory pass COMPLETE (July 2026), via
+  scripts/parse_glossary.py against all 26 wormatlas.org glossary pages
+  (A-Z). Results: 1,619 glossary terms total; 107 already match existing
+  Entities records; 1,512 not yet matched. Of those 1,512: 117 are "See X"
+  cross-references (synonym data, not new records); 38 carry a WBbt ID and
+  10 carry a lineage path (both high-confidence real entities to create);
+  the remaining ~1,347 are a mix of genuine new entities (structure,
+  process, tissue) and non-entities (methods, concepts, adjectives) that
+  the editor classification pass must separate. True records-to-create
+  count is therefore not yet known — floor ~48, upper bound ~1,395 —
+  pending classification. 0 cross-page anchor collisions (all 1,619
+  anchors globally unique). 9 malformed anchors flagged for editor review.
+  412 rows carry synonym data for routing into target entities' synonyms
+  column. See decisions.md -> Glossary Entity Backfill Runs in Parallel
+  with Figure Cataloguing.
+- Glossary backfill classification pass: guide COMPLETE and shared with
+  the editors; classification IN PROGRESS, results not yet returned
+  (July 2026). Editor guide (glossary_classification_guide.docx / .md)
+  covers the four columns to complete (is_entity, proposed_entity_type,
+  ambiguous_flag, editor_notes), the entity-vs-not-entity test, an
+  entity/anchor explainer, worked examples, and the 9 malformed-anchor
+  cases (including the cell-name-vs-slug rule for P0/E/intI/MCM/SR).
+  Work is organized as 10 claimable chunks by letter with NO fixed
+  per-person assignment — editors claim a chunk via a "Chunk sign-up"
+  tab (seeded from chunk_signup.csv) and complete only their claimed
+  rows. Working method: a single shared Google Sheet edited by all
+  editors together (Google Sheets is already the entity-data source of
+  truth per decisions.md -> Entity Data Pipeline), exported back to CSV
+  for the import script. The description column was added to
+  scripts/parse_glossary.py so editors classify entirely in-spreadsheet.
+  Record creation and stub counting begin only after classification is
+  complete; stub count remains 0 (see the stub-records bullet above).
 
 ## Enhanced Cell Descriptions — Status (as of March 2026)
 - 70 nervous system cells have completed enhanced descriptions
@@ -192,6 +294,15 @@ which are strongly recommended, and which are optional.
 - species, taxon_id
 - description, function
 - data_source, curator_name, status
+
+**Exception — glossary backfill stubs:** entity records created during
+the WormAtlas.org glossary backfill may be entered as stubs, filling
+only entity_id, entity_name, entity_type, species, taxon_id,
+data_source, curator_name, and status='draft'. description, function,
+and wormbase_id are left blank until enrichment. See decisions.md →
+Stub Entity Records Permitted for Glossary Backfill. This exception
+applies ONLY to glossary backfill — normal enrichment work still fills
+every REQUIRED column.
 
 **HIGHLY RECOMMENDED — fill these whenever possible:**
 - synonyms (critical: RAG cannot match alternate names without this)

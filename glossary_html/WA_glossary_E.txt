@@ -1,0 +1,1199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary E</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+.style11 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - E </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table width="100%" border=1>
+						<tr class="style8">
+							<td valign=top><span class="style28"><font color="#993300">PART/CELL 
+								NAME </font></span></td>
+							<td valign=top><p class="style28"><font color="#0033CC">ABBREVIATION</font></p>
+									<p class="style28">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top><span class="style28"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="E"></a><a href="../hermaphrodite/intestine/Images/intfig3leg.htm" target="_blank">E, 
+								E<sup>2</sup>, E<sup>4</sup>, E<sup>8</sup>, E<sup>16</sup>, E<sup>20</sup></a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>These 
+								descriptors are used to designate <a href="../hermaphrodite/intestine/Images/intfig4B_Jleg.htm" target="_blank">developmental stages</a> in intestine organogenesis during which the intestinal primordium consists of the founder cell E, then 
+								2 E daughter cells, 4 E, 8 E, 16 E and 20 E daughter cells, etc. In this <a href="http://www.wormbook.org/chapters/www_intestine/intestine.html#sec2" target="_blank">intestinal cell lineage</a>, all daughters 
+								of E blastomere become intestinal cells.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eblastomere"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004804" target="_blank">E 
+								blastomere</a></b></td>
+							<td valign=top>E founder 
+								cell (S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>The primordial 
+								embryonic cell that gives rise to the intestine and no other cell types.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ecell"></a>E      cell</b></td>
+							<td valign=top><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004942" target="_blank">U 
+								cell</a> (S)<br>
+								Postembryonic E ectoblast (S)</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Former name (e.g. in<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank"> Sulston and Horvitz, 1977</a>) of one of the rectal epithelial 
+								cells. Later renamed as <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004942" target="_blank">U cell</a>. Terminally differentiated in the hermaphrodite 
+						  tail, but acts as a blast cell in the male.</p>
+									<p><br>
+										See <a href="uglossary.htm#ucell" target="_blank">U cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ecells"></a>e 
+								cells</b></td>
+							<td valign=top><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003701" target="_blank">e1D</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004556" target="_blank">e1VL</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004555" target="_blank">e1VR</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004554" target="_blank">e2DL</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004552" target="_blank">e2DR</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004550" target="_blank">e2V </a><br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004548" target="_blank">e3D</a> <br>
+								  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004546" target="_blank">e3VL</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004544" target="_blank">e3VR</a></td>
+							<td valign=top><span class="style26">ABaraaaapap <br>
+								ABaraaaaaaa <br>
+								ABaraaaaapa <br>
+								ABalpaapaap <br>
+								ABaraaapaap <br>
+								ABalpappapa <br>
+								ABaraapaaaa <br>
+								ABalpaaaaaa <br>
+								ABarapaaaaa </span></td>
+							<td valign=top><p><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Pharyngealepithelium3" target="_blank">Pharyngeal epithelial cells</a>.</p>
+									<p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eneuron"></a>e 
+								neuron</b></td>
+							<td valign=top><a href="../neurons/Individual Neurons/ASEframeset.html" target="_blank">ASE</a> (S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>See <a href="aglossary.htm#ase" target="_blank">ASE 
+								cell</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="earlyendosome"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=intracellulartrafficking&rendertype=figure&id=A2630" target="_blank">Early 
+								endosome</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A category of endosome likely 
+								to be involved in <a href="http://www.wormbook.org/chapters/www_intracellulartrafficking/intracellulartrafficking.html#d0e58" target="_blank">endocytosis</a> and recycling of materials, but not yet 
+								well established histologically in <i>C. elegans</i>.</p>
+									<p><br>
+										See <a href="#endosome">Endosome</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eccritictemperature"></a>Eccritic 
+								temperature</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The temperature at which a 
+								group of animals tends to accumulate preferentially; it is often related 
+								to the temperature at which the animals have become previously acclimatized. <i>C. elegans</i> individuals can show very acute selectivity for this 
+								preferred temperature (<a href="http://www.pnas.org/content/72/10/4061" target="_blank">Hedgecock 
+									and Russell, 1975</a>).<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ecdysis"></a><a href="http://en.wikipedia.org/wiki/Ecdysis" target="_blank">Ecdysis</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>This term encompasses both 
+								the processes of molting and exsheathment.</p>
+									<p><br>
+										See <a href="mglossary.htm#molt" target="_blank">Molt</a><br>
+										See <a href="#exsheathment">Exsheathment</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="echophenotype"></a>Echo 
+								phenotype</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A mutant 
+								phenotype where there is a repetition in the defecation motor program with 
+								a consistent latency of 10-12 seconds (<a href="http://dx.doi.org/10.1038/46072" target="_blank">Reiner et al., 1999</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eclosion"></a>Eclosion</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>The process 
+								of exiting from the eggshell by the young L1 larva; the last step in hatching.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ecm" id="ecm"></a><a href="../hermaphrodite/pericellular/jump.html?newLink=mainframe.htm&newAnchor=Extracellularmatrix3" target="_blank">ECM</a></b></td>
+							<td valign=top><p>Extracellular matrix (S)<br>
+								Basal lamina (S)<br>
+								Basement membrane(S)</P></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>See <a href="bglossary.htm#basallamina" target="_blank">Basal 
+								lamina</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ectoblast"></a>Ectoblast</b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A stem cell lying in the outer 
+								body wall that gives rise to epithelial cells, glia and neurons.</p>
+									<p><br>
+										See <a href="bglossary.htm#blastcell" target="_blank">Blast 
+											cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ectoderm" id="ectoderm"></a>Ectoderm</b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Outermost layer of tissue in 
+								a developing embryo. This layer gives rise to the outer surface (skin) 
+								of the organism as well as the nervous system and other external organs 
+								and structures. In <i>C. elegans,</i> ectoderm includes the<a href="http://www.wormatlas.org/hermaphrodite/hypodermis/Hypframeset.html" target="_blank"> hypodermis</a>, 
+								<a href="http://www.wormatlas.org/hermaphrodite/seam%20cells/Seamframeset.html" target="_blank">seam</a> and <a href="http://www.wormatlas.org/hermaphrodite/interfacial/Interframeset.html" target="_blank">interfacial</a> epithelial cells and all their precursors, as well 
+								as blast cells that lie within the hypodermis such as P0-P12 until they 
+								differentiate.</p>
+									<p><br>
+										See <a href="hglossary.htm#hypodermis" target="_blank">Hypodermis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ectoparasite" id="ectoparasite"></a>Ectoparasite</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Any parasite which lives on 
+								the exterior surface of its host animal or plant.</p>
+									<p><br>
+										See <a href="#endoparasite">Endoparasite</a><br>
+										See <a href="pglossary.htm#parasite" target="_blank">Parasite</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="18"><b><a name="ectopic"></a>Ectopic</b></td>
+							<td valign=top height="18">&nbsp;</td>
+							<td valign=top height="18"><span class="style26"></span></td>
+							<td valign=top height="18"> Refers to a cell or cell part that develops in excess of the normal number, 
+								or in a new location compared to the normal number or location of similar 
+								cells, or cell parts. The ectopic structure may not adopt completely mature 
+								or normal features due to its aberrant placement.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="efcells"></a><a href="../maletailneurons.html" target="_blank">EF 
+								cells</a></b></td>
+							<td valign=top><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004803" target="_blank">EF1/2 </a><br>
+						    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004802" target="_blank">EF1/2 </a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004801" target="_blank">EF3/4 </a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004800" target="_blank">EF3/4</a></td>
+							<td valign=top><span class="style26">F.lvdp <br>
+						  F.rvdp <br>
+					  U.lap <br>
+										U.rap</span></td>
+							<td valign=top>Large, 
+								male specific neurons with cell bodies in preanal ganglion. They receive 
+								synaptic inputs from ray neurons. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="egg"></a>Egg</b></td>
+							<td valign=top><p>Zygote (S def.1)<br>
+								Ovum (S def. 2)</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><strong>1)</strong> A diploid cell produced 
+								by the union between two gametes, a sperm and an oocyte, and is surrounded 
+								by a protective outer shell (<a href="../hermaphrodite/germ line/Images/germfig1leg.htm" target="_blank">embryo</a>). </p>
+									<p><strong>2)</strong> A haploid reproductive cell 
+										(gamete) produced by the hermaphrodite <i>C. elegans</i> and develops 
+										into an embryo when fertilized by a sperm (<a href="../hermaphrodite/germ line/Images/germfig3Eleg.htm" target="_blank">oocyte</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eggchamber"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig1leg.htm" target="_blank">Egg 
+								chamber</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>The expanded 
+								lumen of the uterus after passage of the first fertilized oocytes. Before 
+								maturity the uterine lumen is collapsed in <i>C. elegans</i> and features 
+								many inward-projecting ridges, but upon inflation the lumen becomes rigidly 
+								expanded into an open chamber which remains inflated even when empty of 
+								oocytes.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="egglaying" id="egglaying"></a><a href="../hermaphrodite/germ line/jump.html?newLink=mainframe.htm&newAnchor=OocyteMaturationovulationandferilzation4" target="_blank">Egg 
+								laying</a></b></td>
+							<td valign=top><p>Ovulation 
+								(S)<br>
+								Oviposition (S) <br>
+								</p>
+									</p>
+							</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The behavioral program that 
+								serves to move fertilized eggs down the uterus, through the vulva, and 
+								out of the worm onto the substrate. Egg-laying is controlled by the function 
+								of the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig11Aleg.htm" target="_blank">vulval </a>(<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006917" target="_blank">vm1</a> and <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006918" target="_blank">vm2</a> type) and <a href="../hermaphrodite/egglaying apparatus/Images/eggfig11Aleg.htm" target="_blank">uterine</a> (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006915" target="_blank">um1</a> and <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006916" target="_blank">um2</a> type) muscles. The uterine muscles contract to squeeze the eggs out of the uterus while 
+								the vulval muscles contract to open the vulval orifice. Two classes of <a href="../hermaphrodite/egglaying apparatus/Images/eggfig15leg.htm" target="_blank">motor neurons synapse onto these muscles</a>; the two <a href="../neurons/Individual Neurons/HSNframeset.html" target="_blank">HSN</a>'s and the six <a href="../neurons/Individual Neurons/VCframeset.html" target="_blank">VC</a>'s.<a href="../neurons/Individual Neurons/HSNframeset.html" target="_blank"> HSN</a>'s are essential for egg-laying while<a href="../neurons/Individual Neurons/VCframeset.html" target="_blank"> VC</a>'s are not, as shown by laser 
+								ablation studies.<a href="http://www.wormatlas.org/ver1/neurons.htm/hsn.htm" target="_blank"> </a><a href="../neurons/Individual Neurons/HSNframeset.html" target="_blank">HSN</a>'s are serotonergic as well as possibly <a href="http://www.wormbook.org/chapters/www_acetylcholine/acetylcholine.html" target="_blank">cholinergic</a>. 
+								All <a href="/neurons.htm/VCn.htm" target="_blank">VC</a>'s are <a href="http://www.wormbook.org/chapters/www_acetylcholine/acetylcholine.html" target="_blank">cholinergic</a> and <a href="../neurons/Individual Neurons/VCframeset.html" target="_blank">VC4</a> and <a href="../neurons/Individual Neurons/VCframeset.html" target="_blank">VC5</a> are also <a href="http://www.wormbook.org/chapters/www_monoamines/monoamines.html#sec5" target="_blank">serotonergic</a>. <a href="http://en.wikipedia.org/wiki/Serotonin" target="_blank">Serotonin</a> and <a href="http://en.wikipedia.org/wiki/Levamisole" target="_blank">levamisole</a>, nicotinic Ach agonists, strongly induce egg-laying. <a href="http://www.wormbook.org/chapters/www_monoamines/monoamines.html#sec5" target="_blank">Serotonergic</a> and <a href="http://www.wormbook.org/chapters/www_acetylcholine/acetylcholine.html" target="_blank">cholinergic </a>pathways are suggested to act in parallel for this function 
+								(<a href="http://www.wormbook.org/wli/wbg15.1p44/" target="_blank">Weinshenker and Thomas, 1997</a>). </p>
+									<p><i>C. elegans</i> modulates its rate 
+										of egg laying in response to a variety of environmental conditions; absence 
+										of food as well as high osmolarity lead to suppression of egg laying, 
+										while the volatile attractant isoamyl alcohol stimulates egg laying in 
+										the absence of food (<a href="http://www.citeulike.org/user/tharris/article/3310132" target="_blank">Sawin 
+						          and Horvitz, 1991</a>).</p>
+								<p><br>
+									See <a href="#eggretention">Egg retention</a><br>
+									See <a href="bglossary.htm#bagofworms" target="_blank">Bag 
+										of worms</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eggplate"></a>Egg 
+								plate</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A culture plate containing 
+								very many developing eggs. This may be produced by the &#147;lay-off&#148; 
+								method to produce semi-synchronous eggs, or by choosing a highly populous 
+								plate and gently washing off all hatched worms, leaving non-synchronized 
+								eggs behind. Synchronization can be achieved among the progeny by a &#147;hatch-off&#148; 
+								technique, either by picking individual eggs which have reached the desired 
+								age, or by allowing eggs to hatch over a narrow time window, and then 
+								collecting these recent hatchees by gentle washing.</p>
+									<p><br>
+										See <a href="lglossary.htm#layoff" target="_blank">Lay-off</a><br>
+										See <a href="hglossary.htm#hatchoff" target="_blank">Hatch-off</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eggretention" id="eggretention"></a>Egg 
+								retention</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Congestion of the adult hermaphrodite 
+								uterus with excess fertilized eggs due to a decrease in the rate of egg-laying. 
+								This may result from changes in motor activity that govern the operation 
+								of the egg-laying muscles (as in conditions reducing the amount of serotonin 
+								released from <a href="../neurons/Individual Neurons/HSNframeset.html" target="_blank">HSN</a><a href="/neurons.htm/hsn.htm" target="_blank"></a> neurons), or may be due to developmental changes that cause 
+								the vulva to be malformed or closed, as in the <a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000640" target="_blank">Egl</a> or <a href="http://www.wormbase.org/db/misc/phenotype?name=WBPhenotype%3A0000698;class=Phenotype" target="_blank">Vul </a>mutants (<a href="http://www.genetics.org/content/121/4/703" target="_blank">Desai 
+									and Horvitz, 1989</a>; <a href="http://www.genetics.org/content/126/4/899" target="_blank">Han 
+										et al., 1990</a>). Egg retention also occurs in wild type animals when 
+		      food is scarce.</p>
+									<p><br>
+										See <a href="#egglaying">Egg laying</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eggshell"></a><a href="../hermaphrodite/pericellular/Images/perifig5leg.htm">Eggshell</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A tough protective coating 
+								that covers the developing embryo very soon after fertilization of the 
+								oocyte. Most or all may be formed by secretion from within the embryonic 
+								tissue, but an outer &quot;oolemma&quot; layer is reportedly secreted by the uterine sheath 
+								(<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769504&query_hl=17&itool=pubmed_docsum" target="_blank">Anya, 1976</a>; <a href="http://www.sciencedirect.com/science/book/9780120996513" target="_blank">Bird 
+									and Bird, 1991</a>). 
+								The eggshell consists of an external vitelline layer, a tough central 
+								layer made principally of chitin, and an internal lipid layer. 
+								The young L1 larva emerges from the eggshell about 10 hours after fertilization. 
+								Secretions from pharyngeal glands may weaken it just prior to hatching. 
+								Careful dissection can allow the outer chitinous layer to be removed without 
+								perturbing embryogenesis (see <a href="http://link.springer.com/article/10.1007/BF00364592" target="_blank">Schierenberg and Junkersdorf, 1992</a>). Modest sized holes in the vitelline 
+								membrane, caused by laser ablation, will reseal and still allow embryogenesis. 
+								Many sources confuse the positions of the three layers, putting the vitelline 
+								layer inside rather than outside the chitinous layer for the <i>C. elegans</i> eggshell.<br>
+								In common usage, the term eggshell is often equated solely with the chitinous 
+								layer.</p>
+									<p><br>
+										See <a href="cglossary.htm#chitinouslayer" target="_blank">Chitinous 
+											layer</a><br>
+										See <a href="lglossary.htm#lipidlayer" target="_blank">Lipid layer</a><br>
+										See <a href="oglossary.htm#oolemma" target="_blank">Oolemma </a><br>
+										See <a href="pglossary.htm#pellucidlayer" target="_blank">Pellucid layer</a> <br>
+										See <a href="vglossary.htm#vitellinelayer" target="_blank">Vitelline layer</a> <br>
+										See <a href="vglossary.htm#vitellinemembrane" target="_blank">Vitelline membrane</a><br>
+										See <a href="zglossary.htm#zonapellucida" target="_blank">Zona pellucida</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="egl"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000640" target="_blank">Egl</a><a href="http://www.wormbase.org/db/misc/phenotype?name=egl" target="_blank"></a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>EGg Laying mutant phenotype.<br>
+								There are two types of egl phenotype: 1) egl-d or egl refers to those mutants 
+								where an animal is defective in egg laying and retains its eggs (<a href="http://www.genetics.org/content/104/4/619" target="_blank">Trent 
+									et al., 1983</a>; <a href="http://www.genetics.org/content/121/4/703" target="_blank">Desai and Horvitz, 1989</a>); 2) egl-c refers to those animals that constitutively 
+								lay eggs. egl-c can be detected as more immature eggs being laid by mutants 
+								than those laid by wild type (reflecting decreased uterine residency time) 
+								or as an elevated rate of egg-laying relative to wild type in the absence 
+								of food (<a href="http://dx.doi.org/10.1046/j.1471-4159.1997.69062251.x" target="_blank">Barnes 
+									and Hekimi, 1997</a>). </p>
+									<p><br>
+										See <a href="bglossary.htm#bagofworms" target="_blank">Bag 
+											of worms</a><br>
+										See <a href="mglossary.htm#matricide" target="_blank">Matricide</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ejaculation"></a><a href="http://www.biomedcentral.com/content/supplementary/1741-7007-4-26-s2.mov" target="_blank">Ejaculation</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>The behavioral 
+								process by which sperm is rapidly transferred from the male&#146;s vas 
+								deferens into the hermaphrodite&#146;s uterine chamber; a subprogram of 
+								<a href="../male/introduction/images/MaleIntroFIG3.jpg" target="_blank">male mating behavior</a>.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="electricalsynapse"></a><a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Electricalsynapses2103" target="_blank">Electrical 
+								synapse</a></b></td>
+							<td valign=top>Gap junction 
+								(S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A channel 
+								that forms between two cells where their plasma membranes become closely 
+								apposed, and allows passage of small molecules and ions from one to the 
+								other as a way of intercellular communication. At these points, cell membranes 
+								are separated by a 1 nm &#147;gap&#148; when viewed anatomically. These 
+								synapses are found in the early embryo between undifferentiated blastomeres, 
+								and in virtually all cell types in the adult nematode, most often connecting 
+								functionally and/or lineally related cells, but also occurring between cells 
+								of unrelated origin. While many of these synapses operate to electrically 
+								couple the cell pair, the synapses may also allow the direct passage of 
+								metabolites or intercellular signals from the cytoplasm of one cell to the 
+								cytoplasm of its neighbor. In <i>C. elegans</i> and other invertebrates 
+								these synapses are formed by &#147;innexin&#148; proteins, whereas in vertebrates 
+								they are formed by &#147;connexins&#148; (<a href="http://dx.doi.org/10.1002/bies.1057" target="_blank">Phelan 
+									and Starich, 2001</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="electronmicroscopy" id="electronmicroscopy"></a><a href="http://wormclassroom.org/files/worm/EM.swf" target="_blank">Electron microscopy </a></b></td>
+							<td valign=top>EM</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>There are two types of electron microscopy, scanning (<a href="http://wormclassroom.org/scanning-electron-microscopy-sem" target="_blank">SEM</a>) and transmission (<a href="http://wormclassroom.org/transmission-electron-microscopy-tem" target="_blank">TEM</a>). <a href="../hermaphrodite/introduction/IMAGES/introfig3leg.htm" target="_blank">SEM images the surface of the structure</a> or organism, while <a href="../hermaphrodite/pharynx/Images/phafig10C_Jleg.htm?slice=3" target="_blank">TEM occurs on thin slices of the tissue</a> and allows for very high magnification of the specimen. </p>
+									<p><a href="http://www.wormimage.org/" target="_blank">Wormimage</a> provides a searchable database of TEM images of many different <em>C. elegans</em> animals while <a href="../SW/SW.php/" target="_blank">Slidable Worm </a>provides TEM images along the length of an animal. </p>
+								<p>For detailed methods, a number of <a href="../methods.htm" target="_blank">electron microscopy techniques</a> are available. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="elongation"></a>Elongation</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>This term can refer to many 
+								separate developmental processes, including:</p>
+									<p><b>Elongation of the embryo:</b> begins soon after the end of gastrulation, and is caused by circumferential 
+										squeezing by the hypodermal cells surrounding the embryo, followed by deposition of a cuticle 
+										layer to hold the worm in this new shape (<a href="http://dx.doi.org/10.1016/0012-1606(86)90358-1" target="_blank">Priess 
+											and Hirsh, 1986</a>). Time for elongation to proceed 
+										is roughly 2 hrs. This form of elongation does not depend upon new growth in embryo volume or new cell divisions, but only on the reshaping of existing cells. <br>
+									<br>
+									<b>Elongation of the excretory canals: </b>grow rapidly along  the bodywall from the cell body during late embryogenesis and the first larval  stage. The canal is simultaneously reshaped and grows rapidly in  total size, with most new growth occurring at the canal tips (<a href="http://dx.doi.org/10.1016/S0962-8924(02)02364-4" target="_blank">Buechner, 2002</a>).</p>
+								<p><strong>Elongation of a neuron: </strong>directed  at the axon tip by the growth cone, where new growth is focused and the axon  position is redirected along specific pathways (<a href="http://dx.doi.org/10.1016/S0896-6273(00)80021-5" target="_blank">Wadsworth et al., 1996</a>).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="emb"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0001135" target="_blank">Emb</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A mutational phenotype where 
+								EMBryonic development is defective mostly leading to arrest at various 
+								stages.</p>
+									<p><br>
+										See <a href="#embryoniclethal">Embryonic lethal</a><br>
+										See <a href="#embryonicarrest">Embryonic arrest</a><br>
+										See <a href="lglossary.htm#let" target="_blank">Let</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="embryo"></a><a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">Embryo</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p> A stage of development of <i>C. elegans</i> between the time that the oocyte is fertilized and the 
+								point at which the the mature embryo emerges from the eggshell at hatching 
+								as a young L1 larva.</p>
+									<p><br>
+										See <a href="http://www.its.caltech.edu/%7Ewormbase/userguide/OtherResource/Correlation2.html" target="_blank">Embryonic 
+											stages</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="embryogenesis"></a><a href="http://labs.bio.unc.edu/Goldstein/celdev.mov" target="_blank">Embryogenesis</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>The process 
+								of formation and development of the embryo (see pictures by <a href="http://www.uni-koeln.de/math-nat-fak/zoologie/expmorph/agschier/abschier2e.html" target="_blank">Nomarski</a> and <a href="http://www.uni-koeln.de/math-nat-fak/zoologie/expmorph/agschier/abschier1e.html" target="_blank">SEM</a> imaging). For detailed, muti-dimensional movies see <a href="http://glowormnotes.blogspot.com/" target="_blank">GLOWorm Notes</a>.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="256"><b><a name="embryonicarrest" id="embryonicarrest"></a>Embryonic 
+								arrest</b></td>
+							<td valign=top height="256">Dead 
+								egg (S)</td>
+							<td valign=top height="256"><span class="style26"></span></td>
+							<td valign=top height="256"><p>The cessation of normal developmental 
+								steps within the embryo, most often caused by a mutation or a physical 
+								defect. Besides mutation (<a href="http://link.springer.com/article/10.1007/BF00848892" target="_blank">Denich et al., 1984</a>), embryonic arrest can also be induced in some 
+								cases by laser ablation of certain embryonic cells, laser surgery to fuse 
+								embryonic cells (<a href="http://dx.doi.org/10.1016/0012-1606(84)90136-2" target="_blank">Schierenberg, 1984</a>), destruction of the vitelline membrane (<a href="http://link.springer.com/article/10.1007/BF00364592" target="_blank">Schierenberg 
+									and Junkersdorf, 1992</a>), removal of egg cell cytoplasm (<a href="http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=7194506" target="_blank">Laufer 
+										and von Ehrenstein, 1981</a>), and/or interference with early 
+								cell-cell interactions (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000948;class=Paper" target="_blank">Priess and Thomson, 1987</a>). Arrest is more severe than mere developmental 
+								delay or alterations in the order of cell divisions, which are more likely 
+								to result in reasonably normal overall development and production of a 
+								functional animal at hatching (<a href="http://link.springer.com/article/10.1007/BF00364593" target="_blank">Junkersdorf 
+</a>). </p>
+									<p>Embryonic arrest is seldom if ever reversible, and therefore leads to 
+										lethality. However the aberrant embryo may continue to persist for hours 
+										or even permit some cell divisions to create a developmental monster.</p>
+								<p> <br>
+									See <a href="aglossary.htm#arreststage" target="_blank">Arrest stage</a> <br>
+									See <a href="lglossary.htm#let" target="_blank">Let</a><br>
+									See <a href="mglossary.htm#monster" target="_blank">Monster</a><br>
+									See <a href="tglossary.htm#terminalphenotype" target="_blank">Terminal phenotype</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="embryonicaxis"></a>Embryonic 
+								axis</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The longitudinal axis of the 
+								early embryo before gastrulation. The early embryo is oblong in shape, 
+								with the P granules sequestered at the posterior pole, opposite from the 
+								slightly narrower anterior pole.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="embryonicculturemedium"></a>Embryonic 
+								culture medium</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A specific 
+								type of medium in which embryos or isolated blastomeres can be cultured 
+								(<a href="http://dev.biologists.org/content/122/7/2043.long" target="_blank">Shelton and Bowerman, 1996</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="embryoniclethal" id="embryoniclethal"></a>Embryonic 
+								lethal</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A mutant phenotype in which 
+								some or all embryos suffer embryonic arrest, failing to progress to the 
+								L1 stage. Individual mutant alleles may arrest at characteristic developmental 
+								timepoints within embryogenesis. There are very many different categories 
+								of mutant within this broad designation.</p>
+									<p> <br>
+										See <a href="lglossary.htm#let" target="_blank">Let</a><br>
+										See <a href="mglossary.htm#monster" target="_blank">Monster</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="embryonicsheath"></a><a href="../hermaphrodite/cuticle/Images/cutfig9Aleg.htm" target="_blank">Embryonic sheath</a> </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A form of basal lamina or  glycocalyx which is secreted by the unfused hypodermal cells of the early embryo. It  covers the embryo before the onset of elongation and is required to spread the  forces of elongation equally over the embryo&rsquo;s outer surface (<a href="http://dx.doi.org/10.1016/0012-1606(86)90358-1" target="_blank">Priess and Hirsh,  1986</a>). This extracellular sheath lies on  the apical surface of the hypodermis and is later replaced by the early  cuticle.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="emo" id="emo"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000668" target="_blank">Emo</a></b></td>
+							<td valign=top>; </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><strong>E</strong>ndo<strong>M</strong>itotic <strong>O</strong>ocytes phenotype. 
+								A mutant phenotype where meiotic maturation is not followed by ovulation 
+								and the mature oocyte is trapped in the gonad arm where it endomitotically 
+								replicates its DNA (<a href="http://www.wormbook.org/wli/wbg14.3p22/" target="_blank">Dang et al., 1996</a>). Somatic sheath cell and spermatheca ablation also 
+								disrupts ovulation and causes Emo phenotype (<a href="http://dx.doi.org/10.1006/dbio.1996.8429" target="_blank">McCarter et al., 1997</a>). Besides the enlargement of their nuclei due to endomitosis, 
+								these oocytes are also subject to tearing forces as they enter the spermatheca. 
+								As a result they may break into several pieces, one containing the nucleus, 
+								and some smaller cytoplasts, which are formed as separate structures inside 
+							the proximal arm or inside the uterus.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ems"></a><a href="http://en.wikipedia.org/wiki/Ethyl_methanesulfonate" target="_blank">EMS</a></b></td>
+							<td valign=top>Ethyl 
+								methane sulfonate (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A chemical mutagen that generates point mutations (G/C-A/T 
+								transitions) and to a lesser extent small deletion and other chromosomal 
+								rearrangements (<a href="http://www.ncbi.nlm.nih.gov:80/books/bv.fcgi?tool=bookshelf&call=bv.View..ShowSection&searchterm=ems&rid=ce2.section.100#102" target="_blank">Johnsen 
+									and Baillie, 1997</a>). EMS is routinely used in <i>C. elegans</i> to produce visible mutants (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002245;class=Paper" target="_blank">Anderson, 1995</a>;<a href="http://link.springer.com/protocol/10.1385%2F1-59745-151-7%3A51" target="_blank"> Barstead and Moerman, 2006</a>; <a href="http://www.genetics.org/content/185/2/431.full" target="_blank">Flibotte et al., 2010</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="emsblastomere"></a><a href="../hermaphrodite/intestine/Images/intfig3leg.htm?name=EMS;class=Cell" target="_blank">EMS      blastomere</a></b></td>
+							<td valign=top>EMSt 
+								blastomere (S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The progenitor cell of the <a href="http://www.wormbase.org/db/cell/cell.cgi?name=E;class=Cell" target="_blank">E</a> and <a href="http://www.wormbase.org/db/cell/cell.cgi?name=MS;class=Cell" target="_blank">MS</a> blastomeres. This was formerly called S<sub>2</sub> or EMSt, 
+								since it gives rise to &#147;somatic&#148; tissues: <strong>E</strong>ndoderm, <strong>M</strong>esoderm 
+								and <strong>St</strong>omodeum.</p>
+									<p><br>
+										See <a href="fglossary.htm#foundercell" target="_blank">Founder cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="enpassant"></a><a href="../hermaphrodite/nervous/Images/neurofig2DEleg.htm" target="_blank">En 
+								passant</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>The most 
+								common form of chemical synaptic contact in the nematode, in which the presynaptic 
+								axon does not form a terminal specialization, but only a local swelling 
+								in the neighborhood of the postsynaptic target axon(s). </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="enclosure"></a><a href="../hermaphrodite/hypodermis/Images/hypfig4leg.htm" target="_blank">Enclosure</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>This 
+								term is usually used to describe a step after gastrulation in which the <i>C. elegans</i> embryo becomes fully covered by a sheet of hypodermis.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ending"></a>Ending</b></td>
+							<td valign=top><p>Free ending (S)<br>
+								Bare ending (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A subclass of neurite end points which are often presumed to be  sensory by their unique positions; sometimes used to ascribe a sensory function  where no obvious physical specialization (such as a cilium) can be visualized,  or where the apparent sensory features are diffuse.</p>
+									<p><br>
+										See <a href="dglossary.htm#dendrite" target="_blank">Dendrite</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="endocuticle"></a>Endocuticle</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The innermost layers of the 
+								cuticle.</p>
+									<p><br>
+										See <a href="bglossary.htm#basalzone" target="_blank">Basal zone</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="endocytosis"></a><a href="http://www.wormbook.org/chapters/www_intracellulartrafficking/intracellulartrafficking.html#d0e58" target="_blank">Endocytosis</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A process by which a cell actively takes up material from its external  environment by inward bending of the plasma membrane to create vesicles that  encapsulate this material and carry it into the cytoplasm. There are multiple  mechanisms for this process, including clathrin mediated uptake, caveolae-mediated uptake and clathrin- and caveolae-independent internalization. </p>
+									<p><br>
+										See <a href="cglossary.htm#coatedvesicle" target="_blank">Coated vesicle </a><br>
+										See <a href="pglossary.htm#phagocytosis" target="_blank">Phagocytosis </a><br>
+										See <a href="pglossary.htm#pinocytosis" target="_blank">Pinocytosi</a><a href="pglossary.htm#pinocytosis">s</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="endoderm"></a>Endoderm</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>Early 
+								blast cells that give rise to the gut tissue in <i>C. elegans</i>.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="endomitosis" id="endomitosis"></a>Endomitosis</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Chromosomal replication without 
+								nuclear or cellular division that results in a cell containing a highly 
+								enlarged nucleus with multiple copies (greater than 2X) of each chromosome 
+								(<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002965;class=Paper" target="_blank">Rose et al., 1997</a>). When this process occurs in the oocyte, it is called 
+								the Emo phenotype.</p>
+									<p><br>
+										See <a href="#emo">Emo</a><br>
+										See <a href="#endoreduplication">Endoreduplication</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="endoparasite" id="endoparasite"></a>Endoparasite</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Any parasite that lives within 
+								the body of the host animal or plant.</p>
+									<p><br>
+										See <a href="#ectoparasite">Ectoparasite</a><br>
+										See <a href="pglossary.htm#parasite" target="_blank">Parasite</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="endoplasmicreticulum" id="endoplasmicreticulum"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2203" target="_blank">Endoplasmic reticulum </a></b></td>
+							<td valign=top><p>ER</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A network of branching tubules and sacs extending throughout the cytosol forming a continuous sheet. Its membranes are the site of production for transmembrane proteins and lipids. Often, import of proteins occurs before the polypeptide is fully formed (co-translational). The ribosomes that synthesis the protein coat the surface of the ER creating regions called <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2205" target="_blank">rough ER</a> (regions without ribosomes are termed <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2208" target="_blank">smooth ER</a>).</p>
+									<p><br>
+										See <a href="rglossary.htm#roughendoplasmicreticulum" target="_blank">Rough endoplasmic reticulum</a><br>
+										See <a href="sglossary.htm#smoothendoplasmicreticulum" target="_blank">Smooth endoplasmic reticulum </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="endoreduplication" id="endoreduplication"></a>Endoreduplication</b></td>
+							<td valign=top>Endomitosis (S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Multiple rounds of DNA replication that take place without chromosome 
+								condensation, segregation or cytokinesis. Endoreduplication results in 
+								enlarged, highly polyploid cells. This 
+								process is normally seen in <a href="../hermaphrodite/intestine/Images/intfig4Xleg.htm" target="_blank">intestinal nuclei</a> during each larval lethargus 
+								which results in adult intestinal nuclei with 32 copies (32C) of each 
+								chromosome (<a href="http://dx.doi.org/10.1016/0012-1606(85)90381-1" target="_blank">Hedgecock and White, 1985</a>). It is also seen in adult wild type hypodermal 
+						  nuclei.</p>
+									<p><br>
+										See <a href="#endomitosis">Endomitosis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="endosome" id="endosome"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2408" target="_blank">Endosome</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A membrane-bound 
+								organelle that forms following endocytosis. The properties of endosomes 
+								are still not well described for <i>C. elegans </i>cells due to incomplete 
+								histochemical studies, though the multivesicular body is easily identified 
+								just by its anatomy in nematode tissues.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="engulfment"></a><a href="http://www.wormbook.org/chapters/www_programcelldeath/programcelldeath.html#d0e1636" target="_blank">Engulfment</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>Process 
+								by which a cell or tissue becomes surrounded by a neighboring cell and phagocytosed. In some cases engulfment is clearly subsequent to an apoptotic event or 
+								a necrotic event within the engulfed cell, while in other cases the engulfment 
+								may precede or be coincident with the cell death.<br>
+							<br>
+							<br>
+								See <a href="pglossary.htm#phagocytosis" target="_blank">Phagocytosis</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ensheathed"></a>Ensheathed</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A nematode that retains two 
+								full layers of cuticle and hence gains extra protection against the exterior 
+								environment. This condition is not normally observed in <i>C. elegans</i>, 
+								but is common in some other nematode species.</p>
+									<p><br>
+										See <a href="mglossary.htm#molt" target="_blank">Molt</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="entomopathogenicnematodes" id="entomopathogenicnematodes"></a><a href="http://entnemdept.ufl.edu/nguyen/morph/kbnstein.htm" target="_blank">Entomopathogenic nematodes </a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Soil dwelling nematodes that infect insects, including the larval stages of butterflies, moths, beetles and flies as well as adult crickets and grasshoppers. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="epiboly"></a>Epiboly</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A process at the end of  gastrulation by which some cells migrate forward to cover the blastopore,  covering the hole through which previous cells had entered inside the gastrula (<a href="http://www.wormbook.org/chapters/www_epidermalmorphogenesis/epidermalmorphogenesis.html" target="_blank">Chisholm and Hardin, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="14"><b><a name="epicuticle"></a><a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank">Epicuticle</a></b></td>
+							<td valign=top height="14"><p>Cortical layer (S)</p>
+									<p>External cortical envelope 
+										(S)</p></td>
+							<td valign=top height="14"><span class="style26"></span></td>
+							<td valign=top height="14"><p>The outermost collagenous layer 
+								of the cuticle, which appears <a href="../hermaphrodite/cuticle/Images/cutfig4leg.htm" target="_blank">densely staining by electron microscopy</a>, 
+								and may consist of a multi-layered membrane. It is underlain by successive 
+								collagenous cuticle layers, and is often coated on the outside by a noncollagenous 
+								matrix called the surface coat, or glycocalyx. The epicuticle can be considered 
+								the outermost portion of the cuticle&#146;s &#147;cortical zone&#148; 
+						  (<a href="http://www.sciencedirect.com/science/book/9780120996513" target="_blank">Bird 
+									and Bird, 1991</a>).</p>
+									<p><br>
+										See <a href="cglossary.htm#corticallayer" target="_blank">Cortical layer</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="14"><b><a name="epidermalgland"></a>Epidermal 
+								gland</b></td>
+							<td valign=top height="14">&nbsp;</td>
+							<td valign=top height="14"><span class="style26"></span></td>
+							<td valign=top height="14">A 
+								characteristic specialization found along the lateral hypodermis in some 
+								nematode species, but not found in <i>C. elegans</i>. Each consists of a 
+								single modified hypodermal cell that secretes granules into a local duct 
+								or pore in the lateral cuticle. Some glands also include one or more neurons 
+								that extend sensory endings into the duct, or into the gland cell itself 
+								(<a href="http://www.sciencedirect.com/science/book/9780120996513" target="_blank">Bird 
+									and Bird, 1991</a>). They may secrete material for the surface coat of the 
+								cuticle.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="epidermis"></a><a href="../hermaphrodite/hypodermis/Hypframeset.html" target="_blank">Epidermis</a></b></td>
+							<td valign=top>Hypodermis 
+								(S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Hypodermis of<em> C. elegans</em>. These 
+								two terms refer to the same tissue and are used interchangeably in publications 
+						  (<a href="http://dx.doi.org/10.1016/S0168-9525(00)02143-0" target="_blank">Chin-Sang and Chisholm, 2000</a>).</p>
+									<p><br>
+										See <a href="hglossary.htm#hypodermis" target="_blank">Hypodermis</a><br>
+										See <a href="#Ectoderm">Ectoderm</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="epidermoblast"></a>Epidermoblast</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A blast cell that can give 
+								rise to epidermal cells, glia and neurons in <i>C. elegans</i>.</p>
+									<p><br>
+										See <a href="bglossary.htm#blastcell" target="_blank">Blast cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="epistasis"></a><a href="http://en.wikipedia.org/wiki/Epistasis" target="_blank">Epistasis</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>An interaction 
+								between two different genes, such that the effect of an allele of one gene 
+								is suppressed or masked by the effect of an allele of a second gene.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="epithelium"></a>Epithelium</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>The layer 
+								of cells that cover the external surface of an organism as well as forming 
+								an inner lining between the tissues and organs of that organism and the 
+								external environment. In<i> C. elegans</i> epithelial cells include epithelium 
+								of the <a href="../hermaphrodite/alimentary/Alimframeset.html" target="_blank">alimentary tract</a>,<a href="../hermaphrodite/intestine/Intframeset.html" target="_blank"> intestinal cells</a>, <a href="../hermaphrodite/hypodermis/Hypframeset.html" target="_blank">hypodermis</a>, <a href="../hermaphrodite/interfacial/Interframeset.html" target="_blank">interfacial cells</a> and <a href="../hermaphrodite/somatic gonad/Somframeset.html" target="_blank">somatic gonad cells</a>.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="equivalencegroup"></a>Equivalence 
+								group</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A set of cells that all have the (equal) potential to proceed in forming 
+								a specific structure, or whose progeny each have the potential to adopt 
+								various roles in that structure, as in the development of the vulva 
+								and the male sensory rays (<a href="http://dx.doi.org/10.1016/0012-1606(80)90353-X" target="_blank">Sulston and White, 1980</a>; <a href="http://www.wormbook.org/chapters/www_evoldevnematode/evoldevnematode.html" target="_blank">Sommer, 2005</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="erectormuscle"></a><a href="../male/musclemale/jump.html?newLink=mainframe.htm&newAnchor=Gubernacularerectormuscles21" target="_blank">Erector 
+								muscle</a></b></td>
+							<td valign=top>Gubernacular erector (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>One of 
+								the specialized muscles of the adult male tail, which operates to change 
+								the shape of the gubernaculum during male mating behavior.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="escortcell"></a>Escort cell </b></td>
+							<td valign=top>Socket or sheath cell of amphid (S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Archaic (Golschmidt, 1903; <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769503&query_hl=48&itool=pubmed_docsum" target="_blank">Mclaren, 1976</a>)</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="esophagealgland"></a><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Glandcellsofthepharynx6" target="_blank">Esophageal 
+								gland</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Pharyngeal gland</p>
+									<p><br>
+										See <a href="gglossary.htm#gland" target="_blank">Gland cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="esophagus"></a><a href="../hermaphrodite/pharynx/Phaframeset.html" target="_blank">Esophagus</a></b></td>
+							<td valign=top>Pharynx (S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Archaic term for the pharynx.<br>
+								(Alternate spelling=Oesophagus)</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eutelic"></a>Eutelic/Eutely</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A property 
+								of some invertebrate animals, including <i>C. elegans</i>, of having a fixed 
+								number of somatic cells in the adult body. This number is specific for each 
+								species. In<i> C. elegans,</i> these cells derive from a fixed lineage where 
+								virtually all cells have final fates determined by their position in the 
+								lineage (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston and Horvitz, 1977</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="evasion"></a>Evasion</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A behavior by  which an animal escapes a predator or unfriendly partner. For instance <em>C. elegans</em> may be repelled by  chemosensory signals to evade some pathogenic bacteria (<a href="http://link.springer.com/article/10.1186/1471-2148-4-49" target="_blank">Schulenburg and Ewbank,  2004</a>; <a href="http://www.biomedcentral.com/1471-2148/4/49" target="_blank">Schulenburg and Muller, 2004</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eversion"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig10leg.htm" target="_blank">Eversion</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A normal process by which the 
+								maturing vulva (before eversion) turns inside out and the lumen closes during late L4 stage (post eversion). 
+								However, this same process can be overdone in some developmental mutants 
+								to create a distinctive mutant phenotype, <a href="http://www.wormbase.org/db/misc/phenotype?name=evl" target="_blank">Evl</a>, in which the vulval tissue 
+								projects visibly outward from the ventral side of the body.</p>
+									<p><br>
+										See <a href="#evertedvulva">Everted vulva</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="evertedvulva" id="evertedvulva"></a><a href="http://www.wormbase.org/db/misc/phenotype?name=evl" target="_blank">Everted vulva</a></b></td>
+							<td valign=top>Evl</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A mutant phenotype in which the developing vulva everts out of the body  to form an large outward bulge which generally leaves the animal unable to  undergo normal egg- laying.</p>
+									<p><br>
+										See <a href="mglossary.htm#muv" target="_blank">Multivulva phenotype </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="excitatorysynapse"></a>Excitatory synapse </b></td>
+							<td valign=top>Inhibitory synapse (A) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A synaptic connection between two neurons whose stimulation leads to an  increase in electrical activity in the postsynaptic cell (a depolarization).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="excretorycanal"></a><a href="../hermaphrodite/excretory/Images/excfig3leg.htm" target="_blank">Excretory 
+								canal</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The H-shaped structure made 
+								by the processes of the excretory canal cell. It extends almost the full 
+								length of the body on both sides of the animal, generally in contact with 
+								the lateral hypodermis and the pseudocoelom.</p>
+									<p><br>
+										See <a href="../hermaphrodite/excretory/Excframeset.html" target="_blank">Excretory 
+											system</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="87"><b><a name="excretorycell"></a><a href="../hermaphrodite/excretory/Images/excfig3leg.htm" target="_blank">Excretory 
+								cell</a></b></td>
+							<td valign=top height="87"><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0005812" target="_blank">exc 
+						  cell</a></p>
+									<p>Excretory canal cell (S)</p></td>
+							<td valign=top height="87"><span class="style26">ABplpappaap</span></td>
+							<td valign=top height="87"><p>A protokidney cell with an 
+								H-shaped internal lumen that is suggested to collect and secrete salt 
+								solutions outward via the excretory sinus (<a href="../ver1/Nelson/toc.html">Nelson et al., 1983</a>;<a href="http://dx.doi.org/10.1006/dbio.1999.9398" target="_blank"> Buechner et al., 1999</a>). The animal cannot survive if this cell is ablated 
+        or if its outlet (the excretory duct) is blocked.</p>
+									<p><br>
+										See <a href="../hermaphrodite/excretory/Excframeset.html" target="_blank">Excretory 
+											system</a><a href="http://www.wormatlas.org/ver1/handbook/excretory.htm" target="_blank"></a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="excretoryduct"></a><a href="../hermaphrodite/excretory/Images/excfig1leg.htm" target="_blank">Excretory 
+								duct</a></b></td>
+							<td valign=top>Secretory-excretory 
+								duct (S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The extracellular sinus formed 
+								by the excretory duct cell and the pore cell.</p>
+									<p><br>
+										See<a href="../hermaphrodite/excretory/Excframeset.html" target="_blank"> Excretory 
+											system</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="10"><b><a name="excretoryductcell"></a><a href="../hermaphrodite/excretory/jump.html?newLink=mainframe.htm&newAnchor=Ductcell4" target="_blank">Excretory 
+								duct cell</a></b></td>
+							<td valign=top height="10"><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004540" target="_blank">exc 
+						  duct</a></p>
+									<p>Duct cell (S)</p></td>
+							<td valign=top height="10"><span class="style26">ABplpaaaapa</span></td>
+							<td valign=top height="10"><p>An interfacial epithelial cell 
+								which forms a lumen to receive the outflow of the excretory gland and 
+								excretory canal cells; this outflow is transported into the lumen of the 
+								excretory pore cell and then to the excretory pore.</p>
+									<p><br>
+										See <a href="../hermaphrodite/excretory/Excframeset.html" target="_blank">Excretory 
+											system</a><a href="http://www.wormatlas.org/ver1/handbook/excretory.htm" target="_blank"></a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="excretoryglandcell"></a><a href="../hermaphrodite/excretory/jump.html?newLink=mainframe.htm&newAnchor=Excretoryglandcell3" target="_blank">Excretory 
+								gland cell</a></b></td>
+							<td valign=top><p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=exc_gl_L;class=Cell" target="_blank">exc 
+								gl L</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004535" target="_blank">exc 
+									gl R </a></p>
+									<p>Secretory-excretory gland (S)</p></td>
+							<td valign=top><span class="style26">ABplpapapaa <br>
+								ABprpapapaa</span></td>
+							<td valign=top><p>A pair of large cells in the 
+								head that fuse to form a single gland whose contents are released into 
+								the excretory duct through a specialized secretory membrane. Under most 
+								conditions the gland is filled with large secretory granules containing 
+								a dense matrix of unknown function; however, in the dauer larva these 
+								granules are absent and the gland is filled with complex spherical and 
+								tubular membranes (<a href="../ver1/Nelson/toc.html">Nelson et al., 1983</a><a href="../ver1/Nelson/toc.html?name=WBPaper00000596;class=Paper" target="_blank"></a>). It has been postulated that the granules may contribute 
+						  to the glycocalyx covering the body cuticle (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000706;class=Paper" target="_blank">Nelson and Riddle, 1984</a>).</p>
+								  <p><br>
+										See <a href="../hermaphrodite/excretory/Excframeset.html" target="_blank">Excretory 
+											system</a><a href="http://www.wormatlas.org/ver1/handbook/excretory.htm" target="_blank"></a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="excretoryjunction"></a><a href="../hermaphrodite/excretory/Images/excfig8leg.htm" target="_blank">Excretory 
+								junction</a></b></td>
+							<td valign=top>Secretory 
+								membrane</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A highly specialized intercellular 
+								membrane junction that links the excretory canal cell, the excretory gland 
+								process, and the excretory duct cell, to permit the release of materials 
+								from the canal and gland into the duct and hence out of the body.</p>
+									<p><br>
+										See <a href="../hermaphrodite/excretory/Excframeset.html" target="_blank">Excretory 
+											system</a><a href="http://www.wormatlas.org/ver1/handbook/excretory.htm" target="_blank"></a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="excretorypore"></a><a href="../hermaphrodite/excretory/Images/excfig9leg.htm" target="_blank">Excretory 
+								pore</a></b></td>
+							<td valign=top>Pore 
+								(S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The outlet of the excretory 
+						  sinus to the exterior environment through the cuticle. <a href="../hermaphrodite/excretory/Images/excfig9leg.htm" target="_blank">Pore is located </a>on the ventral side of the head, just behind the nerve ring.</p>
+									<p><br>
+										See <a href="../hermaphrodite/excretory/Excframeset.html" target="_blank">Excretory 
+											system</a><a href="http://www.wormatlas.org/ver1/handbook/excretory.htm" target="_blank"></a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="excretoryporecell"></a><a href="../hermaphrodite/excretory/jump.html?newLink=mainframe.htm&newAnchor=Porecell5" target="_blank">Excretory 
+								pore cell</a></b></td>
+							<td valign=top><p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=exc_pore;class=Cell" target="_blank">exc 
+								pore</a></p>
+									<p>exc socket cell (S)</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An interfacial epithelial cell 
+								which links excretory duct to hypodermis.</p>
+									<p><br>
+										See<a href="../hermaphrodite/excretory/Excframeset.html" target="_blank"> Excretory 
+											system</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="5"><b><a name="excretorysocketcell"></a>Excretory 
+								socket cell</b></td>
+							<td valign=top height="5"><p>exc socket</p>
+									<p>exc pore cell (S)</p></td>
+							<td valign=top height="5"><span class="style26">G2p</span></td>
+							<td valign=top height="5">Older 
+								name for excretory pore cell.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="exocuticle"></a>Exocuticle</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>See <a href="iglossary.htm#internalcorticallayer" target="_blank">Internal 
+								cortical layer</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="expulsionmotorcontraction"></a><a href="http://www.wormbook.org/chapters/www_gaba/gabafig5.jpg" target="_blank">Expulsion 
+								motor contraction</a></b></td>
+							<td valign=top>Exp or 
+								EMC</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A specific step in the defecation 
+								motor program.</p>
+									<p><br>
+										See <a href="/dglossary.htm#defecationmotorprogram" target="_blank">Defecation 
+											motor program</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="exsheathment" id="exsheathment"></a>Exsheathment</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A form of molting in which 
+								a nematode sheds a retained outer cuticle layer. This process is common 
+								in infective nematode species, but not in <i>C. elegans</i>. Infective 
+								species may retain an older cuticle layer as a protective sheath until 
+								they successfully enter their final host.</p>
+									<p><br>
+										See <a href="mglossary.htm#molt" target="_blank">Molt</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="extensormuscle" id="extensormuscle"></a>Extensor 
+								muscle</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>Refers 
+								to any of several different specialized muscles in the male tail which extend 
+								either the gubernaculum or the spicules.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="extracellularmatrix"></a><a href="../hermaphrodite/pericellular/jump.html?newLink=mainframe.htm&newAnchor=Extracellularmatrix3" target="_blank">Extracellular 
+								matrix</a></b></td>
+							<td valign=top><p>ECM</p>
+									<p>Basal lamina (S)<br>
+										Basement membrane (S)</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A complex mixture of long  chain proteins and proteoglycans that lie on the outer surface of cell  membranes of each tissue, in particular those at the basal  pole. Much of the material is condensed  into a uniform meshwork, the basal lamina, but some collagenous materials may  extend further into the pseudocoelom between neighboring tissues. For more general information see <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.section.3532" target="_blank">Alberts et al., 2002</a>. </p>
+									<p><br>
+										See <a href="bglossary.htm#basallamina" target="_blank">Basal 
+											lamina</a><br>
+										See <a href="#ecm">ECM</a> <br>
+										See <a href="tglossary.htm#tendons" target="_blank">Tendon</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="eyespot"></a>Eyespot</b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A pigmented granular structure found in pharyngeal muscles  in some nematode species other than <em>C. elegans</em> (<a href="http://dx.doi.org/10.1016/S0022-5320(71)90019-0" target="_blank">Burr and Webster, 1971</a>;  Bollerup and Burr, 1979). Such eyespots  vary in color, are different from the background coloration of the rest of the  pharynx, and usually organize into simple cup-shaped structures. Pigmented eyespots occur in other nematode  species in association with sheath cells and a possible lens-like element in  the bodywall of the head (<a href="http://dx.doi.org/10.1016/0014-4894(72)90097-5" target="_blank">Croll et al., 1972</a>; Van de Velde and Coomans, 1988). Although  lacking a detectable eyespot, <em>C. elegans</em> is reported to exhibit a behavioral  response to light (<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1751-1097.1985.tb03529.x" target="_blank">Burr, 1985</a>; Ken Miller, pers. comm.).</p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">This <span class="style11">section</span> should be cited as: Herndon, L.A., Lints, R. and Hall, D.H. 2009. Glossary E. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.5">10.3908/wormatlas.6.5</a></span><br>
+					  <span class="style1">Edited for the web by Laura A. Herndon. Last revision: December 12, 2013. </span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

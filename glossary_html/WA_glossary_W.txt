@@ -1,0 +1,313 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary W</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - W </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style27"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style27"><font
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style27">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="102"><span class="style27"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style27"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="wblastcell"></a>W blast cell  </strong></td>
+							<td valign=top>P0 (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An  alternate name for the most anterior of the P ectoblasts, which divides in the  early larva to produce ventral cord motor neurons and hypodermal cells.</p>
+									<p><br>
+										See <a href="pglossary.htm#p0p12lineages" target="_blank">P0-P12 lineages</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td height="196" valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="wandering"></a>Wandering</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A common behavior in  nematodes, in which individual animals leave crowded regions on the culture  plate to explore elsewhere, possibly to avoid an aversive stimulus exuded by  starving animal or to find alternate food sources. Wandering animals will often burrow into the agar or leave the surface of a culture plate and either die upon drying out on the  plastic dish or become trapped in a liquid droplet on the dish cover.  Dauer larvae are especially prone to wandering. </p>
+									<p>This term is also used to  refer specifically to a <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec10_4" target="_blank">male behavior</a> in which a male will stay on a food source in the presence of hermaphrodites, but will wander away from the food in search of a mate in their absence (<a href="http://www.jneurosci.org/content/24/34/7427.long" target="_blank">Lipton et al., 2004</a>; <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec10_4" target="_blank">Emmons et al., 2005</a>). </p>
+								<p><br>
+								See <a href="lglossary.htm#leavingbehavior" target="_blank">Leaving behavior</a></p></td>
+						</tr>
+						
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif" class="style18"><a name="wardbody"></a>Ward body</font></strong></td>
+							<td valign=top><p><a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=FLPL;class=Cell"></a></p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p class="style18">A characteristic late stage endosome that is common in the  nematode hypodermis and seam cells (<a href="http://cshmonographs.org/index.php/monographs/article/view/5019" target="_blank">White, 1988</a>). Larger than a multivesicular  body, and usually football shaped, this membrane-bound organelle contains  stacked sheets of membrane. See left seam cell in <a href="http://www.wormatlas.org/SW/SW.php/" target="_blank">SlidableWorm</a>#740.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="waterchannel"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mcb.figgrp.4149" target="_blank">Water channel</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A transmembrane protein  complex that acts as a transporter channel permeable to the transfer of water  molecules across a lipid bilayer.</p>
+									<p><br>
+										See <a href="tglossary.htm#transporterprotein" target="_blank">Transporter protein </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="waveamplitude"></a>Wave amplitude </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Size (depth) of the body  bend during locomotion.</p>
+									<p><br>
+										See <a href="sglossary.htm#sinusoidalwave" target="_blank">Sinusoidal wave</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="waving"></a><a href="http://www.wormatlas.org/dauer/behavior/mainframe.htm#Nictation4" target="_blank">Waving</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Behavior exhibited by dauers where they &quot;stand&quot; on their tail on whatever substrate is available and &quot;wave&quot; their body. It is thought that this behavior aids in being picked up by another organism to be carried to a new location.</p>
+									<p><br>
+										See <a href="nglossary.htm#nictation" target="_blank">Nictation</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="whip"></a><a href="../hermaphrodite/introduction/IMAGES/introfig3leg.htm" target="_blank">Whip</a> </strong></td>
+							<td valign=top>Tail whip (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The long flexible tip of the  hermaphrodite tail, beyond the phasmid openings.</p>
+									<p><br>
+										See <a href="tglossary.htm#tailtip" target="_blank">Tail tip </a><br>
+										See <a href="tglossary.htm#tailwhip" target="_blank">Tail whip</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="whorls" id="whorls"></a><a href="http://www.jneurosci.org/cgi/content/full/17/3/1033/F5" target="_blank">Whorl </a></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A structure, often membranous, that starts at one point and wraps around that point in an expanding circular pattern. In <em>C. elegans</em>, membraneous whorls have been found in cells undergoing degenerative cell death (<a href="http://www.jneurosci.org/content/17/3/1033.long" target="_blank">Hall et al., 1997</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="wideturn"></a>Wide turn </strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="tglossary.htm#turning" target="_blank">Turning</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="wildtype"></a>Wild type </strong></td>
+							<td valign=top><p>Wildtype<br>
+								Mutant (A) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The normal (non-mutant) form of a species, as found in nature. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="wingcell"></a>Wing cell </strong></td>
+							<td valign=top>Amphid wing cell (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A category of sensory  neuron having a <a href="../hermaphrodite/neuronalsupport/Images/neurofig24leg.htm" target="_blank">broad flattened (sensory) ending</a> associated with the <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Socketandsheathcells22" target="_blank">amphid  sheath</a> (<a href="../neurons/Individual Neurons/AWAframeset.html" target="_blank">AWA</a>, <a href="../neurons/Individual Neurons/AWBframeset.html" target="_blank">AWB</a>, <a href="../neurons/Individual Neurons/AWCframeset.html" target="_blank">AWC</a>). These cilia form large  wing-like structures and share the lumen of the sheath cell (<a href="../Perkins_1986/Perkins_1986.html" target="_blank">Perkins et al., 1986</a> - <a href="../Perkins_1986/art/fl01.jpg" target="_blank">see arrows</a>). </p>
+									<p>The adult male <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004112" target="_blank">PHso1L</a> and <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004110" target="_blank">PHso1R</a> cells have a <a href="../hermaphrodite/neuronalsupport/Images/neurofig41A_Hleg.htm">branched morphology</a> and have also been referred to as &quot;wing cells&quot;, possibly due to the manner in which they <a href="../male/spicules/images/MaleSpicFIG5.jpg" target="_blank">insert a distal process into the  phasmid sheath</a> which is similar to the insertion of <a href="../neurons/Individual Neurons/AWAframeset.html" target="_blank">AWA</a><a href="/neurons.htm/awa.htm" target="_blank"></a> into the amphid sheath.</p>
+							<p>The <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004108" target="_blank">PHso2L</a> and <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004106" target="_blank">PHso2R</a> cell pair have also been called  &ldquo;wing cells&rdquo; in the <a href="../hermaphrodite/neuronalsupport/Images/neurofig41A_Hleg.htm" target="_blank">hermaphrodite tail </a>(Hall, 1977), where their distal process  forms a<a href="../hermaphrodite/neuronalsupport/Images/neurofig41Ileg.htm" target="_blank"> thin wrapping structure</a> around the phasmid socket cell.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="wiringdiagram"></a><a href="../images/connectome.pdf" target="_blank">Wiring diagram </a></strong></td>
+							<td valign=top>Synaptic circuit (S) Connectivity (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A mapping of synaptic  connections between a set of neurons and muscles. See <a href="../neuronalwiring.html">Neuronal wiring</a> in WormAtlas.</p>
+									<p><br>
+										See <a href="cglossary.htm#connectivitydiagram" target="_blank">Connectivity diagram</a><br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="wishbonecells"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=gastrulation&rendertype=figure&id=A4554" target="_blank">Wishbone cells </a></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A special  group of cells in the gastrulating embryo, who ingress in concert, just prior  to another cell group called the &ldquo;central cells&rdquo; (<a href="http://dev.biologists.org/content/129/2/387.long" target="_blank">Nance and Priess, 2002</a>).</p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: October 14, 2013. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary W. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.23">10.3908/wormatlas.6.23</a></span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

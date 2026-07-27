@@ -1,0 +1,777 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary B</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style1 {color: #666666}
+.style10 {color: #000000}
+.style15 {font-size: 14px}
+.style17 {font-size: 14}
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style9 {	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14;
+}
+.style11 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - B </span><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<div align="center">
+						<table width="100%" border=1>
+							<tr>
+								<td valign=top><span class="style8"><font color="#993300">PART/CELL NAME </font></span></td>
+								<td valign=top><p class="style8"><strong><font 
+color="#0033CC">ABBREVIATION</font></strong></p>
+										<p class="style8"><strong>SYNONYMS (S)<br>
+											ANTONYMS (A) </strong></p></td>
+								<td valign=top><span class="style8"><font color="#CC9900">LINEAGE </font></span></td>
+								<td valign=top><span class="style8"><strong><font color="#009933">DESCRIPTION </font></strong></span></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><a name="bfiber"></a><strong><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mcb.figgrp.5481" target="_blank">B fiber</a></strong></p></td>
+								<td valign=top class="style18"><p class="style58">B subfiber 
+									(S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A special 
+									form of microtubule within the ciliary axoneme (<a href="http://jcb.rupress.org/content/93/1/15.long" target="_blank">Chalfie 
+							  and Thomson, 1982</a>).</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bcell" id="bcell"></a><a href="../male/alimproct/jump.html?newLink=mainframe.htm&newAnchor=MaleProcFIG5" target="_blank">B cell </a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style41 style57 style29"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003825" target="_blank">ABprppppapa</a></p></td>
+								<td valign=top class="style18"><p class="style58">Rectal 
+									epithelial cell. Postembryonic blast cell within male tail rectal epithelium. The <a href="../images/BYUFlineages.jpg" target="_blank">B cell lineage</a> contributes to the male <a href="../male/proctodeum/Procframeset.html" target="_blank">proctodeum</a>. </p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong> <a name="bmotorneurons"></a>B motor 
+									neurons</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">Class 
+									B motorneurons are a subset of the motorneurons driving the bodywall muscles 
+									and drive forward movement. This class of neuron includes <a href="../neurons/Individual Neurons/VBframeset.html" target="_blank">VB</a> and <a href="../neurons/Individual Neurons/DBframeset.html?group=DB neurons;show_group=1" target="_blank">DB</a> cells.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bneuron"></a>&quot;b&quot; 
+									neuron </strong></p></td>
+								<td valign=top class="style18"><p class="style58"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003829" target="_blank">AWBL<br>
+							  </a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003828" target="_blank">AWBR</a></p>
+										<p class="style58"><a href="../neurons/Individual Neurons/AVBframeset.html" target="_blank">AWB</a> cell (S)</p></td>
+								<td valign=top class="style18"><p class="style41 style57 style29">ABalpppppap <br>
+									ABpraaappap</p></td>
+								<td valign=top class="style18"><p class="style58">Amphid wing &quot;b&quot; cells, 
+									neurons having ciliated sheet-like sensory endings closely associated 
+									with <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Socketandsheathcells22" target="_blank">amphid sheath</a>.</p>
+										<p class="style58"><br>
+											See <a href="aglossary.htm#awcell" target="_blank">AW 
+												(Amphid wing) cell</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bacillaryband" id="bacillaryband"></a>Bacillary band </strong></p></td>
+								<td valign=top class="style18"><p><span class="style40"><span class="style41"><span class="style45"><span class="style45"><span class="style45"><span class="style57"><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></span></span></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A modification of the  lateral (or medial) hypodermal cells in some nematode species in which  non-syncytial hypodermal cells appear to have a glandular specialization,  directed outwards to secrete material towards a cuticular pore (bacillary  pore), perhaps involved in osmoregulation (<a href="http://dx.doi.org/10.1016/S0022-5320(63)80042-8" target="_blank">Wright, 1963</a>;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769503&query_hl=26&itool=pubmed_docsum" target="_blank"> McLaren, 1976</a>). In some species, cells containing  neurosecretory granules project ciliated endings into the bacillary band (gland  cell), perhaps permitting granule release towards the pseuocoelom in response  to sensory input to those cilia (<a href="http://dx.doi.org/10.1016/S0040-8166(73)80031-X" target="_blank">Wright and Chan, 1973</a>).</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bacillarypore"></a>Bacillary pore </strong></p></td>
+								<td valign=top class="style18"><p><span class="style40"><span class="style41"><span class="style45"><span class="style45"><span class="style45"><span class="style57"><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></span></span></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">An elongated opening  in the cuticle associated with the lateral alae in some nematode species  (<a href="http://dx.doi.org/10.1016/S0022-5320(63)80042-8" target="_blank">Wright, 1963</a>).</p>
+										<p class="style58"><br>
+											See <a href="#bacillaryband">Bacillary band</a> </p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="backcross"></a>Backcross</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A procedure 
+									in which the progeny of a sexual mating or a new isolate from a genetic 
+									screen is mated back into a parental strain. This procedure is commonly 
+									used after genetic screens to obtain a desired mutation as a stable homozygote, 
+									while eliminating any secondary mutations from its genetic composition. 
+									Alternatively, it is used after introducing a desired mutation into a strain 
+									via mating, to eliminate any genetic contributions from one parental strain 
+									other than the selected mutant gene.</p>
+										<p class="style58"><br>
+											See <a href="cglossary.htm#crossing" target="_blank">Crossing</a><br>
+											See <a href="iglossary.htm#inbred" target="_blank">Inbred / Inbreeding<br>
+												</a>See <a href="oglossary.htm#outcross" target="_blank">Outcross</a><br>
+									</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="backing"></a>Backing </strong></p></td>
+								<td valign=top class="style18"><p class="style58">Backward locomotion (S)<br>
+									Backing behavior (S)<br>
+									Backing response (S)<br>
+									Backing avoidance response 
+									(S)<br>
+									Backing reflex (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">&quot;Backing&quot; describes 
+									several spontaneous and induced behaviors of <i>C. elegans</i>:</p>
+										<p class="style58"><strong>1)</strong> Backward locomotion; backing 
+											behavior: Spontaneous backward crawl. Forward locomotion and backward 
+											locomotion are antagonistic behaviors, controlled by distinct neural circuits, 
+											although these circuits functionally interact. The neuronal circuit comprising <a href="../neurons/Individual Neurons/AVAframeset.html" target="_blank">AVA</a>, <a href="../neurons/Individual Neurons/AVDframeset.html" target="_blank">AVD</a> and the A motor neurons drives backward movement. </p>
+									<p class="style58"><strong>2)</strong> Backing behavior: <a href="../male/muscleintro/jump.html?newLink=mainframe.htm&newAnchor=MaleMusFIG2" target="_blank">Male specific 
+										behavior</a> (see <a href="../movies/Mating.mov" target="_blank">mating behavior movie</a>) where after the male's tail comes into contact with the hermaphrodite, the male backs sharply, curving his tail until his ventral side becomes apposed to the hermaphrodite. He then continues backing, sliding along the hermaphrodite's body and turning sharply near its ends (male avoids the head and tail of the hermaphrodite by turning either under or over the hermaphrodite body near but before it reaches the ends) until his tail 
+										reaches the vulva (<a href="http://www.wormbook.org/chapters/www_malematingbehavior/malematingbehavior.html" target="_blank">Barr and Garcia, 2006</a>). The <a href="../neurons/Individual Neurons/PVYframeset.html" target="_blank">PVY </a>interneuron is required for continued 
+										backing.</p>
+									<p class="style58"><strong>3)</strong> Backing response; backing 
+										avoidance response; backing reflex: Worms that bump into obstacles (e.g. 
+										glass beads) on their paths or that are touched with a fine hair or that 
+										encounter high osmotic strength crawl backwards typically for several 
+											body lengths. After this, they usually turn around. This response is mediated by the <a href="../hermaphrodite/nervous/Images/neurofig9A-Cleg.htm" target="_blank">mechanosensory touch neurons</a>. </p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bacteriallawn"></a><a href="http://www.wormclassroom.org/c-elegans-cultivation" target="_blank">Bacterial 
+							  lawn</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style40"><span class="style41"><span class="style45"><span class="style45"><span class="style45"><span class="style57"><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></span></span></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A thin film of <a href="http://home.sandiego.edu/~cloer/loerlab/wormfood.html" target="_blank">bacteria grown 
+									upon the surface</a> of an agar plate as food for nematodes; this is the most 
+									common means to raise <i>C. elegans</i> in the laboratory. The lawn is 
+									usually kept from overgrowing the plate by the use of an auxotrophic strain 
+									of <i>E. coli</i> (uracil-requiring), and adding a limited supply of uracil 
+									to the plate. The lawn varies somewhat as the plate ages, growing somewhat 
+									thicker until the uracil is exhausted, and usually becoming slightly thicker 
+									at the border of the lawn than in the middle. There also may be subtle 
+									differences in the lawn depending on the character of the bacterial strain; 
+									such differences can affect some behavioral assays and nutritional studies.</p>
+										<p class="style58"><br>
+											See <a href="aglossary.htm#auxotroph" target="_blank">Auxotroph</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bagcell"></a><a href="../neurons/Individual Neurons/BAGframeset.html" target="_blank">BAG</a> cell</strong></p></td>
+								<td valign=top class="style18"><p class="style58"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003824" target="_blank">BAGL</a> <br>
+										<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003823" target="_blank">BAGR</a></p></td>
+								<td valign=top class="style18"><p class="style41 style57 style29">ABalppappap<br>
+									ABarappppap </p></td>
+								<td valign=top class="style18"><p class="style58">Neurons, 
+									not part of any sensillum, dendrite runs along ILLso. Ciliated endings of 
+									BAG neurons terminate in bag-shaped structures that wrap short projections 
+									from the ILL socket cells.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bagofworms"></a>Bag of 
+									worms</strong></p></td>
+								<td valign=top class="style18"><p class="style58">Bag (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A terminal phenotype in which 
+									fertilized embryos hatch from their eggshells within the body of the hermaphrodite 
+									and begin to feed upon the tissues of the parent animal. This process 
+									can occur occasionally in older animals, but is very <a href="http://www.wormbook.org/chapters/www_cellfusion/cellfusionfig5.jpg" target="_blank">common in certain 
+									mutants</a> where egg-laying is inhibited by poor vulva development or inadequate 
+									motility of the vulval muscles.</p>
+										<p class="style58"><br>
+											See <a href="iglossary.htm#internalhatchees" target="_blank">Internal hatchees</a><br>
+											See <a href="oglossary.htm#oviparous" target="_blank">Oviparous</a><br>
+											See <a href="oglossary.htm#ovoviviparous" target="_blank">Ovoviviparous</a><br>
+									</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="basalbody"></a><a href="../hermaphrodite/neuronalsupport/Images/neurofig23leg.htm" target="_blank">Basal 
+									body</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A modified centriole found 
+									distally in many sensory dendrites. The proximal segment of the ciliary axoneme, consisting of an organized 
+									ring of microtubules lying at a local enlargement of a distal dendrite. 
+									These structures in nematode cilia do not exactly match the organization 
+									of classical basal bodies in motile cilia from other animals, and therefore 
+									have sometimes been called transition zones.</p>
+										<p class="style58">Alternately, this term is often more loosely used to refer to that portion 
+											of the cilium in which the modified centriole is located, which should 
+											more properly be termed the transition zone.</p>
+									<p class="style58"><br>
+										See <a href="aglossary.htm#axoneme" target="_blank">Axoneme</a><br>
+										See<a href="cglossary.htm#centriole" target="_blank"> Centriole</a><br>
+										See <a href="tglossary.htm#transitionzone" target="_blank">Transition zone</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="basallamella"></a><a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank">Basal 
+									lamella</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">The innermost layer of the 
+									cuticle, lying between the fiber layers and the cell membrane of the hypodermis.</p>
+										<p class="style58"><br>
+											See <a href="#basalzone">Basal zone</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="basallamina" id="basallamina"></a><a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank">Basal 
+									lamina</a></strong></p></td>
+								<td valign=top class="style18"><p class="style58">Basement membrane (S)<br>
+									Lamina (S)<br>
+									Extracellular matrix (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">An extracellular 
+									structure formed along the basal pole of the cells of a tissue. It is a 
+									continuous layer of connective tissue over the surface of the tissue, such as <a href="../hermaphrodite/cuticle/Images/cutfig10leg.htm" target="_blank">hypodermis</a>, <a href="../hermaphrodite/musclesomatic/Images/musfig11leg.htm" target="_blank">muscle</a>, or <a href="../hermaphrodite/pharynx/Images/phafig9F_Hleg.htm" target="_blank">pharynx</a>, <a href="../hermaphrodite/egglaying apparatus/Images/eggfig11BCleg.htm" target="_blank">uterus (ubl)</a>, and <a href="../hermaphrodite/germ line/Images/germfig2leg.htm" target="_blank">germline</a>, and 
+									serves to separate it from neighboring tissues. This structure consists 
+									primarily of <a href="http://www.wormbook.org/chapters/www_basementmb/basementmb.html#d0e567" target="_blank">collagens</a>,<a href="http://www.wormbook.org/chapters/www_basementmb/basementmb.html#d0e744" target="_blank"> laminin</a>, fibronectin, and other long chain macromolecules (See <a href="http://www.wormbook.org/chapters/www_basementmb/basementmb.html" target="_blank">Kramer, 2005 </a> for more detail). </p>
+										<p class="style58">In higher animals the basal lamina often consists of two or three distinct 
+											layers, but in <i>C. elegans</i> it usually appears as a single homogeneous 
+											layer which can be thick or thin depending on the tissue. The basal lamina 
+											generally looks quite thin in cross section by TEM (after chemical fixation), 
+											but can look more broad, fluffy or mesh-like after certain treatments (such 
+							  as <a href="http://www.wormatlas.org/EMmethods/HPF.htm" target="_blank">high pressure freezing</a>) or visualization by <a href="http://www.wormatlas.org/EMmethods/Images/ETfig2leg.htm" target="_blank">electron tomography</a>.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="basallayer"></a><a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank">Basal 
+									layer</a></strong></p></td>
+								<td valign=top class="style18"><p class="style58">Inner layer (S)<br>
+									Basal lamella (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">The innermost layer of the 
+									cuticle is called the basal layer. It is relatively thin and may display 
+									longitudinal striations (alternating light and dark bands; see <a href="http://archive.org/details/introductiontone0202chit" target="_blank">Chitwood 
+								  and Chitwood, 1950</a>).</p>
+										<p class="style58"><br>
+											See <a href="cglossary.htm#corticallayer" target="_blank">Cortical 
+												layer</a><br>
+											See <a href="fglossary.htm#fiberlayers" target="_blank">Fiber layers</a><br>
+											See <a href="fglossary.htm#fibrillayers" target="_blank">Fibril layer</a><br>
+											See <a href="mglossary.htm#matrixlayer" target="_blank">Matrix layer</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="basalslowingresponse" id="basalslowingresponse"></a>Basal slowing response </strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A slowing in locomotion rate that occurs when well fed <em>C. elegans</em> encounter  bacteria. This response is mediated by dopamine signaling (<a href="http://www.cell.com/neuron/fulltext/S0896-6273(00)81199-X" target="_blank">Sawin et al., 2000</a>). </p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="basalzone" id="basalzone"></a><a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank">Basal 
+									zone</a></strong></p></td>
+								<td valign=top class="style18"><p class="style58">Fiber layer (S)<br>
+									Fiber endocuticle (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A major 
+									subdivision of the cuticle, consisting of three &#147;fiber layers&#148; 
+									and a basal lamella, all of which lie innermost within the whole cuticle, 
+									just outside the hypodermal cell membrane. Each fiber layer may contain 
+									coherent parallel fibers running in different orientations, some in helical 
+									bands running around the whole body, or circumferentially around the body.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="basementmembrane"></a>Basement 
+									membrane</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">See <a href="#basallamina">Basal 
+									lamina</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bducell"></a><a href="../neurons/Individual Neurons/BDUframeset.html" target="_blank">BDU</a> cell</strong></p></td>
+								<td valign=top class="style18"><p class="style58"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003812" target="_blank">BDUL<br>
+							  </a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003811" target="_blank">BDUR</a></p></td>
+								<td valign=top class="style18"><p class="style41 style57 style29">ABarppaappp<br>
+									ABarpppappp </p></td>
+								<td valign=top class="style18"><p class="style58">Neurons, 
+									processes run along excretory canal and also in nerve ring, unique darkly 
+									staining synaptic vesicles.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="beltjunction"></a>Belt 
+									junction</strong></p></td>
+								<td valign=top class="style18"><p class="style58">Belt desmosome (S)<br>
+									Adherens junction (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">These prominent, robust intercellular 
+									junctions have also been called tight junctions or desmosomes; they form 
+									continuous belts at the apical margin of lateral cell borders in most 
+									nematode epithelia. They are tightly linked to the internal cytoskeleton 
+									and provide strength to the tissue. They are a form of adherens junction, 
+									but may contain some gene products that are typical of tight junctions 
+									in higher animals.</p>
+										<p class="style58"><br>
+											See <a href="aglossary.htm#adherensjunction" target="_blank">Adherens junction</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="benthead"></a>Bent head </strong></p></td>
+								<td valign=top class="style18"><p><span class="style40"><span class="style41"><span class="style45"><span class="style45"><span class="style45"><span class="style57"><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></span></span></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A mutant phenotype in which  the nematode exhibits a characteristic sharp kink in its head, causing  misdirected body motion (<a href="http://www.pnas.org/content/70/3/817" target="_blank">Ward, 1973</a>; <a href="http://jeb.biologists.org/content/208/24/4727.long" target="_blank">Pierce-Shimomura et al., 2005</a>).</p>
+										<p class="style58"><br>
+											See <a href="aglossary.htm#adherensjunction" target="_blank">Adherens junction</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bergeracstrain" id="bergeracstrain"></a>Bergerac 
+									strain</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">One of the two most commonly 
+									studied wild type strains of the nematode<i> Caenorhabditis elegans</i>, 
+									originally collected from the wild in France (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000277;class=Paper" target="_blank">Nigon 
+										and Dougherty, 1949</a>). Reference copies are now stored frozen at the <a href="http://www.cbs.umn.edu/CGC/" target="_blank"><i>C. 
+											elegans </i>Stock 
+												Center</a>, at the University of Minnesota, to reduce the amount of possible 
+genetic drift from generation to generation. <a href="http://www.wormbase.org/species/c_elegans/strain/RW7000" target="_blank">RW7000</a> subclone is used as the standard STS (sequence-tagged sites) mapping strain.</p>
+										<p class="style58"><br>
+											See <a href="#bristolstrain">Bristol strain</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bilayer"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1868" target="_blank">Bilayer</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A characteristic 
+									feature of plasma membranes, <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1871" target="_blank">visible in thin section by TEM</a>, in which the 
+									lipids, when seen in 
+									cross-section, are organized into two discrete dark-staining layers  separated by an extremely narrow clear space. The <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.211" target="_blank">orientation of the lipids</a> is such that non-polar 
+									(hydrophobic) portions of the lipids are concentrated towards the middle 
+									of the bilayer, while the polar (hydrophilic) &#147;headgroups&#148; lie 
+									on the outward faces, exposed to the cytoplasm or the extracellular space. <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1892" target="_blank">Proteinaceous intramembrane channels</a> lying within the membrane can span 
+									both lipid layers to allow passage of materials across the membrane.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="biofilm"></a>Biofilm </strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A thin layer of bacteria growing on a surface,  such as over the body cuticle, within the rectum or in the gut lumen. Sticky biofilms growing on the head or tail  of <em>C. elegans</em> can cause swelling of  the underlying hypodermis, interfere with feeding or defecation, and lead to  delays in growth, larval arrest or death (<a href="http://www.jbc.org/content/279/29/30440" target="_blank">H&ouml;flich et al., 2004</a>). Aging nematodes often show pronounced  swelling of the intestinal lumen due to infection.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="biolistictransformation"></a>Biolistic 
+									transformation</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A method 
+									to create transgenic lines in <i>C. elegans</i> by bombardment of live animal 
+									with DNA-coated gold microparticles (<a href="http://www.genetics.org/content/157/3/1217.long" target="_blank">Praitis 
+							  et al., 2001</a>).</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bipolar"></a>Bipolar</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">When referring to a neuron, that which has two processes extending directly from the soma.</p>
+										<p class="style58">Alternatively, a tissue which extends two equivalent processes from a common central region.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="birefringence" id="birefringence"></a><a href="http://www.molecularexpressions.com/optics/lightandcolor/birefringence.html" target="_blank">Birefringence</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A double refraction of light into two rays which occurs when it passes through certain types of material. In <em>C. elegans</em>, electron dense, birefringent structures are specifically noted in the intestine and are called <a href="../hermaphrodite/intestine/Images/intfig1leg.htm" target="_blank">gut granules</a>.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="blastcell"></a>Blast cell</strong></p></td>
+								<td valign=top class="style18"><p class="style58">Stem cell (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">An ancestral cell in a cell lineage that divides 
+									once or more to give rise to several daughter cells. The daughter cells 
+									may be of non-equivalent cell fates (as in the <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004015" target="_blank">AB</a> cell or the <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004458" target="_blank">MS</a> cell) or 
+									of equivalent cell fates, as in a mesoblast. Later in cell lineages, the 
+									descendants of individual blast cells may become further restricted, as 
+							  those of epidermoblasts (neuroblasts) and others.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="blastocoel" id="blastocoel"></a><a href="http://www.wormbook.org/chapters/www_gastrulation/gastrulationfig1.jpg" target="_blank">Blastocoel</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">The fluid-filled compartment inside the  developing embryo at the onset of gastrulation, surrounded by the early  blastomeres, into which some cells begin to migrate at gastrulation to create a  multi-layered embryo. This internal  space later is converted into the pseudocoelom as the embryo develops.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="blastomere"></a><a href="http://www.wormatlas.org/EMmethods/Images/EMFIBSEMfig2leg.htm" target="_blank">Blastomere</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">Any of the early cells that 
+									result from divisions of the fertilized oocyte. In some animal species, 
+									all blastomeres may have equivalent genetic potential and be interchangeable. 
+									However, in <i>C. elegans</i> early segregation of cytoplasmic and nuclear 
+									determinants give each blastomere a distinct identity, non-equivalent 
+									size and position. Early loss of any blastomere in <i>C. elegans</i> will 
+									result in a dead embryo since there is virtually no means to replace its 
+									subsequent lineage cells.</p>
+										<p class="style58"><br>
+											See <a href="aglossary.htm#abblastomere" target="_blank">AB 
+												blastomere</a><br>
+											See <a href="eglossary.htm#emsblastomere" target="_blank">EMS blastomere</a><br>
+											See <a href="fglossary.htm#foundercell" target="_blank">Founder cell</a><br>
+											See <a href="pglossary.htm#pcell" target="_blank">P blastomeres </a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="blastopore"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=dbio.figgrp.1782" target="_blank">Blastopore</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A hole in the ventral/posterior side of the embryo 
+									caused by the inward flow of cells during gastrulation. It is initially 
+									formed at the 26 cell stage by <a href="http://www.wormbook.org/chapters/www_gastrulation/gastrulationfig4.jpg" target="_blank">the movements of Ea and Ep</a>. Over time, 
+									the blastopore enlarges to form the &#147;ventral groove&#148;.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="blastula"></a><a href="http://www.wormbook.org/chapters/www_gastrulation/gastrulationfig1.jpg" target="_blank">Blastula</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">The embryonic stage at which gastrulation begins. 
+									At this time the entire embryo still consists of a single mass of cells, 
+									except for a small internal space, the blastocoel.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bleb"></a>Bleb</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A small 
+									protuberance of the cuticle in a localized spot, often near the lips or 
+							  tail tip. These often occur in certain mutant phenotypes, such as the <a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000409" target="_blank">vab&#146;s</a>.</p>
+										<p class="style58">Alternately, a small acellular protuberance which breaks off from a cell 
+											to create a cytoplast as viewed by light microscopy,  in some mutant embryos 
+											(<a href="http://jcb.rupress.org/content/121/6/1343.long" target="_blank">Hird 
+							  and White, 1993</a>).</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="blister"></a><a href="http://jcs.biologists.org/content/117/22/5209/F2.expansion.html" target="_blank">Blister</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58"> A local 
+									swelling or loosening of the cuticle (larger than a bleb), which can occur 
+									anywhere along the body. These often occur in certain mutant phenotypes, 
+									such as the vab&#146;s, or in normal animals as a precursor to a molt.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bodycavityneurons"></a>Body 
+									cavity neurons</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A set of sensory cells (<a href="../neurons/Individual Neurons/AQRframeset.html" target="_blank">AQR</a>, <a href="../neurons/Individual Neurons/PQRframeset.html" target="_blank">PQR</a>, <a href="../neurons/Individual Neurons/URXframeset.html" target="_blank">URX</a>) that respond to ambient  levels of oxygen and whose sensilla lie close to the pseudocoelomic cavity (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024217;class=Paper" target="_blank">Cheung  et al., 2004</a>).</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bodylobe"></a>Body 
+									lobe</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">See <a href="mglossary.htm#membranousorganelle" target="_blank">Membraneous 
+									organelle</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bodywallmuscle"></a><a href="../hermaphrodite/musclesomatic/MusSomaticframeset.html" target="_blank">Body 
+									wall muscle</a></strong></p></td>
+								<td valign=top class="style18"><p class="style58">Body 
+									muscle (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">The principal 
+									muscle cell type whose contractile activity generates body motion in the 
+									nematode. They consist of 95 unfused cells in the adult organized into <a href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" target="_blank">four 
+									muscle quadrants</a>. Their sarcomeres are obliquely striated and lie lengthwise 
+									along the bodywall. Body wall muscles send <a href="../hermaphrodite/muscleintro/Images/musfig6A-Fleg.htm" target="_blank">muscle arms</a> to motor neurons 
+									to receive innervation.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bordering"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec7_3" target="_blank">Bordering</a></strong></p></td>
+								<td valign=top class="style18"><p class="style58">Bor</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A common behavior observed in <em>C. elegans</em> when grown on a culture plate. Animals move actively and stop to feed, but tend to collect  preferentially on the edge (border) of the bacterial lawn, apparently where the  lawn is slightly thicker. Animals (mutants) that fail to collect at the border are known as &ldquo;nonBordering&rdquo;  animals, or Bor(-). Bordering and  social feeding are thought to be under the influence of an external pheromone  that is sensed by several amphid neurons (<a href="http://dx.doi.org/10.1038/nature01169" target="_blank">De Bono et al., 2002</a>), and by oxygen levels monitored by <a href="#bodycavityneurons">body cavity sense cells</a> (<a href="http://dx.doi.org/10.1038/nature01170" target="_blank">Coates and De Bono, 2002</a>; <a href="http://dx.doi.org/10.1038/nature02714" target="_blank">Gray et al., 2004</a>).</p>
+										<p class="style58"> <br>
+											See <a href="aglossary.htm#aerotaxis" target="_blank">Aerotaxis </a><br>
+											See <a href="pglossary.htm#pheromone" target="_blank">Pheromone</a> <br>
+											See <a href="sglossary.htm#socialfeeding" target="_blank">Social feeding </a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="boundaryzone"></a>Boundary 
+									zone</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">Thin region of demarcation 
+									within the cuticle that separates the overlying matrix layer from the 
+									fiber layers beneath it.</p>
+										<p class="style58"> <br>
+											See <a href="#basalzone">Basal zone</a><br>
+											See <a href="mglossary.htm#matrixlayer" target="_blank">Matrix layer</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bristolstrain" id="bristolstrain"></a>Bristol 
+									strain</strong></p></td>
+								<td valign=top class="style18"><p class="style58"><a href="http://www.wormbase.org/species/c_elegans/strain/N2 (ancestral)" target="_blank">N2</a> (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">One of the two most commonly 
+									studied strains of the nematode <i>Caenorhabditis elegans</i>, originally 
+									collected from the wild in Bristol, England by L.N. Staniland from mushroom compost&nbsp;(<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1959.tb36902.x/abstract" target="_blank">Nicholas et al., 1959</a>, <a href="http://www.sciencemag.org/content/141/3577/266.long" target="_blank">Fatt 
+										and Dougherty, 1963</a>). Reference copies are now stored frozen at the<a href="http://www.cbs.umn.edu/CGC/" target="_blank"> <i>C. elegans</i> Stock Center</a>, at the University of Minnesota, to 
+					    reduce the amount of possible genetic drift from generation to generation.</p>
+								  <p class="style58"><br>
+											See <a href="#bergeracstrain">Bergerac strain</a></p></td>
+							</tr>
+							<tr>
+								<td height="2" valign=top class="style18"><p class="style58"><strong><a name="brush"></a>Brush</strong></p></td>
+								<td height="2" valign=top class="style18"><p class="style58">Thrush 
+									(S)</p></td>
+								<td height="2" valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td height="2" valign=top class="style18"><p class="style58">Residual 
+									cytoplasts and/or membranous whorls and debris lying in the fan cuticle 
+									of the male tail after retraction; most probably derive from retreating 
+									hypodermal cells.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="brushborder"></a><a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank">Brush 
+							  border</a></strong></p></td>
+								<td valign=top class="style18"><p class="style58">Bacillary 
+									layer (archaic S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">The microvillar specialization 
+									at the apical zone of the intestine, including a densely packed set of 
+									parallel microvilli extending into the lumen from the plasma membrane, 
+									and a rugged layer of cytoskeletal elements which form a dense reinforcing 
+									layer, the terminal web, just beneath the microvilli.</p>
+										<p class="style58"><br>
+											See <a href="mglossary.htm#microvillus" target="_blank">Microvillus</a><br>
+											See <a href="tglossary.htm#terminalweb" target="_blank">Terminal web</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="buccalcapsule"></a><a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">Buccal 
+									capsule</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">The more 
+									anterior portions of the pharyngeal region, often subdivided into subregions 
+									of cheilostom, prostom (arcade), mesostom, metastom and telostom. Different 
+									authors may include all or only some of these regions when using the term. </p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="buccalcavity"></a><a href="../hermaphrodite/hypodermis/Images/hypfig11D-Fleg.htm" target="_blank">Buccal 
+									cavity</a></strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">A <a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">cuticle-lined 
+									lumenal region</a> which lies just behind the lips at the entrance to the pharyngeal 
+									lumen. Buccal cavity is surrounded by the pharyngeal epithelium and the 
+									arcade cells. The buccal cavity and the pharynx are separated by a cuticular 
+									constriction, the <a href="../hermaphrodite/pharynx/Images/phafig5DEleg.htm" target="_blank">flaps</a>. The nematode&#146;s food is consumed by entry into 
+									the digestive tract through the buccal cavity.</p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="buccalepithelium"></a><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Pharyngealepithelium3" target="_blank">Buccal 
+									epithelium</a></strong></p></td>
+								<td valign=top class="style18"><p class="style58">Pharyngeal 
+									epithelium (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">See <a href="pglossary.htm#pharyngealepithelium" target="_blank">Pharyngeal 
+									epithelium</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="buccalfilter"></a>Buccal 
+									filter</strong></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">Several cuticular specializations 
+									extend into the lumen of the pharynx and may act to trap food particles 
+									within the central portion of the lumen during pharyngeal pumping. Three 
+									outward channels, in turn, may permit excess fluids to be ejected from 
+									the corners of the lumen, thus concentrating food solids.</p>
+										<p class="style58"><br>
+											See <a href="cglossary.htm#channels" target="_blank">Channels</a><br>
+											See <a href="fglossary.htm#flaps" target="_blank">Flaps</a><br>
+											See <a href="gglossary.htm#grinder" target="_blank">Grinder</a><br>
+											See <a href="sglossary.htm#sieve" target="_blank">Sieve</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bulb"></a><a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">Bulb</a></strong></p></td>
+								<td valign=top class="style18"><p class="style58">Pharyngeal 
+									bulb (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">The tubular pharynx in <i>C. 
+									elegans</i> shows two enlarged spherical regions (bulbs) along its length 
+									which are separated by a narrower tube-shaped isthmus. First 
+									bulb = anterior bulb = metacorpus, and second bulb = posterior bulb = 
+									terminal bulb. In some other families of nematode, the pharynx may feature 
+									one bulb or none.</p>
+										<p class="style58"><br>
+											See <a href="iglossary.htm#isthmus" target="_blank">Isthmus</a></p></td>
+							</tr>
+							<tr>
+								<td valign=top class="style18"><p class="style58"><strong><a name="bursa"></a>Bursa</strong></p></td>
+								<td valign=top class="style18"><p class="style58">Male tail (S)</p></td>
+								<td valign=top class="style18"><p><span class="style45"><span class="style45"><span class="style45"><span class="style29"></span></span></span></span></p></td>
+								<td valign=top class="style18"><p class="style58">The adult male tail including the the lateral fan and rays.</p></td>
+							</tr>
+						</table>
+						<span class="picturename"><br>
+					</span></div>
+					</nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style11">This section should be cited as: Herndon, L.A., Altun, Z.F. and Hall, D.H. 2010. Glossary B. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.2">10.3908/wormatlas.6.2</a><br>
+					  Edited for the web by Laura A. Herndon. Last revision: October 3, 2013. </span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

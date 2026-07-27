@@ -1,0 +1,605 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary O</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - O </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style28"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style28"><font
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style28">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="102"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style28"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oneuron"></a>&quot;o&quot; neuron </font></strong></td>
+							<td valign=top><p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLLL;class=Cell" target="_blank">OLLL </a><br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLLR;class=Cell" target="_blank">OLLR</a> <br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLQDL;class=Cell" target="_blank">OLQDL</a> <br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLQDR;class=Cell" target="_blank">OLQDR</a> <br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLQVL;class=Cell" target="_blank">OLQVL</a> <br>
+									<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLQVR;class=Cell" target="_blank">OLQVR </a></p></td>
+							<td valign=top><p class="style26">ABalppppapaa<br>
+								ABpraaapapaa<br>
+								ABalapapapaa <br>
+								ABalapppapaa <br>
+								ABplpaaappaa<br>
+								ABprpaaappaa</p></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/OLLframeset.html" target="_blank">OLL</a> and <a href="../neurons/Individual Neurons/OLQframeset.html" target="_blank">OLQ</a> are  neurons of the outer labial lateral sensilla that have ciliated endings with striated rootlets. They are thought to be mechanosensory neurons. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="obligateparasite"></a>Obligate parasite </strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A parasitic  species that cannot live independently from its host.&nbsp;Converse is a facultative parasite.</p>
+									<p><br>
+										See <a href="fglossary.htm#facultativeparasite" target="_blank">Facultative parasite</a><br>
+										See <a href="cglossary.htm#commensal" target="_blank">Commensal</a><br>
+										See <a href="fglossary.htm#freeliving" target="_blank">Free living</a><br>
+										See <a href="mglossary.htm#mutualism" target="_blank">Mutualism</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oblique"></a>Oblique </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Situated in a slanting position; not transverse or longitudinal. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="obliquemuscle"></a><a href="../male/musclemale/jump.html?newLink=mainframe.htm&newAnchor=Obliquemuscles3" target="_blank">Oblique muscle</a> </font> </strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><em>C. elegans</em> have <a href="../male/musclemale/images/MaleMusFIG38.jpg" target="_blank">two bilateral pairs</a> of sex-specific oblique muscles that are located in the<a href="../male/musclemale/images/MaleMusFIG39.jpg" target="_blank"> adult male tail</a>: an <a href="../male/musclemale/images/MaleMusFIG40.jpg" target="_blank">anterior pair (aobL/R) and a posterior pair (pobL/R)</a>. Stimulation of the<a href="../male/musclemale/images/MaleMusFIG42.jpg" target="_blank"> PCS neuron</a> during mating results in shortening of the oblique muscles and is thought to facilitate changes the positioning of the tail during the mating process. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="obliquelystriated"></a>Obliquely striated </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A key feature of <a href="../hermaphrodite/musclesomatic/MusSomaticframeset.html" target="_blank">bodywall  muscles in <em>C. elegans</em></a> (and many other nematodes) in which the muscle filaments  (and the whole muscle cells) lie parallel to the body axis, but terminate at <a href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" target="_blank">staggered sets of dense bodies (Z bands)</a> running at an oblique angle to the length of the muscle. Each thin filament is anchored at a 6<sup>o</sup> angle to the Z band, whereas in striated muscles in higher animals, thin  filaments are usually anchored at 90<sup>o</sup> to the Z line. The dark staining refractile Z bands can be  seen as repeating rows of &ldquo;<a href="../hermaphrodite/musclesomatic/Images/musfig7leg.htm" target="_blank">striations</a>&rdquo; by light microscopy running at oblique  angles to the whole muscle cells. These  striations generally are organized in coordinate fashion among all muscle cells  within a quadrant, so that they transcend cell boundaries.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="ocellus"></a>Ocellus/ Ocelli </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A primitive light-sensing  organ found in many marine nematode  species. Although<em> C. elegans</em> is reported  to have a phototactic response (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000774;class=Paper" target="_blank">Burr, 1985),</a> it does not have an ocellus. Where present, the ocellus generally consists  of a lens, a stack of lamellae, and a pigment cup (eyespot) (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=1169872&query_hl=2&itool=pubmed_DocSum" target="_blank">Croll, 1975</a>; <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769503&query_hl=4&itool=pubmed_docsum" target="_blank">McLaren, 1976</a>; Bird and Bird, 1991).</p>
+									<p><br>
+										See <a href="eglossary.htm#eyespot" target="_blank">Eyespot</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="odontostyle"></a>Odontostyle</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif">Spear</font> (S)<font face="Arial, Helvetica, sans-serif"><br>
+							Onchiostyle (in Trichondorids)<a href="http://plpnemweb.ucdavis.edu/Nemaplex/images/digest7.gif" target="_blank"><br>
+									Stomatostylet</a> (in </font>Tylenchs)</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A very large retractable  tooth (<a href="http://www.inra.fr/internet/Produits/HYPPZ/ZGLOSS/6g---054.htm" target="_blank">stylet</a>) found in some other nematode species (<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=quicktourdiversity&rendertype=figure&id=A6737" target="_blank">Dorylaims</a>),  but not in <em>C. elegans</em>, used to pierce plant or animal prey before feeding. It is operated by stylet muscles to extend or  retract, and is generally hollow (<a href="http://www.wormbook.org/chapters/www_quicktourdiversity/quicktourdiversity.html" target="_blank">De Ley, 2006</a>).</p>
+									<p><br>
+										See <a href="sglossary.htm#stomatostyle" target="_blank">Stomatostyle</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="odorant"></a>Odorant</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A volatile chemical moiety  that can cross tissues to stimulate a buried sensory ending and induce a  behavioral change, either attractive or repulsive.</p>
+									<p> <br>
+										See <a href="aglossary.htm#attractant" target="_blank">Attractant</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oeneuron"></a><a href="../neurons/Individual Neurons/RIPframeset.html" target="_blank">Oe neuron</a> </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="http://www.wormbase.org/db/cell/cell.cgi?name=RIPL;class=Cell" target="_blank">RIPL</a> <br>
+									<a href="http://www.wormbase.org/db/cell/cell.cgi?name=RIPR;class=Cell" target="_blank">RIPR</a> </font></td>
+							<td valign=top><span class="style26">ABalpapaaaa<br>
+								ABprappaaaa</span></td>
+							<td valign=top><p>These neurons provide, through their gap junctions, the only direct connections between the pharyngeal nervous system and the nerve ring. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="olfaction"></a>Olfaction</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Sense of smell. <em>C. elegans</em> can distinguish at least seven classes of volatile odors. Two pairs of amphid sensory neurons, <a href="../neurons/Individual Neurons/AWCframeset.html" target="_blank">AWC</a> and <a href="../neurons/Individual Neurons/AWAframeset.html" target="_blank">AWA</a> are required for chemotaxis to these volatile odors (<a href="http://www.wormbook.org/chapters/www_chemosensation/chemosensation.html#sec1" target="_blank">Bargmann, 2006</a>).</p>
+									<p><br>
+										See <a href="cglossary.htm#chemosensation" target="_blank">Chemosensation</a><br>
+										See <a href="tglossary.htm#taste" target="_blank">Taste</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="olfactoryreceptor"></a>Olfactory receptor </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The <em>C. elegans</em> genome is predicted to encode over 600 functional chemosensory receptor genes. Unlike vertebrate olfactory neurons which each only express one or very few olfactory receptors, <em>C. elegans</em> chemosensory neurons express multiple receptor genes (<a href="http://www.wormbook.org/chapters/www_chemosensation/chemosensation.html" target="_blank">Bargmann, 2006</a>). Studies with olfactory mutants linked a single <a href="http://www.wormbase.org/db/gene/homology_group?name=LSE0498;class=Homology_group" target="_blank">7-transmembrane olfactory receptor</a> gene, <em><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00003856;class=Gene" target="_blank">odr-10</a></em>, to the volatile attractant <a href="http://en.wikipedia.org/wiki/Diacetyl" target="_blank">diacetyl</a> and found that it is expressed in <a href="../neurons/Individual Neurons/AWAframeset.html" target="_blank">AWA</a><a href="http://www.wormatlas.org/ver1/neurons.htm/awa.htm" target="_blank"></a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002421;class=Paper" target="_blank">Sengupta et al., 1996</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="omegafigure"></a>Omega figure </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An intermediate stage in the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2389" target="_blank">formation of vesicles</a> during endocytosis and exocytosis. </p>
+									<p><br>
+										See <a href="cglossary.htm#coatedpit" target="_blank">Coated pit</a><br>
+										See <a href="vglossary.htm#vesiclefusion" target="_blank">Vesicle fusion </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="omegaturn"></a>Omega turn </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font>Omega bend</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellipodium"><p>A behavior in which the  animal avoids further contact with an aversive stimulus by making a sharp 180<sup>o</sup> turn while continuing to utilize forward body motion, rather than a reversal (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=1169872&query_hl=20&itool=pubmed_DocSum" target="_blank">Croll, 1975</a>).</p>
+									<p><br>
+										See <a href="dglossary.htm#deepventralbend" target="_blank">Deep ventral bend</a><br>
+										See <a href="pglossary.htm#pirouette" target="_blank">Pirouette </a><br>
+										See <a href="rglossary.htm#reversal" target="_blank">Reversal</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="onchia"></a>Onchia/ Onchium </strong></td>
+							<td valign=top>Buccal teeth (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p> Large cuticular &ldquo;teeth&rdquo; described from larger nematodes  (Chitwood and Chitwood, 1950, after Cobb, 1919) that perhaps correspond to the <a href="../hermaphrodite/pharynx/Images/phafig5DEleg.htm" target="_blank">buccal flaps</a> seen in <em>C. elegans</em> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000531;class=Paper" target="_blank">Wright and Thomson,  1981</a>). In some species they may swivel or retract to  help in feeding (<a href="http://www.wormbook.org/chapters/www_quicktourdiversity/quicktourdiversity.html" target="_blank">De Ley, 2006</a>).</p>
+									<p><br>
+										See <a href="fglossary.htm#flaps" target="_blank">Flaps</a><br>
+										See <a href="tglossary.htm#tooth" target="_blank">Tooth</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="oocyte"></a><a href="../hermaphrodite/germ line/Images/germfig1leg.htm" target="_blank">Oocyte</a></font></b></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font>Ovum/ Ova </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The female haploid gamete prior to fertilization by a spermatozoon.  Two haploid gametes (oocyte and sperm) combine to produce the single-cell diploid embryo. The female gamete is generally equivalent to  what would be termed a secondary oocyte in higher animals, being formed after  the meiotic division of a diploid germ cell. As the <a href="../hermaphrodite/germ line/jump.html?newLink=mainframe.htm&newAnchor=Oocytematurationovulationandferilzation4" target="_blank">oocyte matures</a>, it remains in syncytial contact with the rachis  to gain nutrients and organelles from nearby gametes, many of which will undergo <a href="../hermaphrodite/germ line/jump.html?newLink=mainframe.htm&newAnchor=Germlineprogrammedcelldeaths3" target="_blank">germline programmed cell death</a> after sharing these components with the surviving oocyte</p>
+									<p>The term is also frequently used to refer to a  &ldquo;fertilized oocyte&rdquo;, which is then the diploid cell resulting from the  fertilization event and is actually an early embryo.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oocyterecognition"></a>Oocyte recognition </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Process by which a sperm  recognizes the proximity of an immature oocyte and attempts to fuse with it to  initiate fertilization (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.chapter.370" target="_blank">L&rsquo;Hernault, 1997</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oogenesis"></a>Oogenesis</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The process by which  immature germ cell mature into oocytes within the somatic gonad (for more detail see <a href="http://www.wormbook.org/chapters/www_controloocytematuration/controloocytematuration.html" target="_blank">Greenstein, 2005</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oogonium"></a>Oogonium/ Oogonia </font></strong></td>
+							<td valign=top>(archaic)<font face="Arial, Helvetica, sans-serif">&nbsp; </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A female germ cell, a  precursor that must divide several times in order produce one or more mature  oocytes. In <em>C. elegans</em>, these are female germ cells lying in the unsheathed  portion of the distal arm of the gonad.</p>
+									<p><br>
+										See <a href="gglossary.htm#germcell" target="_blank">Germ cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oolemma"></a><a href="../hermaphrodite/pericellular/Images/perifig5leg.htm" target="_blank">Oolemma/ Oolema </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>This term has two  different possible meanings, of which the former one is more common:&nbsp;</p>
+									<p><strong>1)</strong> The plasma membrane of the developed  oocyte just prior to fertilization, including its &ldquo;surface coat&rdquo; of glycoproteins  (Lee and Lestan, 1971;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=4578996&query_hl=20&itool=pubmed_DocSum" target="_blank"> McLaren, 1973</a>; <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769504&query_hl=22&itool=pubmed_DocSum" target="_blank">Anya, 1976</a>). Some of the glycoprotein  coating may be contributed by secretions from the somatic gonad.</p>
+								<p><strong>2) </strong>The portion of the eggshell that is derived from  secretions of the uterus (Bird and Bird, 1991). This usually includes the outer vitelline  layer.</p>
+								<p><br>
+									See <a href="uglossary.htm#uterinelayer" target="_blank">Uterine layer</a><br>
+									See <a href="vglossary.htm#vitellinelayer" target="_blank">Vitelline layer</a><br>
+									See <a href="zglossary.htm#zonapellucida" target="_blank">Zona pellucida</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="op50"></a><a href="http://wormbase.org/db/gene/strain?name=OP50;class=Strain" target="_blank">OP50</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A commonly used strain of <em>E. coli</em> used to feed <em>C. elegans</em> on culture  plates. Due to a metabolic defect in the  bacterium, this strain is limited in its growth potential. Hence the OP50 bacterial strain does not  continue to grow too much (overgrow), producing a reproducible &ldquo;lawn&rdquo; of  bacteria on the surface of the agar that becomes exhausted as nematodes consume  the original lawn (<a href="http://www.wormbook.org/chapters/www_strainmaintain/strainmaintain.html#d0e164" target="_blank">Stiernagle, 2006</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oralcavity"></a>Oral cavity </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="bglossary.htm#buccalcavity" target="_blank">Buccal cavity </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="orfeome"></a><a href="http://worfdb.dfci.harvard.edu/" target="_blank">ORFeome</a></font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The  complete collection of open reading frame sequences (ORFs) within the genome of  a given animal, which may be expressed at any time in the animal&rsquo;s  developmental history.</p>
+									<p><br>
+										See <a href="gglossary.htm#genome" target="_blank">Genome</a><br>
+										See <a href="pglossary.htm#proteome" target="_blank">Proteome</a><br>
+										See <a href="tglossary.htm#transcriptome" target="_blank">Transcriptome</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="organizingcenter"></a>Organizing center/ Organizer </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A cell whose intercellular signaling activities induce the position and/or  orientation of morphogenesis in a nearby tissue, acting in cell nonautonomous  fashion. Examples known in <em>C. elegans</em> development could include the role of the anchor cell in guiding the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">AC/VU</a> decision and the role of the <a href="../hermaphrodite/somatic gonad/Images/somaticfig2Aleg.htm" target="_blank">DTC</a> in organizing the polarity of the gonad.<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="orifice"></a>Orifice</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The opening of a cavity or chamber. <a 
+href="http://www.wormatlas.org/ver1/glossaries/nglossary.htm" 
+target="_blank"></a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="orthokinesis"></a>Orthokinesis</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Any kinesis mechanism in  which the forward speed is changed. In <em>C. elegans</em>, the animal&rsquo;s slower forward motion when moving on a lawn of  bacteria could be considered an example of  orthokinesis (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000475;class=Paper" target="_blank">Dusenbery, 1980</a>).</p>
+									<p><br>
+										See<a href="kglossary.htm#kinesis" target="_blank"> Kinesis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="osmiophilicgranules" id="osmiophilicgranules"></a>Osmiophilic granules </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Something that is  readily stained with osmic acid, a fixative commonly used in electron microscopy and which appears electron opaque. <a href="../hermaphrodite/coelomocyte/Images/ccfig5leg.htm" target="_blank">Yolk granules</a> are an example of such kinds of bodies. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="osmoregulation"></a>Osmoregulation</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Active regulation of osmotic pressure to maintain homeostasis of the body's water content. Regular pulsations have been  noted in the <a href="../hermaphrodite/excretory/jump.html?newLink=mainframe.htm&newAnchor=Ductcell4" target="_blank">excretory duct</a> by light microscopy in <em>C. elegans</em> and other species  under certain conditions that suggest the <a href="../hermaphrodite/excretory/Excframeset.html" target="_blank">excretory system</a> is required for  osmoregulation (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000706;class=Paper" target="_blank">Nelson and Riddle, 1984</a>; Bird and Bird, 1991). These pulsations are only seen in dauer  larvae in <em>C. elegans</em>, but have been noted to vary in rate according to the  tonicity of the environment surrounding the whole animal, suggesting that  outflow from the canal cell regulates the water balance of the whole animal. Some researchers believe that the amphid sheath cell may also  play a role in osmoregulation in some nematode species (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000822;class=Paper" target="_blank">Wright, 1980</a>; <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=15275212&query_hl=29&itool=pubmed_docsum" target="_blank">Ashton  and Schad, 1996</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="osmoticavoidance"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec3" target="_blank">Osmotic avoidance</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#membranousorganelle"><p>Avoidance of high osmolarity. An observed behavior in  normal <em>C. elegans</em> individuals in which they prefer not to enter regions of high  osmotic pressure (such as high salt) (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000082;class=Paper" target="_blank">Culotti and Russell, 1978</a>; <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html" target="_blank">Hart, 2006</a>). Normal animals can be confined on a culture plate by a relatively narrow  ring of high salt in the agar that they will not cross, but dauer larvae are  more willing to pass over the barrier to sample new territory.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="outcross"></a>Outcross</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a 
+href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The sexual mating of two  unrelated strains in order to introduce a desired genetic feature from one  parental strain into the second strain.&nbsp;An outcross is typically followed by repeated backcrosses into the  second strain in order to &ldquo;fix&rdquo; the gene in the new genetic background as a  homozygote, while reducing and then eliminating contributions by all other  non-selected genes from original parent strain. Outcrossing in <em>C. elegans</em> is relatively  infrequent in wild populations, but is required in male/female species in each  generation, resulting in drastically different levels of genetic diversity  within wild populations (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005273;class=Paper" target="_blank">Graustein et al., 2002</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026648;class=Paper" target="_blank">Barri&egrave;re and F&eacute;lix, 2005</a>).<br>
+								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+									<p>See <a href="bglossary.htm#backcross" target="_blank">Backcross</a><br>
+										See<a href="cglossary.htm#crossing" target="_blank"> Crossing </a><br>
+										See <a href="sglossary.htm#selfing" target="_blank">Selfing</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="outerlabilasensilla"></a><a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Outerlabialsensilla34" target="_blank">Outer labial sensilla</a> </font></strong></td>
+							<td valign=top><p>OLs</p>
+									<p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLLL;class=Cell" target="_blank">OLLL</a> <br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLLR;class=Cell" target="_blank">OLLR </a><br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLQDL;class=Cell" target="_blank">OLQDL</a> <br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLQDR;class=Cell" target="_blank">OLQDR</a> <br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLQVL;class=Cell" target="_blank">OLQVL</a> <br>
+									<a href="http://www.wormbase.org/db/cell/cell.cgi?name=OLQVR;class=Cell" target="_blank">OLQVR</a> </p></td>
+							<td valign=top><p class="style26">&nbsp;</p>
+									<p class="style26">ABalppppapaa<br>
+										ABpraaapapaa<br>
+										ABalapapapaa <br>
+										ABalapppapaa <br>
+										ABplpaaappaa <br>
+										ABprpaaappaa</p></td>
+							<td valign=top><p>They can be subdivided into  two groups, the lateral (<a href="../neurons/Individual Neurons/OLLframeset.html" target="_blank">OLL</a>) and the quadrant (<a href="../neurons/Individual Neurons/OLQframeset.html" target="_blank">OLQ</a>) labial sensilla.</p>
+									<p><br>
+										See <a href="iglossary.htm#innerlabialsensilla" target="_blank">Inner labial sensilla</a><br>
+										See <a href="lglossary.htm#labial" target="_blank">Labial</a><br>
+										See <a href="http://www.wormatlas.org/ver1/handbook/hypodermis/IL.OLimagegallery.htm" target="_blank">Labial sensilla image gallery</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="outervitellinelayer"></a><a href="../hermaphrodite/pericellular/Images/perifig5leg.htm" target="_blank">Outer vitelline layer </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The outermost portion of the eggshell. Some  or all of the outer vitelline layer may derive from secretions  from the uterine epithelium.</p>
+									<p><br>
+										See <a href="vglossary.htm#vitellinelayer" target="_blank">Vitelline layer</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ova"></a>Ova/ Ovum </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The haploid female gamete,  or oocyte, prior to fertilization. More  rarely, sometimes may be used to refer to a fertilized egg (zygote).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ovary"></a><a href="../hermaphrodite/germ line/Images/germfig1leg.htm" target="_blank">Ovary</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>That portion of the  reproductive tract that contains the mitotic germline and developing  oocytes. It includes the  distal arm of the gonad, the loop, and the proximal arm up to the  spermatheca. The distal arm of the  reproductive tract has also been termed the distal ovary, and comprises the  germinal zone in the adult gonad.</p>
+									<p><br>
+										See <a href="#oviduct">Oviduct</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ovariansheath"></a><a href="../hermaphrodite/somatic gonad/jump.html?newLink=mainframe.htm&newAnchor=Gonadalsheathcells3" target="_blank">Ovarian sheath</a> </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"> Gonadal sheath (S) <br>
+								Oviduct sheath (S) <br>
+								Somatic sheath (S) </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A single layer (composed of <a href="../hermaphrodite/somatic gonad/Images/somaticfig5leg.htm" target="_blank">5 pairs of cells</a>) that covers the germ line component of each arm of the gonad. These somatic cells are intimately associated with the ovary and help promote germline proliferation and gametogenesis.</p>
+									<p><br>
+										See <a href="gglossary.htm#gonadsheath" target="_blank">Gonad sheath </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="overcrowding"></a>Overcrowding</font></b></td>
+							<td valign=top><p>Crowding (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A situation when there are too many nematodes to be supported by amount of food and space. This will usually lead to dauer formation.</p>
+									<p><br>
+										See <a href="dglossary.htm#dauerformation" target="_blank">Dauer formation </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oviduct"></a>Oviduct</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The proximal arm of the reproductive  tract, or a portion of the proximal arm.&nbsp;This term has two conflicting usages. Some authors (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>) use the term to  encompass both the gonadal sheath, the spermatheca, and the uterus, those  portions of the gonad which contain maturing oocytes and fertilized eggs, and  deriving from the somatic gonad lineages. Other authors (for instance <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.chapter.437" target="_blank">Kemphues and Strome, 1997</a>) use the term to  refer specifically to the more distal portions where immature oocytes are  generated, thus referring only to the somatic sheath portion. This term probably never refers to the  unsheathed portion of the distal arm.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ovijector"></a>Ovijector</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An elongated muscular  form of the uterus known in some parasitic nematodes such as <em>Ascaris suum</em>, designed to propel  fertilized eggs out of the animal (Seurat, 1920; <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769503&query_hl=20&itool=pubmed_docsum" target="_blank">McLaren, 1976</a>). This corresponds roughly to  the proximal uterus and vulva of <em>C. elegans</em>, but the um and uv muscles seem  underdeveloped compared to some other species.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oviparous"></a>Oviparous</font></strong></td>
+							<td valign=top><p>Egg laying species (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Producing eggs which are  laid outside the body prior to hatching.&nbsp;Species&nbsp; bearing live young  without forming an eggshell around the intermediate embryonic stage are called  &ldquo;viviparous&rdquo;.</p>
+									<p> <br>
+										See <a href="#ovoviviparous">Ovoviviparous</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oviposition"></a>Oviposition/ Oviposit </font></strong></td>
+							<td valign=top><p>Egg laying </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The behavioral sequence  involved in egg-laying, including any muscle movements that propel the egg  along the length of the uterus, and those muscle movements which expel the egg  from the vulva (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000635;class=Paper" target="_blank">Trent et al., 1983</a>).</p>
+									<p><br>
+										See <a href="eglossary.htm#egglaying" target="_blank">Egg laying</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ovotestis"></a>Ovotestis</font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Gonad that produces both male and female gametes. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ovoviviparous"></a>Ovoviviparous</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Producing eggs (having  well-defined eggshells) which then hatch internally, known as a &ldquo;bag of worms&rdquo; phenotype. This condition is sometimes seen in  very old <em>C. elegans</em>, which are otherwise oviparous, but whose egg laying abilities   decline late in reproductive life. Many egl mutations interfere with  normal egg laying behavior and can lead an ovoviviparous state,  where internal &ldquo;hatchees&rdquo; (L1 stage young) break  out of the uterus and begin to eat the tissues of mother.</p>
+									<p><br>
+										See<a href="#oviparous"> Oviparous </a><br>
+										See <a href="bglossary.htm#bagofworms" target="_blank">Bag of worms</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, 
+Helvetica, sans-serif"><a name="ovulation"></a><a href="http://www.sciencemag.org/content/vol291/issue5511/images/data/2144/DC1/wild_type_ovulation.mov" target="_blank">Ovulation</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>After oocyte maturation, signals from the oocyte stimulate contractions by the sheath and dilation of the spermatheca. The spermatheca is pulled over the oocyte leading to penetration and fertilization of the oocyte by a sperm cell. </p>
+									<p><br>
+										See <a href="eglossary.htm#egglaying" target="_blank">Egg laying </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="oxygensensing"></a>Oxygen sensing </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A chemokinesis  behavior in which the animal responds to exogenous oxygen concentration by  altering its rate of motion and turning to try to remain within a certain preferred  range of oxygen. Animals typically  prefer to remain within the range of 5-16% dissolved oxygen, but this preference  can adapt (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026600;class=Paper" target="_blank">Cheung et al., 2005</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024211;class=Paper" target="_blank">Gray et al., 2004</a>). Oxygen levels are detected by several body  cavity neurons (<a href="../neurons/Individual Neurons/AQRframeset.html" target="_blank">AQR</a>, <a href="../neurons/Individual Neurons/PQRframeset.html" target="_blank">PQR</a>, <a href="../neurons/Individual Neurons/URXframeset.html" target="_blank">URX</a>).</p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: September 19, 2011. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary O. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.15</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

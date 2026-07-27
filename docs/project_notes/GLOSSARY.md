@@ -20,6 +20,11 @@
 | L1–L4 | Larval stages 1 through 4 of C. elegans development | |
 | Adult | The sexually mature stage following L4 | |
 | Dauer | An alternative L3 larval stage; stress-induced, long-lived | |
+| Developmental stage (database) | The `developmental_stage` column on
+anatomical entity records uses exactly these values: `embryo`, `L1`,
+`L2`, `L3`, `L4`, `dauer`, `adult`, `all`. `dauer` is an alternative L3
+stage, not a separate numbered stage. `all` marks entities that are not
+stage-specific. | See decisions.md → anatomical_entities Table Schema | |
 
 ---
 
@@ -156,13 +161,6 @@ user's search question. Mixing these degrades search quality |
 
 ---
 
-## Part 3: URL & Slug Conventions
-
-Cell and neuron names in URLs follow these rules:
-- Preserve case where scientifically significant (e.g., ASEL not asel)
-- Use hyphens as word separators in URL paths
-- Do not encode scientific notation in slugs — spell out if needed
-
 Example URL patterns:
 ```
 /c-elegans/hermaphrodite/nervous/neurons/ASEL
@@ -171,3 +169,56 @@ Example URL patterns:
 /figures/IntFIG1
 /references/Kimble1983
 ```
+
+### content_id Construction (data-content-id attribute)
+
+`content_id` is the internal identifier stored on every content page's
+root `<article>` element (`data-content-id`) and in the `content_pages`
+database table. It is distinct from the URL path (see URL patterns above)
+though built from the same underlying values.
+
+**Pattern:**
+```
+[species-abbreviation]-[sex-abbreviation]-[subsystem]
+```
+
+**Species abbreviations:**
+| Species | Abbreviation |
+|---|---|
+| C. elegans | elegans |
+| P. pacificus | ppacificus |
+| S. stercoralis | sstercoralis |
+
+**Sex abbreviations:**
+| Sex | Abbreviation |
+|---|---|
+| hermaphrodite | h |
+| male | m |
+| both (sex-independent content) | b |
+
+**Examples:**
+```
+elegans-h-intestine        → C. elegans, hermaphrodite, intestine
+elegans-m-intestine        → C. elegans, male, intestine
+elegans-b-nerve-ring       → C. elegans, sex-independent, nerve ring
+ppacificus-h-pharynx       → P. pacificus, hermaphrodite, pharynx
+```
+
+**Rules:**
+- Every content page must have a `content_id` following this exact
+  pattern — no ad hoc variations.
+- A subsystem that genuinely differs by sex (anatomy is not identical
+  between male and hermaphrodite) gets separate pages with separate
+  `content_id`s, one per sex.
+- A subsystem with sex-independent content gets a single page using
+  the `b` (both) abbreviation — do not create duplicate `h` and `m`
+  pages with identical content.
+- This pattern is enforced at the database level by a compound
+  `UNIQUE(species, sex, system, subsystem)` constraint on the
+  `content_pages` table (see decisions.md → Figures Base Table, Join
+  Tables, and Content Pages Table) — a mistyped or duplicated
+  `content_id` cannot silently create a second row for the same
+  species/sex/system/subsystem combination.
+- If a new species or subsystem naming need arises that this pattern
+  doesn't cover, flag it for team discussion before inventing a new
+  abbreviation — do not guess.

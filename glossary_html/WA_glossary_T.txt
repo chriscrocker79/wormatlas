@@ -1,0 +1,951 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary T</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - T </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style28"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style28"><font
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style28">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="102"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style28"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="t"></a><a href="../male/hypodermis/images/MaleHypFIG1.jpg" target="_blank">T cell</a> </font></strong></td>
+							<td valign=top><p><a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=FLPL;class=Cell"></a>Tail precursor cell (S) </p></td>
+							<td valign=top><span class="style26"><a href="http://www.wormbase.org/db/cell/cell.cgi?name=tl;class=Cell" target="_blank">TL</a><br>
+									<a href="http://www.wormbase.org/db/cell/cell.cgi?name=tr;class=Cell" target="_blank">TR</a> </span></td>
+							<td valign=top><p>Tail lateral ectoblasts  that give rise to neurons, hypodermis and glial lineages. While initially identical, after the L2 lethargus <a href="../male/hypodermis/images/MaleHypFIG3A.jpg" target="_blank">the T cell lineages</a> become markedly different  between <a href="http://www.wormatlas.org/ver1/postemblin_1977/art/fl19.jpg" target="_blank">males</a> and <a href="http://www.wormatlas.org/ver1/postemblin_1977/art/fl12.jpg" target="_blank">hermaphrodites</a> helping to provide the sexually dimorphic tail structures found in males. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ttubule"></a><a href="../hermaphrodite/muscleintro/Images/musfig2leg.htm" target="_blank">T tubule </a></font></strong></td>
+							<td valign=top>Transverse tubule (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A  tubular  compartment found in vertebrate muscle cells, extending inward from the plasma membrane in the  region near the sarcomeres, probably separate from the SER compartment. These tubules are thought to form a network of membranes that penetrate and span the cross section of each muscle promoting the propagation of  contractile (electrical) signals from the surface membrane directly to the  region of the muscle filaments. Identical structures have not been identified in <em>C. elegans</em>, but there is a component of sarcoplasmic reticulum in <a href="../hermaphrodite/musclesomatic/MusSomaticframeset.html" target="_blank">bodywall muscle</a> which may serve parallel functions, running as thin tubules near the <a href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" target="_blank">sarcomeres</a> and the <a href="../hermaphrodite/musclesomatic/Images/musfig11leg.htm" target="_blank">dense bodies</a>. </p>
+									<p><br>
+										See <a href="sglossary.htm#sarcoplasmicreticulum" target="_blank">Sarcoplasmic reticulum</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tadpolestage"></a><a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">Tadpole stage</a></font></strong></td>
+							<td valign=top>1.5 fold stage (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A &quot;tadpole&quot; looking embryonic stage in which the late gastrula consists of an  enlarged anterior end (stomodeum) with a narrower, and more opaque, bit of tail  lying just behind it within the eggshell.&nbsp;The elongation phase (and continued cellular morphogenesis)  gradually converts the tadpole-like gastrula into a larval shape and the buccal cavity becomes apparent.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="tail"></a><a href="../hermaphrodite/introduction/IMAGES/introfig3leg.htm" target="_blank">Tail</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The most posterior region of  the body. The anterior bound of the tail  is ill defined though it might be marked as far forward as the position of the  post-deirids, or as far posterior as the opening of the anus.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tailbleb"></a>Tail bleb <a href="http://www.wormatlas.org/ver1/handbook/fig.s/GerFIG3D.jpg" target="_blank"></a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Any irregular swelling of  the extreme tail tip, usually caused by a local defect in the normal smooth  tapering of the hypodermis and/or cuticle.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tailcurling"></a>Tail curling <a href="http://www.wormatlas.org/ver1/Ware_build0.2/art/fig17_large.jpg" target="_blank"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="cglossary.htm#curl" target="_blank">Curl</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tailknob"></a>Tail knob </font></strong></font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A common mutant phenotype  in which the thin tapering of the tail whip is interrupted by a bulbous growth,  often near the extreme tip (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027716;class=Paper" target="_blank">Rio-Albrectsen et al., 2006</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tailseam"></a>Tail seam </font></strong></font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The more posterior members  of the seam cells along the lateral bodywall which do not fuse with the hypodermal syncytium.&nbsp;In the<a href="../male/hypodermis/MaleHypframeset.html" target="_blank"> adult male seam</a>, the 3 most posterior members on each side (<a href="../male/hypodermis/images/MaleHypFIG1.jpg" target="_blank">V5, V6 and T</a>) follow a  different<a href="../male/hypodermis/images/MaleHypFIG3A.jpg" target="_blank"> cell fate</a> from the other seam cells, acting as stem cells to create  the sensory rays. In late L4 the posterior daughters of the ray precursor cells (<a href="../male/hypodermis/images/MaleHypFIG3A.jpg" target="_blank">R1.p-R5.p</a>) <a href="../male/hypodermis/images/MaleHypFIG5.jpg" target="_blank">fuse together, appear seam-like and are called the tail seam SET</a> (<a href="http://www.wormatlas.org/ver1/Sulston%20postembmale_1980/toc.html" target="_blank">Sulston et al., 1980</a>). The tail seam does not produce alae.</p>
+									<p><br>
+										See <a href="sglossary.htm#set" target="_blank">SET</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tailspike"></a><a href="../hermaphrodite/atypical/jump.html?newLink=mainframe.htm&newAnchor=Tailspikescaffoldcells2" target="_blank">Tail spike </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26">ABplppppppa<br>
+								ABprppppppa</span></td>
+							<td valign=top><p>A <a href="../hermaphrodite/atypical/Images/atypfig4leg.htm" target="_blank">pair of short-lived hyp  cells</a> in the tail tip which fuse to form a syncytium and then form a slender bundle of  filaments over which the tail tip cuticle forms. These cells undergo cell death  after 6 hours, leaving behind a narrow spike of cuticle (<a href="http://www.wormatlas.org/ver1/Sulstonemblin_1983/toc.html" target="_blank">Sulston et al.,  1983</a>). This thin cuticle specialization  is often called the tail spike, while the cells may be called the tail spike  cells. The posterior process of the tail  spike  has the appearance of <a href="../hermaphrodite/atypical/Images/atypfig4leg.htm" target="_blank">a cilium filled with microtubules and  wrapped by hyp10</a>.</p>
+									<p><br>
+										See <a href="#tailtip">Tail tip</a><br>
+										See <a href="sglossary.htm#scaffoldcell" target="_blank">Scaffold cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tailtip"></a><a href="../hermaphrodite/introduction/IMAGES/introfig3leg.htm" target="_blank">Tail tip</a> </font></strong></td>
+							<td valign=top>Tail spike (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td align="left" valign=top><p>The most posterior portion  of the tail, usually referring to that portion lying posterior to the phasmid  openings. In all <a href="http://www.nyu.edu/projects/fitch/Wildtyp.gif" target="_blank">hermaphrodites and in younger males</a> the tail tip adopts a very  long tapered shape ending in a thin spike that may represent some 10-15% of the  total body length (proportionately longer in hermaphrodites than in young  males). The tail whip is the finest,  thinnest part of the tail tip, more flexible than that portion near the  phasmids.</p>
+									<p>The tail tip is initially shaped by the <a href="../hermaphrodite/atypical/jump.html?newLink=mainframe.htm&newAnchor=Tailspikescaffoldcells2" target="_blank">tail spike cells</a> which undergo programmed cell death late in embryogenesis and leave a narrow spike of cuticle. </p>
+								<p>During the maturation of the male, <a href="../male/hypodermis/images/MaleHypFIG5.jpg" target="_blank">the tail tip undergoes  retraction</a> in late L4 stage and then <a href="../male/hypodermis/images/MaleHypFIG10.jpg" target="_blank">hypodermal remodeling</a> to form the fan, rays, bursa, and copulatory  apparatus of the <a href="../male/epithelial/images/MaleEpiFIG1.jpg" target="_blank">adult male tail</a>.&nbsp;Sensory endings of the immature male tail (such as those of <a href="../neurons/Individual Neurons/PHCframeset.html" target="_blank">PHC</a> and<a href="../neurons/Individual Neurons/PLMframeset.html" target="_blank"> PLM</a>)  also become retracted and no longer extend into the posterior fan in the adult.</p>
+								<p><br>
+									See <a href="rglossary.htm#retraction" target="_blank">Retraction</a><br>
+									See <a href="#tailwhip">Tail whip</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tailwaving"></a>Tail waving </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellipodium"><p>See <a href="nglossary.htm#nictation" target="_blank">Nictation </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="tailwhip"></a>Tail whip </font></b></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The thinnest part of the  tail tip of the hermaphrodite, at the extreme posterior end, which is so narrow that it easily bends  and flexes upon itself as the animal moves. The tail whip contains a few putative sensory endings (<a href="../neurons/Individual Neurons/PHCframeset.html" target="_blank">PHC</a>, nonciliated)  surrounded only by a thin coating of hypodermis and the cuticle. These neuronal endings probably bend by 180&deg; when the animal reverses direction, and may be activated by this bending.</p>
+									<p><br>
+										See<a href="#tailtip"> Tail tip</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tapresponse"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_6" target="_blank">Tap response </a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Tap reflex (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A form of touch  response that is elicited by repetitively hitting the culture plate to  stimulate a behavioral response involving the touch dendrites. One can see this response by tapping the  plate by hand, or hitting it against the microscope stage, but mechanical  devices have been built to generate very reproducible repetitive taps (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001251;class=Paper" target="_blank">Rankin  et al., 1990</a>). It is an excellent means  to study behavioral <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec5_1" target="_blank">habituation </a>and dishabituation (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_6" target="_blank">Rankin, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="taste"></a>Taste<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=paramyosin+AND+ce2%5Bbook%5D+AND+1479%5Buid%5D&rid=ce2.figgrp.547" target="_blank"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A form of chemosensation by which <em>C. elegans</em> can detect food and other environmental cues (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00006481;class=Paper" target="_blank">Hilliard et al., 2004</a>). Taste and olfaction have been used to learning and habituation assays (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec4" target="_blank">Jansen, 2005</a>; <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec5_7" target="_blank">Law and van der Kooy, 2005</a>) . </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="taxis"></a>Taxis</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An action that results in the  animal orienting in response to a stimulus. This can be to move towards it (positive taxis)  or away from it (negative taxis). Positive chemotaxis usually results in the  animal traveling towards a higher concentration of a chemical signal. <em>C. elegans</em> has been shown to exhibit  chemotaxis, phototaxis and thermotaxis.&nbsp;The regular motions of <em>C. elegans</em> on a culture plate may be a rather  complex mixture of taxes and kineses (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000455;class=Paper" target="_blank">Dusenbery, 1980</a>).</p>
+									<p><br>
+										See <a href="aglossary.htm#approachbehavior" target="_blank">Approach behavior</a><br>
+										See <a href="aglossary.htm#avoidancebehavior" target="_blank">Avoidance behavior</a><br>
+										See <a href="cglossary.htm#chemotaxis" target="_blank">Chemotaxis</a><br>
+										See <a href="gglossary.htm#galvanotaxis" target="_blank">Galvanotaxis</a><br>
+										See <a href="kglossary.htm#kinesis" target="_blank">Kinesis</a><br>
+										See <a href="pglossary.htm#phototaxis" target="_blank">Phototaxis</a><br>
+										See <a href="sglossary.htm#switchedresponse" target="_blank">Switched response</a><br>
+										See <a href="#thermotaxis">Thermotaxis</a><br>
+										See <a href="#tropotaxis">Tropotaxis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="teeth"></a>Teeth</font></strong></td>
+							<td valign=top><a href="#matingresistance"></a></td>
+							<td valign=top><p><a href="#matingresistance"><span class="style26"></span></a></p></td>
+							<td valign=top><p>See <a href="#tooth">Tooth </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="telamon"></a>Telamon</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Archaic term for a lateral portion of the  cloacal cuticle enclosing the spicule channels.  It is sclerotized to reinforce the channel, and together with the  gubernaculum, it helps to direct the spicule extension outward. Not clear how the telamon is separated from  the gubernaculum, except that the gubernaculum proper lies more dorsal and  medial. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="telomere"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=cooper.figgrp.635" target="_blank">Telomere</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The distal end of a  linear chromosome arm. The two endpoints of  each chromosome are characterized by distinctive repetitive DNA sequences  (TTAGGC) of 4-9 kb which may act to cap each chromosome and protect them from fusion and degradation (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002535;class=Paper" target="_blank">Wicky et al., 1996</a>). <em><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00006618;class=Gene" target="_blank">trt-1</a></em> has been identified as the <em>C. elegans</em> telomerase reverse transcriptase and is required to maintain telomere ends through successive generations (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027101;class=Paper" target="_blank">Meier et al., 2006</a>). While it appears that organismal adult life span is independent of telomere length (<a href="http://www.wormbase.org/db/gene/gene?name=WBGene00006618;class=Gene" target="_blank">Raices et al., 2005</a>), maintenance of telomere length is required to preserve  germ line immortality through successive generations (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003886;class=Paper" target="_blank">Ahmed and Hodgkin, 2000</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="telophase"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">Telophase</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A subdivision of<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3346" target="_blank"> M phase</a>,  during mitosis, during which separated daughter chromosomes concentrate at the  two mitotic spindle poles and become surrounded by the reformed nuclear  envelope.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="telorhabdion" id="telorhabdion"></a>Telorhabdion</font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A specialized cuticle  formed by the <a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">telostom</a>, covering the lumen of the pharynx at its junction with  the buccal cavity, probably formed by the<a href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank"> pm2</a> muscles of the pharynx. This zone forms a prominent constriction  where the <a href="../hermaphrodite/interfacial/Images/interfig3leg.htm" target="_blank">pharyngeal lumen is much narrower than the buccal cavity</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="telostom"></a><a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">Telostom</a></font></b></td>
+							<td valign=top>End cavity (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Previously  known as the glottoid apparatus (archaic), it is the caudal portion of the  buccal cavity, in register with the pharyngeal muscle cells <a href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank">pm2</a>.</p>
+									<p><br>
+										See <a href="cglossary.htm#cheilostom" target="_blank">Cheilostom</a><br>
+										See <a href="pglossary.htm#prostom" target="_blank">Prostom</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="temperatureshiftanalysis"></a>Temperature shift analysis </font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An experiment in which the  developing nematode or mature animal is transferred from one environmental  temperature to another in order to induce or prevent a temperature sensitive  event, usually due to changes in gene expression or protein folding caused by  the altered temperature. Such  temperature shifts are often used sequentially on parallel populations to  determine a &ldquo;critical period&rdquo; during which the event can be induced or  repressed by the temperature shift.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tendon"></a>Tendon</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An extended flexible  extracellular matrix component that interconnects the basal laminae of two  different nematode tissues.&nbsp; Such tendons  (sometimes called &ldquo;flexible tracks&rdquo;) have been observed <a href="../hermaphrodite/pericellular/Images/perifig4leg.htm" target="_blank">connecting the  pharyngeal lamina to the lamina of the outer bodywall muscles</a> (<a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=16710857&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum" target="_blank">Bumbarger et  al., 2006</a>; <a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=Search&Term="Axng C"[Author]&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus">Ax&auml;ng</a><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=17540043&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum" target="_blank"> et al, 2007</a>), and contain <a href="http://medschool.umaryland.edu/facultyresearchprofile/UPLOADS/3ab0de6c60a040918681bdf3b565fd82.jpg" target="_blank">hemicentin</a> and <a href="http://www.wormbase.org/db/gene/gene?name=WBGene00001403;class=Gene" target="_blank">fibulin</a> molecules  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004627;class=Paper" target="_blank">Vogel and Hedgecock, 2001</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026765;class=Paper" target="_blank">Muriel et al., 2005</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027713;class=Paper" target="_blank">2006</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="terminalbar"></a>Terminal bar </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#membranousorganelle"><p>Archaic term for a prominent form of adherens  junction, more commonly called a belt desmosome or zonula adherens.</p>
+									<p><br>
+										See <a href="aglossary.htm#adherensjunction" target="_blank">Adherens junction</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="terminalbulb"></a><a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">Terminal bulb </a></font></strong></td>
+							<td valign=top>Postcorpus (S)<br>
+								Posterior bulb (S) <br>
+								Second bulb (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A major subdivision of the pharynx, lying between the isthmus and the  pharyngeal valve. The  bulb contains several large radial <a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Musclecellsofthepharynx4" target="_blank">pharyngeal muscles</a>, <a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Pharyngealneurons7" target="_blank">some neurons</a>, and <a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Glandcellsofthepharynx6" target="_blank">three  large gland cells</a> (<a href="http://www.wormatlas.org/ver1/albertson_1975/toc.html" target="_blank">Albertson and Thomson, 1976</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="terminaldifferentiation"></a>Terminal differentiation </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A cell&rsquo;s exit  from the cell cycle and final steps in differentiation into a mature member of  a given tissue. Dividing blast cells  generally show little or no cell specializations and remain capable of  further cell divisions. In contrast,  cells following a &ldquo;terminal differentiation&quot; path seem to lose the capability to  divide further, while adopting a final, specialized fate such as a neuron, muscle or intestinal cell.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="terminalduct"></a><a href="../hermaphrodite/excretory/Images/ExcFIG1.jpg" target="_blank">Terminal duct</a> </font></strong></td>
+							<td valign=top><p> <a href="eglossary.htm#excretoryduct" target="_blank">Excretory duct</a> (S) </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The secretions from the excretory system empty through this cuticle lined <a href="../hermaphrodite/excretory/Images/excfig9leg.htm" target="_blank">duct and pore</a> located on the <a href="../hermaphrodite/excretory/Images/excfig2leg.htm" target="_blank">ventral side of the head</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="terminalphenotype"></a>Terminal phenotype </font></strong></td>
+							<td valign=top>Arrest stage (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Physical characteristics of  an animal or tissue at its ultimate stage of development (for normal, wild type  animals) or at the latest stage of aberrant development (for a mutant  animal). In developmental mutants, the  terminal phenotype is often characteristic of a particular subset of mutations  and analysis may reveal an underlying developmental step that has been  interrupted by those mutations.</p>
+									<p><br>
+										See <a href="eglossary.htm#embryonicarrest" target="_blank">Embryonic arrest</a><br>
+										See <a href="mglossary.htm#monster" target="_blank">Monster</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="terminalweb"></a>Terminal web </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A dense matrix of  cytoskeletal proteins lying in the <a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank">apical cytoplasm of intestinal cells</a>,  bounding the base of the microvilli. The  terminal web forms a strong continuous sheet covering the entire apical zone, connected  via adherens junctions to the terminal web in adjacent intestinal cells. Also found surrounding the<a href="../hermaphrodite/excretory/Images/excfig7BCleg.htm" target="_blank"> lumen of the excretory canals</a>.</p>
+									<p><br>
+										See <a href="bglossary.htm#brushborder" target="_blank">Brush border</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="testis"></a>Testis</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>That portion of the  reproductive tract in the male animal in which the germline is mitotic or  meiotic, also known as the germinal zone. This usually also encompasses the portion which is distal to the <a href="../male/somaticgonad/images/MaleReproFIG12.jpg" target="_blank">vas deferens: </a>the zone touching the <a href="../male/somaticgonad/images/MaleReproFIG6.jpg" target="_blank">DTC</a>, the bare zone and the zone covered by the <a href="../male/somaticgonad/images/MaleReproFIG8.jpg" target="_blank">seminal vesicle</a>. </p>
+									<p>Some authors do not include the mitotic  region as part of the testis, but define the spermatogonial region separately  as the earliest structure, then the meiotic testis (<a href="../male/somaticgonad/images/MaleReproFIG8.jpg" target="_blank">seminal vesicle</a>), followed  by the <a href="../male/somaticgonad/images/MaleReproFIG12.jpg" target="_blank">vas deferens</a> and <a href="../male/proctodeum/images/MaleProcFIG2.jpg" target="_blank">cloaca</a> (after <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002791;class=Paper" target="_blank">Achanzar and Ward, 1997</a>).</p>
+								<p><br>
+									See <a href="sglossary.htm#spermatogonialtestis" target="_blank">Spermatogonial testis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="tether"></a>Tether</font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A physical linkage of an organelle to the  surroundings by a string-like molecule (cytoskeletal element), much as a balloon is  said to be tethered to a fixed point by a piece of string. A &ldquo;tethered&rdquo; organelle may thus be fixed in  place by this cytoskeletal linkage, or it may be dragged through the cytoplasm  to a new locale via a tether to a cytoskeletal motor protein, such as a kinesin. Where multiple tethers are present, an  organelle&rsquo;s overall shape may also be controlled or deformed.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="texture"></a>Texture<a href="http://www.wormatlas.org/ver1/handbook/alimentary/alimentary1.htm#pharyngealepith" target="_blank"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A distinct category of touch sensation. While it has been noted that <em>C. elegans</em> exhibits a basal slowing response to the presence of bacteria, they were also found to slow their rate of locomotion in response to the presence of a matrix of sterile beads indicating a mechanosensory rather than chemosensory response to their presence (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004195;class=Paper" target="_blank">Sawin et al., 2000</a><em>)</em>. Additionally, this response requires serotonin and functioning dopaminergic neurons (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004195;class=Paper" target="_blank">Sawin et al., 2000</a><em>)</em>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thelytoky"></a><a href="http://en.wikipedia.org/wiki/Thelytoky" target="_blank">Thelytoky</a></font></strong></td>
+							<td valign=top><p>Parthenogenesis (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Describing the asexual production of a population consisting only of females. Parthenogenesis is a common condition in some  nematode species, but not in <em>C. elegans </em>except as a mutant phenotype.</p>
+									<p><br>
+										See <a href="pglossary.htm#parthenogenesis" target="_blank">Parthenogenesis </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thermalavoidance"></a>Thermal avoidance <a href="http://www.wormatlas.org/ver1/handbook/fig.s/alim18a.jpg" target="_blank"></a></font></strong></td>
+							<td valign=top><p>Heat avoidance (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A form of  negative thermotaxis in which the animal backs up when encountering a point  source of high temperature (such as a hot scalpel or laser to heat the  substrate) (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003661;class=Paper" target="_blank">Wittenburg and Baumeister, 1999</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thermokinesis"></a>Thermokinesis</font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A temperature-induced change  in the rate of body motion that does not involve a reorientation of the body to  the temperature gradient.</p>
+									<p><br>
+										See <a href="kglossary.htm#kinesis" target="_blank">Kinesis</a><br>
+										See <a href="#thermotaxis">Thermotaxis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thermoreceptor"></a>Thermoreceptor</font></strong></td>
+							<td valign=top>Thermosensory ending (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The highly branched  microvilli of the left and right <a href="../neurons/Individual Neurons/AFDframeset.html" target="_blank">AFD</a> dendrites are believed to be used in  temperature sensation (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003981;class=Paper" target="_blank">Cassata et al., 2000</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027040;class=Paper" target="_blank">Inada et al., 2006</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thermosensation"></a><a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Thermosensation244" target="_blank">Thermosensation</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The ability to detect changes in temperature. <em>C. elegans</em> migrate along thermal climes and this behavior appears to be regulated by a single pair of sensory neurons (<a href="../neurons/Individual Neurons/AFDframeset.html" target="_blank">AFD</a>). Nematodes tend to prefer temperatures where they find food. This behavior is so strong, that it can be used as a learning paradigm since,<a href="http://www.genetics.org/cgi/content/full/169/3/1437/FIG3" target="_blank"> if deprived of food at a given temperature, <em>C. elegans</em> will then avoid this temperature when placed upon a thermal gradient</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025146;class=Paper" target="_blank">Mohri et al., 2005</a>). </p>
+									<p>For more information see review by <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00028996;class=Paper" target="_blank">McKemy, 2007</a>. </p>
+								<p><br>
+									See<a href="#thermotaxis"> Thermotaxis</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><strong><font face="Arial, 
+Helvetica, sans-serif"><a name="thermotaxis"></a>Thermotaxis<a href="http://www.wormatlas.org/ver1/handbook/fig.s/alim12.jpg" target="_blank"></a></font></strong></p></td>
+							<td valign=top height="111">&nbsp;</td>
+							<td valign=top height="111"><p><span class="style26"></span></p></td>
+							<td valign=top height="111"><p>A behavior in which the  animal orients to a <a href="http://www.genetics.org/cgi/content/full/169/3/1437/FIG1" target="_blank">temperature gradient</a> and chooses to either move towards  warmer conditions (positive thermotaxis, or &ldquo;up&quot; the temperature gradient),  towards colder conditions (negative thermotaxis, or &ldquo;down&quot; the gradient), or  chooses to move along a course that avoids warmer or colder conditions  (isothermal tracking) (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000161;class=Paper" target="_blank">Hedgecock and Russell, 1975; </a><a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025146;class=Paper" target="_blank">Mohri et al., 2005</a>; <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec6" target="_blank">Mori, 2005</a>) .</p>
+									<p><br>
+										See <a href="aglossary.htm#avoidancebehavior" target="_blank">Avoidance behavior </a><br>
+										See <a href="#taxis">Taxis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thermotaxiscircuit"></a><a href="http://www.bio.nagoya-u.ac.jp/english/seminar/img/mb0_fig1.jpg" target="_blank">Thermotaxis circuit </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The <a href="http://www.biomedcentral.com/1471-2202/9/106/figure/F7" target="_blank">set of synaptic  connections</a> that modulate the animal&rsquo;s response to temperature gradients,  involving the thermosensory cell <a href="../neurons/Individual Neurons/AFDframeset.html" target="_blank">AFD</a>. Temperature activation of <a href="../neurons/Individual Neurons/AFDframeset.html" target="_blank">AFD</a> stimulates the interneuron <a href="../neurons/Individual Neurons/AIYframeset.html" target="_blank">AIY</a> which activates the interneuron <a href="../neurons/Individual Neurons/RIAframeset.html" target="_blank">RIA</a>. <a href="../neurons/Individual Neurons/AIZframeset.html" target="_blank">AIZ</a> interneuron is also involved, but acts to inhibit <a href="../neurons/Individual Neurons/RIAframeset.html" target="_blank">RIA</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002214;class=Paper" target="_blank">Mori and Oshima, 1995</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thermotolerance"></a>Thermotolerance</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A reduced susceptibility to  heat shock. As an individual's thermotolerance typically declines with age, an increase in  thermotolerance is often correlated with increased longevity (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002217;class=Paper" target="_blank">Lithgow et al., 1995</a>) and has even been used as a way to screen for long-lived mutants (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004267;class=Paper" target="_blank">Sampayo et al., 2000</a>). A greater level of thermotolerance can also be induced as a pretreatment with a mild heat shock provides a level of heat shock resistance in the animals upon later exposure (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004822;class=Paper" target="_blank">Yashin et al., 2001</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><strong><font face="Arial, 
+Helvetica, sans-serif"><a name="thickfilament"></a><a href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" target="_blank">Thick filament</a> </font></strong></p></td>
+							<td valign=top height="111"><p>&nbsp;</p></td>
+							<td valign=top height="111"><p class="style26">&nbsp;</p>
+									<p class="style26"><br>
+								</p></td>
+							<td valign=top height="111"><p>A  robust elongated cytoplasmic filament composed principally of myosin protein. In <em>C. elegans</em>,  thick filaments also contain <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.547" target="_blank">paramyosin</a> (<em><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00006754;class=Gene" target="_blank">unc-15</a></em>) and<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=ce2&part=A532&rendertype=figure&id=A548" target="_blank"> twitchin</a> (<em><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00006759;class=Gene" target="_blank">unc-22</a>)</em>. These filaments assemble with actin to form the <a href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" target="_blank">actomyosin filament lattice</a> within  muscle cells which is anchored  to <a href="../hermaphrodite/musclesomatic/Images/musfig13leg.htm" target="_blank">dense body structures</a> (at actin filament endpoints) to form the basis of the  &ldquo;sarcomere&rdquo; which provides force generation due to the sliding of thick  filaments vs thin filaments within the lattice. </p>
+									<p>When  cytoskeletal proteins are compared in <a href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" target="_blank">cross section</a>, thin filaments &lt;&nbsp; intermediate filaments &lt; thick filaments  &lt; microtubules.</p>
+								<p><br>
+							    See <a href="aglossary.htm#actin" target="_blank">Actin</a> <br>
+									See <a href="mglossary.htm#myosin" target="_blank">Myosin</a> <br>
+									See <a href="pglossary.htm#paramyosin" target="_blank">Paramyosin</a> <br>
+									See <a href="#twitchin">Twitchin </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thigmokinesis"></a>Thigmokinesis</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Movement, inhibition of movement, or change in movement (velocity or direction) in response to contact. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thinfilament"></a><a href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" target="_blank">Thin filament</a> </font></strong></td>
+							<td valign=top>Actin (S) Microfilament (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An extremely thin elongated  cytoplasmic filament, usually composed principally of <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.432" target="_blank">actin</a> protein, which can  assemble into any of several distinct forms, including a gel-like meshwork  (g-actin), a tight bundle of parallel fibers (larger bundles are often called  stress fibers, smaller bundles are often called f-actin), or can be  interspersed with other filamentous proteins (e.g. <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3043" target="_blank">myosin</a>) to form a <a href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" target="_blank">myofilament lattice</a>, as in <a href="../hermaphrodite/musclesomatic/Images/musfig8leg.htm" target="_blank">muscle cells</a>. These forms of filament are each an  important member of the &ldquo;cytoskeletal proteins&rdquo; which physically hold the cell&rsquo;s  organelles to one another internally, and which connect via plasma membrane <a href="../hermaphrodite/musclesomatic/Images/musfig11leg.htm" target="_blank">attachment plaques</a> (intercellular junctions) to hold cells together into a coherent  tissue. The actomyosin (actin + myosin)  lattice is especially important in force generation in all muscles.</p>
+									<p>When cytoskeletal proteins are compared in cross section,  thin filaments &lt;&nbsp; intermediate  filaments &lt; thick filaments &lt; microtubules.</p>
+								<p><br>
+									See <a href="aglossary.htm#actin" target="_blank">Actin</a>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="thrashing"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=introbehavior&rendertype=figure&id=A7514" target="_blank">Thrashing</a></font></strong></td>
+							<td valign=top><p>Swimming<font face="Arial, Helvetica, sans-serif"></font> (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A typical <a href="http://www.youtube.com/watch?v=qvCoWwP8Q1U" target="_blank">form of locomotion seen in nematodes</a> when placed  into an aqueous environment. The whole body makes large repetitive  body bends, ventral, then dorsal, causing whole body flexions that leave the animal almost in place rather  than swimming quickly forward or  backward. Thrashing motions may be under similar motor control  as crawling behavior on a solid substrate, but the pattern of muscle  contractions underlying the behavior is different, since the rate of thrashing motion  is about 5 times faster and the waveform has a different shape (Crofton,  1971; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026700;class=Paper" target="_blank">Faumont et al.,  2005</a>).</p>
+									<p><br>
+										See <a href="cglossary.htm#crawling" target="_blank">Crawling</a><br>
+										See <a href="lglossary.htm#locomotion" target="_blank">Locomotion</a> <br>
+										See <a href="sglossary.htm#swimming" target="_blank">Swimming </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="threefoldstage"></a><a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">Three-fold stage</a> </font></strong></td>
+							<td valign=top>Loop stage (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A  late stage in <a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">embryogenesis</a> during which the elongating embryo has begun to  adopt a worm-like shape within the eggshell, and many events in tissue  morphogenesis are proceeding. This stage  immediately precedes the early pretzel stage.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tightjunction"></a>Tight junction </font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"></font></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Although no intercellular  junctions have yet been shown morphologically to correspond well to a mammalian  tight junction (TJ) at high resolution, some forms of adherens junction (AJ)  make very close contacts, and molecular data suggest that <em>C. elegans</em> AJs share  some components with TJs, perhaps serving purposes in <em>C. elegans</em> that would be  divided between two distinct cell appositions in higher animals. </p>
+									<p>Some early workers have identified AJs to be  tight junctions (for instance, <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000596;class=Paper" target="_blank">Nelson et al., 1983</a>), and this terminology  remains in use by some workers (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005592;class=Paper" target="_blank">Shaye and Greenwald, 2002</a>).</p>
+								<p>In older literature, this term was occasionally used  erroneously to refer to gap junctions.  High magnification TEM is required to properly distinguish them.<br>
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+								<p>See <a href="aglossary.htm#adherensjunction" target="_blank">Adherens junction</a> <br>
+									See <a href="sglossary.htm#sealingjunction" target="_blank">Sealing junction</a> <br>
+									See <a href="sglossary.htm#secretoryexcretoryjunction" target="_blank">Secretory-excretory junction</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="titin"></a><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00006436;class=Gene" target="_blank">Titin</a></font></strong></td>
+							<td valign=top>Connectin (former name in vertebrates) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A  giant polypeptide found in bodywall muscles in <em>C. elegans</em> that <a href="../hermaphrodite/musclesomatic/Images/musfig7leg.htm" target="_blank">extends along  the full length</a> of a <a href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" target="_blank">sarcomere</a>. It is subject to high degrees of stretch without breakage, and is proposed  to regulate the maximum length of the sarcomere during relaxation (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002558;class=Paper" target="_blank">Benian et al., 1996</a>). A member of the family of  &ldquo;cytoskeletal elements&rdquo;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tonofilament"></a>Tonofilament</font></strong></td>
+							<td valign=top>Tonofibril (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An  aggregation of intermediate filament proteins in parallel that forms a broader,  stronger filament, common in various cell types including muscles. Tonofilaments have been identified in some  marginal cells in <em>C. elegans </em>pharynx (<a href="http://www.wormatlas.org/ver1/albertson_1975/toc.html" target="_blank">Albertson and Thomson, 1976</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000917;class=Paper" target="_blank">Bartnik et  al., 1986</a>).</p>
+									<p><br>
+										See <a href="sglossary.htm#stressfiber" target="_blank">Stress fiber</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tooth"></a>Tooth/ Teeth </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This term can have several  meanings:</p>
+									<p><strong>1)</strong> A  set of <a href="../hermaphrodite/cuticle/Images/CutFIG7E.jpg" target="_blank">cuticular projections</a> which meet within the second bulb of the pharynx  (the grinder) and which must be used to break apart food particles.</p>
+								<p><strong>2)</strong> A  trio of <a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">cuticular flaps</a> (buccal teeth or onchia) that project into the lumen at  the posterior end of the buccal cavity to govern intake and outtake from the  pharynx, but do not seem suited for tearing food in this species. They can be substantially larger and more  functional in some other nematodes.</p>
+								<p><strong>3)</strong> In some nematode species, there  are &ldquo;teeth&rdquo; projecting from the vulva, appearing during at a late stage  of gonad development, which help the female to grab  onto a sexual partner.</p>
+								<p><br>
+									See <a href="oglossary.htm#odontostyle" target="_blank">Odontostyle</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="toroidalcells"></a>Toroidal cells</font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Several cell types form  elaborate concentric or consecutive toroidal cell groups, usually as cell  fusions to form <a href="../hermaphrodite/egglaying apparatus/Images/eggfig9leg.htm" target="_blank">elongated tubular structures</a>. The uterus is an elongated  thin tube formed by consecutive toroidal ut cells groups which create four  consecutive epithelial rings, <a href="../hermaphrodite/egglaying apparatus/Images/eggfig2leg.htm" target="_blank">ut1-ut4</a>; similarly the vulval epithelium consists  of seven toroidal cell groups, <a href="../hermaphrodite/egglaying apparatus/Images/eggfig9leg.htm" target="_blank">vulA-vulF</a>, which begin as concentric rings on a  flat epithelium and later telescope inward (evert) to produce a tube of seven  consecutive toroidal rings lining the vulval passageway.</p>
+									<p><br>
+										See <a href="aglossary.htm#arcadecell" target="_blank">Arcade cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="torpid"></a>Torpid</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Sluggish in motion or functioning.</p>
+									<p><br>
+										See <a href="lglossary.htm#lethargus" target="_blank">Lethargus </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="touch"></a>Touch</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The animal can sense several  distinct classes of mechanical stimulus (touching) that are likely defined by  the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=mechanosensation&rendertype=table&id=A6584" target="_blank">several classes of mechanoreceptor neurons</a> spread over the body. Chalfie has defined  several categories of touch: <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_1" target="_blank">gentle touch to body</a>, <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_2" target="_blank">harsh touch</a> to midbody, harsh touch to head or tail,<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_7" target="_blank"> nose touch</a> and texture (see <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2" target="_blank">Hart, 2006</a> and <a href="http://www.wormbook.org/chapters/www_mechanosensation/mechanosensation.html" target="_blank">Goodman, 2006</a>) .</p>
+									<p>Gentle touch seems  to be transduced by the &ldquo;touch dendrites&rdquo; <a href="../neurons/Individual Neurons/ALMframeset.html" target="_blank">ALM</a>, <a href="../neurons/Individual Neurons/PLMframeset.html" target="_blank">PLM</a>, <a href="../neurons/Individual Neurons/AVMframeset.html" target="_blank">AVM</a>, and <a href="../neurons/Individual Neurons/PVMframeset.html" target="_blank">PVM</a>. <a href="http://www.ncbi.nlm.nih.gov/bookshelf/picrender.fcgi?book=wormbook&part=mechanosensation&blobname=mechanosensation_movie1.mov" target="_blank">Reversal of body motion</a> is achieved by  stimulating receptors in the head or tail. </p>
+								<p>Harsh  touch (such as by poking with a wire) is sensed by other  receptors (<a href="../neurons/Individual Neurons/PVDframeset.html" target="_blank">PVD</a> and perhaps <a href="../neurons/Individual Neurons/FLPframeset.html" target="_blank">FLP</a>) in the head, along the midbody and in the tail  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001299;class=Paper" target="_blank">Chalfie and Wolinsky, 1990</a>; <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2" target="_blank">Hart, 2006</a>). </p>
+								<p>Nose touch is sensed by <a href="../neurons/Individual Neurons/ASHframeset.html" target="_blank">ASH</a>,<a href="../neurons/Individual Neurons/FLPframeset.html" target="_blank"> FLP</a> and <a href="../neurons/Individual Neurons/OLQframeset.html" target="_blank">OLQ</a> neurons (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001705;class=Paper" target="_blank">Kaplan  and Horvitz, 1993</a>).</p>
+								<p> Texture is sensed by <a href="../neurons/Individual Neurons/CEPframeset.html" target="_blank">CEP</a>, <a href="../neurons/Individual Neurons/ADEframeset.html" target="_blank">ADE</a> and <a href="../neurons/Individual Neurons/PDEframeset.html" target="_blank">PDE</a> <a href="http://www.wormbook.org/chapters/www_monoamines/monoamines.html#sec4" target="_blank">dopaminergic neurons</a> and the <a href="http://www.wormbook.org/chapters/www_monoamines/monoamines.html#sec5" target="_blank">serotonergic</a> <a href="../neurons/Individual Neurons/NSMframeset.html" target="_blank">NSM </a> neurons (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004195;class=Paper" target="_blank">Sawin et al., 2000</a>).</p>
+								<p>The male tail also has <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=mechanosensation&rendertype=figure&id=A6609" target="_blank">sensory receptors</a> that respond to touch. There are <a href="../male/rays/images/MaleRayFIG1.jpg" target="_blank">nine pairs of sensory rays</a>, and several more <a href="../male/postcloacal/images/MalePCSFIG1A.jpg" target="_blank">post-cloacal receptors</a> that help the male to sense the physical presence of the vulva during  mating.</p>
+								<p><br>
+									See <a href="hglossary.htm#habituation" target="_blank">Habituation</a><br>
+									See <a href="hglossary.htm#harshtouch" target="_blank">Harsh touch </a><br>
+									See<a href="lglossary.htm#lighttouch" target="_blank"> Light touch </a><br>
+									See <a href="nglossary.htm#nosetouch" target="_blank">Nose touch </a><br>
+									See <a href="#tapresponse">Tap response</a> <br>
+									See <a href="#texture">Texture </a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="touchcell"></a><a href="../hermaphrodite/nervous/Images/neurofig9A-Cleg.htm?rid=wormbook.figgrp.6607" target="_blank">Touch cell </a></font></strong></td>
+							<td valign=top><p>Mechanosensory neuron (S) <br>
+								Touch neuron (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Refers  to six neurons&nbsp; (<a href="../neurons/Individual Neurons/ALMframeset.html" target="_blank">ALML/R</a>, <a href="../neurons/Individual Neurons/PLMframeset.html" target="_blank">PLML/R</a>, <a href="../neurons/Individual Neurons/AVMframeset.html" target="_blank">AVM</a>, and <a href="../neurons/Individual Neurons/PVMframeset.html" target="_blank">PVM</a>) that transduce light touch to the body by their distinctive<a href="../hermaphrodite/nervous/Images/neurofig9D-Jleg.htm" target="_blank"> microtubule-filled processes</a>, or touch dendrites.</p>
+									<br>
+								See <a href="#touchdendrite">Touch dendrite</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="touchcircuit"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=mechanosensation&rendertype=figure&id=A6610" target="_blank">Touch circuit </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The synaptic interconnections that link the mechanoreceptor neurons to local  interneurons and motorneurons which drive forward and backward body motions of the whole animal  (<a href="http://www.wormatlas.org/ver1/MoW_built0.92/toc.html" target="_blank">White et al., 1986</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000765;class=Paper" target="_blank">Chalfie et al., 1985</a>; <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=wormbook.chapter.6581#6603" target="_blank">Goodman, 2006</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="touchdendrite"></a><a href="../hermaphrodite/nervous/Images/neurofig9D-Jleg.htm?rid=wormbook.figgrp.6607" target="_blank">Touch dendrite</a> </font></strong></td>
+							<td valign=top>Mechanosensory process (S) <br>
+								Touch process (S) <br>
+								Touch receptor (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The extended  neurites of <a href="../hermaphrodite/nervous/Images/neurofig9A-Cleg.htm">six neurons</a> (<a href="../neurons/Individual Neurons/ALMframeset.html" target="_blank">ALML/R</a>, <a href="../neurons/Individual Neurons/PLMframeset.html" target="_blank">PLML/R</a>, <a href="../neurons/Individual Neurons/AVMframeset.html" target="_blank">AVM</a>, and <a href="../neurons/Individual Neurons/PVMframeset.html" target="_blank">PVM</a>) that transduce light touch to the body by their  distinctive<a href="../hermaphrodite/nervous/Images/neurofig9D-Jleg.htm?rid=ce2.figgrp.792" target="_blank"> microtubule-filled processes</a> that lie very close to the external  cuticle, and that are linked periodically by dense deposits of mantle protein  to the cuticle. Shearing forces upon  these linkages are likely transduced by the nerve cell membrane as light touch  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024641;class=Paper" target="_blank">O'Hagan et al., 2005</a>).<br>
+								</p>
+							<p>See <a href="#touchcell">Touch cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="touchreceptor"></a>Touch receptor </font></strong></td>
+							<td valign=top>Touch receptor neuron (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="#touchdendrite">Touch dendrite </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="touchresponse"></a>Touch response <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec7_6" target="_blank"></a></font></strong></td>
+							<td valign=top>Body touch response (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The behavioral change in  body motion that occurs when one or more of the touch dendrites receive  stimulation, for instance by <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=introbehavior&rendertype=figure&id=A7509" target="_blank">stroking the animal with an eyelash</a> (e.g. &ldquo;light  touch&rdquo;) (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000550;class=Paper" target="_blank">Chalfie and Thomson, 1982</a>). Light touch to the anterior body results in  active reversal of body motion or backing behavior, while light touch to the  posterior body results in an increased rate of forward motion.</p>
+									<p><br>
+										See <a href="hglossary.htm#harshtouch" target="_blank">Harsh touch</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tract"></a>Tract</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A linear (or convoluted) route of outgrowth, restricted  flow, or guided sequential processing. For instance, a nerve or fascicle may be called a process tract, the  alimentary system is often called the digestive tract (pharynx, intestine, rectum), and the  reproductive system is called the reproductive tract (germarium, sheath,  spermatheca, uterus, vulva).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="trajectory"></a>Trajectory</font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The detailed path followed  by a moving object. Changes in direction  along this path are often termed decision points (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000978;class=Paper" target="_blank">Hedgecock et al., 1987</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="transcriptome"></a>Transcriptome</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The set of all messenger RNAs (transcripts) produced in a cell or population of cells. Often this term is used to refer to the total set of transcripts from an entire organism. DNA microarray technology has helped develop transcriptome profiles of <em>C. elegans</em> at different developmental times, under different environmental conditions and in different tissues (<a href="http://www.biomedcentral.com/1741-7007/6/30" target="_blank">Shin et al., 2008</a>). </p>
+									<p><br>
+										See <a href="gglossary.htm#genome" target="_blank">Genome </a><br>
+										See <a href="oglossary.htm#orfeome" target="_blank">ORFeome</a> <br>
+										See <a href="pglossary.htm#proteome" target="_blank">Proteome </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="transcytosis"></a>Transcytosis<a href="http://www.wormatlas.org/ver1/handbook/fig.s/GonFIG12A.jpg" target="_blank"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A mechanism for the  transport of materials across an epithelial layer by:</p>
+									<p><strong>1)</strong> endocytosis at one cell  border (engulfment) </p>
+								<p><strong>2)</strong> directed migration of the materials through the  cytoplasm</p>
+								<p><strong>3)</strong> exocytosis of the materials at the opposite border</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="transgolginetwork"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=mboc4&part=A2347&rendertype=figure&id=A2347" target="_blank">Trans-Golgi network</a> </font></strong></td>
+							<td valign=top>TGN</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The final portion of the Golgi stacks through which vesicles progress and where they are packaged and sent to their proper destination. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="transitionzone"></a>Transition zone </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A portion of a dendrite  cilium in which the cell process generally becomes surrounded by an accessory  cell&rsquo;s wrapping process, and where the internal cytoskeleton undergoes  significant changes in organization.</p>
+									<strong>1)</strong> The term may refer to the<a href="../hermaphrodite/neuronalsupport/Images/neurofig23leg.htm" target="_blank"> proximal base of the axoneme</a> where it is anchored to the plasma membrane by Y  links. This portion of the cilium has  sometimes been loosely referred to as a basal body (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000822;class=Paper" target="_blank">Wright, 1980</a>).
+				        <p><strong>2)</strong> Alternately, a <a href="../hermaphrodite/germ line/Images/germfig3A_Dleg.htm" target="_blank">segment of the distal arm of the germline</a> where germ cells progress from continued mitosis (in the more distal portion)  and enter into the <a href="../hermaphrodite/germ line/Images/germfig3A_Dleg.htm" target="_blank">pachytene phase</a> (in the more proximal portion<a href="../hermaphrodite/somatic gonad/Images/somaticfig5leg.htm" target="_blank"> under sheath  cell 1</a>) (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002045;class=Paper" target="_blank">Crittenden et al., 1994</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003990;class=Paper" target="_blank">Hubbard and Greenstein,  2000</a>). It remains unclear whether the  filapodial extensions of sheath cell pair 1 (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003617;class=Paper" target="_blank">Hall et al., 1999</a>) touch the  transition zone, or only the pachytene zone. </p>
+								<p><br>
+									See <a href="bglossary.htm#basalbody" target="_blank">Basal body</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="transporterprotein"></a>Transporter protein </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A membrane-associated  macromolecule that serves to move certain categories of solutes across the  membrane, from inside to the outside, or vice versa. Some transporters may constitute a patent  channel in the membrane while others may enfold the solute molecules and carry them  across the membrane.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="transportvesicle"></a>Transport vesicle <a href="http://www.wormatlas.org/ver1/handbook/fig.s/CutFIG8B.jpg" target="_blank"></a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A category of membrane-bound small vesicle that is  specialized for moving components to the cell periphery (especially down the  axon) in a cell, but which may require further maturation to become functional  (for instance, before being competent as a <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synapticfunction&rendertype=figure&id=A6279" target="_blank">synaptic vesicle</a>).</p>
+									<p><br>
+										See <a href="vglossary.htm#vesicle" target="_blank">Vesicle</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="transverse"></a>Transverse</font></strong></td>
+							<td valign=top>Transverse aspect (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A plane of section (or  angle of view) perpendicular to the longitudinal body axis. It is also called &quot;cross section&quot;. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="treadmilling" id="treadmilling"></a><a href="http://www.mcb.arizona.edu/wardlab/treadingvid.html" target="_blank">Treadmilling</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An inferred mechanism for  amoeboid motion, in which the components at the leading edge of the pseudopod  become attached to the substrate and then are translocated backwards along the  bottom edge of the pseudopod, pulling the cell (or growth cone) forward, and  then being released from the substrate to be internalized and recycled back to  the leading edge (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000558;class=Paper" target="_blank">Roberts and Ward, 1982</a>).</p>
+									<p><br>
+										See <a href="pglossary.htm#pseudopodelongation" target="_blank">Pseudopod elongation </a><br>
+										See <a href="sglossary.htm#spermmotility" target="_blank">Sperm motility </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="triadicsynapse"></a><a href="../images/polyadicsynapses.jpg" target="_blank">Triadic synapse</a> </font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A<a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank"> chemical synapse</a> in which  the presynaptic profile appears to have access to three postsynaptic profiles  simultaneously; thus A --&gt; B+C+D.</p>
+									<p><br>
+										See <a href="dglossary.htm#dyadicsynapse" target="_blank">Dyadic synapse</a><br>
+										See <a href="mglossary.htm#monadicsynapse" target="_blank">Monadic synapse</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tropomyosin"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK26888/figure/A3013/" target="_blank">Tropomyosin</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A large rod-shaped protein  closely associated with the actin thin filament in muscle cells (Miller et al.,  1983). </p>
+									<p><br>
+										See <a href="#thinfilament">Thin filament </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="troponin"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK26888/figure/A3013/" target="_blank">Troponin</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A protein complex  associated with tropomyosin within the actin thin filament. It consists of  three gene products, troponin T, troponin I and troponin C (TnT, TnI,  TnC). Troponins<a href="../hermaphrodite/musclesomatic/Images/musfig12leg.htm" target="_blank"> are expressed with  bodywall muscles</a> and pharyngeal muscles in <em>C. elegans</em>, and may play a key role  in actin/myosin interactions within the muscle sarcomere. </p>
+									<p><br>
+										See <a href="#thinfilament">Thin filament</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tropotaxis"></a>Tropotaxis<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=plus+end+AND+mboc4%5Bbook%5D+AND+373953%5Buid%5D&rid=mboc4.figgrp.2973" target="_blank"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Any locomotory  behavior in which the animal orients its direction by comparing the signal  strength at two paired sense organs simultaneously. Since nematode sensilla pairs tend to be  left/right pairs, and the animal lies on its side (bringing both sensilla into  virtually the same point in any gradient within the plane of body motion),  tropotaxis seems an unlikely means to recognize any signal gradient, unless the  animal compares signals between head and tail receptors (amphid vs phasmid).</p>
+									<p><br>
+										See <a href="kglossary.htm#klinotaxis" target="_blank">Klinotaxis</a><br>
+										See <a href="#taxis">Taxis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tubularbody"></a>Tubular body <a href="http://www.wormatlas.org/ver1/postemblin_1977/art/fl18.jpg" target="_self"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Dendritic specialization  within the <a href="../neurons/Individual Neurons/CEPframeset.html" target="_blank">CEP</a> mechanosensillum.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tubularradii"></a><a href="../hermaphrodite/pharynx/Images/phafig3E_Gleg.htm" target="_blank">Tubular radii </a></font></strong></td>
+							<td valign=top>Pharyngeal channels (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="pglossary.htm#pharyngealchannels" target="_blank">Pharyngeal channels </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tubule"></a>Tubule<a href="http://www.wormbook.org/chapters/www_celldivision/celldivisionfig2.jpg" target="_blank"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Dark thin structures,&nbsp;&ldquo;tubules&rdquo;, form tight networks in  several categories of pharyngeal muscle cells at regions of apparent  neuromuscular synaptic contact. One  pharyngeal neuron soma (M2) contains similar material. It is not clear whether these objects are  solid or membranous (<a href="http://www.wormatlas.org/ver1/albertson_1975/toc.html" target="_blank">Albertson and Thomson, 1976</a>). Dark vesicular structures are also found near  these networks. These tubules were also  called &ldquo;striations&rdquo; or &ldquo;reticulations&rdquo;  by the same authors.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tubuleassociatedmaterial"></a><a href="../hermaphrodite/neuronalsupport/Images/neurofig30leg.htm" target="_blank">Tubule-associated material </a></font></strong></td>
+							<td valign=top>TAM</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../hermaphrodite/neuronalsupport/Images/neurofig31leg.htm" target="_blank">Electron dense material</a> which lies in the cytoplasm of sensory cilia in close apposition to a  microtubule bundle in several sensory neurons, including <a href="../neurons/Individual Neurons/CEPframeset.html" target="_blank">CEP</a>, <a href="../neurons/Individual Neurons/OLLframeset.html" target="_blank">OLL</a> and <a href="../neurons/Individual Neurons/OLQframeset.html" target="_blank">OLQ</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tubulin"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2968" target="_blank">Tubulin</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="tumorousgermline"></a>Tumorous germline </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A mutant phenotype in which  germline proliferation continues unabated (through endless mitotic divisions)  to produce an excess of immature germ cells, enlarging the gonad into a swollen  tumorous organ which can distort the whole body of the nematode, or spill  across the basal lamina to invade neighboring tissues (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002730;class=Paper" target="_blank">Wilson Berry et al., 1997</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003093;class=Paper" target="_blank">Kadyk and Kimble, 1998</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00006014;class=Paper" target="_blank">Huang et al., 2003</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="turgorpressure"></a>Turgor pressure </font></strong></td>
+							<td valign=top>Hydrostatic pressure (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The internal pressure of body fluids that is transmitted outward  to the body cuticle in all directions to fully inflate the animal. In the nematode, the action of body muscle  contractions utilizes turgor pressure to help spread their forces over  the whole body length to produce a general undulatory motion. The <a href="../hermaphrodite/excretory/Excframeset.html" target="_blank">excretory system</a> may act to regulate salt  balances in a manner that modifies turgor pressure which, when defective, can lead  to animals with flaccid paralysis or rigid rod-like paralysis. High turgor pressure may generally lead to  narrowing of all tubular organs, so that egg-laying and defecation require the  action of dilator muscles to open the related passageways, and the use of  spicules in male mating to open the hermaphrodite vulva (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="turning"></a>Turning</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><em>C. elegans</em> forward locomotion involves episodes of turning that are termed &quot;pirouettes&quot;. These are &quot;sharp&quot; turns with the intervals of forward movement between them termed &quot;runs&quot; (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec7" target="_blank">Ringstad and Horvitz</a> in <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html" target="_blank">Hart, 2006</a>). </p>
+									<p>Turning is also a distinctive event during  male mating behavior when the male reaches the edge of  the hermaphrodite&rsquo;s body and must continue backing along the other side of the  hermaphrodite, in the opposite net direction in search of the vulva (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001861;class=Paper" target="_blank">Loer and  Kenyon, 1993</a>). Each turn can be scored  as &ldquo;good&rdquo;, &ldquo;sloppy&rdquo; or &ldquo;missed&rdquo; according to how well the male remains in  contact with the body of the hermaphrodite during the turning event (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec9_7" target="_blank">Loer</a> in <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec9_7" target="_blank">Hart , 2006</a>). Some missed turns can be further subdivided  into &ldquo;swim off&rdquo;, &ldquo;wide turns&rdquo;, or &ldquo;stutter turns&rdquo; (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec10_4" target="_blank">Emmons</a> in <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html" target="_blank">Hart, 2006</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="twitcherphenotype" id="twitcherphenotype"></a>Twitcher phenotype <a href="http://www.wormatlas.org/ver1/handbook/excretory.htm#ductandporecells" target="_parent"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A<a href="http://www.ncbi.nlm.nih.gov/books/NBK19756/figure/A1058/?report=objectonly" target="_blank"> defect in some unc mutants</a> (ie. <a href="http://www.wormbase.org/db/gene/gene?name=WBGene00006759;class=Gene" target="_blank"><em>unc-22</em></a>) in which individual muscles or local portions of one muscle quadrant  show rapid, independent contractions, superimposed on the well coordinated  smooth motor contractions pass along the length of the body, that characterize  normal body motion.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="twitchin"></a>Twitchin</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="#titin">Titin </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="twofoldstage"></a><a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">Two-fold stage</a> </font></strong></td>
+							<td valign=top><p>Plum stage (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A late stage in  embryogenesis, by which time the embryo has lengthened to two almost equal  lengths within the eggshell. At this  stage the lengthening embryo is moving continuously within the eggshell. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="typeamotoneuron"></a>Type A motoneuron </font></strong></td>
+							<td valign=top>Class A motoneuron (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/DAframeset.html" target="_blank">DA</a>, <a href="../neurons/Individual Neurons/VAframeset.html" target="_blank">VA</a>, &amp; DAS (<a href="../neurons/Individual Neurons/ASframeset.html" target="_blank">AS</a>)</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="typebmotoneuron"></a>Type B motoneuron </font></strong></td>
+							<td valign=top>Class B motoneuron (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/DBframeset.html" target="_blank">DB</a> and <a href="../neurons/Individual Neurons/VBframeset.html" target="_blank">VB</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="typecmotoneuron"></a>Type C motoneuron </font></strong></td>
+							<td valign=top>Class C motoneuron (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/VCframeset.html" target="_blank">VC</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="typedmotoneuron"></a>Type D motoneuron </font></strong></td>
+							<td valign=top>Class D motoneuron (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/DDframeset.html" target="_blank">DD</a> and <a href="../neurons/Individual Neurons/VDframeset.html" target="_blank">VD</a> </p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: September 21, 2011. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary T. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.20</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

@@ -1,0 +1,250 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary Q</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - Q </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style34"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style35"><strong><font
+color="#0033CC">ABBREVIATION</font></strong></p>
+									<p class="style35"><strong>SYNONYMS (S)<br>
+										ANTONYMS (A) </strong></p></td>
+							<td valign=top width="102"><span class="style34"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style35"><strong><font color="#009933">DESCRIPTION </font></strong></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="qlqr"></a>QL, QR </strong></td>
+							<td valign=top><p>Q cell </p>
+									<p>Q1, Q2 (formerly) </p></td>
+							<td valign=top><span class="style32"></span></td>
+							<td valign=top><p>A <a href="../hermaphrodite/nervous/Images/neurofig4A-Dleg.htm" target="_blank">pair of lateral  neuroblasts</a> that migrate separately within the body cavity during larval stages  to produce a variety of cell types. See  description in <a href="http://www.cell.com/neuron/retrieve/pii/089662739090444K" target="_blank">Hedgecock et al., 1990</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="quietus"></a>Quietus</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style32"></span></td>
+							<td valign=top><p>A temporary cessation of  movement. A brief quietus has been noted  at the beginning of mating behavior, once the male tail has encountered the  hermaphrodite vulva, at which time the hermaphrodite (or female) stops moving  (<a href="http://dx.doi.org/10.1006/anbe.1994.1221" target="_blank">Barker, 1994</a>). A more prolonged  quietus, termed the &ldquo;lethargus&rdquo;, overcomes the animal at the onset  of each molt (<a href="http://dx.doi.org/10.1016/0012-1606(75)90109-8" target="_blank">Cassada and Russell, 1975</a>). Similarly, dauer animals and well fed adults often display prolonged  periods of quietus.</p>
+									<p><br>
+										See <a href="lglossary.htm#lethargus" target="_blank">Lethargus</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="quiescence"></a>Quiescence<a href="http://www.wormatlas.org/ver1/maleHandbook/MuscleMalePartII.htm#obliquemuscles" target="_blank"></a> </font> </strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style32"></span></td>
+							<td valign=top><p><strong>1)</strong> A gradual slowing down of  metabolism and movement possibly leading to complete paralysis, if unfavorable environmental conditions such as a drop in temperature, a lowering  of oxygen levels, or desiccation, persist. </p>
+									<p><strong>2)</strong> Developmental or environmental signals may induce a paused or arrested phase of the cell cycle (<a href="http://www.cellsalive.com/cell_cycle.htm" target="_blank">G0</a>).</p>
+								<p><strong>3)</strong> The primordial germ cells (<a href="../hermaphrodite/germ line/Images/germfig6leg.htm" target="_blank">Z2 and Z3</a>) and the somatic gonad precursor cells (<a href="../hermaphrodite/somatic gonad/Images/somaticfig1leg.htm" target="_blank">Z1 and Z4</a>) remain in a state of mitotic quiescence until after the embryo hatches. </p>
+								<p><br>
+									See <a href="aglossary.htm#anoxia" target="_blank">Anoxia</a><br>
+									See <a href="cglossary.htm#cryptobiosis" target="_blank">Cryptobiosis</a><br>
+									See <a href="lglossary.htm#lethargus" target="_blank">Lethargus</a><br>
+									See <a href="dglossary.htm#dauer" target="_blank">Dauer</a><br>
+									See <a href="dglossary.htm#diapause" target="_blank">Diapause</a><br>
+									See <a href="mglossary.htm#molt" target="_blank">Molt</a><br>
+									See <a href="#quietus">Quietus</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="quorumsensing"></a>Quorum sensing </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style32"></span></td>
+							<td valign=top><p>A mode of  behavior in which groups of cells (or animals) coordinate their activity based upon intercellular signaling to determine their relative numbers. The process is noted most often in virulent bacteria, who may coordinate their rate of cell division, their tendency to form biofilms or their secretion of products to achieve maximum effect. Pathogenic bacteria use quorum sensing in coordinated attacks on <em>C. elegans</em> (<a href="http://www.pnas.org/content/96/5/2408.long" target="_blank">Tan et al., 1999</a>). Studies in <em>Pseudomonas aeruginosa </em>have identified a genetically controlled signaling cascade that regulates this process (<a href="http://mic.sgmjournals.org/content/150/4/831.long" target="_blank">Juhas et al., 2004</a>). </p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: November 15, 2013. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary Q. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.17">10.3908/wormatlas.6.17</a></span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

@@ -54,4 +54,44 @@ to Claude Project Knowledge.
 - **Files affected:** WorkFlow_CONTEXT_HANDOFF.md (removed from
   project knowledge). No code or database was affected.
 
+  
+- **Logged by:** Chris Crocker
+
+### 2026-07 — Missing comma in figures CREATE TABLE statement
+
+- **Symptom:** The `CREATE TABLE figures` statement logged in
+  decisions.md would fail with a MariaDB syntax error near `UNIQUE`
+  and create nothing at all — not a partial table, no table. Caught
+  during review before the statement was ever executed, so no
+  database was affected.
+
+- **Cause:** In a CREATE TABLE statement, every item inside the
+  parentheses — each column, index, and constraint — must be
+  separated from the next by a comma. The `INDEX idx_figure_id
+  (figure_id)` line had no trailing comma before the following
+  `UNIQUE KEY uq_figure_id_panel (figure_id, panel)` line, so the
+  parser could not tell where one item ended and the next began.
+  The comma was almost certainly lost when the compound UNIQUE key
+  was added during the July 2026 correction — the original schema
+  ended on the INDEX line, where no trailing comma was needed. The
+  content_pages table in the same entry has its comma and is
+  unaffected.
+
+- **Solution:** Added the missing comma:
+      INDEX idx_figure_id (figure_id),
+      UNIQUE KEY uq_figure_id_panel (figure_id, panel)
+  One character. No other change to the schema — the corrected
+  statement is otherwise identical to what was signed off in
+  July 2026 by Chris Crocker, David Hall, and Nate Schroeder.
+
+- **Prevention:** Any CREATE TABLE statement logged in decisions.md
+  should be executed once against the local XAMPP database before
+  being treated as authoritative. A statement that has never been
+  run is not known to work. Syntax errors of this kind are invisible
+  on reading and obvious on execution.
+
+- **Files affected:** docs/project_notes/decisions.md (Figures Base
+  Table, Join Tables, and Content Pages Table entry). No database,
+  no application code.
+
 - **Logged by:** Chris Crocker
