@@ -1,0 +1,1784 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary C</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+.style11 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+  <TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+  <tr>
+    <td class="just style4"><nobr>
+      <table border=1>
+        </table>
+      <table cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+        <tr align="center" valign="middle">
+          <td class="just"><hr align="center" class="page-splits">
+            <nobr>
+              <div align="center">
+                <pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+              </div>
+              </nobr>
+            <hr align="center" class="page-splits"></td>
+        </tr>
+        <tr>
+          <td class="just style4"><div align="center">
+            <!-- END IMAGE AREA 1 -->
+            <span class="title">Glossary - C </span><a href="../FORMgallery2.htm"></a><br>
+            <!-- IMAGE AREA 2 -->
+            <br>
+          </div>
+            <nobr> <span class="style18"><a name="c"></a></span>
+              <table border=1>
+                <tr>
+                  <td valign=top><span class="style8"><font color="#993300">PART/CELL 
+                    NAME </font></span></td>
+                  <td valign=top><p class="style8"><font color="#0033CC">ABBREVIATION</font></p>
+                    <p class="style8">SYNONYMS (S)<br>
+                      ANTONYMS (A) </p></td>
+                  <td valign=top><span class="style8"><font color="#CC9900">LINEAGE </font></span></td>
+                  <td valign=top><span class="style8"><font color="#009933">DESCRIPTION </font></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><p class="style33"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003810" target="_blank" class="style33"><strong>C</strong></a></p></td>
+                  <td valign=top class="style18"><p class="style33">C blastomere (S)<br>
+                    C founder cell (S)</p></td>
+                  <td valign=top class="style18"><span class="style33">P0.ppa </span></td>
+                  <td valign=top class="style18"><p class="style33">An embryonic founder cell which 
+                    is born dorsally and whose daughter cells give rise to dorsal hypodermis, 
+                    some somatic muscle cells and several neurons.</p>
+                    <p class="style33">In earlier publications,&quot;C&quot; 
+                      may also refer to the postembryonic blast C cell (C ectoblast) which was 
+                      later renamed &quot;Y&quot;.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cblastomere"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003810" target="_blank">C</a> blastomere</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">C founder 
+                    cell</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cneuron"></a>&quot;c&quot; 
+                    neuron</b></span></td>
+                  <td valign=top class="style18"><span class="style33"><a href="../neurons/Individual Neurons/AWCframeset.html" target="_blank">AWC</a> cell (S) </span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Amphid wing &quot;c&quot; cells, neurons having ciliated sheet-like sensory 
+                    endings closely associated with amphid sheath</p>
+                    <p class="style33"><br>
+                      See <a href="aglossary.htm#aw" target="_blank">AW 
+                        (Amphid wing) cell</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cneuron" id="cneuron"></a>&quot;C&quot; 
+                    neuron</b></span></td>
+                  <td valign=top class="style18"><span class="style33"><a href="../neurons/Individual Neurons/CEPframeset.html" target="_blank">CEP</a> cell (S) </span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="#CEPcell">CEP 
+                    cell</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cacell"></a><a href="../neurons/Individual Neurons/CAframeset.html" target="_blank">CA 
+                    cell</a></b></span></td>
+                  <td valign=top class="style18"><p class="style33"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003809" target="_blank">CA1</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003808" target="_blank">CA2</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003807" target="_blank">CA3</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003806" target="_blank">CA4</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003805" target="_blank">CA5</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003804" target="_blank">CA6</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003803" target="_blank">CA7</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006853" target="_blank">CA8</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006854" target="_blank">CA9</a></p></td>
+                  <td valign=top class="style18"><span class="style33">P3.aapa <br>
+                    P4.aapa <br>
+                    P5.aapa <br>
+                    P6.aapa <br>
+                    P7.aapa <br>
+                    P8.aapa <br>
+                    P9.aapa <br>
+                    P10.aapa <br>
+                    P11.aapa </span></td>
+                  <td valign=top class="style18"><p class="style33">Male specific cell<br>
+                    Male specific cell<br>
+                    Male specific cell<br>
+                    Male specific neuron, innervates dorsal muscles<br>
+                    Male specific neuron, innervates dorsal muscles<br>
+                    Male specific neuron, innervates dorsal muscles<br>
+                    Male specific neuron, innervates dorsal muscles<br>
+                    Male specific cells in VC, neuron-like, but lack synapses<br>
+                    Male specific cells in VC, neuron-like, but lack synapses<br>
+                  </p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><i><a name="caenorhabditisbrenneri" id="caenorhabditisbrenneri"></a><a href="http://genome.wustl.edu/genomes/view/caenorhabditis_brenneri/" target="_blank">Caenorhabditis 
+                    brenneri</a></i></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><p class="style33">Previously unnamed strain PB2801 was renamed in honor of Syndey Brenner. While closely related to <em>C. elegans</em> and <em>C. briggsae,</em> and having similar biological characteristics, adults are either male or female, not hermaphrodites. Sequencing of the genome is ongoing. </p>
+                    <p class="style33"><br>
+                      See <a href="pglossary.htm#phylogeny" target="_blank">Phylogeny</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><i><a name="caenorhabditisbriggsae" id="caenorhabditisbriggsae"></a><a href="http://genome.wustl.edu/genomes/view/caenorhabditis_briggsae/" target="_blank">Caenorhabditis 
+                    briggsae</a></i></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><p class="style33">A commonly 
+                    studied species of nematode whose anatomical features are extremely similar 
+                    to <i>Caenorhabditis elegans</i>, and whose <a href="http://www.ncbi.nlm.nih.gov/genome/40" target="_blank">genetic sequences</a> are being 
+                    compared in exacting detail against the genome of <i>C. elegans</i>. <i>C. 
+                      briggsae</i> and <i>C. elegans </i>cannot interbreed to create fertile progeny, 
+                    but are otherwise extremely similar in behavior and ecology; they are likely 
+                    to be very close relatives evolutionarily (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000277;class=Paper" target="_blank">Nigon 
+                      and Dougherty, 1949</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001580;class=Paper" target="_blank">Baird 
+                        et al., 1992</a>).</p>
+                    <p class="style33"><br>
+                      See <a href="pglossary.htm#phylogeny" target="_blank">Phylogeny</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><i><a name="caenorhabditiselegans"></a><a href="http://genome.wustl.edu/genomes/view/caenorhabditis_elegans/" target="_blank">Caenorhabditis 
+                    elegans</a></i></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style33">A species 
+                    of nematode, or roundworm, that has been adopted as a model organism for 
+                    the study of genetics, cell biology, development, and neuroscience. Two 
+                    different wild strains, Bristol and Bergerac, were initially adopted by <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000277;class=Paper" target="_blank">Nigon 
+                      and Dougherty (1949)</a> and by <a href="http://elegans.swmed.edu/wli/%5Bcgc31%5D/?%5Cbbr%5Be%E9%E8%EA%EB%5D%5Bn%F1%5D%5Bn%F1%5D%5Be%E9%E8%EA%EB%5Dr%5Cb%3B%5Cb%5Be%E9%E8%EA%EB%5Dl%5Be%E9%E8%EA%EB%5Dg%5Ba%AA%E1%E0%E2%E5%E4%E3%E6%5D%5Bn%F1%5D%5Bs%DF%5D%5Cb" target="_blank">Brenner 
+                        (1974)</a> as the basis for scientific studies, although additional wild-caught 
+                    strains have since been collected around the world for comparisons of genetic 
+                    diversity. The sequence of the<a href="http://www.ncbi.nlm.nih.gov/genome/41" target="_blank"> entire genome</a> was published in 1998 (with the last gaps finished in 2002) making <em>C. elegans</em> the first multi-cellular eukarote in which <a href="http://www.ncbi.nlm.nih.gov//blast/Blast.cgi?PAGE_TYPE=BlastSearch&PROG_DEF=blastn&BLAST_PROG_DEF=megaBlast&BLAST_SPEC=OGP__6239__9548" target="_blank">every base is known</a> (<em><a href="http://genome.wustl.edu/publications/detail/genome-sequence-of-the-nematode-c-elegans-a-platform-for-investigating-biology-the-c-elegans-sequencing-consortium/" target="_blank">C. elegans </a></em><a href="http://genome.wustl.edu/publications/detail/genome-sequence-of-the-nematode-c-elegans-a-platform-for-investigating-biology-the-c-elegans-sequencing-consortium/" target="_blank">Sequencing Consortium</a><a href="http://www.sciencemag.org/content/282/5396/2012.abstract">, 1998</a>).</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><i><a name="caenorhabditisjaponica"></a><a href="http://genome.wustl.edu/genomes/view/caenorhabditis_japonica/" target="_blank">Caenorhabditis 
+                    japonica</a></i></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style33">A species 
+                    of rhabditid nematode closely related evolutionarily to<i> Caenorhabditis 
+                      elegans </i>and <i>Caenorhabditis briggsae</i>. Like <i>C. remanei, C. japonica </i>does not 
+                    form hermaphrodites, but utilizes a male/female sexual mating system. Additionally, it appears that unlike <em>C. elegans, C. japonica</em> may enter the dauer stage regardless of food and environmental conditions. This species is usually found in close association with stink bugs. <a href="http://www.ncbi.nlm.nih.gov/genome/252" target="_blank">Full sequencing of the genome</a> is currently in the initial stages. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><i><a name="caenorhabditisremanei"></a><a href="http://genome.wustl.edu/genomes/view/caenorhabditis_remanei/" target="_blank">Caenorhabditis 
+                    remanei</a></i></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style33">A species 
+                    of rhabditid nematode closely related evolutionarily to<i> Caenorhabditis 
+                      elegans </i>and <i>Caenorhabditis briggsae</i>. <i>C. remanei </i>does not 
+                    form hermaphrodites, but utilizes a male/female sexual mating system. For 
+                    research purposes, most widely used strains of <i>C. remanei</i> are <a href="http://www.wormbase.org/species/c_remanei%20ssp./strain/EM464" target="_blank">EM464</a> and <a href="http://www.wormbase.org/species/r_(caenorhabditis)/strain/SB146" target="_blank">SB146</a>. Note that the strain <a href="http://www.wormbase.org/species/c_brenneri/strain/CB5161" target="_blank">CB5161</a>, which was called<i> C. remanei</i> for some time, is actually a different species (and now believed to be <em>C. brenneri</em>). <a href="http://www.ncbi.nlm.nih.gov/genome/253" target="_blank">Full sequencing of the genome</a> is currently in the initial stages. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cancell"></a><a href="../neurons/Individual Neurons/CANframeset.html" target="_blank">CAN</a> cell</b></span></td>
+                  <td valign=top class="style18"><p class="style33"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004949" target="_blank">CANL<br>
+                  </a> <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004947" target="_blank">CANR</a></p></td>
+                  <td valign=top class="style18"><span class="style33">ABalapaaapa<br>
+                    ABalappappa</span></td>
+                  <td valign=top class="style18"><span class="style33"> A pair 
+                    of neurons with processes that run along excretory canals and within canal 
+                    associated nerves. Make no synapses, but essential for survival. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="canalassociatednerve"></a>Canal 
+                    associated nerve</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A pair 
+                    of longitudinal nerve tracts that run alongside the excretory canals on 
+                    the right and left side of the animal. Processes from <a href="../neurons/Individual Neurons/CANframeset.html" target="_blank">CAN</a>, <a href="../neurons/Individual Neurons/BDUframeset.html" target="_blank">BDU</a>, <a href="../neurons/Individual Neurons/PVDframeset.html" target="_blank">PVD</a> and <a href="../neurons/Individual Neurons/ALAframeset.html" target="_blank">ALA</a> form this nerve.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="canaliculi"></a><a href="../hermaphrodite/excretory/Images/excfig7BCleg.htm" target="_blank">Canaliculus/Canaliculi</a> (/plu)</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A series 
+                    of thin membranous collecting channels, closed at their distal ends, which 
+                    feed into lumen of each excretory canal. The canaliculi can differ in shape 
+                    depending on the status of the animal, perhaps reflecting changes in osmolarity 
+                    or secretory activity. Thus the canaliculi can be <strong>1)</strong> smooth, narrow and 
+                    sinuous, or <strong>2)</strong> undulating in diameter to form a series of beads on a chain, 
+                    or <strong>3)</strong> disconnected to form a series of larger spherical vesicles.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="canonicalallele"></a>Canonical 
+                    allele</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The original 
+                    isolate of a mutation whose properties define the basis for recognizing 
+                    this strain as a separate class of mutant. (e.g.<i> let-7(mn122)</i> and<i> unc-35(e259)). </i>The severity of the phenotype of this allele is used 
+                    as a measure against which the phenotypes of later alleles are compared.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cap"></a>Cap</b></span></td>
+                  <td valign=top class="style18"><p class="style33">Cap cell (S)<br>
+                    Socket cell (S)</p></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33"><strong>1)</strong> Older name for <a href="http://www.wormatlas.org/hermaphrodite/neuronalsupport/Images/neurofig24leg.htm" target="_blank">socket cell</a>.</p>
+                    <p class="style33"><strong>2)</strong> Can also refer to a large 
+                      piece of shed cuticle that had originally covered the head. From the cap&#146;s 
+                      dimensions, it has been suggested that secretions from the excretory system 
+                      might provide a molting enzyme that works to weaken this piece of cuticle 
+                      near the excretory pore at the back of the head in some species (<a href="http://www.wormatlas.org/ver1/handbook/references.htm" target="_blank">Chitwood 
+                        and Chitwood, 1951</a>; Bird and Bird, 1991). In <i>C. elegans</i>, laser 
+                      ablation experiments to remove the excretory system have not inhibited 
+                      the molting process (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000354;class=Paper" target="_blank">Singh 
+                        and Sulston, 1978</a>).</p>
+                    <p class="style33"><br>
+                      See <a href="sglossary.htm#socketcell" target="_blank">Socket cell</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cardia"></a>Cardia</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="pglossary.htm#pharyngealintestinalvalve" target="_blank">Pharyngeal-intestinal 
+                    valve</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><p class="style33"><b><a name="caudal"></a>Cauda/Caudal</b></p></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Tail/of a tail, relating to 
+                    a tail. Located at or directed towards the posterior part of the body.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="caudalalae"></a><a href="../male/rays/jump.html?newLink=mainframe.htm&newAnchor=MaleRayFIG1" target="_blank">Caudal 
+                    alae</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The lateral specialization 
+                    of the cuticle in the male tail, more commonly known as the fan.</p>
+                    <p class="style33"><br>
+                      See <a href="fglossary.htm#fan" target="_blank">Fan</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="caudalglands"></a>Caudal glands</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">These are found in &quot;<a href="http://en.wikipedia.org/wiki/Adenophorea" target="_blank">Adenophorea</a>&quot; only. 
+                    There are 3 caudal glands with a common or separate openings at the tip 
+                    of the tail. The secretion is used to attach the worm to the substrate.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="caudalpapillae"></a>Caudal 
+                    papillae</b></span></td>
+                  <td valign=top class="style18"><span class="style33">Male 
+                    tail rays (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="rglossary.htm#ray" target="_blank">Ray</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="caudalids"></a>Caudalids (archaic) </b></span></td>
+                  <td valign=top class="style18"><span class="style33">Lumbar comissures (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The nerve connections  between the lumbar ganglia and the pre-anal ganglion, which must circumvent the  ventral opening of the anus.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="caveola" id="caveola"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2391" target="_blank">Caveola 
+                    / Caveolae</a> (/plu)</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Vesicular organelles which 
+                    are a specialized feature of some plasma membranes. They could be the 
+                    basis of endocytosis or other forms of membrane-trafficking in some nematode 
+                    cell types. Caveolae are notably smaller and less electron dense than 
+                    coated vesicles 50-100 nm for caveolae, 200-300 nm diameter for coated 
+                    vesicles, according to <a href="http://dx.doi.org/10.1006/excr.2001.5372" target="_blank">Razani 
+                      and Lisanti (2001)</a>. Caveolin proteins are principal components of 
+                    these organelles. </p>
+                    <p class="style33">A <a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00000301" target="_blank">caveolin-1</a> mutant in <i>C. elegans</i> blocks cell cycle progression 
+                      (<a href="http://dx.doi.org/10.1038/10100" target="_blank">Scheel 
+                        et al., 1999</a>).</p>
+                    <p class="style33"><br>
+                      See <a href="#coatedvesicle">Coated vesicle</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="ccdlherm"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004564" target="_blank">ccDL herm</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004563" target="_blank">ccDR herm</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style33">M.dlpa <br>
+                    M.drpa </span></td>
+                  <td valign=top class="style18"><span class="style33">A pair 
+                    of postembryonic coelomocytes in hermaphrodite.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="ccdmale"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004562" target="_blank">ccD male</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style33">M.dlpappp </span></td>
+                  <td valign=top class="style18"><span class="style33">Single 
+                    postembryonic coelomocyte in male.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="ccal"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004561" target="_blank">ccAL</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004560" target="_blank">ccAR</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004559" target="_blank">ccPL</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004558" target="_blank">ccPR</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18"><span class="style33">MSapapaaa <br>
+                    MSppapaaa <br>
+                    MSapapaap <br>
+                    MSppapaap </span></td>
+                  <td valign=top class="style18"><span class="style33">Embryonic 
+                    coelomocytes</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cecum"></a>Cecum/Ceca 
+                    (/plu)</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33"> An outpocketing 
+                    (diverticulum) or blind ending of the lumen of the intestine, usually forming 
+                    a side branch of the lumen proper. In <i>C. elegans,</i> the anterior intestinal 
+                    lumen between the first four cells is quite large in volume, but no distinctive 
+                    side branches form there.</p>
+                    <p class="style33">Ceca are common in some other nematode species, 
+                      especially at the anterior limit, and may form along the length of the intestine 
+                      of some<i> C. elegans </i>mutants.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="ced"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000729" target="_blank">Ced</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33"><b>CE</b>ll <b>D</b>eath abnormality 
+                    phenotype or mutation.</p>
+                    <p class="style33"><br>
+                      See <a href="#celldeath">Cell death</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cellbody"></a>Cell 
+                    body</b></span></td>
+                  <td valign=top class="style18"><span class="style33">Soma 
+                    (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The largest 
+                    portion of a cell, generally surrounding the nucleus and containing abundant 
+                    cytoplasm and organelles. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="celldeath" id="celldeath"></a>Cell 
+                    death</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">There are a number of distinct 
+                    mechanisms by which individual cells within the organism can die, generally 
+                    without direct death of the whole animal. In <i>C. elegans</i>, many cells 
+                    die via <a href="http://web.mit.edu/horvitz/www/researchlinks/programmed.html" target="_blank">apoptosis</a>, or <a href="http://www.wormbook.org/chapters/www_programcelldeath/programcelldeath.html" target="_blank">programmed cell death</a>, soon after their birth (<a href="http://www.wormbook.org/chapters/www_programcelldeath/programcelldeath.html" target="_blank">Conradt and Xue, 2005</a>). In 
+                    a variety of disease mechanisms, in old age, in some mutant phenotypes, 
+                    and after toxic treatments, various cells may be induced to die by alternate 
+                    mechanisms, which include necrosis (<a href="http://dx.doi.org/10.1093%2Fembo-reports%2Fkvf138" target="_blank">Syntichaki and Tavernarakis, 2002</a>). These <a href="http://www.sciencedirect.com/science?_ob=MiamiCaptionURL&_method=retrieve&_eid=1-s2.0-S0092867408015651&_image=1-s2.0-S0092867408015651-gr1.jpg&_ba=&_rdoc=1&_fmt=full&_orig=na&_issn=00928674&_pii=S0092867408015651&view=c&_acct=C000228598&_version=1&_urlVersion=0&_userid=10&md5=9522712dda1a4b616f35dd5bea41cc9e" target="_blank">pathways are distinct</a>, but share some components and cellular machinery. The <a href="http://www.celldeath.de/encyclo/aporev/revfigs/revfig_2.htm" target="_blank">morphological 
+                      features </a>of these various modes of death are in some ways distinctive, 
+                    but dying cells can often show mixed characters. The corpses of dead cells 
+                    rarely linger, but are quickly engulfed and phagocytosed by neighboring 
+                    cells.</p>
+                    <p class="style33"><br>
+                      See <a href="aglossary.htm#apoptosis" target="_blank">Apoptosis</a><br>
+                      See <a href="nglossary.htm#necrosis" target="_blank">Necrosis</a><br>
+                      See <a href="aglossary.htm#autophagy" target="_blank">Autophagy</a><br>
+                      See <a href="pglossary.htm#programmedcelldeath" target="_blank">Programmed cell death</a><br>
+                      See <a href="eglossary.htm#engulfment" target="_blank">Engulfment</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cellfusion" id="cellfusion"></a>Cell 
+                    fusion</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A common feature in <i><a href="http://www.wormbook.org/chapters/www_cellfusion/cellfusionfig1.jpg" target="_blank">C. elegans</a></i><a href="http://www.wormbook.org/chapters/www_cellfusion/cellfusionfig1.jpg"> tissues</a>, in which the lateral borders of two or more cells become tightly 
+                    fused and then open to form a patent channel between the cells (<a href="http://dx.doi.org/10.1006/dbio.1994.1041" target="_blank">Podbilewicz 
+                      and White, 1994</a>; <a href="http://www.wormbook.org/chapters/www_cellfusion/cellfusion.html" target="_blank">Podbilelwicz, 2006</a>). In some cases, the point of fusion remains quite 
+                    small, and fragments of the former cell border can be retained, such that 
+                    the cells seem virtually separate (as in pharyngeal muscle cell pairs). 
+                    In other cases, all vestiges of the former border are removed, cell nuclei 
+                    migrate across from one zone to the next, and the combined syncytial structure 
+                    shows little resemblance to the original chain of cells (as in the <a href="../hermaphrodite/hypodermis/Images/hypfig5leg.htm" target="_blank">hyp7 
+                      syncytium</a>). In the germline, all young germ cells are fused to <a href="../hermaphrodite/germ line/Images/germfig2leg.htm" target="_blank">a common 
+                        rachis</a> and may share intracellular components with the rachis, yet these 
+                    cells mature independently and eventually separate from the rachis (reversing </p>
+                    <p class="style33">In <i>C. elegans,</i> syncytial 
+                      cells include some of the hypodermal cells, excretory gland cell, vulva 
+                      epithelium, uterus epithelium, pharyngeal muscles, pharyngeal epithelial 
+                      marginal cell, pharyngeal g1 gland cell, ant and post arcade, tail spike 
+                      cells and seam cells.</p>
+                    <p class="style33"><br>
+                      See <a href="rglossary.htm#rachis" target="_blank">Rachis</a><br>
+                      See <a href="sglossary.htm#syncytium" target="_blank">Syncytium</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cellintercalation"></a>Cell 
+                    intercalation</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A developmental 
+                    process that results in the rearrangement of several <i>C. elegans</i> tissues 
+                    in which cells migrate for short distances from their place of birth to 
+                    surround a developing epithelial structure, as in the intestine and vulva, 
+                    or to form a discrete chain of cells such as the ventral nerve cord and<a href="http://www.wormbook.org/chapters/www_epidermalmorphogenesis/epidermalmorphogenesis.html#d0e450" target="_blank"> embryonic hypodermis</a>.</p>
+                    <p class="style33">Intercalation can be used to describe the positions of excess cells (or 
+                      structures) that come to lie within a row of other cells due to changes 
+                      in cell fate due to mutation or developmental anomalies.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cellinvasion"></a>Cell 
+                    invasion</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="iglossary.htm#invasion" target="_blank">Invasion</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="celllineage"></a><a href="http://www.wormclassroom.org/db/cellLineage.html" target="_blank">Cell 
+                    lineage</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The pattern 
+                    of cell divisions and cell fates produced by an ancestral blast cell. This 
+                    series of cell divisions is highly stereotyped in <i>C. elegans </i>(See <a href="../celllineages.html" target="_blank">Lineage tree</a>), 
+                    so that most dividing cells have reproducible axes of their division planes 
+                    (e.g. dorsal/ventral, anterior/posterior, etc), and reproducible timing 
+                    in the divisions and asymmetries in the relative size of the two daughter 
+                    cells. Segregation of nuclear determinants within the two daughters is also 
+                    reproducible resulting in consistent cell fates among the daughters from 
+                    animal to animal. Cell lineages are often depicted graphically as decision 
+                    trees.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cellmigration"></a>Cell 
+                    migration</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Some 
+                    cells are born at some distance from their terminal locations as mature 
+                    cells, and must crawl in amoeboid fashion within the body cavity to reach 
+                    their eventual destination. They follow molecular signals expressed by cells 
+                    along the route of their migration or by cells within their target tissue.</p>
+                    <p class="style33">During <a href="http://www.wormbook.org/chapters/www_gastrulation/gastrulation.html#d0e399" target="_blank">gastrulation</a>, many young cells shift positions within the expanding 
+                      embryo to form an internal layer of cells. The <a href="../hermaphrodite/somatic gonad/Images/somaticfig3leg.htm">distal tip cells</a> differentiate 
+                      and then begin to crawl within the body cavity to guide outgrowth of the 
+                      gonad. The <a href="../male/hypodermis/jump.html?newLink=mainframe.htm&newAnchor=Thetailtiphyp2" target="_blank">hypodermal cells of the male tail</a> migrate to lead the retraction 
+                      (migration) of other cell types from the extreme tail tip prior to morphogenesis 
+                      of the posterior fan and rays.</p>
+                    <p class="style33"> One differentiated cell type, <a href="../hermaphrodite/somatic gonad/jump.html?newLink=mainframe.htm&newAnchor=Distalsheathcellpair131">the gonad sheath 
+                      cell</a> (1st pair only) in the mature adult gonad appears to crawl continuously 
+                      by filopodial extension to try to cover the exposed surface of the dividing 
+                      germline. Some sensory neurons which are born at the surface of the body, 
+                      later migrate inward and towards the central ganglia, leaving behind a sensory 
+                      dendrite attached to the bodywall. Many larval cells make shorter migrations 
+                      in tissues as they reposition themselves to form epithelial layers, including 
+                      the developing intestine.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cellularsheath"></a>Cellular sheath</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="gglossary.htm#gonadsheath" target="_blank">Gonad 
+                    sheath</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cellularization"></a>Cellularization</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Process by which maturing germ 
+                    cells, which are initially connected via the rachis within the distal 
+                    gonad arm, break free from the rachis to continue the final stages of 
+                    development, either as individual spermatocytes or oocytes, or to undergo 
+                    programmed cell death.</p>
+                    <p class="style33"><br>
+                      See <a href="#cellfusion">Cell fusion</a><br>
+                      See <a href="nglossary.htm#nursecells" target="_blank">Nurse cells</a><br>
+                      See <a href="rglossary.htm#rachis" target="_blank">Rachis</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cemcell" id="cemcell"></a><a href="../neurons/Individual Neurons/CEMframeset.html" target="_blank">CEM</a> cell</b></span></td>
+                  <td valign=top class="style18"><p class="style33"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004945" target="_blank">CEMDL </a><br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004943" target="_blank">CEMDR</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004941" target="_blank">CEMVL</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004939" target="_blank">CEMVR</a></p>
+                    <p class="style33">Cephalic companion cell (S)</p></td>
+                  <td valign=top class="style18"><span class="style33">ABplaaaaaap <br>
+                    ABarpapaaap <br>
+                    ABplpaapapp <br>
+                    ABprpaapapp </span></td>
+                  <td valign=top class="style18"><p class="style33">A sensory neuron cell type 
+                    found in the head of males but not hermaphrodites (these cells die in the hermaphrodite 
+                    embryo). Each CEM shares the same sheath cell as the <a href="../neurons/Individual Neurons/CEPframeset.html" target="_blank">CEP</a> neuron in the 
+                    four dorsal and ventral lips, and forms a sense ending which opens separately 
+                    to the exterior through the cuticle (See <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Cephalicsensilla32" target="_blank">Cephalic Sensilla</a>). They may mediate male chemotaxis towards hermaphrodites.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="centralcells"></a>Central 
+                    cells</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">See <a href="wglossary.htm#wishbonecells" target="_blank">Wishbone cells</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><p class="style33"><b><a name="centralcylinder"></a>Central 
+                    cylinder</b></p></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">See <a href="aglossary.htm#apicalring" target="_blank">Apical ring</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="centralelement"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=cooper&part=A2484&rendertype=figure&id=A2488" target="_blank">Central element</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A specific portion of the  chromosomal pair during synapsis that forms part of the synaptonemal complex and runs between the lateral elements. Ladder-like in structure, it has two longitudinal components and regularly spaced transverse components that bridge the longitudinal components and may be subdivided into 3-4 layers (<a href="http://dx.doi.org/10.1016/S0962-8924(00)89017-0" target="_blank">Schmekel and Daneholt, 1995</a>). </p>
+                    <p class="style33">See <a href="aglossary.htm#axialelement" target="_blank">Axial element </a><br>
+                      See <a href="lglossary.htm#lateralelement" target="_blank">Lateral element</a><br>
+                      See <a href="sglossary.htm#synaptonemalcomplex" target="_blank">Synaptonemal complex</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><p class="style33"><b><a name="centration"></a>Centration</b></p></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A coordinated  movement during prophase of the two centrosomes and the two pronuclei towards  the center of the one cell embryo (<a href="http://www.wormbook.org/chapters/www_asymcelldiv/asymcelldiv.html#d0e1023" target="_blank">G&ouml;nczy and Rose, 2005</a>)</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="centriole" id="centriole"></a><a href="http://www.nature.com/embor/journal/v7/n4/fig_tab/7400660_f2.html" target="_blank">Centriole</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=centriole&rid=mboc4.figgrp.3341" target="_blank">small cylindrical structure</a>, usually found in pairs, that are found at each pole of the mitotic spindle in animal cells and some other eucaryotes. Centrioles lie perpendicular to one another to form the centrosome and organize the mitotic spindle for cell division. While in most animals, centrioles are composed of nine triplet microtubules, in <em>C. elegans</em> the centriole  has a <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2134" target="_blank">nine singlet conformation</a> (for more detail see <a href="http://www.wormbook.org/chapters/www_celldivision/celldivision.html#d0e978" target="_blank">Oegema and Hyman, 2006</a>). </p>
+                    <p class="style33">Centrioles are also found distally in the dendrites of  some sensory neurons, at the basal pole of the cilium. Presumably the centriole organizes the  microtubules which make up the distal cilium, and perhaps the contents of the  striated rootlet, where present.</p>
+                    <p class="style33"><br>
+                      See <a href="#centrosome">Centrosome</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="centrosome" id="centrosome"></a><a href="http://www.wormbook.org/chapters/www_celldivision/celldivision.html#d0e978" target="_blank">Centrosome</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">This structure acts as the  primary <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mcb.figgrp.5417" target="_blank">microtubule organizing center (MTOC)</a>, and is important both for creation of the  mitotic spindle during cell division, and for creation of the cytoplasmic  network of microtubules during cytokinesis and during <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3189" target="_blank">G1 and G2 phases</a>. The centrosome contains two centrioles, plus  the intermediate filament protein, IFA, and is generally surrounded by a halo  of other fibrous materials including the <a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00006994" target="_blank">ZYG-9</a> protein (<a href="http://dx.doi.org/10.1006/dbio.1999.9471" target="_blank">Leung et al., 1999</a>). Shortly after <a href="http://www.wormbook.org/chapters/www_asymcelldiv/acdfig2.jpg" target="_blank">fertilization of the early embryo</a>, the  centrosome becomes anchored to the  plasma membrane asymmetrically near the point of entry of the sperm into the  egg; this anchoring point helps to establish the initial polarity of the  embryo.<a href="http://www.wormbook.org/chapters/www_asymcelldiv/acdfig5.jpg" target="_blank"> Later in cell division</a>, just after duplication of the  centrosomes, the two daughter centrosomes show specific movements within the  cytoplasm to organize two independent mitotic spindles, including the  &ldquo;rotation&rdquo; of one centrosome versus its sister, and the &ldquo;centering&rdquo; of each  centrosome within two different domains to establish separate regions with  independently organized axes of polarity.</p>
+                    <p class="style33"><br>
+                      See <a href="#centriole">Centriole</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cepcell" id="cepcell"></a><a href="../neurons/Individual Neurons/CEPframeset.html" target="_blank">CEP</a> cell</b></span></td>
+                  <td valign=top class="style18"><span class="style33"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004938" target="_blank">CEPDL </a><br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004937" target="_blank">CEPDR</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004933" target="_blank">CEPVL</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004931" target="_blank">CEPVR</a></span></td>
+                  <td valign=top class="style18"><span class="style33">ABplaaaaappa <br>
+                    ABarpapaappa <br>
+                    ABplpaappppa <br>
+                    ABprpaappppa</span></td>
+                  <td valign=top class="style18"><p class="style33">All four 
+                    are dopaminergic neurons of cephalic sensilla.</p>
+                    <p class="style33"><br>
+                      See <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Cephalicsensilla32" target="_blank">Cephalic sensilla section </a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cephalicnervecord"></a>Cephalic 
+                    nerve cord</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="mglossary.htm#mechanosensorynerve" target="_blank">Mechanosensory 
+                    nerve</a></span></td>
+                </tr>
+                <tr>
+                  <td height="67" valign=top class="style18"><span class="style33"><b><a name="cephalicsensilla"></a><a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Cephalicsensilla32" target="_blank">Cephalic 
+                    sensilla</a></b></span></td>
+                  <td height="67" valign=top class="style18"><span class="style34"></span></td>
+                  <td height="67" valign=top class="style18">&nbsp;</td>
+                  <td height="67" valign=top class="style18"><p class="style33">Refers specifically to the 
+                    sensory specializations of the <a href="../neurons/Individual Neurons/CEPframeset.html" target="_blank">CEP</a> and <a href="../neurons/Individual Neurons/CEMframeset.html">CEM</a> neurons and socket and sheath 
+                    cells. In some nematode species these sensilla lie on the head (hence 
+                    &#147;cephalic&#148;) rather than on the lips (Coomans, 1979), but in <i>C. elegans</i> the cephalic sensilla lie close to the outer labial 
+                    (OL) sensilla on the lips proper (See <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Cephalicsensilla32" target="_blank">Cephalic sensilla section</a><a href="/handbook/hypodermis/CEPimage%20gallery.htm" target="_blank"></a>).</p>
+                    <p class="style33"><br>
+                      See <a href="#cepcell">CEP cell</a><br>
+                      See <a href="#cemcell">CEM cell</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cephalicsheathcell" id="cephalicsheathcell"></a>Cephalic 
+                    sheath cell</b></span></td>
+                  <td valign=top class="style18"><span class="style33"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004929" target="_blank">CEPshDL</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004927" target="_blank">CEPshDR</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004925" target="_blank">CEPshVL</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004923" target="_blank">CEPshVR</a></span></td>
+                  <td valign=top class="style18"><span class="style33">ABarpaaaapp <br>
+                    ABarpaaapap <br>
+                    ABplpaaapap <br>
+                    ABprpaaapap </span></td>
+                  <td valign=top class="style18"><span class="style33">Refers 
+                    to the sheath cells of the cephalic sensilla of the nose. Includes <a href="../hermaphrodite/neuronalsupport/Images/neurofig29leg.htm" target="_blank">CEPshDL/R, 
+                      CEPshVL/R</a>. Their sheet-like processes <a href="../hermaphrodite/neuronalsupport/Images/neurofig32leg.htm" target="_blank">envelop neuropil of ring</a> and part of ventral ganglion (See <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Cephalicsensilla32" target="_blank">Cephalic sensilla section</a><a href="/handbook/hypodermis/CEPimage%20gallery.htm" target="_blank"></a>).</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cephalicsocketcell" id="cephalicsocketcell"></a>Cephalic 
+                    socket cell</b></span></td>
+                  <td valign=top class="style18"><span class="style33"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004921" target="_blank">CEPsoDL</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004919" target="_blank">CEPsoDR</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004918" target="_blank">CEPsoVL</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004917" target="_blank">CEPsoVR</a></span></td>
+                  <td valign=top class="style18"><span class="style33">ABalapapppp <br>
+                    ABalapppppp <br>
+                    ABalppaappp <br>
+                    ABalaapappp</span></td>
+                  <td valign=top class="style18"><span class="style33">Socket 
+                    cells of the cephalic sensilla (See <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Cephalicsensilla32" target="_blank">Cephalic sensilla section</a><a href="/handbook/hypodermis/CEPimage%20gallery.htm" target="_blank"></a>).</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cephalid"></a>Cephalid</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A cuticular  specialization found in some plant parasitic nematodes, appearing highly  refractile, possibly due to thinning of the cuticle within one annulus, local  tissue adhesion to the cuticle, or the local passage of a nerve commissure  close to the annulus (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769503&query_hl=26&itool=pubmed_docsum" target="_blank">McLaren, 1976</a>).</p>
+                    <p class="style33"><br>
+                      See <a href="hglossary.htm#hemizonid" target="_blank">Hemizonid</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cepshcell"></a>CEPsh 
+                    cell</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="#cephalicsheathcell">Cephalic 
+                    sheath cell</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cepsocell"></a>CEPso 
+                    cell</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="#cephalicsocketcell">Cephalic 
+                    socket cell</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cervicalpapillae"></a>Cervical 
+                    papillae</b></span></td>
+                  <td valign=top class="style18"><span class="style33">Anterior 
+                    deirid (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">See <a href="dglossary.htm#deirid" target="_blank">Deirid</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cfp"></a><a href="http://zeiss-campus.magnet.fsu.edu/articles/probes/jellyfishfps.html#cfp" target="_blank">CFP</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Cyan 
+                    fluorescent protein.</p>
+                    <p class="style33"><br>
+                      See <a href="gglossary.htm#gfp" target="_blank">GFP</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="channel" id="channel"></a>Channel(s)</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Narrow 
+                    cuticle-lined tubes lying at the three corners of the pharyngeal lumen that 
+                    are likely to remain open even when the rest of the lumen is closed during 
+                    pharyngeal pumping. It has been proposed that these channels allow outward 
+                    flow of fluid from the pharynx during pumping (<a href="../ver1/albertson_1975/toc.html?name=WBPaper00000009;class=Paper" target="_blank">Albertson 
+                      and Thomson, 1976</a>).</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cheilorhabdion" id="cheilorhabdion"></a>Cheilorhabdion</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Specialized 
+                    zone of cuticle lining the cheilostom, formed by the cells of hyp1, hyp2 
+                    and hyp3. The term refers to this zone as seen by the light microscope.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cheilostom"></a><a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">Cheilostom</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Lip cavity 
+                    (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The most anterior portion of 
+                    the buccal capsule or stoma. It is the portion of the anterior digestive tract 
+                    which is enclosed by the lips.</p>
+                    <p class="style33"><br>
+                      See <a href="pglossary.htm#prostom" target="_blank">Prostom</a><br>
+                      See <a href="tglossary.htm#telostom" target="_blank">Telostom</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chemicalsynapse"></a><a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Chemicalsynapses2101" target="_blank">Chemical 
+                    synapse</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Area of neuron to neuron communication 
+                    where the &quot;presynaptic&quot; process releases the chemical contents 
+                    (neurotransmitter or neuropeptide) of a small vesicle into the extracellular 
+                    space to signal one or more nearby &#147;postsynaptic&#148; neuron processes. 
+                    In <i>C. elegans</i>, the release zone within the presynaptic process 
+                    typically shows a small collection of synaptic vesicles and an electron 
+                    dense specialization attached to the cytoplasmic face of the plasma membrane. 
+                    Unlike higher animals though, the postsynaptic processes rarely display 
+                    any membrane density marking the collection of receptors. Chemical synapses 
+                    may have one postsynaptic target (<a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank">monadic</a>), two targets (<a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank">dyadic</a>) or three 
+                    targets (<a href="../images/polyadicsynapses.jpg" target="_blank">triadic</a>).</p>
+                    <p class="style33"><br>
+                      See <a href="eglossary.htm#electricalsynapse" target="_blank">Electrical synapse</a><br>
+                      See <a href="gglossary.htm#gapjunction" target="_blank">Gap junction</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chemoattractant"></a>Chemoattractant</b></span></td>
+                  <td valign=top class="style18"><p class="style33">Attractant (S)<br>
+                    Repellant (A)</p></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33"> See <a href="aglossary.htm#attractant" target="_blank">Attractant</a><br>
+                    See <a href="rglossary.htm#repellant" target="_blank">Repellant</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chemorepellant"></a>Chemorepellant</b></span></td>
+                  <td valign=top class="style18"><p class="style33">Repellant (S)<br>
+                    Attractant (A)</p></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">See <a href="rglossary.htm#repellant" target="_blank">Repellant</a><br>
+                    See <a href="aglossary.htm#attractant" target="_blank">Attractant</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chemosensation" id="chemosensation"></a><a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Chemosensationandodorsensation243" target="_blank">Chemosensation</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Detection of a chemical cue which elicits a response in the animal so that it can react to food, danger or the presence of other animals. The amphids, which contain 11 pairs of chemosensory neurons, are the primary chemosensory organs. See <a href="http://www.wormbook.org/chapters/www_chemosensation/chemosensation.html" target="_blank">Bargmann, 2006</a> for more detail. </p>
+                    <p class="style33"><br>
+                      See <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Amphidsensilla31" target="_blank">Amphid sensilla section </a><br>
+                      See <a href="#chemotaxis">Chemotaxis </a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chemosensoryending" id="chemosensoryending"></a><a href="../hermaphrodite/neuronalsupport/Images/neurofig25leg.htm" target="_blank">Chemosensory 
+                    ending</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A specialized, 
+                    ciliated portion of a neuron&#146;s dendrite which lies exposed to external 
+                    chemical stimuli through a hole in the cuticle. Most chemosensory endings 
+                    in <i>C. elegans</i> consist of a neuron and one or more accessory cells 
+                    which form a pocket around the cilium to bathe the ending in a fluid-filled 
+                    chamber.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chemosensorynerve"></a>Chemosensory 
+                    nerve</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A collection 
+                    of neuronal processes (dendrites) which run from a discrete group of chemosensory 
+                    endings (such as the amphid or phasmid) to their cell bodies and/or their 
+                    neuropil. Most chemosensory neurons extend a single dendrite via a chemosensory 
+                    nerve to their sensory ending, and a second process (axon) to the neuropil 
+                    of a nearby ganglion or nerve ring.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chemotaxis"></a><a href="http://www.wormbook.org/chapters/www_chemosensation/chemosensation.html#sec1_2_1" target="_blank">Chemotaxis</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The guided behavior of an animal to approach  or avoid the source of a chemical signal in the environment. In <em>C. elegans</em>,  chemoreceptors in the lips sense these signals and the animal can be observed  to wag its head from side to side, apparently to compare signal  strengths and detect the direction of a chemical gradient, before moving its  whole body up (positive chemotaxis) or down (negative chemotaxis) the gradient. The animal modulates its rate of turning to redirect itself up or down the gradient (<a href="http://www.jneurosci.org/content/25/13/3369.long" target="_blank">Miller et al., 2005</a>; <a href="http://www.wormbook.org/chapters/www_chemosensation/chemosensation.html" target="_blank">Bargmann, 2006</a>). <a href="http://www.jove.com/science-education/5113/c-elegans-chemotaxis-assay" target="_blank">Chemotaxis assays</a> have been developed to study this behavior and the cells and genes that are involved in <em>C. elegans.</em></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chemotropism"></a>Chemotropism</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The growth 
+                    of a portion of a cell towards or away from a chemical signal. In <em>C. elegans</em> this term has been used in relation to the guidance or repositioning of 
+                    muscle arm extensions.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chitinouslayer"></a><a href="../hermaphrodite/pericellular/Images/perifig5leg.htm" target="_blank">Chitinous 
+                    layer</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The most prominent layer within 
+                    the eggshell, lying between the inner &#147;lipid layer&#148; (the &#147;inner&#148; 
+                    vitelline membrane), and the outer vitelline layer. Although the development 
+                    of this layer is still unclear in <i>C. elegans</i>, the chitinous layer 
+                    is perhaps secreted by the oocyte itself, just after fertilization.</p>
+                    <p class="style33">According to <a href="/handbook/references.htm" target="_blank">Bird and 
+                      Bird (1991)</a>, the eggshell is the only place in nematodes where chitin 
+                      is known to be utilized. There are protein structures mixed into this 
+                      layer in some nematode species as microfibrils or as radial pillars, but 
+                      these have not been demonstrated in <i>C. elegans</i>.</p>
+                    <p class="style33"><br>
+                      See <a href="eglossary.htm#eggshell" target="_blank">Eggshell</a><br>
+                      See <a href="oglossary.htm#oolemma" target="_blank">Oolemma</a><br>
+                      See <a href="zglossary.htm#zonapellucida" target="_blank">Zona pellucida</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chitinousshell"></a>Chitinous 
+                    shell</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="eglossary.htm#eggshell" target="_blank">Eggshell</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chord"></a>Chord</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="#cord">Cord</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chromatin"></a>Chromatin</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The network of chromosomal  material found within the nucleus, made from DNA strands and associated histone  proteins. Based upon its staining  properties, it is divided into two components, euchromatin (lower staining) and  heterochromatin (higher staining). Only  the former is thought to be very active, as it is more loosely wound and open  to transcriptional machinery. See <a href="http://www.wormbook.org/chapters/www_germlinechromatin/germlinechromatin.html" target="_blank">Schaner and Kelly, 2005</a>.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chromomere"></a>Chromomere</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A region along the length  of a chromosome where the material is more darkly staining due to local  condensation of the genetic material.  Chromosomal bands consists of local clustering of chromomeres.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="chromosome"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2135" target="_blank">Chromosome</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A structure in the cell  nucleus which contains the genetic material encoded as DNA and surrounded by  histone proteins and other regulatory elements. In<em> C. elegans</em> the normal cell  contains 5 pairs of &ldquo;autosomes&rdquo; and one or two X chromosomes.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="ciliarycap" id="ciliarycap"></a>Ciliary cap </b></span></td>
+                  <td valign=top class="style18"><span class="style33"><a href="../hermaphrodite/neuronalsupport/Images/neurofig30leg.htm" target="_blank">Nubbin </a>(S) </span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Dense material  displayed in the cuticle in association with the tip of the sensory cilium as  in the cephalic sensory cilia.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="ciliarynecklace"></a><a href="http://www.wormatlas.org/hermaphrodite/neuronalsupport/Images/neurofig23leg.htm" target="_blank">Ciliary necklace </a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A distinctive arrangement of doublet  microtubules that form a circular ring when viewed in cross-section, found within  the basal bodies of many chemosensory cilia in <em>C. elegans </em>including the amphids (<a href="http://dx.doi.org/10.1016/0012-1606(86)90314-3" target="_blank">Perkins et al.,  1986</a>).</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="ciliome" id="ciliome"></a><a href="http://www.sfu.ca/~leroux/ciliome_home.htm" target="_blank">Ciliome</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A ciliary proteome database which includes cilia-associated proteins (<a href="http://www.cell.com/trends/genetics/fulltext/S0168-9525(06)00218-6" target="_blank">Inglis et al., 2006</a>). </p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cilia" id="cilia"></a><a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Cilium21" target="_blank">Cilium 
+                    / Cilia</a> (/plu)</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Long, usually motile, whiplike or hairlike appendages that are attached 
+                    to eukaryotic cells. <a href="http://www.wormatlas.org/hermaphrodite/neuronalsupport/Images/neurofig23leg.htm" target="_blank">Cilia contain an axoneme </a>which is made of a pair 
+                    of central microtubules surrounded by nine pairs of microtubules around 
+                    the outside (9+2 arrangement). Although the cilia in nematodes are homologous 
+                    to the cilia in other animals, they are not motile. To date, no nematode 
+                    with motile cilia has been found. Cilia are retained in sensory organs in nematodes in which the specialized sensory ending of a neuron often 
+                    features a bundle of microtubules extending distally from a basal body, 
+                    most often very distant from the cell soma (For more detail see <a href="http://www.wormbook.org/chapters/www_ciliumbiogenesis.2/ciliumbiogenesis.html" target="_blank">Inglis et al., 2007</a>). </p>
+                    <p class="style33">A wide variety of specializations 
+                      are known among the cilia in <i>C. elegans</i>, including local branches, 
+                      intracellular dense blobs or dark vesicles, striated rootlets that can 
+                      extend proximal to the basal body, and local external attachments to the 
+                      basal lamina, the cuticle or within a glial (structural) cell. They are 
+                      presumed to be the site of sensory transduction by a specific modality 
+                      for which the ciliary specializations are suited; e.g. chemo-, osmo-, 
+                      thermo-, mechano-, photo-, etc. Signals transduced by the cilium are carried 
+                      to the sensory cell soma by a dendrite and then along an axon to the cell&#146;s 
+                      synapses.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="circomyarian" id="circomyarian"></a>Circomyarian</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Describes a muscle cell in which the sarcomeres completely encircle the outer bound of the cell, with the cytoplasmic muscle belly confined to a central core of the cell.&nbsp;Only a few specialized muscles in nematodes may fit this condition.</p>
+                    <p class="style33"><br>
+                      See <a href="mglossary.htm#meromyarian" target="_blank">Meromyarian</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cistern"></a>Cistern 
+                    / Cisternae</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A thin 
+                    clear space enclosed by a unit membrane, often occurring as parallel close 
+                    fitting spaces. References to cisternae in earlier nematode literature most likely refer to rough ER in a cell soma, or less often to smooth ER 
+                    or sarcoplasmic reticulum in distal cell processes. Some cells have distinct 
+                    sets of cisternae, including the<a href="http://www.wormatlas.org/hermaphrodite/neuronalsupport/Images/neurofig30leg.htm" target="_blank"> amphid sheath cells</a> where they are named<a href="http://www.wormatlas.org/hermaphrodite/neuronalsupport/Images/neurofig30leg.htm"> lamellae</a>, and some of the <a href="http://www.wormatlas.org/male/hook/images/MaleHookFIG2D.jpg" target="_blank">ray neuron cell bodies</a> of the male tail. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="clearphenotype" id="clearphenotype"></a><a href="http://www.wormbase.org/resources/gene_class/clr" target="_blank">Clear 
+                    phenotype</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span>clr</td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A very 
+                    distinctive <a href="http://genesdev.cshlp.org/content/12/10/1425/F1.expansion.html" target="_blank">phenotype</a> in which the adult nematode is remarkably transparent 
+                    when viewed by light microscopy due to a single gene mutation, <i><a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00000548" target="_blank">clr-1</a></i>(<a href="http://genesdev.cshlp.org/content/12/10/1425.long" target="_blank">Kokel 
+                      et al., 1998</a>). These animals also exhibit other morphological changes, 
+                    including some bloating and a shorter body length.</p>
+                    <p class="style33"><i><a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00000548" target="_blank">clr-1</a></i> encodes a receptor tyrosine phosphatase which attenuates signaling by <a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00001184" target="_blank"><em>egl-15</em></a>, a fibroblast growth factor receptor. It appears that these genes act in the hypodermis to regulate fluid homeostasis (<a href="http://dev.biologists.org/content/131/11/2595.long" target="_blank">Huang and Stern, 2004</a>). </p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cleidoic"></a>Cleidoic</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Term is used to describe an  impermeable eggshell, like that of <em>C. elegans</em>, where there is no exchange of water and fats, and resists physical deformation. Only gases seem to be permeant (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769504&query_hl=11&itool=pubmed_docsum" target="_blank">Anya, 1976</a>). Such eggs are environmentally isolated and the developing embryo cannot be fed by osmosis through its exterior. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cloaca"></a><a href="../male/proctodeum/images/MaleProcFIG1.jpg" target="_blank">Cloaca </a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A structure in the  adult male tail, equivalent to the proctodeum (rectum and anus) of the  hermaphrodite, where the vas deferens and the intestine open out jointly into  an enclosed sinus near the tail tip to discharge their contents. The cloaca refers to the  cuticle-lined chamber where these tissues join, including the spicule pouch and ventral opening, but not to the cells themselves, which are  all part of the proctodeum (<a href="../male/proctodeum/Procframeset.html" target="_blank">Lints and Hall, 2005</a>).</p>
+                    <p class="style33"><br>
+                      See <a href="gglossary.htm#gubernaculum" target="_blank">Gubernaculum</a> <br>
+                      See <a href="pglossary.htm#proctodeum" target="_blank">Proctodeum</a> <br>
+                    </p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cloacalganglia"></a>Cloacal 
+                    ganglia</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A pair 
+                    of neuronal ganglia in the adult male tail, lying on either side of the 
+                    proctodeum, but not found in the hermaphrodite.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="clr"></a><a href="http://www.wormbase.org/resources/gene_class/clr" target="_blank">Clr</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Clear </span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33"><b>CL</b>ea<b>R</b> phenotype 
+                    or mutation.</p>
+                    <p class="style33"><br>
+                      See <a href="#clearphenotype">Clear phenotype</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="clumpingbehavior"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=populationgenetics&rendertype=figure&id=A7010" target="_blank">Clumping 
+                    behavior</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The tendency 
+                    of a population of animals to collect closely together into larger piles 
+                    or clumps. This behavior is often observed in normal animals on plates where 
+                    the food is about to be exhausted, where they pile up at the edges of the 
+                    lawn of bacteria. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="coatedpit"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mcb.figgrp.4895" target="_blank">Coated 
+                    pit</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">An intermediate stage of <a href="http://www.wormbook.org/chapters/www_intracellulartrafficking/intracellulartrafficking.html#d0e58" target="_blank">endocytosis</a>, 
+                    in which the plasma membrane indents when organized by a coat of clathrin 
+                    on the cytoplasmic surface; the coated pit continues to indent and become 
+                    more spherical until it breaks off to form a coated vesicle. They have 
+                    been seen in neurons near synapses and at the base of sensory cilia and 
+                    in coelomocytes (Hall, unpublished). Coated pits are larger in diameter than coated vesicles. </p>
+                    <p class="style33"><br>
+                      See <a href="#caveola">Caveola / Caveolae</a><br>
+                      See <a href="#coatedvesicle">Coated vesicle</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="coatedvesicle" id="coatedvesicle"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2389"coated+vesicle"+AND+mboc4[book]+AND+373606[uid]&rid=mboc4.figgrp.2389" target="_blank">Coated 
+                    vesicle</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A specialized 
+                    small vesicle associated with <a href="http://www.wormbook.org/chapters/www_intracellulartrafficking/intracellulartrafficking.html#d0e58" target="_blank">endocytosis</a>, often found at the plasma membrane, 
+                    or associated with vesicular trafficking between membranous lamellae deeper 
+                    inside a cell, such as at Golgi stacks or rough ER. The <a href="http://www.ncbi.nlm.nih.gov/books/NBK21749/figure/A4893/" target="_blank">outer coat</a> is made 
+                    from primarily from <a href="http://www.ncbi.nlm.nih.gov/books/NBK28437/figure/A3229/" target="_blank">clathrin protein</a>.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="coelomiccavity"></a>Coelomic 
+                    cavity</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Cavity formed between separate 
+                    mesodermal layers which, in vertebrates, includes pleural, peritoneal 
+                    and pericardial spaces. The mesodermal layer around the coelomic cavity 
+                    is an epithelium proper with a basal lamina on the outside and very often 
+                    cilia facing the lumen. There is no true coelomic cavity in the nematodes 
+                    but a pseudocoelom.</p>
+                    <p class="style33"><br>
+                      See <a href="pglossary.htm#pseudocoelom" target="_blank">Pseudocoelom</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="coelomocyte"></a><a href="../hermaphrodite/coelomocyte/Coelomoframeset.html" target="_blank">Coelomocyte</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A free-floating 
+                    spherical cell lying in the pseudocoelomic cavity of larvae and adult <em>C. 
+                      elegans</em> that can endocytose many compounds, possibly for immune surveillance. 
+                    There are <a href="../hermaphrodite/coelomocyte/Images/ccfig1leg.htm" target="_blank">six coelomocytes</a> in adult hermaphrodites, often lying pairwise 
+                    together, and they display prominent<a href="../hermaphrodite/coelomocyte/Images/ccfig5leg.htm" target="_blank"> cytoplasmic inclusions and vacuoles</a>.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="coiler"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000565" target="_blank">Coiler </a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A behavioral<a href="http://www.youtube.com/watch?v=l47H2VYPC6o" target="_blank"> phenotype</a> common to some classes of uncoordinated mutations, in which the 
+                    animal commonly comes to rest in a tightly coiled posture, forming a spiral, 
+                    and tending to remain stationary in this position rather than actively moving 
+                    on the plate. In some classes of mutation, the animal may favor coiling 
+                    specifically in one handedness, being either a &#147;dorsal coiler&#148; 
+                    (with all dorsal muscles in contraction) or a &#147;ventral coiler&#148; 
+                    (with all ventral muscles in contraction). Some mutations lead to coiling 
+                    when the animal is reversing, but not during forward motion. The mutations 
+                    seem to interfere preferentially with neuronal input to the bodywall muscles 
+                    so as to block the normal pattern of alternating waves of contraction along 
+                    the bodywall which would flex the animal in alternating dorsal and ventral 
+                    contraction.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="coldsensitive"></a>Cold 
+                    sensitive</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Referring 
+                    to a temperature-sensitive mutation whose phenotype is exacerbated by low 
+                    temperature (often 15 or 16<sup>o</sup>C), but becomes more normal at room temperature.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="collar"></a><a href="http://www.wormatlas.org/hermaphrodite/germ%20line/Images/germfig9leg.htm" target="_blank">Collar</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33"> In the spermatozoon, an electron 
+                    dense cytoplasmic specialization surrounding an ER membrane through which 
+                    the membrane converts to form smaller membranous vesicles on the cis face 
+                    of the Golgi apparatus (Wolf 
+                    et al., 1978). The two portions of membrane compartment separated 
+                    by the collar have also been referred to as the <a href="http://www.wormatlas.org/hermaphrodite/germ%20line/Images/germfig8leg.htm" target="_blank">head lobe (smaller) and 
+                      body lobe (larger)</a> (<a href="http://jcs.biologists.org/content/110/9/1073.long" target="_blank">Achanzar 
+                        and Ward, 1997</a>). After fusion of the membranous organelle with the 
+                    spermatozoon&#146;s plasma membrane, the collar is thought to persist 
+                    and to reinforce the fusion pore, keeping it open while fibrous contents 
+                    from the MO are extruded to the outside surface of the spermatozoon.</p>
+                    <p class="style33"><br>
+                      See <a href="mglossary.htm#membranousorganelle" target="_blank">Membranous organelle</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="colonizing"></a>Colonizing</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33"><strong>1)</strong> A nematode's ability to invade and reproduce in a local habitat.</p>
+                    <p class="style33"><strong>2)</strong> The ability of a bacteria, fungus or virus to invade the nematode and reproduce there.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="comma"></a><a href="http://www.wormbook.org/chapters/www_intromethodscellbiology/cellfig13.jpg" target="_blank">Comma</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A middle 
+                    stage in embryogenesis of the worm in which the embryo is slightly folded 
+                    within the eggshell. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="commandinterneuron"></a>Command 
+                    interneuron</b></span></td>
+                  <td valign=top class="style18"><span class="style33">Command 
+                    neuron (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Interneurons whose synaptic 
+                    output represent a &#147;final common pathway&#148; to motor neurons. 
+                    The synaptic activities of command interneurons lead directly to the control 
+                    of locomotion. This group of interneurons include <a href="../neurons/Individual Neurons/AVAframeset.html" target="_blank">AVA</a>, <a href="../neurons/Individual Neurons/AVBframeset.html" target="_blank">AVB</a>, <a href="../neurons/Individual Neurons/AVDframeset.html" target="_blank">AVD, </a> <a href="../neurons/Individual Neurons/AVEframeset.html" target="_blank">AVE</a> and <a href="../neurons/Individual Neurons/PVCframeset.html" target="_blank">PVC</a>.</p>
+                    <p class="style33"><br>
+                      See <a href="iglossary.htm#interneuron" target="_blank">Interneuron</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="commensal"></a>Commensal </b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A lifestyle in which  two species live together (and perhaps to feed together), at no harm to either  organism and for the benefit of one (but not both) of the organisms. If both species derive obvious benefits, it  is considered mutualism.&nbsp; It  has been suggested that <em>C. vulgaris </em> may have a commensal relationship with  pillbugs in the wild, living under the shell of the pillbug and perhaps  consuming bacteria there (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001874;class=Paper" target="_blank">Baird et al., 1994</a>). </p>
+                    <p class="style33"><br>
+                      See <a href="fglossary.htm#freeliving" target="_blank">Free living</a> <br>
+                      See <a href="mglossary.htm#mutualism" target="_blank">Mutualism</a> <br>
+                      See <a href="nglossary.htm#necromenic" target="_blank">Necromenic</a> <br>
+                      See <a href="pglossary.htm#parasite" target="_blank">Parasite </a><br>
+                      See <a href="pglossary.htm#phoretic" target="_blank">Phoretic</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="commisure"></a>Commissure</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The passage of a neuron process 
+                    or a bundle of neuron processes between two different nerve cords or between 
+                    two bilateral ganglia. In higher animals a commissure always consists 
+                    of many processes traveling in parallel to reach a shared destination. 
+                    However, in <i>C. elegans</i>, a commissure can consist of a single neuron 
+                    process. Such commissural axons in the nematode always travel in direct 
+                    contact with a thin coating of the hypodermis, and most run circumferentially 
+                    along the outer body wall.</p>
+                    <p class="style33">Commissures in <i>C. elegans</i> are:<strong><br>
+                      Amphid commissure:</strong> bilateral<br>
+                      <strong>Deirid commissure:</strong> bilateral<br>
+                      <strong>Dorso-rectal commissure:</strong> bilateral<br>
+                      <strong>Lumbar commissure: </strong>bilateral, comprises the full route of axons from preanal 
+                      ganglion (ventral side) to dorsal cord<br>
+                      <strong>Lumbar-preanal commissure:</strong> bilateral, a portion of the lumbar commissure comprising 
+                      the ventral to lateral portion only<br>
+                      <strong>Motor neuron commissures: </strong>each runs either from 
+                      left or right side, processes of D type motor neurons that travel 
+                      from ventral cord to dorsal cord along the body</p>
+                    <p class="style33"><br>
+                      See <a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Commissures29" target="_blank">Commissures section</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="con"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000651" target="_blank">Con</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"><span class="style33"><b>CON</b>stipated</span></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33"> A defecation 
+                    mutant phenotype where animals exhibit delayed or infrequent defecation cycles.</p>
+                    <p class="style33"><br>
+                      See <a href="dglossary.htm#defecation" target="_blank">Defecation motor program </a><br>
+                      See <a href="#constipated">Constipated/ Constipation</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="confocalmicroscopy" id="confocalmicroscopy"></a><a href="http://www.wormclassroom.org/cr/confocal.html" target="_blank">Confocal microscopy </a></b></span></td>
+                  <td valign=top class="style18"><p class="style33">LSCM (S)<br>
+                    Laser scanning confocal microscopy (S) </p></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">This high resolution microscopy is used for imaging fluroescent signals in fixed specimens.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="connectivitydiagram"></a><a href="http://www.wormatlas.org/images/connectome.pdf" target="_blank">Connectivity 
+                    diagram</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Wiring 
+                    diagram (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The overall 
+                    pattern by which a set of neurons interacts synaptically with each other. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="constipated" id="constipated"></a>Constipated/Constipation</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A reduction in the normal rate 
+                    of defecation, leading to an abnormal buildup of digestion products inside 
+                    the lumen of the hindgut.</p>
+                    <p class="style33"><br>
+                      See <a href="dglossary.htm#defecationmotorprogram" target="_blank">Defecation motor program </a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="contacttermination"></a>Contact 
+                    termination</b></span></td>
+                  <td valign=top class="style18"><span class="style33">Branch 
+                    termination (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A feature in which two neuron 
+                    processes touch each other to form a gap junction and terminate at that 
+                    point. Very common at the distal extreme of the nerve ring (most commonly 
+                    between bilateral processes extending from neurons of the same class) 
+                    and along the length of some motor nerves (between functional homologues 
+                    such as <a href="../neurons/Individual Neurons/VDframeset.html" target="_blank">VD'</a>s or<a href="../neurons/Individual Neurons/DDframeset.html" target="_blank"> DD</a>'s).</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="contralateral"></a>Contralateral</b></span></td>
+                  <td valign=top class="style18"><span class="style33">Ipsilateral (A)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Refers to a cell or cell extension which lies  across the midline from a reference object.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="continuousjunction"></a><a href="../hermaphrodite/somatic gonad/Images/somaticfig9leg.htm" target="_blank">Continuous 
+                    junction</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Smooth 
+                    septate junction (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">An intercellular junction found 
+                    only in the spermatheca, in which the two plasma membranes are separated 
+                    at a distance (the septa) but show no cytoplasmic density or specialization 
+                    to mark the junction. Their presence is most easily noted by MH27 (<a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00000100" target="_blank">AJM-1</a>) 
+                    antibody staining.</p>
+                    <p class="style33"> Alternately, this term has been used to characterize extensive adherens 
+                      junctions, or &#147;belt desmosomes&#148;, that extend &#147;continuously&#148; 
+                      over the entire apposition of two epithelial cells.</p>
+                    <p class="style33"><br>
+                      See <a href="sglossary.htm#septatejunction" target="_blank">Septate junction</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="convulsion"></a>Convulsion</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A mutant phenotype in which the animal suffers  from local contractions or stretching of the bodywall muscles occurring  synchronously over all four dorsal and ventral quadrants, so that the local  portion of the body seems to lengthen or shorten (<a href="http://hmg.oxfordjournals.org/content/13/18/2043.long" target="_blank">Williams et al., 2004</a>).&nbsp; Global changes in length operating on all  bodywall muscles synchronously are often called the Rubberband phenotype.</p>
+                    <p class="style33"><br>
+                      See <a href="rglossary.htm#rubberbandphenotype" target="_blank">Rubberband phenotype </a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="copulatoryapparatus"></a><a href="../male/neuronalsupport/images/MaleNeuroFIG1.jpg" target="_blank">Copulatory 
+                    apparatus</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Copulatory 
+                    structures (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The specialized 
+                    structures of the male tail which allow the animal to sense the presence 
+                    of the hermaphrodite, search her body for the vulval opening, grasp onto 
+                    the vulva, and to transfer sperm.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="copulatorybursa"></a>Copulatory 
+                    bursa</b></span></td>
+                  <td valign=top class="style18"><span class="style33"> Bursa 
+                    (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="bglossary.htm#bursa" target="_blank">Bursa</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="copulatoryplug"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=populationgenetics&rendertype=figure&id=A7010" target="_blank">Copulatory 
+                    plug</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Mating 
+                    plug (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Gelatinous 
+                    material deposited into the opening of the vulva of the hermaphrodite by 
+                    a male at the termination of mating behavior. The plug can produce a visible 
+                    swelling that completely covers the vulval region. The plug may preserve 
+                    for up to 24 hrs before egg laying forces it to be shed. </p>
+                    <p class="style33">Some strains of <i>C. elegans</i> males secrete plug material, while other strains do not 
+                      (<a href="http://dx.doi.org/10.1006/anbe.1994.1221" target="_blank">Barker, 
+                        1994</a>). Presence of the plug has been shown to interfere with successful 
+                      mating by a second male, and thus protects the sperm from the first male 
+                      (the &#147;plugging male&#148;) from competition from sperm from a second 
+                      male. </p>
+                    <p class="style33">The ability to produce a plug is ascribed to the function of a single 
+                      gene,<a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00004041" target="_blank"> <i>plg-1</i></a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002770;class=Paper" target="_blank">Hodgkin 
+                        and Doniach, 1997</a>). The plug material appears to be formed by coagulation 
+                      of a secreted yellow liquid, which collects in seminal vesicle during mating, 
+                      and is secreted at the end of mating, during which time the male continues 
+                      to &#147;linger&#148; near the vulva, after the termination of sperm transfer 
+                      (<a href="http://www.genetics.org/content/146/1/149.long" target="_blank">Barker, 
+                        1994</a>).<i> <a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00004041" target="_blank">plg-</a></i><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00004041;class=Gene">1</a> probably encodes a coagulant, not the yellow liquid 
+                      itself, since non-plugging males also exude the yellow liquid.</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="copulatoryspicule"></a><a href="../male/spicules/Spicframeset.html" target="_blank">Copulatory 
+                    spicule</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="sglossary.htm#spicule" target="_blank">Spicule</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cord" id="cord"></a>Cord</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">This term has multiple, overlapping 
+                    uses. It can refer to:</p>
+                    <p class="style33"> <strong>1)</strong> The bundled nerves running 
+                      along the longitudinal body axis, i.e. &#147;nerve cords&#148; </p>
+                    <p class="style33"><strong>2)</strong> the 
+                      hypodermal extensions lying along the sides (dorsal, ventral, left or 
+                      right), i.e. &#147;hypodermal cords&#148;</p>
+                    <p class="style33"><strong>3)</strong> the combination of nerve 
+                      processes plus hypodermis along the longitudinal body axis</p>
+                    <p class="style33"><br>
+                      See <a href="hglossary.htm#hypodermalridge" target="_blank">Hypodermal ridge</a><br>
+                      See <a href="nglossary.htm#nervecord" target="_blank">Nerve cord</a><br>
+                    </p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="core"></a><a href="../male/germline/images/MaleReproFIG17B.jpg" target="_blank">Core</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Rachis 
+                    (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The syncytial acellular portion of the germline in the adult male nematode 
+                    linking the cell bodies of individual germ cells; it appears completely 
+                    the same as the rachis of the hermaphrodite gonad (Wolf 
+                    et al., 1978).</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="corpse"></a>Corpse</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">This 
+                    term can refer either to the dead remains of a whole animal at the end of 
+                    life (as in extreme old age, or after deadly insult, or lethal mutation) 
+                    or to the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=programcelldeath&rendertype=figure&id=A4678" target="_blank">dead remains of a cell that has undergone apoptosis</a> or necrosis, 
+                    but which has not yet been consumed by engulfment by a neighboring cell.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="corpus"></a><a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">Corpus</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">An extended 
+                    anterior region of the pharynx, which is composed of two subdomains, the 
+                    procorpus (long and thin) and the metacorpus (first bulb), lying just anterior 
+                    to the isthmus and terminal bulb. The muscular corpus lies just posterior 
+                    to the pharyngeal epithelium, and anterior to the isthmus.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cortex"></a>Cortex</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The outermost 
+                    region of the cytoplasm, directly underlying the plasma membrane of a cell. 
+                    It is a site of concentration for specific molecular determinants governing 
+                    cell development and the point of anchorage for cytoskeletal elements (<a href="http://dx.doi.org/10.1016/j.devcel.2004.08.001" target="_blank">Munro et al., 2004</a>). The term is often used with regard to the developing blastomere. Other cell 
+                    types with distinctive specializations of their cortex include the intestine, 
+                    the excretory canal, and the uterus (<a href="http://dx.doi.org/10.1016/j.devcel.2004.05.018" target="_blank">Gobel et al., 2004</a>).</p>
+                    <p class="style33"><br>
+                      See <a href="gglossary.htm#glycocalyx" target="_blank">Glycocalyx </a><br>
+                      See <a href="lglossary.htm#lumen" target="_blank">Lumen</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="corticalcontraction"></a><a href="http://www.wormbook.org/chapters/www_asymcelldiv/asymcelldiv.html#d0e451" target="_blank">Cortical 
+                    contraction</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Occurs 
+                    in the developing fertilized oocyte prior to first cleavage. These contractions 
+                    take place in a polarized fashion relative to the A/P axis of the embryo.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="corticallayer" id="corticallayer"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.582" target="_blank">Cortical 
+                    layer</a></b></span></td>
+                  <td valign=top class="style18"><p class="style33">Outer layer of cuticle (S)<br>
+                    Epicuticle (S)<br>
+                    Cortical Zone (S)</p></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The outermost layer of the<a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank"> adult cuticle</a> is called the cortical layer, and appears more densely staining 
+                    both by light microscopy and by TEM observation. By some accounts the 
+                    cortical layer can be subdivided further to identify an external cortical 
+                    layer that is the darkest part, an internal cortical layer that is similar 
+                    to the matrix layer, and a medial layer.</p>
+                    <p class="style33"><br>
+                      See <a href="bglossary.htm#basallayer" target="_blank">Basal 
+                        layer</a><br>
+                      See <a href="fglossary.htm#fiberlayers" target="_blank">Fiber layers</a><br>
+                      See <a href="fglossary.htm#fibrillayer" target="_blank">Fibril layer</a><br>
+                      See <a href="mglossary.htm#matrixlayer" target="_blank">Matrix layer</a><br>
+                      See <a href="eglossary.htm#epicuticle" target="_blank">Epicuticle</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="corticalrearrangement"></a>Cortical 
+                    rearrangement</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Refers 
+                    to changes in anatomical organization in the late stages of primary oocyte 
+                    maturation just prior to fertilization, as viewed by light microscopy.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="corticalruffling"></a><a href="http://raven.zoology.washington.edu/celldynamics/courses/archive/2003gndcb/wormweb/intro.html" target="_blank">Cortical 
+                    ruffling</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Periodic 
+                    indentations, or creases, of the first embryonic cell near the time of pseudocleavage 
+                    that move laterally along the surfaces of the dividing fertilized oocyte, 
+                    as viewed by light microscopy (<a href="http://jcb.rupress.org/content/121/6/1343.long" target="_blank">Hird 
+                      and White, 1993</a>). </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cpcell"></a><a href="../neurons/Individual Neurons/CPframeset.html" target="_blank">CP 
+                    cell</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004903" target="_blank">CP0</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004901" target="_blank">CP1</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004899" target="_blank">CP2</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004897" target="_blank">CP3</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004895" target="_blank">CP4</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004893" target="_blank">CP5</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004891" target="_blank">CP6</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004889" target="_blank">CP7</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004888" target="_blank">CP8</a> <br>
+                    <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004887" target="_blank">CP9</a></span></td>
+                  <td valign=top class="style18"><span class="style33">P2.aap <br>
+                    P3.aapp <br>
+                    P4.aapp <br>
+                    P5.aapp <br>
+                    P6.aapp <br>
+                    P7.aapp <br>
+                    P8.aapp <br>
+                    P9.aapp <br>
+                    P10.aapp <br>
+                    P11.aapp </span></td>
+                  <td valign=top class="style18"><p class="style33">Male specific cells in ventral 
+                    cord<br>
+                    Male specific cells in ventral cord<br>
+                    Male specific cells in ventral cord<br>
+                    Male specific cells in ventral cord<br>
+                    Male specific motor neurons in ventral cord<br>
+                    Male specific motor neurons in ventral cord<br>
+                    Male specific motor neurons in ventral cord<br>
+                    Male specific motor neurons in ventral cord<br>
+                    Male specific interneurons project into preanal ganglion<br>
+                    Male specific interneurons project into preanal ganglion<br>
+                  </p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cpa"></a>Cpa</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33"> Term 
+                    defines <strong>C</strong>yto<strong>P</strong>lasmic <strong>A</strong>ppearance alteration mutant or phenotype in early embryo.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="crawling"></a><a href="http://labs.bio.unc.edu/Goldstein/crawl.mov" target="_blank">Crawling</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Gliding (S) <br>
+                    Creeping (S) </span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The  typical undulating locomotory behavior displayed by most nematodes, including <em>C. elegans</em> when moving on a solid or semi-solid substrate (Crofton, 1971; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>). <em>C. elegans</em> tends to  crawl forward more often and more skillfully than backwards, except for adult  males, which spend more time moving backwards.</p>
+                    <p class="style33"><br>
+                      See <a href="sglossary.htm#swimming" target="_blank">Swimming </a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cristae" id="cristae"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.figgrp.2370" target="_blank">Cristae</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The internal compartments formed by the inner membrane of a mitochondrion. The foldings of the membrane create a large surface area where the reactions for cellular respiration to take place. </p>
+                    <p class="style33"><br>
+                      See <a href="mglossary.htm#mitochondrion" target="_blank">Mitochondrion</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="crossbridge"></a>Cross 
+                    bridge</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">May refer 
+                    to the cell body and lateral branches of the <a href="../hermaphrodite/excretory/Images/excfig3leg.htm" target="_blank">excretory canal process</a> that 
+                    connects the left side canal and right side canal into an &#147;H&#148; 
+                    shape. The cross bridge also is <a href="../hermaphrodite/excretory/Images/excfig8leg.htm" target="_blank">the site of the secretory membrane</a> at which 
+                    the canal cell dumps its contents into the excretory duct and pore.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="crossover"></a>Cross-over</b></span></td>
+                  <td valign=top class="style18"><span class="style33">Decussation 
+                    (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">The crossing 
+                    of an axon across the midline is sometimes referred to as &quot;crossing-over&quot; 
+                    although the usual term is decussation.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="crossprogeny"></a>Cross 
+                    progeny</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Progeny 
+                    that derive from a mating event between male and hermaphrodite parents 
+                    and not from self-fertilization within the hermaphrodite, which are termed 
+                    self-progeny.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="crossing"></a>Crossing</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The deliberate production of 
+                    cross-progeny by the mating of males and hermaphrodites.</p>
+                    <p class="style33"><br>
+                      See <a href="bglossary.htm#backcross" target="_blank">Backcross</a><br>
+                      See <a href="oglossary.htm#outcross" target="_blank">Outcross</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="crumpledspicules"></a><a href="http://www.nature.com/emboj/journal/v19/n13/fig_tab/7593148f3.html" target="_blank">Crumpled 
+                    spicules</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A common deformity in the development 
+                    of the<a href="../male/spicules/Spicframeset.html" target="_blank"> spicules</a> of the male tail as a result of certain mutations. This 
+                    deformity generally causes male sterility. Whereas normal spicules are 
+                    created as long straight rigid structures, supported by a keratinized 
+                    outer cuticle, various mutations lead them to become malformed where they 
+                    are shorter, bent or too pliable to function in mating behavior.</p>
+                    <p class="style33"><br>
+                      See <a href="sglossary.htm#spicule" target="_blank">Spicule</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cryptobiosis"></a>Cryptobiosis</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">The  ability to survive for long periods of time in a metabolically inactive state,  whether due to low oxygen, low temperature (including freezing), dessication  or even high temperature, among others. </p>
+                    <p class="style33">This is different from diapause, but it would seem that larval stage animals are much better suited to survive cryptobiotic conditions than  other stages or dauer animals. Similarly, in the  laboratory, most mutant strains of <em>C. elegans</em> are best stored for long  intervals (years) under liquid nitrogen as freshly starved L1-L2 larvae (<a href="http://www.wormbook.org/chapters/www_strainmaintain/strainmaintain.html#d0e920" target="_blank">Stiernagle, 2006</a>). Some nematode  species are much better suited to long term cryptobiotic survival than <em>C.  elegans</em> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>).</p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="crystalloid" id="crystalloid"></a>Crystalloid</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">A category 
+                    of free-floating cytoplasts found in the pseudocoelom of some nematodes 
+                    (not known in <i>C. elegans</i> as yet) that accumulate high amounts of 
+                    metal sulfides and some protein and carbohydrate into a granular objects.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="curl"></a><a href="http://www.wormatlas.org/male/muscleintro/images/MaleMusFIG13.jpg" target="_blank">Curl</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Curling (S) </span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A distinctive posture  of the male tail often seen  in animals suspended in liquid medium, involving a  deep bending on the ventral side. Adult males exposed to high serotonin levels  exogenouosly often will curl  and sometimes become frozen in this position  (<a href="http://www.jneurosci.org/content/13/12/5407.long" target="_blank">Loer and Kenyon, 1993</a>).<br>
+                  </p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cuticle"></a><a href="../hermaphrodite/cuticle/Cutframeset.html" target="_blank">Cuticle</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A rigid external coating which 
+                    is secreted by the hypodermis, seam and some interfacial epithelial cells. 
+                    It covers the outer body, the major openings into the body cavity (<a href="../hermaphrodite/introduction/IMAGES/introfig4Aleg.htm" target="_blank">mouth</a>, <a href="../hermaphrodite/excretory/Images/excfig9leg.htm" target="_blank">excretory pore</a>, <a href="../hermaphrodite/rectum/Images/rectfig3Gleg.htm" target="_blank">rectum</a>) and two large sensory bristles, the male <a href="../male/spicules/images/MaleSpicFIG1.jpg" target="_blank">spicules</a>. The cuticle of the <a href="../male/spicules/images/MaleSpicFIG6.jpg" target="_blank">spicules</a>, the<a href="../male/hook/images/MaleHookFIG2BC.jpg" target="_blank"> hook</a>, and of some portions of the <a href="../male/proctodeum/images/MaleProcFIG11B.jpg" target="_blank">spicule channels</a> is especially 
+                    rigid and is probably sclerotized. Similar sclerotic features are occasionally 
+                    noted in the ventral surface of the male tail fan, and are also seen at 
+                    the three apices of the buccal cuticle, reinforcing the shape of the cuticle 
+                    channels there.</p>
+                    <p class="style33">The <a href="http://www.wormbook.org/chapters/www_cuticle/cuticlefig1.jpg" target="_blank">adult cuticle</a> is comprised of many distinct layers, not all of which 
+                      may be evident in any one <a href="../hermaphrodite/cuticle/Images/cutfig4leg.htm" target="_blank">cross-section by electron microscopy</a>. <a href="../hermaphrodite/cuticle/Images/cutfig6leg.htm" target="_blank">Larval 
+                        and dauer cuticles</a> may look substantially different. The <a href="../dauer/cuticle/Cutframeset.html" target="_blank">dauer cuticle</a> is relatively much thicker than other stages (<a href="http://www.ncbi.nlm.nih.gov/books/NBK20122/" target="_blank">Kramer, 
+                          1997</a>), as is the cuticle of very old adults (<a href="../images/Herndon 2002.pdf?name=WBPaper00005490;class=Paper" target="_blank">Herndon 
+                            et al., 2002</a>). However, neither condition seems to involve the creation 
+                      of extra layers, but just the thickening of certain sublayers. </p>
+                    <p class="style33">The cuticle of the <a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank">buccal cavity and pharynx</a> is qualitatively different 
+                      from the body cuticle, lacking layers and forming a series of complex 
+                      specializations, including the <a href="../hermaphrodite/cuticle/Images/cutfig7Aleg.htm" target="_blank">flaps</a>, <a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank">sieve and grinder</a>. It is virtually 
+                      separate from the body cuticle except for tenuous connections through 
+                      the &#147;bridging cuticle&#148; (Hall, unpublished). </p>
+                    <p class="style33">For more detail see <a href="http://www.wormbook.org/chapters/www_cuticle/cuticle.html" target="_blank">Page and Johnstone, 2007</a> and WormAtlas<a href="../hermaphrodite/cuticle/Cutframeset.html">Hermaphrodite Cuticle</a> and<a href="../dauer/cuticle/Cutframeset.html" target="_blank"> Dauer Cuticle</a> sections.</p>
+                    <p class="style33">See <a href="bglossary.htm#basallayer" target="_blank">Basal 
+                      layer</a><br>
+                      See <a href="bglossary.htm#boundaryzone" target="_blank">Boundary 
+                        zone</a><br>
+                      See <a href="#channel">Channel</a><br>
+                      See <a href="#corticallayer">Cortical layer</a><br>
+                      See <a href="fglossary.htm#fibrillayer" target="_blank">Fibril layer</a><br>
+                      See <a href="mglossary.htm#molt" target="_blank">Molt</a><br>
+                      See <a href="mglossary.htm#matrixlayer" target="_blank">Matrix layer</a><br>
+                    </p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cuticlecollagens"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=cuticle&rendertype=figure&id=A15045" target="_blank">Cuticle 
+                    collagens</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Those collagen proteins that are expressed in the nematode cuticle at 
+                    some time during the animal&#146;s development or adult life stages. Genes 
+                    encoding collagen proteins are among the larger gene families within the <i>C. elegans</i> genome. Some collagens are not expressed in cuticle, but 
+                    instead help to form the basal laminae of various tissues (for more detail see <a href="http://www.wormbook.org/chapters/www_cuticle/cuticle.html#sec4_1" target="_blank">Page and Johnstone, 2007</a>).</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cuticleflaps"></a><a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">Cuticle 
+                    flaps</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Three 
+                    flaps extend inward from the lining of the buccal cuticle to restrict flow 
+                    at the rear of the buccal cavity (<a href="../ver1/Wright_1981/toc.html?name=WBPaper00000531;class=Paper" target="_blank">Wright 
+                      and Thomson, 1981</a>). These flaps extend from the pharyngeal muscle cells 
+                    m1 and m2. They are made of specialized cuticle and appear very electron 
+                    dense in thin section, suggesting a sclerotic hardening to stiffen the flaps 
+                    and the entryway to the true pharynx. </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cuticlefurrows"></a><a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank">Cuticle 
+                    furrows</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Shallow <a href="../hermaphrodite/cuticle/Images/cutfig1leg.htm" target="_blank">circumferentially-oriented indentations</a> in the cuticle. The ridges between furrows are the annuli.</p>
+                    <p class="style33"><br>
+                      See <a href="aglossary.htm#annuli" target="_blank">Annuli</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cuticularnubbin"></a>Cuticular 
+                    nubbin</b></span></td>
+                  <td valign=top class="style18"><span class="style33">CN</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">See <a href="nglossary.htm#nubbin" target="_blank">Nubbin</a></span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cyk" id="cyk"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0001078" target="_blank">Cyk</a></b></span></td>
+                  <td valign=top class="style18"><span class="style33">Cytokinesis abnormal (S) </span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33"><b>CY</b>to<b>K</b>inesis 
+                    defect. Term defines abnormality in the division of a cell into two daughter 
+                    cells<br>
+                    following mitosis.</span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cytoneme"></a><a href="../hermaphrodite/somatic gonad/Images/somaticfig2Aleg.htm" target="_blank">Cytoneme</a></b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><span class="style33">Thin 
+                    tapered processes extended by somatic sheath cell #1 over the surface of 
+                    the unsheathed gonad, near the transition zone (<a href="http://dx.doi.org/10.1006/dbio.1999.9356" target="_blank">Hall 
+                      et al., 1999</a>; <a href="http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0177(200005)218:1<2::AID-DVDY2>3.0.CO;2-W/abstract" target="_blank">Hubbard 
+                        and Greenstein, 2000</a>). </span></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cytoplast" id="cytoplast"></a>Cytoplast</b></span></td>
+                  <td valign=top class="style18"><span class="style33">Minicell 
+                    (S)</span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">A non-viable cell fragment 
+                    which has broken off from a parent cell, or also it can be a residual fragment of 
+                    a dead or dying cell. Cytoplasts most often contain no nuclear material, 
+                    and thus cannot reproduce or maintain themselves (<a href="http://dx.doi.org/10.1016/0012-1606(81)90427-9" target="_blank">Sulston 
+                      and Horvitz, 1981</a>). Other categories of cytoplasts may exist as exudates 
+                    or waste products which assemble spontaneously outside of any cell, such 
+                    as crystalloids in some species.</p>
+                    <p class="style33"><br>
+                      See <a href="bglossary.htm#bleb" target="_blank">Bleb</a><br>
+                      See <a href="bglossary.htm#brush" target="_blank">Brush</a><br>
+                      See <a href="#crystalloid">Crystalloid</a></p></td>
+                </tr>
+                <tr>
+                  <td valign=top class="style18"><span class="style33"><b><a name="cytosome"></a>Cytosome</b></span></td>
+                  <td valign=top class="style18"><span class="style34"></span></td>
+                  <td valign=top class="style18">&nbsp;</td>
+                  <td valign=top class="style18"><p class="style33">Archaic term for an  organelle lying within a cell&rsquo;s cytoplasm which might be either an endosome  (membrane-bound) or a free granule, possibly comprised of yolk or lipid (<a href="http://www.nrcresearchpress.com/doi/abs/10.1139/z79-098#.UlcdHmSieG8" target="_blank">Popham and Webster, 1979</a>).</p></td>
+                </tr>
+              </table>
+              <span class="picturename"><br>
+              </span></nobr></td>
+        </tr>
+        <tr>
+          <td class="just"><hr class="page-splits"></td>
+        </tr>
+        <tr>
+          <td class="just"><!-- END IMAGE AREA 10 -->
+            <p><br>
+              <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+            <p><span class="style1">This <span class="style11">section</span> should be cited as: Herndon, L.A., Altun, Z.F. and Hall, D.H. 2009. Glossary C. In<em> WormAtlas</em>. &nbsp;doi:<a href="http//:dx.doi.org/10.3908/wormatlas.6.3" target="_blank">10.3908/wormatlas.6.3</a></span><span class="style1"><br>
+              Edited for the web by Laura A. Herndon. Last revision: October 11, 2013. </span><br>
+            </p></td>
+        </tr>
+      </table>
+      <table border=1>
+        <tr></tr>
+      </table>
+      </nobr></td>
+  </tr>
+  </table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

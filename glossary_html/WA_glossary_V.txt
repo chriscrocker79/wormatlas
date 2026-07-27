@@ -1,0 +1,710 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary V</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - V </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style28"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style28"><font
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style28">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="102"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style28"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="v1v6"></a><a href="../hermaphrodite/hypodermis/Images/hypfig1leg.htm" target="_blank">V1-V6</a></font></strong></td>
+							<td valign=top><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004905" target="_blank">V1L</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004904" target="_blank">V1R</a> <br>
+											<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004902" target="_blank">V2L</a> <br>
+					<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004900" target="_blank">V2R</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004898" target="_blank">V3L</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004896" target="_blank">V3R</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004894" target="_blank">V4L </a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004892" target="_blank">V4R</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004890" target="_blank">V5L</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004876" target="_blank">V5R</a><br>
+										<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004875" target="_blank">V6L</a><br>
+									<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004874" target="_blank">V6R</a> </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../hermaphrodite/hypodermis/Images/hypfig6leg.htm" target="_blank">Ventrolateral ectoblasts of  the body</a> that give rise to neurons, hypodermis and seam cells. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vacells" id="vacells"></a><a href="../neurons/Individual Neurons/VAframeset.html" target="_blank">VA cells </a></font></strong></td>
+							<td valign=top><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004872" target="_blank">VA1</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004870" target="_blank">VA2</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004868" target="_blank">VA3</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004866" target="_blank">VA4</a><br>
+											<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004864" target="_blank">VA5</a><br>
+					<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004862" target="_blank">VA6</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004860" target="_blank">VA7</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004653" target="_blank">VA8</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004651" target="_blank">VA9</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004649" target="_blank">VA10</a><br>
+										<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004647" target="_blank">VA11</a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004645" target="_blank"><br>
+												VA12</a></p></td>
+							<td valign=top><p class="style26"><br>
+							</p></td>
+							<td valign=top><p>A set of <a href="../hermaphrodite/nervous/Images/neurofig6leg.htm" target="_blank">12 motoneurons</a>, distributed along the ventral cord, that innervate ventral body muscles.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vbcells" id="vbcells"></a><a href="../neurons/Individual Neurons/VBframeset.html" target="_blank">VB cells</a> </font></strong></td>
+							<td valign=top><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004643" target="_blank">VB1</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004641" target="_blank">VB2</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004639" target="_blank">VB3</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004638" target="_blank">VB4</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004637" target="_blank">VB5</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004633" target="_blank">VB6</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004631" target="_blank">VB7</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004629" target="_blank">VB8</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004627" target="_blank">VB9</a><br>
+										<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004625" target="_blank">VB10</a><br>
+									<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004623" target="_blank">VB11</a></p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A set of <a href="../hermaphrodite/nervous/Images/neurofig6leg.htm" target="_blank">11 motoneurons</a>, distributed along the ventral cord, that innervate ventral body muscles.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vccells" id="vccells"></a><a href="../neurons/Individual Neurons/VCframeset.html" target="_blank">VC cells </a></font></strong></td>
+							<td valign=top><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004621" target="_blank">VC1</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004619" target="_blank">VC2</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004618" target="_blank">VC3</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004617" target="_blank">VC4</a><br>
+										<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004613" target="_blank">VC5</a><br>
+									<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004611" target="_blank">VC6</a></p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A set of<a href="../hermaphrodite/egglaying apparatus/Images/eggfig15leg.htm" target="_blank"> 6 motoneurons in the ventral cord</a>, that innervate ventral body muscles and the vm2 muscles of the vulva. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vdcells" id="vdcells"></a><a href="../neurons/Individual Neurons/VDframeset.html" target="_blank">VD cells </a></font></strong></td>
+							<td valign=top><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004609" target="_blank">VD1</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004607" target="_blank">VD2</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004605" target="_blank">VD3</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004603" target="_blank">VD4</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004601" target="_blank">VD5</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004599" target="_blank">VD6</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004598" target="_blank">VD7</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004597" target="_blank">VD8</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004593" target="_blank">VD9</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004591" target="_blank">VD10</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004589" target="_blank">VD11</a><br>
+										<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004587" target="_blank">VD12</a><br>
+									<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004585" target="_blank">VD13</a></p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A set of <a href="../hermaphrodite/nervous/Images/neurofig6leg.htm" target="_blank">13 motoneurons</a>, with cell bodies in the ventral cord,<a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank"> that innervate ventral muscles</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vacuole"></a>Vacuole</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A large membrane-bound  organelle within the cell cytoplasm.&nbsp;This term may sometimes be used in reference to distinctive large  endosomes in the intestine, the primary oocyte, or in some sheath cells. </p>
+									<p>More properly, it can be used to refer to an  extremely large internal compartment  that develops in the <a href="../hermaphrodite/excretory/Images/excfig5leg.htm" target="_blank">embryonic excretory  canal cell</a> (and perhaps the excretory duct cell) as a precursor to the  excretory sinus and apical excretory canal (<a href="http://www.cell.com/trends/cell-biology//retrieve/pii/S0962892402023644" target="_blank">Buechner, 2002</a>; <a href="http://dx.doi.org/10.1126/science.1087667" target="_blank">Berry et al., 2003</a>) that shows<a href="../hermaphrodite/excretory/Images/excfig6leg.htm" target="_blank"> enhanced membrane density</a> compared to any other internal  organelles. </p>
+								<p>Vacuoles are often found in cell that are involved in the storage of material such as <a href="../male/somaticgonad/images/MaleReproFIG14B.jpg" target="_blank">secretory cells</a> and <a href="../hermaphrodite/coelomocyte/Images/ccfig5leg.htm" target="_blank">coelomocytes</a>. </p>
+								<p>Vacuoles and vacuole-like structures have been noted as features of<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3249" target="_blank"> apoptotic</a> and <a href="http://www.jneurosci.org/cgi/content/full/17/3/1033/F6" target="_blank">necrotic</a> cell death.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vagina" id="vagina"></a>Vagina </font></strong></td>
+							<td valign=top><a href="#vulva">Vulva</a> (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Alternate (archaic) term  used by some authors for the vulva (<a href="http://dx.doi.org/10.1016/0012-1606(76)90002-6" target="_blank">Klass et al., 1976</a>; <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2617852/" target="_blank">Riddle, 1978</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="valve"></a>Valve</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A device that regulates the flow of liquids. In <em>C. elegans </em>valve and valve-like structures have been identified, usually connecting two tissues through which material is being shunted. </p>
+									<p>The <a href="../hermaphrodite/pharynx/Images/phafig11leg.htm" target="_blank">pharyngeal-intestinal valve</a> links the lumen from the posterior bulb of the pharynx to the lumen of the anterior intestine. The <a href="../hermaphrodite/rectum/Images/rectfig1leg.htm" target="_blank"> intestinal-rectal (rectal) valve</a> occludes the lumen of the posterior intestine with narrow channels that allow digested material to leak to the rectum and then to the anus. It is not clear that this is a true valve since it is unknown whether the size and state of the opening can be altered. The<a href="../hermaphrodite/somatic gonad/Images/somaticfig10leg.htm" target="_blank"> spermatheca-uterine</a> (sp-ut) valve connects the spermatheca to the uterus for the passage of the oocyte and seals the lumen when empty. </p>
+								<p>The <a href="../male/somaticgonad/images/MaleReproFIG14A.jpg" target="_blank">anterior end of the vas deferens</a> may act as a kind of valve to regulate sperm release from the seminal vesicle during ejaculation. </p>
+								<p>Even the <a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">pharyngeal grinder</a> is considered a valve by some authors (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>).</p>
+								<p><br>
+									See <a href="pglossary.htm#pharyngealintestinalvalve" target="_blank">Pharyngeal-intestinal valve</a> <br>
+									See <a href="rglossary.htm#rectalvalve" target="_blank">Rectal valve </a><br>
+									See <a href="sglossary.htm#spermathecauterinevalve" target="_blank">Spermatheca uterine valve</a> <br>
+									See <a href="#vasdeferens">Vas deferens</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="varicosity"></a>Varicosity</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A local swelling of a tissue  or cell process, especially at the <a href="../hermaphrodite/nervous/Images/neurofig21leg.htm?rid=wormbook.figgrp.6074" target="_blank">presynaptic site</a> which can be full of synaptic vesicles. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="vasdeferens"></a><a href="../male/somaticgonad/jump.html?newLink=mainframe.htm&newAnchor=Thevasdeferens4" target="_blank">Vas deferens </a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Sperm duct (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>That  portion of the male reproductive tract, through which mature sperm are  delivered to the proctodeum and then the cloaca in the tail. It is composed of 30 cells which form <a href="../male/somaticgonad/images/MaleReproFIG12.jpg" target="_blank">three distinct sections within the tissue</a>. The anterior region appears to act as a valve to regulate sperm release during ejaculation. The middle portion is composed of cuboidal cells, while in the most posterior region the cells are elongated. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="velum"></a>Velum</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A thin membranous  tissue part or covering; sometimes used in reference to the <a href="../male/rays/images/MaleRayFIG1.jpg" target="_blank">male tail fan</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralaspect"></a>Ventral aspect </font></strong></font></b></td>
+							<td valign=top>Ventral view (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Looking toward the underside or belly of the animal. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralbend"></a>Ventral bend </font></strong></font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="dglossary.htm#deepventralbend" target="_blank">Deep ventral bend</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralcleft"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=epidermalmorphogenesis&rendertype=figure&id=A4435" target="_blank">Ventral cleft </a></font></strong></td>
+							<td valign=top>Ventral groove (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A region along the ventral  side of the gastrulating embryo through which blast cells migrate inward from  the surface layer of embryonic cells to a central collection of developing  mesoderm and pharynx. The cleft opens as  a pore at 100 minutes after fertilization (60 cell stage), widens to form a  cleft from posterior to anterior along the ventral side, and <a href="../hermaphrodite/hypodermis/Images/hypfig3leg.htm?book=wormbook&part=epidermalmorphogenesis&rendertype=figure&id=A4435" target="_blank">closes at 290  minutes</a> (~320 cells).</p>
+									<p><br>
+										See <a href="gglossary.htm#gastrulation" target="_blank">Gastrulation</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralcord"></a>Ventral cord </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif">Ventral chord (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellipodium"><p>This term can refer to  either the ventral nerve cord, to the hypodermal cord, or to the<a href="../hermaphrodite/muscleintro/Images/musfig6A-Fleg.htm" target="_blank"> combined  ventral ridge of hypodermis and nerve</a>. </p>
+									<p>The  ventral hypodermis forms a rather small longitudinal cord and contains few  hypodermal nuclei. It is a syncytium and  connects to much larger lateral cords via thin extensions running beneath the  bodywall muscles.</p>
+								<p>The <a href="../hermaphrodite/nervous/Images/neurofig1leg.htm" target="_blank">ventral nerve cord</a> is the principal longitudinal nerve of the midbody region,  connecting the nerve ring and tail ganglia. It contains about 95 associated  neuron cell bodies of the principal motorneurons that control the bodywall  muscles, and <a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank">many synapses sending signals from command interneurons to these  motorneurons and then to muscle arms</a>.</p>
+								<p><br>
+									See <a href="nglossary.htm#nervecord" target="_blank">Nerve cord </a><br>
+									See <a href="hglossary.htm#hypodermalridge" target="_blank">Hypodermal ridge</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="ventralenclosure"></a>Ventral enclosure </font></b></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif">Ventral cleft closure (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="#ventralcleft">Ventral cleft</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralganglion"></a><a href="../hermaphrodite/nervous/Images/neurofig5leg.htm" target="_blank">Ventral ganglion</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The <a href="../cellIDhead1.html" target="_blank">ventral ganglion lies beside the nerve ring in the head</a>, just anterior of the  retrovesicular ganglion. It contains  about 20 interneuron and motorneuron  cell bodies that all send their neuronal processes into the ring. The cell bodies are <a href="../hermaphrodite/excretory/Images/ExcFIGSulston.jpg" target="_blank">divided into two groups by the intrusion of the excretory duct and canal</a>. The cells are bounded by a basal lamina which physically separates them from the lateral ganglion even though they are adjacent to one another. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralgroove"></a>Ventral groove </font></strong></td>
+							<td valign=top><a href="#ventralcleft">Ventral cleft</a> (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralmidline"></a><a href="../hermaphrodite/hypodermis/Images/hypfig4leg.htm" target="_blank">Ventral midline </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>In transverse section, the  ventral midline runs through the middle of the ventral hypodermal ridge, along  the dorsal/ventral axis, separating the left and right halves of the ventral  bodywall. It is a key feature in the  organization of longitudinal ventral nerve cord, which divides into two  separate fascicles that run preferentially to the right side (major fascicle)  and left side (minor fascicle) of the hypodermal ridge.</p>
+									<p><br>
+										See <a href="dglossary.htm#decussation" target="_blank">Decussation </a><br>
+										See <a href="hglossary.htm#hypodermalridge" target="_blank">Hypodermal ridge</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralnervecord"></a>Ventral nerve cord </font></strong></td>
+							<td valign=top><p><a href="#ventralcord">Ventral cord</a> (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralray"></a>Ventral ray </font></strong></td>
+							<td valign=top><a href="#matingresistance"></a></td>
+							<td valign=top><p><a href="#matingresistance"><span class="style26"></span></a></p></td>
+							<td valign=top><p>Any ray in the male tail  whose opening lies on the <a href="../male/rays/images/MaleRayFIG1.jpg" target="_blank">ventral surface of the fan</a>. The pattern of these  opening is highly stereotyped, such that certain rays always open dorsally (1, 5 and 7),  others ventrally (2, 4 and 8), and a few at the lateral margin of the fan.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventraltwelve"></a>Ventral twelve </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="#vt1vt12">VT1-VT12</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventraluterus"></a>Ventral uterus </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Thirty cells (15 per  gonad arm) derive from <a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">variable lineages</a> among sister cells to the anchor cell  in the gonad primordium, all of which contribute to the more ventral aspects of  the uterine epithelium.</p>
+									<p><br>
+										See <a href="dglossary.htm#dorsaluterus" target="_blank">Doral uterus</a><br>
+										See <a href="#vucells">VU cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventraluterineprecursor"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">Ventral uterine precursor </a></font></strong></td>
+							<td valign=top><p>VU cell (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Each VU blast cell undergoes  two rounds of cell divisions to produce pi cells and/or ro cells, depending upon induction by a signal from the  anchor cell. These intermediate blast cells then go on to divide further to  produce the uv and utse cells of the ventral uterus.</p>
+									<p><br>
+										See <a href="aglossary.htm#anchorcell" target="_blank">Anchor cell </a><br>
+										See <a href="dglossary.htm#dorsaluterus" target="_blank">Dorsal uterus</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ventralview"></a>Ventral view </font></strong></td>
+							<td valign=top><p><a href="#ventralaspect">Ventral aspect</a> (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="ventricularzone"></a>Ventricular zone </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Anterior portion of intestine.</p>
+									<p><br>
+										See <a href="iglossary.htm#intestine" target="_blank">Intestine </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="vermiform"></a>Vermiform</font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Worm-like. This term can be used to refer to  whole animals, or to body parts that have features like a worm. In human anatomy, this term is used to describe the appendix. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="vesicle"></a>Vesicle</font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A number of different cell types contain  characteristic membrane-bound vesicles.</p>
+									<p>Transitory vesicles appear in the excretory  canal upon breakdown of the <a href="../hermaphrodite/excretory/Images/excfig7BCleg.htm" target="_blank">canaliculi</a>, which appear to convert from a  beaded form to a row of disconnected vesicles.</p>
+								<p>Endocytotic  vesicles (&gt;100 nm diameter) are found in <a href="../hermaphrodite/coelomocyte/Images/ccfig5leg.htm" target="_blank">coelomocytes</a>, the distal tip cell, the <a href="../hermaphrodite/muscleGLR/Images/glrfig3E_Ileg.htm" target="_blank">GLR cells</a> and the <a href="../hermaphrodite/intestine/Images/intfig5ABleg.htm" target="_blank">intestine</a>.</p>
+								<p><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synapticfunction&rendertype=figure&id=A6279" target="_blank">Secretory  vesicles</a> are found in several gland cells and all <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synaptogenesis&rendertype=figure&id=A6074" target="_blank">neurons</a>. </p>
+								<p><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2305" target="_blank">Transport  vesicles</a> may shuttle between<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2205" target="_blank"> RER</a>,&nbsp; <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2336" target="_blank">smooth  ER</a>, <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2414" target="_blank">Golgi apparatus</a>, <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=intracellulartrafficking&rendertype=figure&id=A2630" target="_blank">endosomal structures</a> and the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2402" target="_blank">plasma membrane</a>; these are  perhaps more common in secretory cells and in neurons.</p>
+								<p><br>
+									See <a href="sglossary.htm#synapticvesicle" target="_blank">Synaptic vesicle</a><br>
+									See <a href="cglossary.htm#coatedvesicle" target="_blank">Coated vesicle</a><br>
+									See <a href="dglossary.htm#densecorevesicle" target="_blank">Dense core vesicle</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vesicledocking" id="vesicledocking"></a>Vesicle docking </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This step in the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synapticfunction&rendertype=figure&id=A6279" target="_blank">synaptic vesicle cycle</a> is not well documented, but refers to the process by which a vesicle identifies, approaches and becomes associated with the plasma membrane near the active zone of the synapse prior to priming (<a href="http://www.wormbook.org/chapters/www_synapticfunction/synapticfunction.html#d0e511" target="_blank">Richmond, 2005</a>). It is thought that this may be a reversible stage in the vesicle cycle. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vesiclefusion"></a>Vesicle fusion </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This is a specific step in the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=wormbook.figgrp.6279" target="_blank">synaptic vesicle cycle</a> where the synaptic vesicle fuses with the plasma membrane and releases neurotransmitter into the synaptic cleft (<a href="http://www.wormbook.org/chapters/www_synapticfunction/synapticfunction.html#d0e1204" target="_blank">Richmond, 2005</a>; <a href="http://www.jneurosci.org/content/27/23/6150.long" target="_blank">Speese et al., 2007</a>). </p>
+									<p>More generally, this can refer to the fusion of any type of vesicle with another membrane bound system to release its contents. During this process, an omega figure is often formed as an intermediate stage. For more detail on mechanism see <a href="http://www.wormbook.org/chapters/www_cellfusion/cellfusion.html" target="_blank">Podbilewicz, 2006</a>. </p>
+								<p><br>
+									See <a href="fglossary.htm#fusion" target="_blank">Fusion</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vesiclepriming"></a>Vesicle priming </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#membranousorganelle"><p>This  step in the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=wormbook.figgrp.6279" target="_blank">synaptic vesicle cycle </a>follows vesicle docking and makes the vesicle competent for fusion by brining the vesicle into close apposition with the plasma membrane (<a href="http://www.wormbook.org/chapters/www_synapticfunction/synapticfunction.html#d0e836" target="_blank">Richmond, 2005</a>). The vesicle then waits for a rise in intracellular calcium to fuse with the membrane and release its contents. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vestigial"></a>Vestigial</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Anatomical structures which have lost much (or all) of their original function through evolution. Sometimes these structures may develop new functions different from their original ones. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="viability"></a>Viability</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Ability to survive and develop.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="villus"></a>Villus/ Villi </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A large fold or projection  in the apical membrane of any tissue with a mucous membrane. It is not clear that this  term applies to any structure in <em>C. elegans</em>. </p>
+									<p>While the intestinal lumen displays a <a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank">brush  border with many &ldquo;microvilli&rdquo;</a>, it is not clear that it has any &quot;villi&quot;.&nbsp;The  border of the excretory canal where it faces the lumen can display cystic  septations, but rarely if ever has true villi.&nbsp;The <a href="../hermaphrodite/neuronalsupport/Images/neurofig24leg.htm" target="_blank">finger-like projections </a> of the <a href="../neurons/Individual Neurons/AFDframeset.html" target="_blank">AFD</a> dendrite might be considered villi or  microvilli. </p>
+								<p><br>
+									See <a href="bglossary.htm#brushborder" target="_blank">Brush border</a><br>
+									See <a href="fglossary.htm#fingerlikeprojections" target="_blank">Finger-like projections</a><br>
+									See <a href="fglossary.htm#fingercell" target="_blank">Finger cell</a><br>
+									See <a href="mglossary.htm#microvilli" target="_blank">Microvilli</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="virulence"></a>Virulence/ Virulent/ Virulence factor </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The degree of  pathogenicity of a microbe. <br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="virulencefactor"></a>Virulence factor </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A  substance or genetic trait that affects the rate of host/pathogen interaction  to increase the rate of infection or killing.</p>
+									<p><br>
+										See <a href="kglossary.htm#killingassay" target="_blank">Killing assay</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vision"></a>Vision</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><em>C. elegans</em> lacks an eyespot and has no ability to see, it has been reported to exhibit a response to light (<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1751-1097.1985.tb03529.x/abstract" target="_blank">Burr, 1985</a>; Ken Miller, pers. comm.). </p>
+									<p><br>
+										See <a href="eglossary.htm#eyespot" target="_blank">Eyespot</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="vitellinelayer"></a><a href="../hermaphrodite/pericellular/Images/perifig5leg.htm" target="_blank">Vitelline layer</a></font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The  outermost layer of the eggshell [according to most nematology literature],  lying very closely attached to the outside of the chitinous layer. It may be hardened or not and it may have a unit  membrane structure or not (see Bird and Bird, 1991). This layer is not well documented for <em>C.  elegans</em>, and the nomenclature is confused, since the internal &ldquo;lipid layer&rdquo; has  been incorrectly named the inner vitelline membrane in many papers. Some or all of the outer vitelline layer may  derive from secretions from the uterine epithelium.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="vitellinemembrane"></a><a href="../hermaphrodite/pericellular/Images/perifig5leg.htm" target="_blank">Vitelline membrane </a></font></b></td>
+							<td valign=top><p>Inner vitelline membrane (S) <br>
+								Lipid layer (S) <br>
+								Vitelline envelope (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Formerly  called the &ldquo;lipid layer&rdquo; (Bird, 1971), it is a very thin lipid layer surrounding the  developing embryo, just beneath the outer chitinous layer of the eggshell. This membrane must be kept intact to  establish a microenvironment within which the embryo can develop properly  (<a href="http://link.springer.com/article/10.1007%2FBF00364592" target="_blank">Schierenberg and Junkersdorf, 1992</a>).&nbsp;Although not clearly established as yet, it is possible that this layer  is contributed to the oocyte by the uterine sheath.</p>
+									<p><br>
+										See <a href="oglossary.htm#oolemma" target="_blank">Oolemma</a><br>
+										See <a href="zglossary.htm#zonapellucida" target="_blank">Zona pellucida</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vitellogenin"></a>Vitellogenin</font></strong></td>
+							<td valign=top>Yolk protein (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="yglossary.htm#yolk" target="_blank">Yolk </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="vlneuron"></a>VL neuron </strong></td>
+							<td valign=top><p>Ventro-labial neuron </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/OLLframeset.html" target="_blank">OLL neuron </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vmneuron"></a>VM neuron </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/RMEframeset.html" target="_blank">RMEL neuron</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vpc"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig7leg.htm" target="_blank">VPC</a></font></strong></td>
+							<td valign=top><p>Vulval precursor cell </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An epidermal cell which can  be induced to produce vulval tissue. The VPCs are equivalent blast cells <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006891" target="_blank">P3.p</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006892" target="_blank">P4.p</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006893" target="_blank">P5.p</a>,<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0006894" target="_blank"> P6.p</a>, <a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0006895" target="_blank">P7.p</a> and <a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0006896" target="_blank">P8.p</a> which can alternately be induced by an anchor  cell signal to <a href="../hermaphrodite/egglaying apparatus/Images/eggfig9leg.htm?name=p3.p" target="_blank">divide to produce vulA to vulF epidermal cells</a> or (lacking the  inductive signal) divide to produce members of the <a href="../hermaphrodite/hypodermis/Images/hypfig1leg.htm" target="_blank">hyp7 syncytium</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vt1vt12"></a>VT1-VT12</font></strong></td>
+							<td valign=top>Ventral twelve (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Great-grand progeny of the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">VU cells</a> (daughters of the &pi; and &rho; cells) in the uterine lineages. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vucell" id="vucell"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">VU cell</a></font></strong></td>
+							<td valign=top><a href="#ventraluterineprecursor">Ventral uterine precursor</a> (S)</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Blast cells in the somatic gonad whose granddaughter cells can give rise to both vulval and uterine cells, depending upon intracellular signals. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vul"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000698" target="_blank">vul</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="#vulvalessphenotype">Vulvaless phenotype</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><strong><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006762" target="_blank">vulA</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006763" target="_blank">vulB1</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006764" target="_blank">vulB2</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006765" target="_blank">vulC</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006766" target="_blank">vulD</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006767" target="_blank">vulE</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006768" target="_blank">vulF</a></strong></p></td>
+							<td valign=top height="111">&nbsp;</td>
+							<td valign=top height="111"><p><span class="style26"></span></p></td>
+							<td valign=top height="111"><p><a href="../hermaphrodite/egglaying apparatus/Images/eggfig9leg.htm" target="_blank">Seven epithelial syncytia (toroids)</a> that <a href="../hermaphrodite/egglaying apparatus/Images/eggfig10leg.htm" target="_blank">encircle the vulval passageway</a> in  segmental fashion, produced by the fusions of some 22 larval cells, the vulval  equivalence group (<a href="http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0177(200005)218:1%3C30::AID-DVDY4%3E3.0.CO;2-W/abstract" target="_blank">Shemer and Podbilewicz, 2000</a>; <a href="http://www.wormbook.org/chapters/www_cellfusion/cellfusion.html" target="_blank">Podbilewicz, 2006</a>). The outermost toroid is called <a href="../hermaphrodite/egglaying apparatus/Images/eggfig10leg.htm" target="_blank">vulA,  connecting to the vulval lips, and the innermost toroid is called vulF,  connecting to the uterus</a>.</p>
+									<p><br>
+										See <a href="tglossary.htm#toroidalcells" target="_blank">Toroidal cells </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vulva"></a><a href="../hermaphrodite/egglaying apparatus/jump.html?newLink=mainframe.htm&newAnchor=Thevulva3" target="_blank">Vulva</a></font></strong></td>
+							<td valign=top>Vagina (S) Terminal female gonoduct (S) Gonopore (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The passageway that connects  the hermaphrodite&rsquo;s reproductive tract to the exterior, opening at the midway  point along the body on its ventral surface. The vulva is formed from <a href="../hermaphrodite/egglaying apparatus/Images/eggfig9leg.htm" target="_blank">a stack of 7 toroids</a> which upon<a href="../hermaphrodite/egglaying apparatus/Images/eggfig10leg.htm" target="_blank"> morphogenesis</a> undergo cell fusion to create an <a href="../hermaphrodite/egglaying apparatus/Images/eggfig5ABleg.htm" target="_blank">open lumen</a>. During <a href="../movies/Mating.mov" target="_blank">male mating</a>, sperm are inserted into the hermaphrodite through  the vulval passageway, whereas during egg-laying, fertilized oocytes are  emitted onto the substrate from the vulva through the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig6ABleg.htm" target="_blank">slit</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><strong><font face="Arial, 
+Helvetica, sans-serif"><a href="../hermaphrodite/egglaying apparatus/Images/eggfig2leg.htm" target="_blank">Vulval epithelium </a></font></strong></p></td>
+							<td valign=top height="111"><p>&nbsp;</p></td>
+							<td valign=top height="111"><p class="style26">&nbsp;</p>
+									<p class="style26"><br>
+								</p></td>
+							<td valign=top height="111"><p>A narrow epithelial tube  that<a href="../hermaphrodite/egglaying apparatus/Images/eggfig5ABleg.htm" target="_blank"> lines the opening of the reproductive tract</a> on the ventral surface of the  hermaphrodite, covered by a set of ring-shaped syncytial cells that cover  sequential segments of the tube. The epithelial  cells lie only one cell deep, and form a cuticle lined passageway to the  uterus. <a href="../hermaphrodite/egglaying apparatus/Images/eggfig12leg.htm" target="_blank">Two pairs of vulval muscles </a>are  anchored to these epithelial cells in order to open the vulval lips and the  passageway during egg-laying.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vulvalequivalencegroup"></a>Vulval equivalence group </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../hermaphrodite/egglaying apparatus/Images/eggfig7leg.htm" target="_blank">A set of 22 cells</a>, normally  formed by the daughters of the <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006893" target="_blank">P5.p</a>,<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0006894" target="_blank"> P6.p</a> and <a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0006895" target="_blank">P7.p</a> blast cells, which are fated  to organize among themselves to create the mature vulval epithelium and are induced to  adopt this set of cell fates by<a href="../hermaphrodite/egglaying apparatus/Images/eggfig7leg.htm" target="_blank"> a signal produced by the anchor cell</a> (<a href="http://dx.doi.org/10.1016/0012-1606(80)90353-X" target="_blank">Sulston and White, 1980</a>; <a href="http://www.wormbook.org/chapters/www_evoldevnematode/evoldevnematode.html" target="_blank">Sommer, 2005</a>, <a href="http://www.wormbook.org/chapters/www_vulvamorph/vulvamorph.html" target="_blank">Gupta et al., 2012</a>). The pattern of cell divisions among the blast  cells is controlled separately from the cooperation that occurs later among the daughter  cells during the L4 stage to produce the vulva (<a href="http://www.genetics.org/content/96/2/435.long" target="_blank">Horvitz and Sulston, 1980</a>). If some of these cells are removed by  ablation 10-12 hrs before hatching, additional cells can be recruited from the  daughters of neighboring blast cells, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006891" target="_blank">P3.p</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006892" target="_blank">P4.p</a> or <a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0006896" target="_blank">P8.p</a> in order to complete  the set of 22 cells and thus produce a normal vulva.</p>
+								  <p><br>
+										See <a href="eglossary.htm#equivalencegroup" target="_blank">Equivalence group </a><br>
+										See <a href="tglossary.htm#toroidalcells" target="_blank">Toroidal cells </a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vulvainduction"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK19658/figure/vulvamorph_figure1/?report=objectonly" target="_blank">Vulval induction</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An <a href="http://www.ncbi.nlm.nih.gov/books/NBK19658/figure/vulvamorph_figure1/?report=objectonly" target="_blank">intercellular  signaling event</a> by which members of the vulval equivalence group are provoked  to begin the processes of differentiation and <a href="../hermaphrodite/egglaying apparatus/Images/eggfig7leg.htm" target="_blank">cell division</a> that lead to  the creation of the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig6ABleg.htm" target="_blank">vulva</a>.&nbsp;This process can<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=evolutionofdev&rendertype=figure&id=A6901" target="_blank"> differ widely between nematode species</a>, such that <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=evolutionofdev&rendertype=figure&id=A6903" target="_blank">one  or several inductive signals</a> may be released by one or more cell types lying  close to the position of the presumptive vulva, and can occur as a one time  event or as a prolonged series of signals (<a href="http://www.wormbook.org/chapters/www_evoldevnematode/evoldevnematode.html" target="_blank">Sommer, 2005</a>). In <em>C. elegans,</em><a href="../hermaphrodite/egglaying apparatus/Images/eggfig7leg.htm" target="_blank"> the anchor cell provides the inductive signal </a>that triggers this <a href="../hermaphrodite/egglaying apparatus/Images/eggfig9leg.htm" target="_blank">patterning event</a>. See <a href="http://www.wormbook.org/chapters/www_vulvaldev/vulvaldev.html" target="_blank">Sternberg, 2005</a> and <a href="http://www.wormbook.org/chapters/www_vulvamorph/vulvamorph.html" target="_blank">Gupta et al., 2012</a>.</p>
+								  <p><br>
+										See <a href="aglossary.htm#anchorcell" target="_blank">Anchor cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vulvalessphenotype"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=ce2&part=A644&rendertype=figure&id=A647" target="_blank">Vulvaless phenotype</a> </font></strong></td>
+							<td valign=top><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000698" target="_blank">vul </a></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A developmental defect found  in certain classes of mutants (including<a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00002991" target="_blank"> lin-2</a>, <a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00002992" target="_blank">lin-3</a>, <a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00002993" target="_blank">lin-4</a>, <a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00002996" target="_blank">lin-7</a>) in which the cell divisions leading to vulva development are abnormal, and the vulval  cells are not produced (<a href="http://www.genetics.org/content/96/2/435.long" target="_blank">Horvitz and Sulston, 1980</a>; <a href="http://dx.doi.org/10.1016/0012-1606(81)90427-9" target="_blank">Sulston and Horvitz, 1981</a>). Without a passageway for the fertilized embryos, the embryos hatch inside the hermaphrodite, resulting in a bag of worms. </p>
+									<p><br>
+										See <a href="bglossary.htm#bagofworms" target="_blank">Bag of worms </a><br>
+										See <a href="mglossary.htm#multivulvaphenotype" target="_blank">Multivulva phenotype</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vulvallocation"></a><a href="../male/introduction/images/MaleIntroFIG3A.jpg" target="_blank">Vulval location</a> </font></strong></td>
+							<td valign=top><p>Vulval searching (S) <font face="Arial, Helvetica, sans-serif"></font></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A type of behavior by the  male in which he uses his tail&nbsp; to guide  his movements along the outer surface of the hermaphrodite to search for the  vulva as an early step in <a href="../movies/Mating.mov" target="_blank">male mating behavior</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vulvalmuscle"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig12leg.htm?newLink=mainframe.htm&newAnchor=Uterineandvulvalmuscles4" target="_blank">Vulval muscle </a></font></strong></td>
+							<td valign=top>vm muscles (S) <br>
+								vm1 and vm2 (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><a href="../hermaphrodite/egglaying apparatus/jump.html?newLink=mainframe.htm&newAnchor=Uterineandvulvalmuscles4" target="_blank">Sex-specific muscles  in the  hermaphrodite</a> that are specialized for egg-laying. Their contractions open the  lips of the vulva to help in expelling an egg from the uterus.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="vulvalprecursorcell"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig7leg.htm" target="_blank">Vulval precursor cell</a></font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"></font></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="#vpc">VPC </a></p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: October 16, 2013. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary V. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://10.3908/wormatlas.6.22">10.3908/wormatlas.6.22</a></span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

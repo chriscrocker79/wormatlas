@@ -1,0 +1,610 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary H</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - H </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="181"><span class="style29"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="204"><p class="style29"><font 
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style29">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="149"><span class="style29"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="919"><span class="style29"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a href="../hermaphrodite/hypodermis/Images/hypfig3leg.htm" target="_blank">H1</a></b> <a href="../hermaphrodite/hypodermis/Images/hypfig3leg.htm" target="_blank"><b><br>
+								H2</b></a></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Head lateral ectoblasts which give rise to hypodermal cells<a href="../hermaphrodite/hypodermis/Images/hypfig6leg.htm" target="_blank"> in the head</a>. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="hband"></a>H band </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A well  known feature of striated muscle in higher animals; a central, light staining  region running in the middle of the <a href="../hermaphrodite/muscleintro/Images/musfig1ABleg.htm" target="_blank">A band</a>.&nbsp;It is replaced by the &ldquo;H zone&rdquo; in <em>C. elegans </em>obliquely striated muscles.</p>
+									<p><br>
+										See <a href="#hzone">H zone</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="hneuron"></a>&#147;h&#148; 
+								neuron</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif" color="#0033CC"><a href="../neurons/Individual Neurons/ASHframeset.html" target="_blank"><b>ASH </b></a></font><font face="Arial, Helvetica, sans-serif">cell (S)</font></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">See <a href="aglossary.htm#ashcell">ASH cell </a></font></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="hzone"></a>H zone</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A thin dark line seen by  polarized light running down the center of the <a href="../hermaphrodite/muscleintro/Images/musfig1ABleg.htm" target="_blank">A band</a> in bodywall muscle  sarcomeres. The A-band is very bright  and contains interdigitating thick and thin filaments; the darker H zone contains  only thick filaments (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000647;class=Paper" target="_blank">Miller et al., 1983</a>; Waterston, 1988)<font face="Arial, Helvetica, sans-serif">.</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="habituation"></a>Habituation</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The reduction or absence of  response after continued stimulation.&nbsp;This behavioral plasticity is commonly observed in <em>C. elegans</em> after  repeated tapping of the head or tail with a hair or eyelash (See <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_6" target="_blank">Rankin, 2005</a>; <a href="http://www.wormbook.org/chapters/www_mechanosensation/mechanosensation.html#d0e229" target="_blank">Goodman, 2006</a>). Similar reductions in response may also occur  after prolonged exposure to chemical stimuli or other forms of stimulation (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004622;class=Paper" target="_blank">Rose and Rankin, 2001</a>).</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="nglossary.htm#neuralplasticity" target="_blank">Neural plasticity</a> </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="halfdesmosome"></a>Half-desmosome</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Hemidesmosome (S)<br>
+								Hemi-adherens junction (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A term which is now  archaic as molecular  evidence suggests that the structure should be called a hemi-adherens junction.</p>
+									<p><br>
+										See <a href="#hemiadherensjunction">Hemi-adherens junction</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="harshtouch"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_2" target="_blank">Harsh touch</a> </b></font></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"></font>Hard touch (S)<br>
+								Gentle touch (A) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An aversive mechanical stimulus (e.g. poking the body with a  metal wire), which is different than response to &ldquo;gentle touch&rdquo; (for instance  with an eyelash to the bodywall).&nbsp; Harsh  touch is transduced by the <a href="../neurons/Individual Neurons/PVDframeset.html" target="_blank">PVD</a> sensilla in the back half of the body (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=%22harsh+touch%22+AND+ce2%5Bbook%5D+AND+1704%5Buid%5D&rid=ce2.section.785#796" target="_blank">Driscoll and Kaplan, 1997</a>). Study of the genetics of sensory mechanotransduction have helped to elucidate the cellular and molecular components required to respond to harsh (and gentle) touch (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005666;class=Paper" target="_blank">Ernstrom and Chalfie, 2002</a>). </p>
+									<p><br>
+										See <a href="tglossary.htm#touchresponse" target="_blank">Touch response </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hatchees"></a>Hatchees</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Recently hatched <a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">L1 larvae</a>.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hatching"></a><a href="http://video.google.com/videoplay?docid=2996079198035070111&q=hatching+elegans&total=5&start=0&num=50&so=0&type=search&plindex=1" target="_blank">Hatching</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A multi-step process, first described for <em>C. elegans</em> by <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000354;class=Paper" target="_blank">Singh and Sulston (1978)</a>, by  which the developing embryo makes an opening in the egg shell and exits  this covering. Secretions from pharyngeal glands may promote  he gradual weakening of the eggshell, which becomes visibly softer and more  pliable in the hour just before eclosion. Once weakened, the motions of the <a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">three-fold embryo</a> cause  distortions of the whole shell and eventually the eggshell ruptures, allowing the new L1 larva to emerge from the broken  shell.</p>
+									<p><br>
+										See <a href="eglossary.htm#eclosion" target="_blank">Eclosion</a> <br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="hatchoff"></a>Hatch-off</font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A method for producing synchronized L1  progeny from an egg plate, either by picking individual maturing oocytes or by  washing off hatching L1s as they get free of the eggshell. Eggs and eggshells tend to stick to an agar  plate more avidly than a crawling L1 larva.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="eglossary.htm#eggplate" target="_blank">Egg plate </a></font><br>
+										See <a href="lglossary.htm#layoff" target="_blank">Lay-off</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="haustrulum"></a>Haustrulum</font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A wide  chamber within the pharyngeal lumen of the second bulb,  immediately anterior and posterior to the <a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">grinder</a> in some nematodes. It is not clear if this feature can be  specifically identified in <em>C. elegans</em> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas,  1975</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="head"></a><a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">Head</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A commonly used term in <em>C.  elegans</em> literature that refers to the anterior end of the animal. This typically includes the  anterior sensilla, pharynx and all muscles that are innervated by  the nerve ring. Behind the head lies the  body (or mid-body), including the intestine and reproductive tract.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="headlobe"></a>Head lobe </strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See<a href="mglossary.htm#membranousorganelle" target="_blank"> Membranous organelle</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="headmesodermalcell"></a><a href="../hermaphrodite/muscleheadcell/Mushmcframeset.html" target="_blank">Head mesodermal cell</a> </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>hmc</td>
+							<td valign=top>&nbsp;</td>
+							<td align="left" valign=top>A large single<a href="../hermaphrodite/muscleheadcell/Images/hmcfig2leg.htm" target="_blank"> H-shaped  muscle cell</a> in the head that straddles the isthmus or second bulb of the  pharynx and is anchored to the bodywall at the outside edge of each muscle  quadrant and linked to these bodywall muscles by gap junctions (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston and  Horvitz, 1977</a>). Its exact function is  unclear.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="headwithdrawal"></a>Head withdrawal </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A component of  the foraging response, in which the animal quickly pulls its head away from a  stimulus to the nose. The motion is  mediated by the <a href="../neurons/Individual Neurons/RMDframeset.html" target="_blank">RMD</a> motorneurons (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002309;class=Paper" target="_blank">Hart et al, 1995</a>), and occurs faster than the  typical rhythm at which the head swings back and forth in normal foraging.</p>
+									<p><br>
+										See <a href="fglossary.htm#foraging" target="_blank">Foraging</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="healthspan"></a>Healthspan</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The period of    during adult   life that    is relatively free from age -related disease and physical impairment, which precedes   senescent   decline.</p>
+									<p><br>
+										See <a href="lglossary.htm#lifespan" target="_blank">Lifespan </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="heatavoidance"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec6_4" target="_blank">Heat avoidance</a> </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="tglossary.htm#thermalavoidance" target="_blank">Thermal avoidance</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="helminth"></a><a href="http://en.wikipedia.org/wiki/Helminth" target="_blank">Helminth</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>Parasitic worm (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Any species of parasitic worm, including flatworms, tapeworms, threadworms, and nematodes  (roundworms). Usually the eggs of these worms lodge in the intestine of the host animal where they hatch, grown and multiply.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hemiadherensjunction"></a>Hemi-adherens junction</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>Hemidesmosome (S) <br>
+								Dense body (S)<br>
+								Half desmosome (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A form of cellular attachment to  extracellular matrices, homologous to the adherens junction, in which an  asymmetric junction forms between a plasma membrane and a neighboring  extracellular matrix (either basal lamina or cuticle). When attachments are to cuticle, there is  often a corresponding dense specialization within the inner cuticle layer  linked to the density on the plasma membrane. These junctions are common where hypodermis faces cuticle, and on the  basal surface of some other epithelia, such as gonad sheath. The  muscle dense body is probably a highly specialized form of hemi-adherens junction. </p>
+									<p><br>
+										See <a href="aglossary.htm#adherensjunction" target="_blank">Adherens junction</a><br>
+										See <a href="dglossary.htm#densebody" target="_blank">Dense body</a><br>
+										See <a href="fglossary.htm#fibrousorganelle" target="_blank">Fibrous organelle </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hemidesmosome"></a>Hemidesmosome</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Hemi-adherens junction (S)<br>
+								Fibrous organelle (S)<br>
+								Dense body (S)<br>
+								Half desmosome (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A term which is now  archaic as molecular  evidence suggests that the structure should be called a hemi-adherens junction.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hemiizonid" id="hemiizonid"></a>Hemizonid</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A region of the ventral  cuticle lying just posterior to the nerve ring that takes on a clear,  lens-like appearance when viewed by light microscopy, apparently due to the  close approach of the amphid commissure (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769503&query_hl=48&itool=pubmed_docsum" target="_blank">McLaren, 1976</a>).</p>
+									<p><br>
+										See <a href="aglossary.htm#amphidcommissure" target="_blank">Amphid commissure</a> <br>
+										See <a href="cglossary.htm#caudalids" target="_blank">Caudalids</a> <br>
+										See <a href="cglossary.htm#cephalid" target="_blank">Cephalid</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><strong><a name="hemizonion"></a>Hemizonion</strong><b><br>
+							</b></font></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A clear lens-like region of cuticle lying  just posterior to the similar-looking hemizonid.</p>
+									<p><br>
+										See <a href="#hemoizoinid">Hemizonid</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hermaphrodite"></a><a href="../hermaphrodite/introduction/IMAGES/introfig1leg.htm" target="_blank">Hermaphrodite</a>/ Hermaphroditism </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><br>
+							</font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The more common sexual form of the  nematode, <em>Caenorhabditis elegans</em>, in which the gonad generates both male and  female gametes. The hermaphrodite is  self-fertile, since its gametes can be brought together internally to create  healthy progeny. These animals can also  participate in <a href="../movies/Mating.mov" target="_blank">sexual unions</a> with <a href="../hermaphrodite/introduction/IMAGES/introfig5leg.htm" target="_blank">male animals</a> to create cross-progeny by  internal fertilization of the hermaphrodite&rsquo;s female gamete, or oocyte, with  the male&rsquo;s sperm.<br>
+											<br>
+											<br>
+								See <a href="aglossary.htm#automictic" target="_blank">Automictic</a><br>
+								See <a href="gglossary.htm#gonochoristic" target="_blank">Gonochoristic</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="herniation"></a>Herniation</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A discrete bulging or local rupture in the  basal lamina which allows a cell process to cross to the &ldquo;wrong&rdquo; side of a  tissue border. </p>
+									<p>The  same term might be used to describe a discrete bulging in any other thin  membrane or tissue.</p>
+								<p><br>
+									See <a href="bglossary.htm#basallamina" target="_blank">Basal lamina</a><br>
+									See <a href="fglossary.htm#fenestration" target="_blank">Fenestration</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hesitation"></a>Hesitation</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A distinctive behavior  noted when mutant animals must attend and compare two competing signals,  decoded by distinct receptors in different neurons. Mutant <em><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00001841;class=Gene" target="_blank">hen-1</a></em> animals react normally to either  stimulus alone, but stop moving briefly (hesitate) when presented with two competing  signals, unable to overcome the aversive stimulus (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005300;class=Paper" target="_blank">Ishihara et al., 2002</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="heterotopy"></a>Heterotopy</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Variation in the relative position of an  organ system from species to species. This term has been used with respect to the vulva  position, which varies among nematode species in its position along the body  axis (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.section.985" target="_blank">Fitch and Thomas, 1997</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001979;class=Paper" target="_blank">Sommer and Sternberg, 1994</a>), but could also be  used to compare the relative positions of sensilla or other body parts between  species.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="highfrequencymaleproducer"></a>High frequency male producer </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A strain in which the  spontaneous production of male progeny is increased above normal. In wild type <em>C. elegans</em> the normal production  of males (due to spontaneous nondisjunction of the X chromosomes) is about 1  per 200 offspring; but <em><a href="http://www.wormbase.org/db/misc/phenotype?name=him" target="_blank">him</a></em> mutants may produce from 2-40% male progeny depending on the gene and allele. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><em><a name="highincidenceofmales" id="highincidenceofmales"></a>Hi</em>gh incidence of <em>m</em>ales</font></b></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="http://www.wormbase.org/db/misc/phenotype?name=him" target="_blank">him</a></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A strain with a mutant phenotype in  which the X chromosome is spontaneously lost at a relatively high rate during  meiosis in the germline. This loss changes the normal XX karyotype of hermaphroditic progeny to   XO, resulting in more males and fewer hermaphrodites  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000179;class=Paper" target="_blank">Hodgkin et al., 1979</a>). Generally, these males are  fertile and appear normal in appearance and behavior  when compared to spontaneous males.</p>
+									<p><br>
+										See <a href="aglossary.htm#andricindex" target="_blank">Andric index</a><br>
+										See <a href="sglossary.htm#spontaneousmale" target="_blank">Spontaneous male</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hindgut"></a><a href="../hermaphrodite/rectum/Images/rectfig1leg.htm" target="_blank">Hindgut</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The more posterior portion of the  intestine, just anterior to the sphincter valve, which  is subject to squeezing by the somatal-intestinal muscles<font face="Arial, Helvetica, sans-serif">. </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="histology"></a><a href="http://en.wikipedia.org/wiki/Histology" target="_blank">Histology</a> </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><span class="style25"></span></p></td>
+							<td valign=top><p>The microscopic study of tissues to gain an understanding of the cellular and subcellular features of animal or plant life. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="holidicmedium"></a>Holidic medium </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A chemically  defined culture medium, in which every component is well-defined. A defined medium containing one  less well-characterized component, such as a cell extract, is termed a meridic  medium.</p>
+									<p><br>
+										See <a href="aglossary.htm#axenicmedium" target="_blank">Axenic medium</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="holocentricchromosomes"></a><a href="http://www.wormbook.org/chapters/www_celldivision/celldivisionfig6.jpg" target="_blank">Holocentric chromosomes </a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A normal feature of <em>C.  elegans</em> chromosomes (as opposed to some other animal species which have  &ldquo;monocentric&rdquo; chromosomes). During chromosome duplication at metaphase,  monocentric chromosome pairs appear to be attached at only one position along  their length, whereas &ldquo;holocentric&rdquo; chromosomes appear to line up in parallel  and be closely attached at multiple positions (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000603;class=Paper" target="_blank">Albertson and Thomson, 1982</a>;  White, 1973; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002667;class=Paper" target="_blank">Albertson et al., 1997</a>). This property may be important in allowing the nematode to accurately  segregate small chromosomal fragments (free duplications) to both daughter  cells with minimal error, but also seems to facilitate  a much higher level of chromosomal rearrangements (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004734;class=Paper" target="_blank">Dernburg, 2001</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027257;class=Paper" target="_blank">Coghlan,  2006</a>).</p>
+									<p><br>
+										See <a href="kglossary.htm#kinetochore" target="_blank">Kinetochore</a> <br>
+										See <a href="mglossary.htm#monocentricchromosomes" target="_blank">Monocentric chromosomes</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="holomyarian"></a>Holomyarian</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A  condition in which a nematode muscle quadrant contains only 1 or 2 cells across, as opposed to &ldquo;meromyarian&rdquo; muscles which contain 2-5  cells across (as in <em>C. elegans</em>), or &ldquo;polymyarian&rdquo; muscles which contain greater  than 5 cells across within a quadrant (Schneider, 1860; <a href="http://www.wormatlas.org/ver1/handbook/references.htm" target="_blank">Chitwood and Chitwood,  1950</a>; <a href="http://www.wormatlas.org/ver1/handbook/references.htm" target="_blank">Bird and Bird, 1991</a>). </p>
+									<p><br>
+										See <a href="mglossary.htm#meromyarian" target="_blank">Meromyarian </a><br>
+										See <a href="pglossary.htm#platymyarian" target="_blank">Platymyarian</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="homeostasis"></a>Homeostasis/ Homeostatic</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The ability of an animal to regulate its  internal environment to create stability despite external forces that might otherwise  be either toxic or disruptive to normal growth and development.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hook"></a><a href="../male/hook/Hookframeset.html" target="_blank">Hook</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A <a href="../male/hook/images/MaleHookFIG1.jpg" target="_blank">small lump on the gubernaculum of the male  tail</a>. This structure lies on the ventral surface just anterior and central to the base of the  spicule openings and contains a sensory structure called the <a href="../male/hook/images/MaleHookFIG2BC.jpg" target="_blank">hook sensillum</a>. </p>
+									<p>Alternately,  can refer to a curved extension protruding from some doublet microtubules in sensory  axonemes which may act to connect parallel microtubules to their neighbors or  to the plasma membrane of the cilium.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="hooksensillum"></a><a href="http://www.wormatlas.org/ver1/maleHandbook/figsMale/MaleEpiFIG20A.jpg" target="_blank">Hook sensillum</a> </font></b></td>
+							<td valign=top>Anterior sensillum  (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Two specialized sensory neurons (<a href="../neurons/Individual Neurons/HOAframeset.html" target="_blank">HOA</a> and <a href="../neurons/Individual Neurons/HOBframeset.html" target="_blank">HOB</a>) <a href="../male/hook/images/MaleHookFIG2A.jpg">enclosed  by a sheath cell</a> (HOsh) and socket cell (HOso) on the ventral surface of the gubernaculum in  the male tail. A narrow channel to the exterior suggests that the neurons could  have chemosensory function. The <a href="http://www.wormatlas.org/ver1/maleHandbook/figsMale/MaleEpiFIG20B.jpg" target="_blank">hook  points anteriorward</a>, whereas the paired post-cloacal sensilla point in  posteriolateral directions just behind the hook and cloacal opening.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="host"></a>Host</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The animal or plant species in which a  parasitic species (of nematode) receives its nutrition or shelter, and in which it  must infect prior to reproducing itself. Some species may require several different hosts in order to advance  through a complete life cycle.</p>
+									<br>
+								See <a href="lglossary.htm#lifehistory" target="_blank">Life history</a><br>
+								See <a href="pglossary.htm#parasite" target="_blank">Parasite</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hostfinding"></a>Host finding </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A prominent behavior in parasitic  nematodes which is necessary for completion of their life cycle. Some Rhabditid nematodes have a commensal lifestyle in  the wild to live under the shells of isopods or snails, including <em>C. remanei</em> and <em>C. vulgaris</em> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001874;class=Paper" target="_blank">Baird et al., 1994</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003847;class=Paper" target="_blank">Baird,  1999</a>). In such cases the nematode  may utilize  chemosensory circuits to identify and move towards one or more  host species. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="hostpathogeninteraction"></a>Host/ Pathogen interaction</b></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This term can refer to either the success  rate of infectivity (pathogen entering the host), or the success  rate of killing (pathogen killing the host).</p>
+									<p><br>
+										See <a href="#hypervirulent">Hypervirulent</a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hsn"></a><a href="../neurons/Individual Neurons/HSNframeset.html" target="_blank">HSN</a></font></strong></td>
+							<td valign=top><p> <a href="http://www.wormbase.org/db/cell/cell.cgi?name=HSNL;class=Cell" target="_blank">HSNL</a><br>
+										<a href="http://www.wormbase.org/db/cell/cell.cgi?name=HSNR;class=Cell" target="_blank">HSNR</a></p>
+									<p>Hermaphrodite specific neuron (S) </p></td>
+							<td valign=top><span class="style25">ABplapppappa<br>
+								ABprapppappa</span></td>
+							<td valign=top><p>An <a href="../hermaphrodite/egglaying apparatus/Images/eggfig16Aleg.htm" target="_blank">isolated cell pair</a> lying in the midbody  of the adult that act to operate <a href="../hermaphrodite/egglaying apparatus/Images/eggfig15leg.htm" target="_blank">the vulval musculature during egglaying</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="hyalinesphere"></a>Hyaline sphere </b></font></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font>Yolk granule </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p><br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="hydrostaticskeleton"></a>Hydrostatic skeleton </b></font></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font>Hydroskeleton (S) </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>High internal pressure  maintained within the pseudocoelom, pushing outward on the cuticle, can give  the nematode a significant structural integrity not unlike the solid skeleton  in higher animals. In fact, <em>C. elegans</em> is  known to be able to leave the substrate and actively wave its body in the air  (nictation), holding fast just by its tail.<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hypercontractionphenotype" id="hypercontractionphenotype"></a>Hypercontraction phenotype </font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A class of muscle mutant (such as <em><a href="http://www.wormbase.org/db/gene/gene?name=WBGene00006821;class=Gene" target="_blank">unc-90</a></em>)  in which the body displays a gross shortening and stiffness due to general  contraction of all bodywall muscles at once.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hyperoxia"></a>Hyperoxia</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A high level of oxygen in the environment (13-21%  O<sub>2</sub>), which the nematode finds stressful and aversive. The animal will use <a href="aglossary.htm#aerotaxis" target="_blank">aerotaxis</a> to move back to  lower oxygen levels, and will become more social and show more &ldquo;<a href="bglossary.htm#bordering" target="_blank">bordering</a>&rdquo;  behavior on culture plates (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024211;class=Paper" target="_blank">Gray et al., 2004</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hypervirulent"></a>Hypervirulent</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Refers to bacterial strains which are  exceedingly toxic when ingested by <em>C. elegans</em> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005590;class=Paper" target="_blank">Mylonakis et al., 2002</a>).</p>
+									<p><br>
+										See <a href="#hostpathogeninteraction">Host/ pathogen interaction</a><br>
+										See <a href="kglossary.htm#killingassay" target="_blank">Killing assay</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hypodermalcell"></a>Hypodermal cell </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Very few hypodermal cells maintain separate  identities after morphogenesis in the embryo as most  fuse into larger  hypodermal syncytia almost immediately (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001900;class=Paper" target="_top">Podbilewicz and White, 1994</a>). Exceptions to this rule include <a href="../hermaphrodite/hypodermis/Images/hypfig12leg.htm" target="_blank">hyp 8, hyp 9  and hyp 11 in the tail</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003418;class=Paper" target="_blank">Nguyen et al., 1999</a>). The same rule holds true for  later larval lineages, where additional hyp cells are born, begin to  differentiate and then fuse into local syncytia.</p>
+									<p><br>
+										See <a href="#hypodermalsyncytium">Hypodermal  syncytium</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hypodermalridge"></a><a href="../hermaphrodite/hypodermis/Images/hypfig8leg.htm" target="_blank">Hypodermal ridge</a> </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Hypodermal cord  (S)<br>
+								Hypodermal line (S) </font></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The set of  longitudinal swellings of hypodermal tissue that develop during elongation  phase of embryogenesis and persist throughout the life of the animal. <a href="http://www.wormatlas.org/SW/SW.php/index.php?slice=315&label=0" target="_blank">Hypodermal tissue becomes squeezed aside</a> as  the four bodywall muscles quadrants settle against the cuticle resulting in a series of four  distinct rows of hypodermal tissue in two wide lateral ridges and thinner  ventral and dorsal ridges of hypodermis along the full length of the larva and  adult. A fifth anal ridge of hypodermis extends posteriorly into the tail tip. Within each ridge are  the nuclei of the hypodermal syncytium, while very thin hypodermal  extensions wrap underneath each row of muscle cells to connect all the ridges  together.</p>
+									<p><br>
+										See <a href="cglossary.htm#cord" target="_blank">Cord/ Chord </a><br>
+										See <a href="lglossary.htm#lateralline" target="_blank">Lateral line </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hypodermalsegmentation"></a>Hypodermal segmentation </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A series of hypodermal syncytia adopt  restricted circumferential territories along the length of the body, including  5 sets of syncytia occupying narrow territories in the lips, hyp 6 covering a  portion of the head and hyp 7 covering most of the length of the body. The posterior tail is not organized in the  same circular territories, but one can still see a rough segmentation,  numbering anteriorly to posteriorly hyp 8 + hyp 12, hyp 9 + hyp 11 and hyp10.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hypodermalsyncytium"></a>Hypodermal syncytium</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The characteristic fate of  hypodermal cells is to quickly fuse to create larger syncytia, most of which  encircle a given segmental region along the length of the body. Their cell bodies and most cytoplasm are  clustered in hypodermal cords along the lateral, ventral and dorsal sides,  connected by very thin cell extensions running beneath the muscle quadrants,  always closely apposed to the body cuticle. Virtually all syncytia lie within the bodywall, comprising the most  peripheral tissue covering the whole body, eg. the ectoderm.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hypodermis"></a><a href="../hermaphrodite/hypodermis/Hypframeset.html" target="_blank">Hypodermis</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Ectodermis</font><font face="Arial, Helvetica, sans-serif"> (S)<br>
+								Epidermis (S) </font></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top>The accepted term for the  primary epidermis in nematodes (<a href="http://www.wormatlas.org/ver1/handbook/references.htm">Chitwood and Chitwood, 1950</a>; <a href="http://www.wormatlas.org/ver1/handbook/references.htm">Bird and Bird,  1991</a>), consisting of a single layer of cells directly underlying (and  secreting) the cuticle. Most of the  hypodermal cells <a href="../hermaphrodite/hypodermis/Images/hyptable2leg.htm" target="_blank">become syncytial during embryogenesis</a>, so that the hatched  larva is covered by just a small number of hypodermal syncytia, some having  over 100 nuclei. Several forms of interfacial  (transitional) epidermal cells are also considered part of the hypodermis,  including the <a href="../hermaphrodite/seam cells/Seamframeset.html" target="_blank">seam cells</a>, the socket cells and those cells specialized to  secrete the cuticular linings of the buccal cavity, vulva and rectum.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hypodermoblast"></a>Hypodermoblast</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aiy.htm" target="_blank"></a> </font></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An undifferentiated ectodermal cell that is  fated to yield a mature hypodermal cell, or to divide to produce accessory  neurons, glial cells and one hypodermal cell. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="hypoxia"></a>Hypoxia/ Hypoxic </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aiy.htm" target="_blank"></a> </font></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A very low level of  oxygen in the culture medium (0.5%-4% O<sub>2</sub>), under which <em>C. elegans</em> shows  reduced activity and sometimes death (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004898;class=Paper" target="_blank">Epstein et al., 2001</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004762;class=Paper" target="_blank">Jiang et al.,  2001</a>). Survival from long term hypoxia  seems to involve different molecular mechanisms than those required for survival  from complete anoxia (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005267;class=Paper" target="_blank">Padilla et al., 2002</a>).</p>
+									<p><br>
+										See <a href="aglossary.htm#anoxia" target="_blank">Anoxia</a> <br>
+										See <a href="cglossary.htm#cryptobiosis" target="_blank">Cryptobiosis</a> <br>
+										See <a href="#hyperoxia">Hyperoxia</a> <br>
+										See <a href="nglossary.htm#normoxia" target="_blank">Normoxia </a></p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: January 20, 2010. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary H. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.8</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

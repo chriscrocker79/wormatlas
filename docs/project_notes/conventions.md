@@ -378,15 +378,194 @@ Command interneurons:
     shows (50-150 words, written conversationally)
   - ai_answerable_questions: minimum 3 questions this figure
     could help answer
-- Panel designations use capital letters: A, B, C — never
-  lowercase
+  - ai_summary and ai_answerable_questions are written per panel, not
+  blended across a multi-panel figure. Each panel of a figure (e.g.,
+  IntFIG1's panels A, B, and C) gets its own ai_summary describing
+  only what that panel shows, and its own set of at least 3
+  ai_answerable_questions about that panel specifically.
+   - Open each panel's ai_summary with a brief anchor to the parent
+    figure, e.g., "One of three panels in IntFIG1 depicting the
+    intestine..." so the RAG system and readers can still tell it's
+    part of a set
+   - Do not copy-paste one shared summary across all panel rows of the
+    same figure_id — this creates drift risk if one copy is edited
+    later and the others aren't
+- Panel designations use capital letters (A, B, C, D, E...) — never
+  lowercase. Figures may have any number of panels; the letter
+  sequence is not limited to three.
 - Visibility levels use these values only:
   primary | secondary | labeled | visible
+
+  These describe how much a figure panel is *about* a given entity.
+  This field is a ranking signal for the RAG search pipeline — when a
+  researcher searches for an entity, figures where it is `primary`
+  should outrank figures where it merely appears. If most entities
+  are marked `primary`, that ranking collapses and every figure looks
+  equally relevant to everything.
+
+  | Value | Meaning | Test to apply |
+  |---|---|---|
+  | primary | The panel exists to show this entity | "If you removed this entity, would the panel lose its purpose?" |
+  | secondary | Prominent and relevant, but not why the panel was made | Significant context, not the subject |
+  | labeled | Has a visible text label or callout, but isn't a focus | Objective — is there a label pointing at it? |
+  | visible | Discernible in the image, unlabeled, not a focus | Present but incidental |
+
+  Note that these four values are not a single clean scale: `primary`
+  and `secondary` describe prominence, while `labeled` and `visible`
+  describe presentation. When an entity is both prominent and
+  labeled, prominence wins — use `primary` or `secondary`.
+
+- More than one entity may be marked `primary` in the same panel.
+  This is permitted and sometimes correct: IntFIG1 panel C marks both
+  `intestine` and `PENDING-gut-granules` as primary, because the
+  epifluorescent panel exists specifically to show the granules
+  within the intestine — both are genuinely the subject.
+  `primary` is for genuine subjects, however, not a default. If in
+  doubt, apply the removal test above.
 - Microscopy technique values use these terms only:
   DIC | TEM | epifluorescent | diagram | merged
+- Not every field applies to every figure — many WormAtlas figures
+  are illustrations/diagrams rather than photomicrographs, and fields
+  like magnification, scale_bar, and strain do not apply to them.
+  Use this rule to distinguish "doesn't apply" from "not yet filled in":
+  - Type N/A if the field genuinely does not apply to this figure
+    (e.g., magnification for a schematic diagram)
+  - Leave the cell blank only if the field applies but the value is
+    still unknown or not yet entered
+  - A blank cell always means outstanding work; N/A always means
+    the field was considered and intentionally does not apply
+  - This distinction matters most for: magnification, scale_bar,
+    strain, specimen_stage, specimen_sex — fields that are meaningful
+    for photographic/microscopy figures but often not applicable to
+    diagrams and illustrations
+  - image_source and view_orientation still apply to diagrams — for
+    illustrations, image_source may reference an illustrator or the
+    source publication a diagram was adapted from, rather than a lab
+    archive reference
+- Multi-entity panels: when more than one entity is visible in the
+  same panel, only the FIRST row for that figure_id + panel
+  combination carries panel-level content (description_in_figure,
+  image_type, magnification, view_orientation, source_reference,
+  microscopy_technique, specimen_stage, specimen_sex, strain,
+  image_source, scale_bar, ai_summary, ai_answerable_questions).
+  - Additional rows for the same figure_id + panel: fill in only
+    entity_id and visibility. Leave every panel-level field blank
+    on these rows — they exist solely to record that another entity
+    is visible in that panel, not to duplicate panel content.
+  - This keeps the figures table's UNIQUE(figure_id, panel) constraint
+    intact (see decisions.md → Figures Base Table correction) while
+    still letting figure_entities capture every entity visible in a
+    panel, not just the primary one.
+  - Example: IntFIG1 panel C has two rows — one for "intestine"
+    (primary row, fully filled in) and one for "PENDING-gut-granules"
+    (entity-only row, all panel-level fields blank).
+  - Missing entity placeholder: if a visible structure does not yet
+    have an entity_id in the Entities tab, use entity_id =
+    "PENDING-[descriptive-name]" (e.g., PENDING-gut-granules) rather
+    than leaving the cell blank or guessing a value. See key_facts.md
+    → Known Data Gaps for tracking these until the WormAtlas glossary
+    review backfills them with real entity_id values.
 - image_source format: [Photographer/Lab] + [archive reference]
   e.g., "[Hall] N510-R338"
 - Gold standard template: IntFIG1 (intestine article)
+
+---
+
+## SPREADSHEET IMPORT SCRIPTS
+
+These rules apply to every script that reads the Google Sheets export
+(scripts/import_figures.py, scripts/import_to_database.py, and any
+future tab importer).
+
+### Rules that apply to every tab
+
+- Row 1 is the column header row. Row 2 is a human-readable helper row
+  describing what each column should contain (e.g. "Figure identifier",
+  "e.g., 400x", "draft/review/validated"). Row 2 is guidance for
+  editors, not data. Every tab has one — Entities, Figures,
+  Relationships, and Validation. A script reading the file naively will
+  treat it as a record and import it.
+  - Skip it by validating the row, not by counting position: skip any
+    row whose key identifier column does not match its expected pattern
+    (figure_id must match [SystemAbbrev]FIG[Number]; entity_type must be
+    one of the ENUM values). Pattern validation also catches stray notes
+    and blank rows anywhere in the file, not only at the top.
+  - Skipping "the first two lines" works today and breaks the moment
+    anyone inserts a row.
+
+- Strip leading and trailing whitespace from every column header before
+  matching headers to database columns. Spreadsheet headers have carried
+  accidental spaces in practice ("    view_orientation"), and
+  "    view_orientation" and "view_orientation" are different strings to
+  a script. The mismatch fails silently — the field simply never maps.
+
+- N/A and blank are not interchangeable (see Figure Metadata
+  Conventions): N/A is written to the database as an explicit NULL; a
+  blank cell on a field that should have a value is logged as an import
+  warning, not a hard failure.
+
+- Every import runs inside a transaction, one per logical record (per
+  figure, per entity). A transaction means "do all of this or none of
+  it." Without one, a script that fails partway through a multi-panel
+  figure leaves some panels in the database and others missing, and
+  re-running duplicates the ones that succeeded.
+
+- Every import must be safely re-runnable. The spreadsheet is imported
+  repeatedly as it grows; a second run must update existing rows, not
+  create duplicates. Use INSERT ... ON DUPLICATE KEY UPDATE against the
+  table's unique key.
+
+### Figures tab — one spreadsheet, two tables
+
+The Figures tab is a flat, merged view of two different database tables.
+scripts/import_figures.py must un-merge it. Inserting every spreadsheet
+row into `figures` will fail on the UNIQUE(figure_id, panel) constraint
+the first time a panel contains more than one entity.
+
+Grouping rule:
+
+- `figures` receives the FIRST row of each figure_id + panel group.
+  This row carries all panel-level content (description_in_figure,
+  image_type, magnification, view_orientation, source_reference,
+  microscopy_technique, specimen_stage, specimen_sex, strain,
+  image_source, scale_bar, ai_summary, ai_answerable_questions).
+- `figure_entities` receives EVERY row, including additional
+  entity-only rows for the same panel.
+
+Worked example — IntFIG1 (4 spreadsheet rows):
+
+| Spreadsheet row | → figures | → figure_entities |
+|---|---|---|
+| A / intestine | yes | yes |
+| B / intestine | yes | yes |
+| C / intestine | yes | yes |
+| C / PENDING-gut-granules | no | yes |
+
+Result: 3 rows in `figures`, 4 rows in `figure_entities`.
+
+### figure_id means two different things — read before writing the insert
+
+The name `figure_id` appears in three places and does not hold the same
+kind of value in all three:
+
+| Location | Type | Example |
+|---|---|---|
+| Spreadsheet `figure_id` column | text | IntFIG1 |
+| `figures.figure_id` | text | IntFIG1 |
+| `figure_entities.figure_id` | integer | 7 |
+
+`figure_entities.figure_id` is a FOREIGN KEY referencing `figures.id` —
+the auto-increment number the database assigns when the panel row is
+inserted. It does NOT hold the string "IntFIG1".
+
+Required sequence for each panel:
+1. INSERT the panel row into `figures`
+2. Retrieve the id the database just assigned (PDO: $pdo->lastInsertId())
+3. Use that integer as figure_entities.figure_id for every entity row
+   belonging to that panel
+
+Writing the string "IntFIG1" into figure_entities.figure_id will either
+raise a type error or silently link rows to the wrong figure.
 
 ---
 

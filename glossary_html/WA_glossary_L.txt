@@ -1,0 +1,799 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary L</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - L </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style28"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style28"><font 
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style28">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="102"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style28"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="5l" id="5l"></a><a href="../hermaphrodite/somatic gonad/Images/somaticfig1leg.htm" target="_blank">5L</a></font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>5R and 5L are alternate lineage patterns of the hermaphrodite which are related by twofold rotational symmetry. </p>
+									<p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z1.ppa;class=Cell" target="_blank">VU, Z1.ppa </a>(Ventral Uterine precursor; generates uterus, spermatheca and spermatheca-uterine valve cells) </p>
+								<p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z1.ppp;class=Cell" target="_blank">VU, Z1.ppp</a> (Ventral Uterine precursor; generates uterus, spermatheca and spermatheca-uterine valve cells) </p>
+								<p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z4.aaa;class=Cell" target="_blank">AC, Z4.aaa</a> (Anchor Cell) </p>
+								<p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z4.aap;class=Cell" target="_blank">VU, Z4.aap</a> (Ventral Uterine precursor; generates uterus, spermatheca and spermatheca-uterine valve cells)</p>
+								<p><br>
+									See <a href="rglossary.htm#5r" target="_blank">5R</a><br>
+									See <a href="sglossary.htm#somaticprimordium" target="_blank">Somatic primordium</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lneuron"></a>&quot;l&quot; neuron </font></strong></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/ADLframeset.html" target="_blank">ADL cell</a> (S) </p>
+									<p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=ADLL;class=Cell" target="_blank">ADLL</a><br>
+									<a href="http://www.wormbase.org/db/cell/cell.cgi?name=ADLR;class=Cell" target="_blank">ADLR</a></p></td>
+							<td valign=top><p class="style26">&nbsp;</p>
+									<p class="style26">ABalppppaad <br>
+										ABpraaapaad</p></td>
+							<td valign=top><p>Amphid neurons with dual ciliated sensory endings that project directly into nerve ring and take up FITC. This neuron mediates           mediate social feeding behavior when aversive food signals are present (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005511;class=Paper" target="_blank">de Bono et al., 2002</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="l1"></a><a href="../hermaphrodite/introduction/IMAGES/introfig8leg.htm" target="_blank">L1, L2, L3, L4</a></strong><a href="http://www.wormatlas.org/ver1/handbook/fig.s/IntroFIG6.jpg"><font face="Arial, Helvetica, sans-serif"><b></b></font></a></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>See <a href="#larva">Larva</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="l1diapause"></a>L1 diapause <a href="http://en.wikipedia.org/wiki/Actin" target="_blank"></a></font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif">See <a href="dglossary.htm#diapause" target="_blank">Diapause</a> </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="l2d"></a><a href="../hermaphrodite/introduction/IMAGES/introfig6leg.htm" target="_blank">L2d</a></b></font></td>
+							<td valign=top>L2D</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A starved or stressed L2  larva adopts a somewhat slimmer body shape than a normal L2 animal before the  molt into dauer larva stage. This  slimmer animal is sometimes referred to as an L2d larva or predauer larva<font face="Arial, Helvetica, sans-serif">.  The L2d retains the potential for continuous development and can molt to the L3 stage if environmental conditions improve (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000686;class=Paper" target="_blank">Golden and Riddle, 1984</a>).</font></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="laswitch"></a>L/A switch </b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif">Larval to adult changes in tissue development. </font>This process is normally restricted to the final (fourth) molt, however, mutations in heterochronic genes advance or retard the timing of the L/A switch,  resulting in larvae with adult hypodermis or adults with larval  hypodermis (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004850;class=Paper" target="_blank">Rougvie, 2001</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="labial"></a>Labial<a href="http://www.wormatlas.org/ver1/handbook/reproductivesystem/reproductivesystem2.htm" target="_blank"></a></b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Referring to the lips, or  labia. Generally refers explicitly to  the mechanosensory specializations, as opposed to the chemosensory (<a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Amphidsensilla31" target="_blank">amphidial</a>)  specializations in the <a href="../hermaphrodite/introduction/IMAGES/introfig4Aleg.htm" target="_blank">nose</a>. These labial sensilla can be divided into two groups, the <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Innerlabialsensilla33" target="_blank">inner labials</a> (ILs) and the  <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Outerlabialsensilla34" target="_blank">outer labials</a> (OLs), based upon their relative distance from opening of the  buccal cavity. The <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Cephalicsensilla32" target="_blank">cephalic sensilla</a>  (CEPs) have endings grouped closely to the OLs in <em>C. elegans</em> (and thus might  also be considered as labials), but lie away from the lips in some other nematode  species. This term is also  used to refer to the two flaps which  border the opening of the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig6ABleg.htm" target="_blank">vulva</a>; e.g. the vulval labia.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="labialnerve"></a><a href="../hermaphrodite/neuronalsupport/Images/neurofig22leg.htm" target="_blank">Labial nerve</a> </b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Any of six longitudinal  nerves which extend from mechanosensors in the lips to the nerve ring. <br>
+								</p>
+									<p>See <a href="iglossary.htm#iln" target="_blank">ILN</a><br>
+										See <a href="iglossary.htm#ilr" target="_blank">ILR</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="labialpore"></a>Labial pore </b></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A patent <a href="../hermaphrodite/neuronalsupport/Images/neurofig24leg.htm" target="_blank">opening in the lip  cuticle</a> through which a chemosensory neuron cilium may be exposed to the  environment, as in the amphids and inner labial sensilla.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="labialsheath"></a><a href="../hermaphrodite/neuronalsupport/Images/neurofig34leg.htm" target="_blank">Labial sheath</a> </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Refers to the sheath cells  of the inner labial sensilla, ILsh, of the nose.<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="lacunae"></a>Lacunae</font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Small (non-membrane bound)  spaces in the cytoplasm.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lacz"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1289" target="_blank">lacZ</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A common reporter gene  construct used to <a href="http://www.pitt.edu/~biohome/Dept/Img/graphics/celegans.jpg" target="_blank">mark cells</a>, organelles or proteins. If gene is expressed in the live  animal, its expression can be visualized by light microscopy of fixed tissue by  histochemical staining for the enzyme encoded by the lacZ gene (<a href="http://en.wikipedia.org/wiki/Beta-galactosidase" target="_blank">beta-galactosidase</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lamella"></a>Lamella/ lamellae </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellarmembrane"><p>A  set of closely spaced membrane leaflets which may be in continuity (spiral or  folded into parallel leaflets), or in separate parallel bodies (onion-like, or <a href="../hermaphrodite/neuronalsupport/Images/neurofig30leg.htm" target="_blank">stacked in a pile</a>). They can look  superficially like &ldquo;myelin&rdquo; but have no correspondence to it.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="#lamellarmembrane">Lamellar membrane</a><br>
+										See <a href="wglossary.htm#whorl" target="_blank">Whorl</a> </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lamellarbody"></a>Lamellar body </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td align="left" valign=top>A lipid storage and secretory vesicle which is surrounded by a membrane and contains prominent whorls of membranes. These bodies  are common  in some cell types, including hypodermis<font face="Arial, Helvetica, sans-serif">.</font></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lamellarmembrane"></a>Lamellar membrane </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellipodium"><p>This term can refer to  several distinctly different features involving broad flattened surfaces:</p>
+									<p>Many  cells display characteristic stacks of membranous lamellae as a cytoplasmic  organelle, such as <a href="../hermaphrodite/excretory/Images/excfig4leg.htm" target="_blank">gland cells</a>, <a href="../hermaphrodite/neuronalsupport/Images/neurofig30leg.htm" target="_blank">sheath cells</a>, structural cells, etc, which may  be involved in secretion, perhaps as a post-Golgi endosome or as large RER  arrays. </p>
+								<p>Several epithelial cells (hypodermis, pore cell) display  characteristic stacked lamellae in continuity with the apical plasma membrane  (they are parallel invaginations), forming an organelle on the cell surface,  perhaps involved in cuticle secretion, or alternately, providing a means for  the plasma membrane to stretch or shrink as needed. </p>
+								<p>Some cells, often containing actin, extend <a href="http://focus.hms.harvard.edu/2002/Feb22_2002/actin_whole.gif" target="_blank">broad flattened</a> or <a href="http://www.drosophila-images.org/images-2004/01-slide-F.htm" target="_blank">ruffled</a> cell extensions that  are referred to as lamellae or lamellipodia.</p>
+								<p><font face="Arial, Helvetica, sans-serif"><br>
+									See <a href="#lamellipodium">Lamellipodium</a> <br>
+									See </font><a href="gglossary.htm#golgi" target="_blank">Golgi</a> <font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="sglossary.htm#sheathlamellae" target="_blank">Sheath lamellae</a> <br>
+										See </font><a href="sglossary.htm#stakedmembrane" target="_blank">Stacked membrane</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="lamellipodium"></a>Lamellipodium/ lamellipod/ lamellipodia</b></td>
+							<td valign=top>Membrane ruffles (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A broad flattened cell  extension from an epithelial cell as it spreads across a surface or migrates in  directed amoeboid movements, and also the cell extensions required during events  such as gastrulation, cell intercalation, or embryonic enclosure. Similar broad extensions have also been noted  from differentiating neuron cell bodies in some mutant backgrounds (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025223;class=Paper" target="_blank">Yang and Lundquist, 2005</a>), at the tips of neuron growth cones (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001881;class=Paper" target="_blank">Chalfie, 1994</a> -cover photo in Science), from  the somata of the CEP sheath cells to provide a glial wrapping of the nerve  ring, and from the GLR somata as a scaffold for muscle arms of the nerve ring.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="gglossary.htm#growthcone" target="_blank">Growth cone</a> <br>
+										See </font><a href="pglossary.htm#pseudopod" target="_blank">Pseudopium / Pseudopod /  Pseudopdia</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="lamin"></a><a href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=150330" target="_blank">Lamin</a></font></b></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A component of the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.606" target="_blank">nuclear lamina</a> that forms<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2173" target="_blank"> a meshwork of intermediate filaments</a>, localizing to subregions of the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2155" target="_blank">nuclear envelope</a>, and functions in organizing nuclear structure and regulating nuclear events including <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2174" target="_blank">cell cycle progression</a> and chromosome segregation (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004416;class=Paper" target="_blank">Liu et al., 2000</a>). <em><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2132" target="_blank">C. elegans</a></em> expresses a single B type lamin, <a href="http://www.wormbase.org/db/gene/gene?name=WBGene00003052;class=Gene" target="_blank">LMN-1</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004416;class=Paper" target="_blank">Liu et al., 2000</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001879;class=Paper" target="_blank">Reimer et al., 1993</a>), in all cells with the exception of mature sperm cells (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004416;class=Paper" target="_blank">Liu et al., 2000</a>). Lack of lamin results in embryonic lethality (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004416;class=Paper" target="_blank">Liu et al., 2000</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="larva"></a>Larva/ larval </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>Juvenile (S) <br>
+								L1, L2, L3, L4 and dauer stage (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>In the<a href="../hermaphrodite/introduction/IMAGES/introfig6leg.htm" target="_blank"> life cycle</a> of <em>C. elegans</em>, upon hatching from the egg,  the immature nematode progresses through intermediate developmental stages  interrupted by a series of molts until finally reaching adulthood. The &ldquo;<a href="../hermaphrodite/introduction/IMAGES/introfig8leg.htm" target="_blank">larval  stages</a>&rdquo; of <em>C. elegans</em> should perhaps be more properly termed &ldquo;nymphal stages&rdquo; since the  animal does not undergo a true metamorphosis, but retains the same basic body  plan and retains virtually all juvenile cells. Normal development progresses from egg to L1, L2, L3, L4 and then  adult. Starved or stressed animals can  enter a <a href="http://www.wormbook.org/chapters/www_dauer/dauer.html" target="_blank">dauer larva stage</a> after L2 and interrupt normal developmental  progression. All larval stages are all  pre-reproductive, lacking mature sexual organs.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See<a href="dglossary.htm#dauer" target="_blank"> Dauer </a><br>
+										See </font><a href="#l2d">L2d</a><font face="Arial, Helvetica, sans-serif"><br>
+											See <a href="pglossary.htm#postdauer" target="_blank">Post-dauer </a></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="larvaeaccumulator"></a>Larvae accumulator </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A class of genetic  mutations that cause the affected adults to produce many live larvae but few or  no adult progeny (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000175;class=Paper" target="_blank">Hirsh and Vanderslice, 1976</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="larvalarrest"></a>Larval arrest </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><br>
+							</font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Arrest at the larval stage of development. Can occur by genetic mutation or environmental conditions such as starvation and sometimes may be reversed by a change in environmental conditions. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="larvallethal"></a>Larval lethal/ larval lethality </font></b></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Mutations or culture conditions which cause death of the  larva usually in early or late L1 stage, or less often in  later larval stages. There are several  distinctive body types associated with different causes of early  larval lethality. For example, defects in excretory canal (kidney) function  seem to lead to stiff rod-like corpses (as in some Ras pathway alleles),  whereas some defects that result in starvation or nutritional deficits lead to thin  scrawny body types, sometimes having the appearance of a normal head and  pharyngeal region but only a very short withered body and tail. Developmental monsters less often survive to  hatching, but when they do, will take on a more disorganized appearance and  fail to grow.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="dglossary.htm#developmentalarrest">Developmental arrest</a><br>
+										See </font><a href="dglossary.htm#monster" target="_blank">Monster</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lateendosome"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=intracellulartrafficking&rendertype=figure&id=A2630" target="_blank">Late endosome </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A variety of  membrane-bound vesicular organelles within the cell cytoplasm are termed  &ldquo;endosomes&rdquo;, and they may act to shuttle cargoes to and from the cell surface  (&ldquo;<a href="http://www.wormbook.org/chapters/www_intracellulartrafficking/intracellulartrafficking.html#d0e58" target="_blank">the endocytic pathway</a>&rdquo;), the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2347" target="_blank">Golgi apparatus</a> and the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2205" target="_blank">ER</a>, or into degradative  pathways. The late endosome brings material  (from these other sources) into a <a href="http://www.wormbook.org/chapters/www_autophagy/autophagy.html" target="_blank">degradative pathway</a>, and can fuse with a <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2366" target="_blank">lysosome</a> to form a more advanced degradative organelle, the &ldquo;secondary  lysosome&rdquo;.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="latepretzelstage"></a><a href="http://worms.zoology.wisc.edu/morphogenesis.jpg" target="_blank">Late pretzel stage</a> </font></strong></td>
+							<td valign=top>Four fold stage (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A late stage of embryogenesis, just before hatching.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="pglossary.htm#pretzelstage" target="_blank">Pretzel stage</a></font> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lateralcord"></a>Lateral cord </font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif">LC</font></p>
+									<p><font face="Arial, Helvetica, sans-serif">Lateral chord (S) </font></p>
+								<p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>This term is used to include different anatomical structures within the <a href="../hermaphrodite/nervous/Neuroframeset.html" target="_blank"><em>C. elegans</em> nervous system</a>.</p>
+									<p><strong>1) </strong>the lateral nerve cord</p>
+								<p><strong>2) </strong>the lateral hypodermal cord</p>
+								<p><strong>3) </strong>the  combined lateral ridge of hypodermis and nerve</p>
+								<p>The  left and right hypodermal cords form the largest hypodermal compartments in the  body and contain many hypodermal nuclei. It is a syncytium connecting to the smaller dorsal and ventral cords via  thin extensions running beneath the bodywall muscles.</p>
+								There are several distinctly different lateral  nerves with apparently different functions.&nbsp;A bilateral pair of small lateral nerve cords containing three  interneuron processes each run along the lateral line, in close proximity to  the seam cells, connecting the nerve ring and preanal ganglion. Bilateral sensory nerves run laterally  near the dorsal and ventral limits of the lateral hypodermis while the anterior  sensory nerves run along the dorsal limit and end near the vulval region. Similarly, the posterior sensory nerves run  along the ventral limit, also ending in the vulval region.
+								<p>.<font face="Arial, Helvetica, sans-serif"><br>
+									See <a href="hglossary.htm#hypodermalridge" target="_blank">Hypodermal ridge</a> <br>
+									See </font><a href="nglossary.htm#nerve" target="_blank">Nerve</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="lateralelement" id="lateralelement"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3700" target="_blank">Lateral element </a></font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><span class="style26"></span></p></td>
+							<td valign=top><p>Part of the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3699" target="_blank">synaptonemal complex</a> formed during meiotic prophase. Proteins for a long ladderlike-core along which the sister chromatids align. The lateral elements run along each pair of sister chromosomes forming the sides of the ladder. </p>
+									<p><br>
+										See <a href="sglossary.htm#synaptonemalcomplex" target="_blank">Synaptonemal complex</a> <br>
+										See <a href="cglossary.htm#centralelement" target="_blank">Central element </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="lateralganglion"></a><a href="../cellIDhead1.html" target="_blank">Lateral ganglion</a> </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><span class="style26"></span></p></td>
+							<td valign=top><p>The <a href="http://www.wormatlas.org/ver1/MoW_built0.92/art/intro_figs/figure20.jpg" target="_blank">left</a> and <a href="http://www.wormatlas.org/ver1/MoW_built0.92/art/intro_figs/figure20b.jpg" target="_blank">right</a> lateral  ganglia lie beside the nerve ring in the head. They each contain about 50 neuron cell bodies and send their neuronal  processes into the ring at its posterior margin either laterally or ventrally via the amphid commissures and ventral ganglion, but form no local neuropil  separate from the nerve ring. The  lateral ganglia are in close contact with the lateral hypodermal cords.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lateralline"></a>Lateral line </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Lateral cord (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>The  enlarged longitudinal hypodermal compartment, lateral seam cells and several  embedded lateral nerves, including several mechanosensory nerves (touch  dendrites).
+								<p><font face="Arial, Helvetica, sans-serif"><br>
+									See <a href="hglossary.htm#hypodermalridge" target="_blank">Hypodermal ridge</a> <br>
+									See <a href="nglossary.htm#nerve" target="_blank">Nerve</a> <br>
+									See </font><a href="tglossary.htm#touchdendrite" target="_blank">Touch dendrite </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lateralnerve"></a>Lateral nerve </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Canal-associated nerve (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>There  are several distinctly different lateral nerves with different functions.&nbsp; </p>
+									<p><strong>1) </strong>A bilateral pair of small lateral nerve cords  containing three interneuron processes each run along the lateral line, in  close proximity to the seam cells, connecting the nerve ring and preanal  ganglion. </p>
+								<p><strong>2) </strong>Bilateral sensory nerves  run laterally near the dorsal and ventral limits of the lateral hypodermis. The  anterior sensory nerves run along the dorsal limit and end near the vulval  region. The posterior sensory  nerves run along the ventral limit, also ending in the vulval region.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="lateralview"></a><a href="../hermaphrodite/introduction/IMAGES/introfig1leg.htm" target="_blank">Lateral view </a> </font></b></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Lateral aspect (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>View of the side of the animal.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="lawn"></a><a href="http://www.wormbook.org/chapters/www_nematodeisolation/nemaisolatfig1.jpg" target="_blank">Lawn</a></font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A thin film of bacteria used to feed nematodes in culture, usually on a &ldquo;<a href="http://www.wormclassroom.org/c-elegans-cultivation" target="_blank">culture plate</a>&rdquo; containing a  layer of agar onto which the lawn of bacteria is applied. <a href="http://www.wormbook.org/chapters/www_chemosensation/sensefig6.jpg" target="_blank">Tracks</a> can be seen on the lawn as the nematodes move through the bacteria.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="layoff"></a>Lay-off</font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A method to produce many  partially synchronous progeny by placing 50-100 fertile adults on a single  plate for several hours, permitting them to lay eggs, after which the adults  are all removed. This produces an &ldquo;egg  plate&rdquo;. Sometimes the population of eggs  is further synchronized by a &ldquo;subsequent hatch-off&rdquo;, in which 3-fold embryos  are picked off the egg plate and transferred to a new plate for 1 hour, after which any unhatched embryos are removed (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002644;class=Paper" target="_blank">McCarter et al., 1997</a>). </p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="eglossary.htm#eggplate" target="_blank">Egg plate</a> <br>
+										See <a href="hglossary.htm#hatchoff" target="_blank">Hatch-off </a></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="leadercellmigration"></a>Leader cell migration </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Refers to directed  cell migration by two somatic gonad cell types, <a href="../hermaphrodite/somatic gonad/Images/somaticfig3leg.htm" target="_blank">the distal tip cell</a> (in the  hermaphrodite) and the <a href="../male/somaticgonad/images/MaleReproFIG4.jpg" target="_blank">linker cell</a> (in the male). </p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="dglossary.htm#distaltipcell" target="_blank">Distal tip cell</a> <br>
+										See <a href="#linkercell">Linker cell </a></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="leaderfunction"></a>Leader function </font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>In the developing germline primordium, one somatic cell binds  tightly over the distal portion and  crawls along the bodywall, pulling and shaping the primordium into an extended  cylindrical tube. During this process, the somatic cell may make several  distinctive turns which forces the whole tube to bend or be redirected  according to the actions of the &ldquo;leader&rdquo; cell. For the hermaphrodite gonad, the<a href="../hermaphrodite/somatic gonad/jump.html?newLink=mainframe.htm&newAnchor=Thedistaltipcell2" target="_blank"> distal tip cells</a> perform the leader  function, one cell for each gonad arm, whereas in the male gonad, the single<a href="../male/somaticgonad/jump.html?newLink=mainframe.htm&newAnchor=Gonadelongation12" target="_blank"> linker cell</a> performs the leader function. </p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="dglossary.htm#distaltipcell" target="_blank">Distal tip cell </a><br>
+										See <a href="#linkercell">Linker cell </a></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="leadingcell"></a>Leading cell </b></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>In the process of <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=epidermalmorphogenesis&rendertype=figure&id=A4437" target="_blank">epidermal  enclosure</a> of the embryo, several hypodermal cells <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=epidermalmorphogenesis#A4441" target="_blank">migrate</a> and extend arms across the  ventral surface in advance of all others (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002842;class=Paper" target="_blank">Williams-Masson et al., 1997</a>; <a href="http://www.wormbook.org/chapters/www_epidermalmorphogenesis/epidermalmorphogenesis.html" target="_blank">Chisholm and Hardin, 2005</a>), and  later the same &ldquo;leading cells&rdquo; also initiate cell fusions of the hypodermal  compartments prior to all others (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001900;class=Paper" target="_blank">Podbilewicz and White, 1994</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="learningandmemory"></a>Learning and memory </b></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><em>C. elegans</em> displays very simple behaviors, but does show  some ability to modify its actions based upon previous experiences as determined by sensory inputs such as chemosensation (<a href="http://www.wormbook.org/chapters/www_chemosensation/chemosensation.html" target="_blank">Bargmann, 2006</a>; <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec4" target="_blank">Jansen in Hart, 2006</a>) mechanosensation (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2" target="_blank">Chalfie in Hart, 2006</a>) and thermosensation  (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec6" target="_blank">Mori in H art, 2006</a>).  These abilities may reflect behavior patterns encoded in the synaptic circuits,  or plasticity based upon being able to modify the circuitry (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004262;class=Paper" target="_blank">Bernhard and van der Kooy, 2000</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026948;class=Paper" target="_blank">Zhang et al., 2005</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027113;class=Paper" target="_blank">Giles et  al., 2005</a>).</p>
+									<p><br>
+										See <a href="aglossary.htm#associativelearning" target="_blank">Associative learning </a><br>
+										See <a href="hglossary.htm#habituation" target="_blank">Habituation</a> <br>
+										See <a href="nglossary.htm#neuralplasticity" target="_blank">Neural plasticity</a> <br>
+										See <a href="oglossary.htm#osmoticavoidance" target="_blank">Osmotic avoidance </a><br>
+										See <a href="sglossary.htm#sensitization" target="_blank">Sensitization </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="leavingbehavior"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec10_4" target="_blank">Leaving behavior </a></font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A sex drive displayed  by well fed male adult <em>C. elegans</em> in  which the animal chooses to ignore food and to wander in search of a suitable  adult hermaphrodite partner. The animal&rsquo;s  motions are no longer guided by attention to food signals, but become strongly  attuned to finding other nematodes via a pheromone signal (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024428;class=Paper" target="_blank">Lipton et al., 2004</a>).</p>
+									<p><br>
+										See <a href="mglossary.htm#matefinding" target="_blank">Mate-finding</a><br>
+										See <a href="pglossary.htm#pheromone" target="_blank">Pheromone</a> <br>
+										See <a href="wglossary.htm#wandering" target="_blank">Wandering</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="leftroller"></a>Left-roller </font></b></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A <a href="http://www.wormbase.org/db/misc/phenotype?name=roller" target="_blank">roller</a> (rol) mutation  which forces the animals to <a href="http://www.wormclassroom.org/files/worm/RolHalf.mov" target="_blank">rotate around their long axis as they crawl</a> resulting in movement in a circular path. Left handed rollers always turn  leftwards as they roll, due to a twist in the exoskeleton producing left-handed helical treads, body musculatures and ventral nerve cords (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000168;class=Paper" target="_blank">Higgins and Hirsh, 1977</a>).</p>
+									<p> <br>
+										See <a href="rglossary.htm#roller" target="_blank">Roller </a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="leptoderan"></a>Leptoderan</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A <a href="http://www.nyu.edu/projects/fitch/fresearch/fevolution/fmales/Tips.gif" target="_blank">characteristic of some  nematode species</a> (though not <em>C.  elegans</em>) in which the male tail fan fails to extend posterior to the most  posterior rays, allowing a thin cytoplasmic process to extend posteriorly from  the fan. The <a href="http://www.nyu.edu/projects/fitch/Lep1.gif" target="_blank">lep mutants</a> of <em>C. elegans</em> display this feature in the adult male tail.</p>
+									<p><br>
+										See <a href="pglossary.htm#peloderan" target="_blank">Peloderan</a> <br>
+										See <a href="cglossary.htm#caudalalae" target="_blank">Caudal alae</a> <br>
+										See <a href="fglossary.htm#fan" target="_blank">Fan</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="leptotene"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3699" target="_blank">Leptotene</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>An early stage in meiotic  prophase progression, preceding zygotene. Germline cells in the &ldquo;<a href="../hermaphrodite/germ line/Images/germfig3A_Dleg.htm" target="_blank">transition zone</a>&rdquo; of the distal gonad arm enter  this stage coordinately.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="let" id="let"></a><a href="http://www.wormbase.org/db/misc/phenotype?name=let" target="_blank">Let</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>Lethal phenotype. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lethargicmovement"></a>Lethargic movement </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>Slow movement of the body  and general unresponsiveness to stimulation, commonly seen in very old adult animals and in many behavioral mutants, as well as in all animals during molting. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lethargus"></a>Lethargus</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A behavior of the whole  animal associated with times of molting (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000058;class=Paper" target="_blank">Cassada and Russell, 1975</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000354;class=Paper" target="_blank">Singh and  Sulston, 1978</a>). The animal becomes  generally inactive or torpid for one to two hours prior to shedding of the  cuticle. Pharyngeal pumping rates drop  from 200 strokes per min to less than 1 per min. Movement by the bodywall muscles is  also very low. Pumping is restored  immediately before ecdysis. A second,  very brief drop in pumping rate sometimes follows the molt. It is possible that during lethargus the  nervous system undergoes selective rewiring, since new sets of neurons appear  at several of these stages (late L1, late L2, etc). Increased oxygen uptake during lethargus (measured  in other nematode species) has been ascribed to an increase in metabolic  activity during this period, perhaps  associated with these developmental changes. A less dramatic, but longer torpor is associated with the dauer larva. </p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="dglossary.htm#dauerbehavior" target="_blank">Dauer behavior </a><br>
+										See <a href="fglossary.htm#flipping" target="_blank">Flipping</a><br>
+										See <a href="qglossary.htm#quietus" target="_blank">Quietus</a></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="levamisole"></a><a href="http://en.wikipedia.org/wiki/Levamisole" target="_blank">Levamisole</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aiy.htm" target="_blank"></a> </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Levamisole is a synthetic imidazothiazole derivative that has been  widely used in treatment of worm infestations in both humans and  animals. As an anthelmintic, levamisole acts as a  nicotinic agonist which activates an acetylcholine receptor in muscle. While acute exposure leads to paralysis and death, sublethal treatment at 0.1% animals enter rapid  complete paralysis. Its action is reversible, and has often been  used to devise mutant screens for defects in synaptic release (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000484;class=Paper" target="_top">Lewis et al., 1980</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000998;class=Paper" target="_blank"> 1987</a>) or to block internal fertilizations by paralyzing the contractility of  the somatic gonad (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000495;class=Paper" target="_blank">Argon and Ward, 1980</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000724;class=Paper" target="_blank">Doniach and Hodgkin, 1984</a>).</p>
+									<p><br>
+										See <a href="aglossary.htm#anthelminthic">Anthelminthic </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="lifecycle"></a><a href="../hermaphrodite/introduction/IMAGES/introfig6leg.htm" target="_blank">Life cycle </a></font></b></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aiy.htm" target="_blank"></a> </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The progression of  embryonic, larval stages and adulthood that commences after egg-laying, and    results in new embryos being created by the next adult generation.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="lifehistory"></a>Life history </font></b></td>
+							<td valign=top><p>&nbsp;</p>
+									<p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The sequential developmental  stages and environments through which an animal proceeds. Such progressions are of particular  importance in parasitic species, in which certain larval  stages may be free-living, while others may require invasion into a host species  in order to trigger further development or egg-laying. Some species can have several alternate life  histories, depending upon which host they encounter first, or can live either  as parasites or as free-living forms (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=15275212&query_hl=7&itool=pubmed_docsum" target="_blank">Ashton and Schad, 1996</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="lifespan"></a>Lifespan</font></b></td>
+							<td valign=top>Longevity (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The length of time which <font face="Arial, Helvetica, sans-serif"></font>an individual has lived. The longevity, or life expectancy, of an individual or species is   generally the average amount of time expected to live under ideal conditions while maximum lifespan is the age of death for the oldest individuals. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lighttouch"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_1" target="_blank">Light touch </a></font></strong></td>
+							<td valign=top>Gentle touch (S)<br>
+								Harsh touch (A) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The level of  mechanical stimulus required to stimulate a behavioral response by the touch  dendrites along the bodywall of the nematode.  In <em>C. elegans</em>, gentle touch with an eyelash is sufficient to activate  these receptors, whereas poking the animal with a metal wire evokes a different  response (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_2" target="_blank">harsh touch</a>) activated by separate sense cells.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="gglossary.htm#gentletouch" target="_blank">Gentle touch</a><br>
+										</font><font face="Arial, Helvetica, sans-serif">See <a href="hglossary.htm#harshtouch" target="_blank">Harsh touch</a> <br>
+											See <a href="tglossary.htm#touchresponse" target="_blank">Touch response</a></font><font face="Arial, Helvetica, sans-serif"><br>
+											</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="limabeanstage"></a><a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">Lima bean stage </a></font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font>Bean stage (S) </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An intermediate stage in<a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank"> embryogenesis</a>, immediately following the completion of gastrulation around 350-390 minutes after first cleavage. Cell number is at ~560 cells. At this time cell proliferation ceases and  the embryo begins morphogenesis and elongation. The shape of the entire embryo within the eggshell resembles a lima bean. The next stage is called the <a href="http://www.wormbook.org/chapters/www_intromethodscellbiology/cellfig13.jpg" target="_blank">comma embryo</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="limabeanstopper"></a>Lima bean stopper </font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A common arrest stage in  embryogenesis.
+								<p><font face="Arial, Helvetica, sans-serif"><br>
+									See <a href="eglossary.htm#embryonicarrest" target="_blank">Embryonic arrest </a></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lineage"></a><a href="../celllineages.html" target="_blank">Lineage</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The exact sequence of cell  divisions that gives rise to a particular set of mature (or intermediate stage)  cells. In <em>C. elegans</em>, almost all  patterns of cell lineage are repeated exactly from one animal to another for  any given structure and have been characterized (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston and Horvitz, 1977</a>; <a href="http://www.wormatlas.org/ver1/Sulstonemblin_1983/toc.html" target="_blank">Sulston et al., 1983</a>) and are apparently regulated by genetic programs operating  in the nucleus of the parent cells (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000500;class=Paper" target="_blank">Sulston and Horvitz, 1981</a>), whereas in  higher animals cell lineages generally show high degrees of variation and  unpredictability. Early portions of the  embryonic lineage are conserved among many nematode species (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000473;class=Paper" target="_blank">von  Ehrenstein and Schierenberg, 1980</a>).</p>
+									<p><font face="Arial, Helvetica, sans-serif">The process of <a href="http://www.wormbook.org/chapters/www_vulvaldev/vulvaldev.html" target="_blank">vulval development</a> has been closely studied and </font>provides some insight into the complexity of cell signaling influences on lineage determination. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lineageregulation"></a>Lineage regulation </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A change in the lineage of  one blast cell in compensation for nearby environmental changes, especially  with regard to the loss of homologous sister blast cells or their progeny. This regulation may involve the replacement  of lost cells nearby by altering the division pattern and/or cell fates of a  blast cell&rsquo;s daughters. Such regulation  is unusual in <em>C. elegans</em> lineages, and virtually never allows for the full  replacement of the total number of daughter cells, even if some cell fates can  be replaced (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000463;class=Paper" target="_blank">Sulston and White, 1980</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000500;class=Paper" target="_blank">Sulston and Horvitz, 1981</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="linkercell"></a><a href="../male/somaticgonad/images/MaleReproFIG4.jpg" target="_blank">Linker cell</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">As a part of the <a href="../male/somaticgonad/Somaticgonadframeset.html" target="_blank">somatic  gonad of the male</a>, the linker cell performs a &ldquo;leader function&rdquo; similar to that of the  distal tip cell in the hermaphrodite gonad. As it <a href="../male/somaticgonad/images/MaleReproFIG3.jpg" target="_blank">migrates</a> it leads the developing germline towards the tail tip to connect to the proctodeum. The linker cell later helps to form the  opening of the vas deferens to the proctodeum, after which it undergoes a <a href="../male/somaticgonad/images/MaleReproFIG5.jpg" target="_blank">programmed cell death</a> to allow this channel to open (Kimble and Hirsh,  1979). In this later role, the linker  cell acts in rather similar fashion to the anchor cell of the female uterus,  helping to connect the gonad to the exterior. </font>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="aglossary.htm#anchorcell" target="_blank">Anchor cell</a> <br>
+										See <a href="dglossary.htm#distaltipcell" target="_blank">Distal tip cell</a> </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><font face="Arial, Helvetica, sans-serif"><b><a name="lip"></a>Lip/ Lips </b></font></p>
+									<p><font face="Arial, Helvetica, sans-serif"><b> <br>
+								</b></font></p></td>
+							<td valign=top height="111"><p><font face="Arial, Helvetica, sans-serif"><br>
+							</font></p></td>
+							<td valign=top height="111"><p class="style26">&nbsp;</p>
+									<p class="style26"><br>
+								</p></td>
+							<td valign=top height="111"><p>This term has multiple meanings, but structures called lips always consists of a fold or protuberance of hypodermal tissue covered by cuticle, bordering an opening into the body.</p>
+									<p><strong>1)</strong> In the head, the opening to the buccal cavity is bordered by <a href="../hermaphrodite/introduction/IMAGES/introfig4Aleg.htm" target="_blank">six-fold lips</a> also knows as the labia  They are named according to their  relative positions: subdorsal, subventral or lateral.</p>
+								<p><strong>2)</strong> At the opening of the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig6ABleg.htm" target="_blank">vulva</a> there are two-fold vulval &ldquo;lips&rdquo; both  anterior and posterior to the opening.</p>
+								<p><strong>3) </strong>In at least some species, folds at the <a href="../male/proctodeum/images/MaleProcFIG2.jpg" target="_blank">cloaca</a> in male  tail are called lips.</p>
+								<p><strong>4)</strong> At the <a href="../hermaphrodite/rectum/Images/rectfig2leg.htm" target="_blank">anus</a>, anal lips borders the opening on the  anterior and posterior with the anterior lip being more prominent.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lipidbilayer"></a>Lipid bilayer </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="bglossary.htm#bilayer" target="_blank">Bilayer</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lipidlayer"></a><a href="../hermaphrodite/pericellular/Images/perifig5leg.htm" target="_blank">Lipid layer</a> </font></strong></td>
+							<td valign=top>Vitelline envelope (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A component of the  eggshell. This thin wispy layer lies  underneath the chitin layer, just overlying the plasma membrane of the embryonic  cells. It may break down in the hours  before hatching (Bird and Bird, 1991). In many instances, this layer has been mislabeled the &ldquo;vitelline  membrane&rdquo; or &ldquo;inner vitelline membrane&rdquo;, but  the vitelline membrane is actually the  outermost layer of the eggshell<font face="Arial, Helvetica, sans-serif">. </font> </p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="eglossary.htm#eggshell" target="_blank">Eggshell</a> <br>
+										See <a href="vglossary.htm#vitellinemembrane" target="_blank">Vitelline membrane</a> </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lipidraft"></a><a href="http://publications.nigms.nih.gov/insidethecell/images/ch2_lipidraft.jpg" target="_blank">Lipid raft </a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><br>
+							</font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A microdomain within the cell membrane  that is enriched with certain types of lipids such as <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1876" target="_blank">cholesterol</a>, <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1888" target="_blank">glycolipids</a> and <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.figgrp.3607" target="_blank">sphingolipids</a>. These domains are distinguished by their relative insolubility in nonionic  detergents and their relative buoyancy in a density gradient.&nbsp;  Within a cell membrane such lipid collections can coassemble to form a  &ldquo;raft&rdquo; which will derive special physical properties. Some <a href="http://www.bms.ed.ac.uk/research/others/smaciver/Cyto-Topics/lipid_rafts_and_the_cytoskeleton.htm" target="_blank">lipid rafts</a> have a  tendency to form invaginations called <a href="http://www.bms.ed.ac.uk/research/others/smaciver/Cyto-Topics/caveolae.htm" target="_blank">caveolae</a>, and some rafts attract special  subsets of proteins to form local clusters<font face="Arial, Helvetica, sans-serif">. </font> </p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="cglossary.htm#caveola" target="_blank">Caveola/ caveolae </a></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><strong><font face="Arial, Helvetica, sans-serif"><a name="lipofuscin"></a>Lipofuscin</font></strong></p>
+									<p><font face="Arial, Helvetica, sans-serif"><b> <br>
+								</b></font></p></td>
+							<td valign=top height="111"><p><font face="Arial, Helvetica, sans-serif"><br>
+							</font></p></td>
+							<td valign=top height="111"><p class="style26">&nbsp;</p>
+									<p class="style26"><br>
+								</p></td>
+							<td valign=top height="111"><p>A granular  cytoplasmic substance in the intestine that increases in size and frequency in  older nematodes (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000909;class=Paper" target="_blank">Clokey and Jacobsen, 1986</a>).&nbsp;  It is <a href="http://www.ucl.ac.uk/lmcb/images/research-groups/mole-research-1.gif" target="_blank">autofluorescent</a> and <a href="http://dementia.hiim.hr/lipofuscinCA3EM.jpg" target="_blank">dark-staining</a>, and useful as a biomarker for  physiological aging in longevity studies (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005490;class=Paper" target="_blank">Herndon et al., 2002</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025224;class=Paper">Gerstbrein et al., 2005</a>)<font face="Arial, Helvetica, sans-serif">. </font> </p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="aglossary.htm#agepigments" target="_blank">AGE pigments</a> </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="liquidculture"></a>Liquid culture </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A method for growing large  quantities of nematodes in well-aerated flasks of bacterial broth or axenic  broth, rather than on typical culture plates of agar spread with a bacterial lawn.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="aglossary.htm#axenicmedium" target="_blank">Axenic medium</a> <br>
+										See <a href="dglossary.htm#definedmedium" target="_blank">Defined medium</a> </font><font face="Arial, Helvetica, sans-serif"><br>
+										</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="locomotion"></a>Locomotion/ locomotory activity </font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Self-propelled movement. In <em>C. elegans</em>, <a href="http://labs.bio.unc.edu/Goldstein/crawl.mov" target="_blank">locomotion</a> is generated by the action of a defined set of <a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Motorneuronsandthemotorcircuit23" target="_blank">motor neurons</a> and interneurons that signal the action of the<a href="../hermaphrodite/musclesomatic/Images/musfig7leg.htm" target="_blank"> body muscles</a>.</p>
+									<p><br>
+										See <a href="cglossary.htm#crawling" target="_blank">Crawling</a> <br>
+										See <a href="dglossary.htm#deepventralbend" target="_blank">Deep ventral bend</a> <br>
+										See <a href="fglossary.htm#foraging" target="_blank">Foraging</a> <br>
+										See <a href="kglossary.htm#kinesis" target="_blank">Kinesis</a> <br>
+										See <a href="lglossary.htm#lethargus">Lethargus</a> <br>
+										See <a href="nglossary.htm#nictation" target="_blank">Nictation </a><br>
+										See <a href="rglossary.htm#roller" target="_blank">Roller</a> <br>
+										See <a href="nglossary.htm#nosetouch" target="_blank">Nose touch avoidance</a> <br>
+										See <a href="qglossary.htm#quiescence" target="_blank">Quiescence </a><br>
+										See <a href="sglossary.htm#shortening" target="_blank">Shortening</a><br>
+										See <a href="sglossary.htm#swimming" target="_blank">Swimming </a><br>
+										See <a href="tglossary.htm#taxis" target="_blank">Taxis</a> <br>
+										See <a href="tglossary.htm#thrashing" target="_blank">Thrashing</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="longitudinalmigration"></a>Longitudinal migration </font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Migration of cells or neurons that extend towards the nose or tail rather than towards the sides of the animal. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="longitudinalmigration"></a><a href="../hermaphrodite/musclesomatic/Images/musfig7leg.htm" target="_blank">Longitudinal muscles</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>All nematode somatic (striated) muscles run longitudinally. <a href="../hermaphrodite/musclesomatic/MusSomaticframeset.html" target="_blank">Hermaphrodites</a> have 95 body wall muscle cells that are arranged as staggered pairs in four longitudinal bundles located in four quadrants. <a href="../male/muscleintro/jump.html?newLink=mainframe.htm&newAnchor=Longitudinalmuscles4" target="_blank">Males</a> have 3 additional sets of sex-specific longitudinal muscles (anterior and posterior outer, anterior and posterior inner, and caudal)  that contribute to the body wall musculature.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="longitudinalview"></a>Longitudinal view </font></strong></td>
+							<td valign=top><p>Longitudinal aspect (S) </p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Any side view of the body, as opposed to a cross-section or &quot;transverse view&quot;. This can include views from a dorsal or ventral aspect, or a left or right-side view.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="loop"></a>Loop</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><a href="../hermaphrodite/reproductive/Images/reprofig1leg.htm" target="_blank">A portion of the extended  gonad</a> where it bends back upon itself (reflexes) to form a proximal arm and a distal arm. Alternately, this term can refer to a specific type of  continued turning in the forward motion of the animal which permits it to  reverse direction without making any backward motions.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="loopstage"></a><a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">Loop stage</a> </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Three-fold stage (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A late stage in embryogenesis during which the elongating embryo has begun to adopt a worm-like  shape within the eggshell, and many events in tissue morphogenesis are  proceeding. This stage immediately precedes the early pretzel stag<font face="Arial, Helvetica, sans-serif">e.</font></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="loopy"></a>Loopy</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Describes a form of  track on the agar seen for some classes of uncoordinated (unc) mutants, in  which the animals move forward in exaggerated circular paths, often turning  continuously with little net progress across the plate.&nbsp; This is a behavioral change, and not the same  as the rolling motion caused by some cuticle defects (e.g. not like a &ldquo;roller&rdquo;)  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024552;class=Paper" target="_blank">Hawasli et al., 2004</a>).<font face="Arial, Helvetica, sans-serif"><br>
+							</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lsm"></a>LSM </font></strong></td>
+							<td valign=top>Lateral submedial neuron </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="cglossary.htm#cepcell" target="_blank">CEP cell </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lumbar"></a>Lumbar commissure </font></strong></td>
+							<td valign=top><p>Lumbar-preanal commissure (S)<br>
+								Lumbar-preanal nerve (S)<br>
+								Lumbar nerve (S)<br>
+								Ano-lumbar commissure (S)<br>
+								Caudalid (archaic) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Each left and right lumbar  commissure connects one of the lumbar ganglia to the pre-anal ganglion via  closely bundled processes passing circumferentially beneath the ventral  bodywall muscles in the tail.
+								<p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lumbarganglion"></a><a href="../hermaphroditetailneurons.html" target="_blank">Lumbar ganglion</a> </font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The <a href="http://www.wormatlas.org/ver1/hall_1991/art/fig1_large.jpg" target="_blank">left and right lumbar ganglia</a> lie behind the pre-anal ganglion in the tail, in  lateral positions. Each contains 12  neuron cell bodies that send most of their <a href="http://www.wormatlas.org/ver1/hall_1991/art/fig5_large.jpg" target="_blank">neuronal processes</a> into the ventral  nerve cord via lumbar commissures and the pre-anal ganglion. There is no local neuropil in these ganglia  in the hermaphrodite, instead they form most synapses in the pre-anal  ganglion. Most lumbar neurons have  sensory functions. In the adult male  tail, these two ganglia gain many additional neurons and have some local  neuropil. The lumbar neurons lie in close association with the lateral  hypodermis, and most are posterior to the anus.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lumen"></a>Lumen/ lumena </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The interior of a vessel within a body such as of the <a href="../hermaphrodite/pharynx/Images/phafig3E_Gleg.htm" target="_blank">pharynx</a>, <a href="../hermaphrodite/pharynx/Images/phafig11leg.htm" target="_blank">intestine</a>, <a href="../hermaphrodite/excretory/Images/excfig5leg.htm" target="_blank">excretory gland</a>, <a href="../hermaphrodite/egglaying apparatus/Images/eggfig11BCleg.htm" target="_blank">uterus</a>, <a href="../hermaphrodite/egglaying apparatus/Images/eggfig3leg.htm" target="_blank">vulva</a>, or <a href="../hermaphrodite/somatic gonad/Images/somaticfig9leg.htm" target="_blank">spermatheca</a>. It can also refer to the inner membrane space of the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2501" target="_blank">mitochondrion</a>, <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2347" target="_blank">golgi</a> or<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2205" target="_blank"> ER</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lysis"></a>Lysis</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Typically refers to death of a cell by bursting. Can occur by osmotic or viral triggers that compromise the integrity of the cellular membrane. Also refers to the bursting of entire worms for preparation of DNA, RNA or proteins.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="lysosome"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2366" target="_blank">Lysosome</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A membrane bound organelle that contains digestive enzymes <font face="Arial, Helvetica, sans-serif">for digesting macromolecules and <a href="http://www.wormbook.org/chapters/www_autophagy/autophagyfig1leg.jpg" target="_blank">disposing of unwanted materials</a> such as phagocytosed bacterium and damaged organelles.   Additionally, lysosomes aid in the recycling of the components of <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=intracellulartrafficking&rendertype=figure&id=A2630" target="_blank">receptor-mediated endocytosis</a>. Each pathway to degradation leads to the lysosome, regardless of the souce of the material (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4" target="_blank">Alberts, 2002</a>). </font></p>
+								<p><font face="Arial, Helvetica, sans-serif">See also Wormbook chapters: Intracellular trafficking (<a href="http://www.wormbook.org/chapters/www_intracellulartrafficking/intracellulartrafficking.html" target="_blank">Grant and Sato, 2006</a>) and  Autophagy in <em>C. elegans</em> (<a href="http://www.wormbook.org/chapters/www_autophagy/autophagy.html#sec1" target="_blank">Mel&eacute;ndez and Levine, 2009</a>).<br>
+									</font></p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: September 19, 2011. This section should be cited as: Herndon, L.A. and Hall, D.H. 2009. Glossary L. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.12</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

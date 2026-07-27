@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary J</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - J </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="181"><span class="style28"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="204"><p class="style29"><strong><font
+color="#0033CC">ABBREVIATION</font></strong></p>
+									<p class="style29"><strong>SYNONYMS (S)<br>
+										ANTONYMS 
+										(A) </strong></p></td>
+							<td valign=top width="149"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="919"><span class="style29"><strong><font color="#009933">DESCRIPTION </font></strong></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="jneuron"></a>&#147;j&#148;
+								neuron</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif" 
+color="#0033CC"><a 
+href="../neurons/Individual Neurons/ASJframeset.html" 
+target="_blank"><b>ASJ</b></a></font><font face="Arial, Helvetica, 
+sans-serif"> cell (S)</font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">See <a 
+href="aglossary.htm#asjcell" target="_blank">ASJ cell</a></font></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"><b><a name="j1"></a>J1</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="#juvenile">Juvenile </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"><b><a name="junction"></a>Junction</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The meeting of two distinct objects. In anatomy, there are several possible meanings:</p>
+									<p><strong>1)</strong> Intercellular junction, such as a <a href="../hermaphrodite/nervous/Images/neurofig22leg.htm" target="_blank">gap  junction</a> or an<a href="../hermaphrodite/somatic gonad/Images/somaticfig9EFleg.htm" target="_blank"> adherens junction</a>.</p>
+								<p><strong>2)</strong> Tissue junction, such as the meeting of the  spermatheca and the uterus, where the interfacial cells are known as the  spermathecal junction cells.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"><b><a name="junctionalcomplex"></a>Junctional complex </b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>See <a href="sglossary.htm#secretorymembrane" target="_blank">Secretory membrane</a> </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="junctionalcore"></a>Junctional core </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A narrowing of the  spermathecal lumen at the 
+									<a href="../hermaphrodite/somatic gonad/jump.html?newLink=mainframe.htm&newAnchor=Thespermathecaluterinevalve" target="_blank">	spermathecal-uterine valve</a>, which is visible by DIC optics. Cytoplasmic extensions of 
+								two cells  from each spermathecal lineage form the core and their 
+								nuclei apparently form  a plug which blocks this narrow passage prior 
+								to laying of the first fertilized oocyte. The fate of these two cells 
+								after displacement of the core is unknown.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"><b><a name="juvenile"></a>Juvenile</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Larval 
+								(S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Part of the nematode <a 
+href="../hermaphrodite/introduction/IMAGES/introfig6leg.htm" target="_blank">life 
+								cycle</a> that includes the larval stages  of development <a 
+href="../hermaphrodite/introduction/IMAGES/introfig8leg.htm" 
+target="_blank">(L1-L4)</a> during which cell divison and formation 
+								of adult tissues occurs. In the nematode  literature for other species, the developmental stages are often known as J1, J2, J3 and J4 instead of L1, L2, L3 and L4.</p>
+									<p><br>
+										See <a 
+href="lglossary.htm#larva" 
+target="_blank">Larva</a> </p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: November 5, 2013. This section should be cited as: Herndon, L.A. and Hall, D.H. 2009. Glossary H. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.10">10.3908/wormatlas.6.10</a></span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

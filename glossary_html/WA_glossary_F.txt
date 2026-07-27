@@ -1,0 +1,837 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary F</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - F </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="211"><span class="style28"><font color="#993300">PART/CELL 
+								NAME </font></span></td>
+							<td valign=top width="154"><p class="style30"><strong><font color="#0033CC">ABBREVIATION</font></strong></p>
+									<p class="style30"><strong>SYNONYMS (S)<br>
+										ANTONYMS (A) </strong></p></td>
+							<td valign=top width="140"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="948"><span class="style30"><strong><font color="#009933">DESCRIPTION </font></strong></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="f1"></a>F1</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>First 
+								generation of offspring after a mating (first filial generation).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="f2"></a>F2</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Second 
+								generation of offspring after a mating (second filial generation).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="factin"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK21594/figure/A5147/"f+actin"+AND+mcb[book]+AND+106752[uid]&rid=mcb.figgrp.5147" target="_blank">F 
+								actin</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Filamentous actin. One of the 
+								most common macromolecular assemblies in all animal cells, found in cytoskeletal 
+								structures such as stress fibers, microvilli and muscle sarcomeres. In 
+								these structures, actin coassembles with actin-binding proteins to form 
+								long filamentous bundles which are often attached to the plasma membrane 
+								and/or associated with myosin motors.</p>
+									<p> <br>
+										See <a href="gglossary.htm#gactin" target="_blank">G actin</a><br>
+										See <a href="mglossary.htm#myosin" target="_blank">Myosin</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fcell"></a><a href="../hermaphrodite/rectum/Images/rectfig3A_Eleg.htm" target="_blank">F      cell</a></b></td>
+							<td valign=top><p><a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0004799" target="_blank">F ectoblast</a> (S)</p></td>
+							<td valign=top><span class="style27">ABplppppapp</span></td>
+							<td valign=top><p>A rectal epithelial cell in 
+								the hermaphrodite tail. This cell acts as a blast cell in the male tail.</p>
+									<p><br>
+										See <a href="yglossary.htm#ycell" target="_blank">Y cell</a><br>
+										See <a href="http://www.wormatlas.org/ver1/handbook/alimentary/alimentary3.htm#rectepith" target="_blank">Rectal 
+											epithelium</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fneuron"></a>f 
+								neuron</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><a href="../neurons/Individual Neurons/ADFframeset.html" target="_blank">ADF</a> cell</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="faculativedevelopmentalstage"></a>Facultative 
+								developmental stage </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An optional larval or  juvenile stage which an animal may choose to follow under certain conditions. The male adult can also be considered a facultative stage  in <em>C. elegans</em>, since it is not required for propagation of the species.</p>
+									<p><br>
+										See <a href="dglossary.htm#dauer" target="_blank">Dauer</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="facultativeparasite" id="facultativeparasite"></a>Facultative 
+								parasite</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An organism 
+								that is capable of independent existence but which under certain conditions may become parasitic. For instance, some otherwise free-living nematodes can enter the body of 
+								a insect, invade its tissues and kill the animal, and then feed upon bacteria 
+								within the dead insect gut. Converse condition is an obligate parasite. </p>
+									<p><br>
+										See <a href="pglossary.htm#parasite" target="_blank">Parasite </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fan"></a><a href="../male/neuronalsupport/images/MaleNeuroFIG1.jpg" target="_blank">Fan</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Part 
+								of the male copulatory apparatus. A complex flattened structure extending laterally at the extreme tip of the adult male consisting of <a href="../male/rays/images/MaleRayFIG1.jpg" target="_blank">nine pairs of sensory rays</a> that lie within a web-like cuticle. On the ventral surface of  the fan, the gubernaculum presents the cloacal opening, spicules,   phasmids, hook and post-cloacal sensilla. The <a href="http://www.nyu.edu/projects/fitch/Wildtyp.gif" target="_blank">fan replaces the simple pointed tail tip of the hermaphrodite and of  the juvenile male</a>, during the end of the L4 stage, during a morphogenetic  process called <a href="#fanformation">fan formation</a> or <a href="../male/hypodermis/images/MaleHypFIG10.jpg" target="_blank">tail tip remodeling</a>.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fanformation" id="fanformation"></a><a href="../male/hypodermis/jump.html?newLink=mainframe.htm&newAnchor=Thetailtiphyp2" target="_blank">Fan formation</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><a href="http://www.nyu.edu/projects/fitch/Wildtyp.gif" target="_blank">Reshaping of the male tail</a> during late larval development in which the <a href="http://www.nyu.edu/projects/fitch/Retractn.qt" target="_blank">tail tip cells fuse together and change shape</a>. The <a href="../male/hypodermis/images/MaleHypFIG10.jpg" target="_blank">posterior hyp cells</a> (hyp 8,9,10,11) move forward (retraction of the  previous tail spike) while <a href="../male/hypodermis/images/MaleHypFIG4.jpg" target="_blank">a late round of cell divisions</a> in posterior blast cells  produce new sensilla including the rays which <a href="../male/hypodermis/images/MaleHypFIG5.jpg" target="_blank">spread laterally to form a  fan-shaped tail</a> covered with new cuticle (<a href="../ver1/Sulston postembmale_1980/toc.html?name=WBPaper00000462;class=Paper" target="_blank">Sulston et al., 1980</a>; <a href="http://dx.doi.org/10.1006/dbio.1998.9173" target="_blank">Nguyen et al.,  1999</a>).</p>
+									<p><br>
+										See <a href="rglossary.htm#retraction" target="_blank">Retraction </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fascicle"></a>Fascicle</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A bundle of neuron processes. 
+								Alternately, it can refer to a bundle of intracellular filaments.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="feedback" id="feedback"></a>Feedback</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This  term can have multiple meanings, generally concerning the behavior of networks  of groups of animals, cells, cell parts, or molecules. Positive feedback generally acts to increase  the outcome of the original signal, whereas negative feedback acts to decrease  that outcome over time. </p>
+									<p>In  neuroscience, feedback can refer to a set of synapses that connect back  directly onto the original neuron in a circuit.</p>
+								<p>In  biochemistry, feedback inhibition can refer to circumstances in which the  product of a reaction acts to reduce the activity of the enzyme.</p>
+								<p><br>
+									See <a href="rglossary.htm#reciprocalsynapse" target="_blank">Reciprocal synapse</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fem" id="fem"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000687" target="_blank">Fem</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A mutant phenotype where <b>FEM</b>inization 
+								of the <a href="http://www.wormbook.org/chapters/www_somaticsexdeterm/somaticsexdetfig1.jpg" target="_blank">hermaphrodite (XX) and male (XO)</a> animals occurs. In these mutants, 
+								both XO and XX animals become fertile females. Maternal effect may be 
+								seen.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="female"></a>Female</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This sexual form does not normally 
+								exist in <i>C. elegans</i>. Some viable female strains have been created 
+								as mutant alleles in which production of sperm has been suppressed (e.g. <a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000687" target="_blank">fem</a> or <a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000682" target="_blank">fog</a> mutants). These adults generate only female gametes and can 
+				    mate successfully with males.</p>
+									<p><br>
+										See <a href="#fem">Fem</a><br>
+										See <a href="#feminization">Feminization</a><br>
+										See <a href="#fog">Fog</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="feminization" id="feminization"></a>Feminization</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Conversion 
+								of <a href="http://www.wormbook.org/chapters/www_somaticsexdeterm/somaticsexdetfig1.jpg" target="_blank">XX (normally wild type hermaphrodite) and X0 (normally wild type male)</a>								animals to females in <i>C. elegans</i>. Occurs as a result of certain mutations 
+								in the <a href="http://www.wormbook.org/chapters/www_somaticsexdeterm/somaticsexdetfig2.jpg" target="_blank">sex determination pathway</a> which block spermatogenesis in the germline 
+								as well as development of the male somatic gonad (<a href="http://dx.doi.org/10.1016/0012-1606(84)90077-0" target="_blank">Doniach and Hodgkin, 1984</a>; <a href="http://www.ncbi.nlm.nih.gov/books/NBK20081/" target="_blank">Meyer, 1997</a>; <a href="http://www.wormbook.org/chapters/www_dosagecomp/dosagecomp.html" target="_blank">Meyer, 2005</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fenestration"></a>Fenestration</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>The presence 
+								of holes (&#147;windows&#148;) in a membrane or cell process that allow 
+								the passage of large molecules, macromolecular structures, or fluids between 
+								two sides of the barrier. Some biological structures display natural fenestrations, 
+								such as the &#147;pores&#148; in the nuclear membrane, or the holes in the 
+								somatic sheath of the gonad (<a href="http://dx.doi.org/10.1006/dbio.1999.9356" target="_blank">Hall 
+									et al., 1999</a>). Fenestrations can sometimes be induced experimentally; 
+								for instance by laser surgery on the eggshell or the vitelline membrane 
+								of the embryo (<a href="http://link.springer.com/article/10.1007/BF00364592" target="_blank">Schierenberg 
+								and Junkersdorf, 1992</a><a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001644;class=Paper" target="_blank"></a>). </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fertilization"></a><a href="http://www.biomedcentral.com/1471-213x/4/3/figure/F1" target="_blank">Fertilization</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>The event 
+								in which a sperm and an oocyte (haploid germ cells) fuse together to form 
+								one diploid embryo (See <a href="http://www.wormbook.org/chapters/www_controloocytematuration/controloocytematuration.html#d0e825" target="_blank">Greenstein, 2005</a> and <a href="http://www.wormatlas.org/ver1/handbook/reproductivesystem/reproductivesystem2.htm#Oocytematurationovulationandfertilization" target="_blank">Wormatlas</a>) . </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fertilizationmembrane"></a>Fertilization membrane </b></td>
+							<td valign=top>Dense vitelline layer (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A temporary structure known  to form in some nematode species at the moment of fertilization in order to  physically block subsequent spermatocytes from entering the egg; e.g. blocking  polyspermy. This evanescent structure is apparently  secreted by the oocyte from pre-positioned vesicles and remains in place until  a permanent eggshell can replace it. It  has been seen only after fast freezing fixations in <em>C. elegans</em> (Hall  and Greenstein, unpublished) but has also been noted in <em>Ascaris</em> (<a href="http://dx.doi.org/10.1016/0014-4894(57)90037-1" target="_blank">Fairbairn, 1957</a>; <a href="http://www.jstor.org/discover/10.2307/3276689" target="_blank">Foor, 1967</a>; <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769504&query_hl=17&itool=pubmed_docsum" target="_blank">Anya 1976</a>) .</p>
+									<p><br>
+										See <a href="gglossary.htm#glycocalyx" target="_blank">Glycocalyx</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="feulgenstain"></a><a href="http://stainsfile.info/StainsFile/stain/schiff/feulgen.htm" target="_blank">Feulgen 
+								stain</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A specific 
+								stain for nuclear DNA which labels all cell nuclei and can be viewed by 
+								light microscopy. It contains <a href="http://stainsfile.info/StainsFile/dyes/42685.htm" target="_blank">fuchsin</a>, a colorless dye which has a strong 
+								affinity for DNA and produces red color in its presence. A fixed animal 
+								can be stained with Feulgen to highlight the DNA content of all nuclei. 
+								Larval stages give the most dramatic results (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston 
+									and Horvitz, 1977</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fiber" id="fiber"></a>Fiber</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Term used to refer to various long thin extended  objects. It can refer to a subcellular  structure such as a thick filament of the internal  cytoskeleton, or to an extracellular object lying in the basal lamina or cuticle  layers. More often the term has been  used to refer to either a cellular process (for instance a &ldquo;nerve fiber&rdquo; or  &ldquo;muscle fiber&rdquo;) or to a structure made up from a group of cell  processes, or even a whole groups of cells.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fiberlayers" id="fiberlayers"></a><a href="../hermaphrodite/cuticle/Images/cutfig6leg.htm" target="_blank">Fiber 
+								layers</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Three (or possibly just two) 
+								of the innermost layers of the cuticle (corresponding to layers 6, 7, 
+								8 of <i>Ascaris</i> cuticle) which display tightly woven fibers that run 
+								coherently in helical or circumferential orientations around the body. 
+								Two of these layers appear to run at 65&#176; angle to the longitudinal 
+								body axis, but in opposite directions to each other (<a href="http://www.ncbi.nlm.nih.gov/books/NBK20029/" target="_blank">Kramer, 1997</a>). These layers lie between the boundary zone and the basal 
+								layer. Together they comprise the<a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank"> basal zone (Bs)</a> of the cuticle (<a href="http://www.sciencedirect.com/science/book/9780120996513" target="_blank">Bird 
+									and Bird, 1991</a>). </p>
+									<p>Some roller and <a href="http://www.wormbook.org/chapters/www_cuticle/cuticlefig3.jpg" target="_blank">dumpy mutations</a> of collagen genes 
+										may disrupt this helical organization, causing the entire animal to adopt 
+										a helical twist to the outer cuticle and forcing the animal to <a href="http://www.wormclassroom.org/files/worm/RolHalf.mov" target="_blank">move helically 
+											in a rolling motion</a>, rather than in a <a href="http://labs.bio.unc.edu/Goldstein/crawl.mov" target="_blank">sinusoidal path</a>. The fiber layers 
+										can show visible lamination between themselves, and may be visualized 
+										as striated bands by various imaging modalities, including polarized light, 
+									    <a href="../hermaphrodite/cuticle/Images/cutfig4leg.htm" target="_blank">TEM</a>, and<a href="../hermaphrodite/cuticle/Images/cutfig4leg.htm" target="_blank"> freeze etching</a>.</p>
+								<p><br>
+									See <a href="bglossary.htm#basallayer" target="_blank">Basal 
+										layer</a><br>
+									See <a href="bglossary.htm#basalzone" target="_blank">Basal 
+										zone</a><br>
+									See <a href="bglossary.htm#boundaryzone" target="_blank">Boundary 
+										zone</a><br>
+									See <a href="cglossary.htm#corticallayer" target="_blank">Cortical 
+										layer</a><br>
+									See <a href="#fibrillayer" target="_self">Fibril layer</a><br>
+									See <a href="mglossary.htm#matrixlayer" target="_blank">Matrix layer</a><br>
+									See <a href="mglossary.htm#medianzone" target="_blank">Median zone</a><br>
+									See <a href="rglossary.htm#roller" target="_blank">Roller</a><br>
+							See <a href="lglossary.htm#locomotion" target="_blank">Locomotion</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fibril"></a>Fibril</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This term may refer to any  of a number of long thin objects, just as the word &ldquo;fiber&rdquo; has been used rather  widely. Fibrils (as opposed to &ldquo;fibers&rdquo;) have most often been identified with a  class of extracellular macromolecules (perhaps extended collagens) lying within  the medial zone of the cuticle.&nbsp; When clustered macromolecules lie in register  side by side, the resulting fibrils may present a distinctive striated  appearance.</p>
+									<p><br>
+										See <a href="#fiber">Fiber </a><br>
+										See <a href="#fibrillayer">Fibril layer </a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fibrillayer" id="fibrillayer"></a><a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank">Fibril 
+								layer</a></b></td>
+							<td valign=top>Fibrillar 
+								layer(S)</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A portion of the medial zone 
+								of the cuticle, lying just beneath the cortical zone and above the matrix 
+								layer. This thin layer contains a more densely arrayed set of fibrils 
+								than the spongy-looking matrix layers above and below it.</p>
+									<p><br>
+										See <a href="bglossary.htm#basallayer" target="_blank">Basal 
+											layer</a><br>
+										See <a href="cglossary.htm#corticallayer" target="_blank">Cortical 
+											layer</a><br>
+										See <a href="#fiberlayers">Fiber layers</a><br>
+										See <a href="mglossary.htm#matrixlayer" target="_blank">Matrix layer</a><br>
+										See <a href="mglossary.htm#medianzone" target="_blank">Median zone</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fibrousbody"></a><a href="../hermaphrodite/germ line/Images/germfig9leg.htm" target="_blank">Fibrous 
+								body</a></b></td>
+							<td valign=top>FB</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A specialized organelle that 
+								develops inside the spermatocyte and spermatid, containing a distinctive 
+								bundle of parallel fibers (5 nm diameter). The fibrous body initially 
+								is surrounded by a complete double membrane and may be fed by sequential 
+								fusions of special vesicles derived from the cis Golgi region, within 
+								the spermatocyte cytoplasm. As the spermatocyte develops into the spermatid, <a href="../hermaphrodite/germ line/Images/germfig8leg.htm" target="_blank">the fibrous bodies enlarge and dominate the cytoplasm</a>. Fenestrations develop 
+								in their surrounding membrane. In late spermatids the fibrous bodies disappear, 
+								while the &#147;special vesicles&#148; transform into membranous organelles (also called &#147;special membrane structures&#148; by <a href="http://dx.doi.org/10.1016/S0022-5320(78)80071-9" target="_blank">Wolf et al., 1978</a>) and come to<a href="../hermaphrodite/germ line/Images/germfig9leg.htm" target="_blank"> lie at the cell periphery</a>. It is unclear 
+								whether the contents of the fibrous body (the fibers) contribute somehow 
+				    to the membranous organelle.</p>
+									<p><br>
+										See <a href="mglossary.htm#membranousorganelle" target="_blank">Membranous organelle</a><br>
+										See <a href="sglossary.htm#specialvesicle" target="_blank">Special vesicle</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fibrousorganelle"></a><a href="http://www.wormbook.org/chapters/www_epithelialjunctionsattach/epithelialjunctionsattach.html#d0e2572" target="_blank">Fibrous 
+								organelle</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A<a href="../hermaphrodite/musclesomatic/Images/musfig11leg.htm" target="_blank"> complex structure</a> located in hypodermal cells underlying the bodywall muscle that generally includes two hemi-adherens 
+								junctions (or hemidesmosomes) facing outward from the organelle and is responsible for securing these 
+								muscles to the cuticle (<a href="http://jcb.rupress.org/content/146/3/659.full" target="_blank">Hresko 
+									et al., 1999</a>). They may also occur in more scattered locales 
+								away from muscles, with a secondary concentration where touch dendrites 
+						  fasten to the cuticle. </p>
+									<p>In the embryo, they seem to be restricted to narrow 
+										stripes underlying muscles during muscle morphogenesis. Their initial 
+										localization is organized by a hypodermal protein, myotactin (<a href="http://jcb.rupress.org/content/146/3/659.full" target="_blank">Hresko et al., 1999</a>). These appositions generally span the hypodermis, 
+										forming symmetrical pairs of hemi-adherens junctions on both faces of 
+										the thin hypodermal layer that <a href="../hermaphrodite/cuticle/Images/cutfig10leg.htm" target="_blank">separates muscle from cuticle</a>. While one 
+										hemi-junction faces the muscle border (binding to the thick basal lamina 
+										separating these two tissues), the second hemi-junction faces the cuticle, 
+										often linked to a dense structure lying within the cuticle itself. Intermediate 
+										filaments span the hypodermal layer to link the two hemi-junctions. Thus, 
+										the components of one fibrous organelle include the two hemi-junctions 
+									  and the filaments that secure them in parallel.</p>
+								<p>Fibrous organelles often 
+									occur in regularly-spaced stripes along the bodywall, in registration 
+									with the annuli of the cuticle. In some nematode species these organelles often lie in register with dense 
+									body-like structures in the muscle cells to form a larger complex, termed 
+									the desmo-osmoid. This relationship is less commonly seen in <i>C. elegans</i>.</p>
+								<p><br>
+									See <a href="aglossary.htm#adherensjunction" target="_blank">Adherens 
+										junction</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fif" id="fif"></a>FIF</b></td>
+							<td valign=top>Formaldehyde induced fluorescence </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A staining technique in which exposure of fixed animals to formaldehyde vapors localizes serotonin and dopamine histochemically in<i> C. elegans</i> (<a href="http://dx.doi.org/10.1126/science.6805073" target="_blank">Horvitz 
+								et al., 1982</a>; <a href="http://onlinelibrary.wiley.com/doi/10.1002/cne.901630207/abstract" target="_blank">Sulston 
+							et al., 1975</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="filament"></a>Filament</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A term that has been used most often in reference to certain classes of  cytoskeletal macromolecules that form extremely long thin uniform structures,  including actin (thin filaments), myosin (thick filaments), and  intermediate filaments (whose diameter is in between those of actin and myosin).</p>
+									<p><br>
+										See <a href="aglossary.htm#actin" target="_blank">Actin</a> <br>
+										See <a href="iglossary.htm#intermediatefilament" target="_blank">Intermediate filament</a><br>
+										See <a href="mglossary.htm#myosin" target="_blank">Myosin</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="filopodium" id="filopodium"></a>Filopodium/Filopodia 
+								(/pl)</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Long, thin, finger-like processes 
+								created during process extension. Seen in neuronal growth cones and in 
+								distal edge of somatic gonad sheath (<a href="http://dx.doi.org/10.1126/science.8303295" target="_blank">Chalfie 
+									et al, 1994</a>; <a href="http://dx.doi.org/10.1006/dbio.1999.9356" target="_blank">Hall 
+						    et al., 1999)</a>.</p>
+									<p><br>
+										See <a href="gglossary.htm#growthcone" target="_blank">Growth cone</a><br>
+										See <a href="pglossary.htm#pseudopod" target="_blank">Pseudopodium / Pseudopod / Pseudopodia</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="finger"></a>Finger</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Long, thin extensions of the 
+								dendrite of the <a href="../neurons/Individual Neurons/AFDframeset.html" target="_blank">AFD 
+									neuron</a>. These fingers have also been called villi or microvilli, although 
+								no one has yet proven a molecular homology to villi of other cell types. 
+								These fingers are probably stationary, and each lies embedded in a narrow 
+								separate channel formed by the amphid sheath.</p>
+									<p>Other cells may also extend long thin finger-like processes, including 
+										the <a href="../hermaphrodite/somatic gonad/Images/somaticfig2Aleg.htm" target="_blank">DTC</a>, the <a href="../hermaphrodite/somatic gonad/Images/somaticfig6leg.htm" target="_blank">somatic sheath cell</a> (pair #1), the<a href="http://www.wormatlas.org/ver1/durbinv1.2/figs/full_jpg/fig1.1full.jpg" target="_blank"> neuron growth cone</a>, and 
+										the<a href="../hermaphrodite/hypodermis/Images/hypfig4leg.htm?rid=wormbook.figgrp.4438" target="_blank"> hypodermis during embryonic closure</a>. All of these examples involve 
+										apparently motile cells, where the fingers may either lead the active 
+										outgrowth, or trail behind the cell as it moves.<br>
+										Some portions of the cuticle are specialized to form long thin fingers 
+										at the sieve and the flaps within the pharyngeal lumen.</p>
+								<p> <br>
+									See <a href="#filopodium">Filopodium / Filopodia</a><br>
+									See <a href="#flaps">Flaps</a><br>
+									See <a href="sglossary.htm#sieve" target="_blank">Sieve</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fingercell"></a>Finger 
+								cell</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><a href="http://www.wormatlas.org/ver1/neurons.htm/afd.htm" target="_blank">AFD 
+								neuron</a> of the amphid sensillum.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fingerlikeprojections" id="fingerlikeprojections"></a><a href="http://www.mcb.arizona.edu/wardlab/spermio.html" target="_blank">Finger-like 
+								projections</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>The narrow 
+								structures that are formed by interdigitations of the plasma membrane and 
+								cytoplasm at the junction of the special vesicle and the fibrous body inside 
+								developing spermatocytes (<a href="http://dx.doi.org/10.1016/S0022-5320(78)80071-9" target="_blank">Wolf et al., 1978</a>). The plasma membrane becomes highly folded, more regular 
+								in shape and more electron dense, suggesting some structural reinforcement 
+								stabilizes these finger-like projections. Some authors suggest that the 
+								fingers correspond to<a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank"> microvilli</a> (<a href="http://www.sciencedirect.com/science/book/9780120996513" target="_blank">Bird 
+									and Bird, 1991</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fitc"></a><a href="http://en.wikipedia.org/wiki/Fluorescein_isothiocyanate" target="_blank">FITC</a></b></td>
+							<td valign=top>Fluorescein 
+								isothiocyanate</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A commonly used fluorescent stain for light microscopy that 
+								produces a bright yellow-green label. The <a href="http://www.olympusconfocal.com/theory/images/fluorophoresintrofigure2.jpg" target="_blank">absorption maximum of FITC is 
+									about 495 nm and the peak emission wavelength is about 530 nm</a>.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fixative"></a>Fixative</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A chemical 
+								mixture used to preserve the tissue structures of an animal for histological 
+								study. <a href="http://www.wormatlas.org/methods.htm" target="_blank">Common fixatives</a> used for <i>C. elegans</i> include aldehydes which 
+								fix protein, osmium tetroxide which fixes and stains lipids, and methanol/acetic 
+							  acid which both fixes and clears tissue.</p>
+								<p>See also<a href="../methods.htm" target="_blank"> Anatomical methods </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="flaccid"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000349" target="_blank">Flaccid</a></b></td>
+							<td valign=top>Floppy (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A semi-paralysed 
+								body phenotype in which muscle tone is lost and the animal fails to actively 
+								control its body shape.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="flagellum"></a>Flagellum/Flagella </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A whip-like 
+								appendage used for motility by certain cells and small organisms. It is 
+								found in <a href="http://www.ncbi.nlm.nih.gov/books/NBK10005/figure/A1345/" target="_blank">sperm</a>, <a href="http://www.ncbi.nlm.nih.gov/books/NBK26866/figure/A37/" target="_blank">bacteria</a>, fungi, and protozoans. There are no flagella in <a href="http://www.wormatlas.org/Wardsperm/spermatozoontemleg.htm" target="_blank"><i>C. elegans</i> spermatozoon</a> which only has a <a href="http://www.ncbi.nlm.nih.gov/books/NBK26930/figure/A3098/" target="_blank">lamellipodium</a> and no thinner 
+&ldquo;non-motile flagellum&rdquo; (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004715;class=Paper" target="_blank">Qin et al., 2001</a>). This portion of chemosensory and  mechanosensory dendrites, often featuring <a href="http://www.ncbi.nlm.nih.gov/books/NBK9833/figure/A1844/" target="_blank">an axoneme</a>, a striated rootlet and a  distal cluster of extended microtubules, shares many molecular constituents  with true flagella and other forms of cilia in species ranging from bacteria to  sea urchin, fruit fly, and the mouse (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12415299&query_hl=4&itool=pubmed_docsum" target="_blank">Rosenbaum and Witman, 2003</a>).</p>
+									<p><br>
+										See <a href="cglossary.htm#cilia" target="_blank">Cilium/ Cilia</a><br>
+										See <a href="lglossary.htm#lamellipodium" target="_blank">Lamellipodium</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="flaps" id="flaps"></a><a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">Flaps</a></b></td>
+							<td valign=top><p>Metarhabdion (S)<br>
+								Glottid apparatus (S)</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Three 
+								cuticle extensions, or fingers, which extend inward into the anterior buccal 
+								cavity. They may act to filter the contents of the lumen while separating 
+								the buccal cavity from the pharynx lumen proper. They are probably formed 
+								by the pm1 pharyngeal muscles, also known as the metastom.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="flipping"></a>Flipping</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A characteristic behavior seen 
+								in the late stage of lethargus, just prior to the molt, in which the animal 
+								executes rapid 180&#176; rotations about its longitudinal axis. This movement 
+								is thought to help in loosening the old cuticle from the new cuticle, 
+								in preparation for the molt (<a href="http://dx.doi.org/10.1163/187529278X00074" target="_blank">Singh 
+							  and Sulston, 1978</a>).</p>
+									<p><br>
+										See <a href="lglossary.htm#lethargus" target="_blank">Lethargus</a><br>
+										See <a href="mglossary.htm#molt" target="_blank">Molt</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="flpcell"></a><a href="../neurons/Individual Neurons/FLPframeset.html" target="_blank">FLP</a> cell</b></td>
+							<td valign=top><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004798" target="_blank">FLPL</a><br>
+									<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004797" target="_blank">FLPR</a></p></td>
+							<td valign=top><p class="style27">ABplapaaapad<br>
+								ABprapaaapad</p></td>
+							<td valign=top>A pair 
+								of neurons with ciliated endings in the head. Have mechanosensory function.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fmrfamide"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK28247/figure/A1300/" target="_blank">FMRFamide</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A member of<a href="http://www.wormbook.org/chapters/www_neuropeptides/neuropeptides.html" target="_blank"> a class of short 
+								peptide molecules</a> that can act as neurotransmitters, neurohormones, and 
+								neuromodulators. They are found in the nervous systems of a wide spectrum 
+								of animals including nematodes (<a href="http://dx.doi.org/10.1016/S0006-8993(99)01972-1" target="_blank">Li 
+							  et al., 1999</a>).</p>
+									<p><br>
+										See <a href="nglossary.htm#neuropeptide" target="_blank">Neuropeptide</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="focaladhesion"></a>Focal 
+								adhesion</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Attachments that are formed 
+								by vertebrate cells in culture to the substratum. <i>C. elegans</i> body 
+								wall muscle cell <a href="../hermaphrodite/musclesomatic/Images/musfig11leg.htm" target="_blank">dense bodies and M-lines</a> are similar to focal adhesions 
+								(<a href="http://dx.doi.org/10.1016/S0960-9822(03)00372-5" target="_blank">Lin 
+							  et al., 2003</a>).</p>
+									<p><br>
+										See <a href="aglossary.htm#adhesionplaque" target="_blank">Adhesion 
+											plaque</a><br>
+										See <a href="dglossary.htm#densebody" target="_blank">Dense 
+											body</a><br>
+										See <a href="dglossary.htm#denseplaque" target="_blank">Dense 
+											plaque</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fog" id="fog"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000682" target="_blank">Fog</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A mutant 
+								phenotype where <b>F</b>eminization <b>O</b>f <b>G</b>ermline occurs. <a href="http://www.wormbook.org/chapters/www_somaticsexdeterm/somaticsexdetfig1.jpg" target="_blank">XX 
+								animals</a> (normally wild type hermaphrodites) are transformed into fertile 
+								females. Depending on the mutation, <a href="http://www.wormbook.org/chapters/www_somaticsexdeterm/somaticsexdetfig1.jpg" target="_blank">X0 animals</a> may stay as wild type males 
+								or may be somatically male with both sperm and oocytes in the germline.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="followeraxon"></a>Follower axon </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An axon that does not establish a new path as it grows away from a  neuron cell body along the bodywall, but closely follows a route established  previously by another &ldquo;pioneer axon&rdquo;.&nbsp; In  general, a follower axon may exhibit a smaller, simpler growth cone than that of  a pioneer.</p>
+									<p><br>
+										See <a href="pglossary.htm#pioneeraxon" target="_blank">Pioneer axon</a> <br>
+										See <a href="gglossary.htm#growthcone" target="_blank">Growth cone </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="foraging"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK19793/figure/A6410/" target="_blank">Foraging</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top> Continuous, 
+								possibly exploratory, movements of the <i>C. elegans</i> head. This is a 
+								complex behavior produced by the elaborate motor and sensory anatomy of 
+									the animal's head. The terms &#147;feeding&#148; and &quot;foraging&quot; 
+								are often used interchangeably though foraging behavior encompasses more 
+								extensive range of activities. These <a href="http://www.youtube.com/watch?v=6cpLgOHE16M" target="_blank">side-to-side head motions</a> are suppressed during backwards motion (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec7_9" target="_blank">Ringstad and Horvitz, in Hart, 2006</a>). </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="formaldehydeinducedfluroescence"></a>Formaldehyde 
+								induced fluorescence</b></td>
+							<td valign=top>FIF</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>See <a href="#fif">FIF</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="foundercell"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK19708/figure/A4237/" target="_blank">Founder 
+								cell</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The earliest 
+								stem cells in the early embryo from which all tissues derive. There is one 
+  founder cell for the germline, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=P4%27;class=Cell" target="_blank">P4</a>, and five for the somatic tissues, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004015" target="_blank">AB</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004458" target="_blank">MS</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004804" target="_blank">E</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003810" target="_blank">C</a> and <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004873" target="_blank">D</a>, each of which generates a stereotyped <a href="../celllineages.html" target="_blank">lineage</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000088;class=Paper" target="_blank">Deppe et al., 1978</a>). </p>
+									<p>Several intermediate blast cells give rise to these 
+										founders and can also be considered as founder cells: <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004422" target="_blank">P<sub>0</sub></a> (the 
+										original cell after fertilization), <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006770" target="_blank">P<sub>1</sub></a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006771" target="_blank">P<sub>2</sub></a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006772" target="_blank">P<sub>3</sub></a>, 
+										and <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006876" target="_blank">EMS</a>. Another synonym might be &#147;embryonic blast cell&#148; (see 
+										discussion in <a href="http://www.wormatlas.org/ver1/Sulstonemblin_1983/discussion.html" target="_blank">Sulston 
+											et al., 1983</a>). Patterns of cell division for each founder cell 
+										are unique, and involve fixed lineages where many daughters arise from unequal 
+					          cell divisions involving highly stereotyped planes of division.</p>
+								<p>See <a href="http://www.wormbook.org/chapters/www_asymcelldiv/asymcelldiv.html" target="_blank">G&ouml;nczy and Rose, 2005</a> for more detail.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fountainheadpattern"></a>Fountainhead 
+								pattern</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Cytoplasmic 
+								streaming seen within the newly fertilized embryo which occurs at the one 
+								cell stage. This is apparently organized by the position of the sperm pronucleus 
+								which determines the A/P axis of the embryo. Internal granules and cortical 
+								granules (as seen by DIC optics) flow in a distinctive pattern that has 
+								been termed the &#147;fountainhead&#148; (<a href="http://jcb.rupress.org/content/121/6/1343.long" target="_blank">Hird 
+									and White., 1993</a>; <a href="http://dev.biologists.org/content/122/5/1467.long" target="_blank">Goldstein 
+										and Hird, 1996</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fourdimensionalmicroscopy"></a><a href="http://www.loci.wisc.edu/4d/" target="_blank">Four-dimensional microscopy </a></b></td>
+							<td valign=top><p>Four-dimensional imaging (S)<br>
+								4D video recording (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>The generation of time-lapse recordings of multiple image planes (X,Y coordinates) at different focal depths (Z coordinate). This technique is particularly useful for examination of the early development of the <em>C. elegans </em>embryo. These recordings can be used to create a &ldquo;movie&rdquo;  to follow cell divisions and  movements over time.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fourfoldstage"></a><a href="http://worms.zoology.wisc.edu/morphogenesis.jpg" target="_blank">Four-fold 
+								stage</a></b></td>
+							<td valign=top>Late 
+								pretzel stage (S)</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The final stage of embryogenesis 
+								prior to hatching, where the embryonic worm is bent in three places within 
+								the eggshell.</p>
+									<p><br>
+										See<a href="pglossary.htm#pretzelstage" target="_blank"> Pretzel stage</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="freeliving"></a>Free 
+								living</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Describes 
+								the life style of an animal that is not living as a parasite within the 
+								body of a host animal or plant. <i>C. elegans</i> is a free living soil 
+								nematode.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="freezecracking"></a>Freeze-cracking</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A method of fixation used for 
+								preparing animals for immunofluorescent staining in which the whole nematode 
+								is exposed to repeated cycles of freezing and thawing in dry ice/ethanol 
+								mixture prior to aldehyde fixation. The repeated cycle acts to break open 
+								the tough cuticle exterior to permeabilize the internal tissues to fixative 
+								and antibodies.</p>
+									<p><br>
+										See <a href="http://www.wormatlas.org/EMmethods/Freezecrack.htm" target="_blank">Anatomical 
+											Methods-Freeze-crack and Staining Protocol</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fusion"></a>Fusion</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><strong>1)</strong> Process through which two 
+								cells join to make one structure. In <i>C. elegans</i>, many cells in 
+								the developing nematode eventually undergo fusion to form syncytial tissues 
+								(e.g. hypodermis, muscle, glands) (<a href="http://dx.doi.org/10.1006/dbio.1994.1041" target="_blank">Podbilewicz 
+									and White, 1994</a>). Cell fusion is also a key step in fertilization, bringing the spermatozoon 
+						  inside of the oocyte (fusion of gametes).</p>
+									<p><strong>2)</strong> Alternately, some cells 
+										can undergo self-fusion in order to produce ring-like structures; these 
+										include the sheath cells of many sensilla and some processes in gland 
+										cells.</p>
+								<p><strong>3)</strong> Membrane fusion is involved 
+									during the release of chemical transmitters from synaptic vesicles or 
+									release of other intercellular signals from cells or glandular secretions.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="fusionpore"></a>Fusion 
+								pore</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An intermediate 
+								structure thought to occur during the process of membrane fusion between 
+								two cells, or membrane-bound organelles. Such structures are generally not 
+						  well demonstrated by TEM as yet in <i>C. elegans</i> (but see <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper0http://dx.doi.org/10.1006/dbio.1998.91730003418;class=Paper" target="_blank">Nguyen et al., 1999</a>), although cell fusions are commonplace.</p>
+									<p>Alternately, a distinctive type of <a href="../hermaphrodite/germ line/Images/germfig9leg.htm" target="_blank">fusion pore has been described in the 
+										spermatid</a>, in which a membranous organelle within the cell fuses with the 
+										plasma membrane (<a href="http://jcs.biologists.org/content/110/9/1073.long" target="_blank">Achanzar 
+											and Ward, 1997</a>). Here the fusion pore is reinforced by an electron 
+										dense &#147;collar&#148; on its cytoplasmic face that holds the pore open 
+									  to allow the contents of the membranous organelle to flow through.</p>
+								<p>A <a href="../hermaphrodite/germ line/Images/germfig2leg.htm" target="_blank">persistent fusion pore</a>, albeit much larger, is maintained between germ 
+									cells and the rachis in the syncytial gonad; here again the pore is apparently 
+									maintained in an open state, reinforced by an electron dense material on 
+									the cytoplasmic face, most likely consisting of hemicentin (<a href="http://dev.biologists.org/content/128/6/883.long" target="_blank">Vogel 
+							and Hedgecock, 2001</a>; Hall, unpublished).</p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+                    <p><span class="style1">This section should be cited as: Herndon, L.A., Lints, R. and Hall, D.H. 2010. Glossary F. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.6">10.3908/wormatlas.6.6</a></span><br>
+                      <span class="style1">Edited for the web by Laura A. Herndon. Last revision: December 13, 2013. </span></p>
+					<p><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

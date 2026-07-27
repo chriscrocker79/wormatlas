@@ -1,0 +1,319 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary K</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - K </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="97"><span class="style27"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="122"><p class="style29"><strong><font 
+color="#0033CC">ABBREVIATION</font></strong></p>
+									<p class="style29"><strong>SYNONYMS (S)<br>
+										ANTONYMS (A) </strong></p></td>
+							<td valign=top width="84"><span class="style27"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="1805"><span class="style29"><strong><font color="#009933">DESCRIPTION </font></strong></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="104"><p><strong><font face="Arial, Helvetica, sans-serif"><a name="kcell" id="kcell"></a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=K;class=Cell" target="_blank">K cell</a></font></strong></p></td>
+							<td valign=top height="104"><font face="Arial, Helvetica, 
+sans-serif"></font>K</td>
+							<td valign=top height="104"><p><span class="style26"></span></p></td>
+							<td valign=top height="104"><p>Arises from the ABplpapppa cell. K is a blast cell that divides during late L1. K.a becomes a <a href="../hermaphrodite/rectum/Images/rectfig3A_Eleg.htm" target="_blank">rectal epithelial cell </a>and K.p becomes  the <a href="../neurons/Individual Neurons/DVBframeset.html" target="_blank">DVB</a> neuron<font face="Arial, Helvetica, sans-serif">.</font> In <a href="../male/proctodeum/images/MaleProcFIG3.jpg" target="_blank">males</a>, the K cell is involved with <a href="../male/alimproct/jump.html?newLink=mainframe.htm&newAnchor=Proctodeumdevelopment2" target="_blank">proctodeum development</a> where the ventral anterior portion of the cloaca forms an extensive region of  contact with the gonad and this connection is formed by<a href="../male/proctodeum/images/MaleProcFIG4.jpg" target="_blank"> the daughter of  K (K.a)</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="kneuron"></a>&quot;k&quot; neuron </font></b></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/ASKframeset.html" target="_blank">ASK cell</a> (S)</p>
+									<p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=ASKL;class=Cell" target="_blank">ASKL</a> <br>
+										<a href="http://www.wormbase.org/db/cell/cell.cgi?name=ASKR;class=Cell" target="_blank">ASKR</a></p>
+								</td>
+							<td valign=top><p class="style26">&nbsp;</p>
+									<p class="style26">ABalpppapppa<br>
+										ABpraaaapppa</p></td>
+							<td valign=top><p><a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Amphidsensilla31" target="_blank">Amphid neurons</a> with single ciliated endings that project into ring via commissure from ventral ganglion and make diverse synaptic connections in ring neuropil. Also take up FITC.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="kselection"></a><a href="http://www.bio.miami.edu/tom/courses/bil160/bil160goods/16_rKselection.html" target="_blank">K-selection</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Evolutionary survival strategy that relates to the selection of traits for the best survival in a specific environment. K-selection (as opposed to r-selection)  is associated with stable environments which are density dependent. K-selection species are typically large, have a long life span, produce few offspring and have a lengthy developmental time period during which there is high investment of parental care. Most individuals are expected to live near the maximum life span. </p>
+									<p><br>
+										See <a href="rglossary.htm#rselection" target="_blank">r-selection </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><p><strong><a name="karyomere"></a>Karyomere</strong></p></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An abnormal cytoplast  produced during early blast cells divisions if nuclear cleavage fails (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005765;class=Paper" target="_blank">Leidel  and Gonczy, 2003</a>). Resultant cell divisions occur  in which nuclei do not assort properly to each daughter cell, so that some gain  little or no nuclear material (karyomeres) and other blastomeres gain duplicate nuclear  material.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="killercell"></a>Killer cell </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A cell that acts to  directly &ldquo;murder&rdquo; a neighboring cell (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000463;class=Paper" target="_blank">Sulston and White, 1980</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001419;class=Paper" target="_blank">White et  al., 1991</a>). No such activity has yet  been proven to occur in <em>C. elegans</em>.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="mglossary.htm#murder" target="_blank">Murder</a> <br>
+										See <a href="pglossary.htm#phagocytosis" target="_blank">Phagocytosis</a> <br>
+										See <a href="sglossary.htm#suicide" target="_blank">Suicide</a></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="killingassay"></a>Killing assay </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An  experimental procedure which measures the effectiveness of an agent in causing  death of whole animals; for instance, live healthy <em>C. elegans</em> may be placed  onto a treated substrate and observed periodically by light microscopy to assay  the death rate or survivorship (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003376;class=Paper" target="_blank">Tan, et al., 1999</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005590;class=Paper" target="_blank">Mylonakis et al., 2002</a>).&nbsp; Animals  failing to move in response to prodding with a platinum wire are considered  dead.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="dglossary.htm#developmentalarrest" target="_blank">Developmental arrest</a> <br>
+										See <a href="pglossary.htm#pathogenesis" target="_blank">Pathogenesis </a></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="kinesis"></a>Kinesis</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Any movement or  action that is evoked in response to a stimulus; thus an increase in body  motion in response to a chemical signal is a chemokinesis (which can be  positive or negative). A kinesis does  not necessarily orient the animal to the source of the stimulus, but only  alters the animal&rsquo;s rate of action.</p>
+									<p> Orthokinesis involves a change in  speed of (forward) locomotion in response to the stimulus, whereas, klinokinesis involves a change in the rate  of turning or reversal in response to the stimulus. The regular motions of <em>C. elegans</em> on a  culture plate may be a complex mixture of these mechanisms (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000455;class=Paper" target="_blank">Dusenbery, 1980a</a> and <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000475;class=Paper" target="_blank">1980b</a>).</p>
+								<p><font face="Arial, Helvetica, sans-serif"><br>
+									See <a href="sglossary.htm#switchedresponse" target="_blank">Switched response</a> <br>
+									See <a href="tglossary.htm#taxis" target="_blank">Taxis</a> <br>
+									See <a href="tglossary.htm#thermokinesis" target="_blank">Thermokinesis</a> </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="kinetochore"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2135" target="_blank">Kinetochore</a></b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A protein complex which  associates with the centromere of a chromosome to bind the  chromosome to the mitotic spindle. The kinetochore plays an active role in  associating with microtubules, and perhaps also in driving assembly or disassembly  of the mitotic spindle. There are <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=mboc4&part=A3331&rendertype=figure&id=A3359" target="_blank">two regions of the kinetochore</a>, an inner region which is associated with centromere DNA and an outer region which interacts with microtubules. <em>C. elegans</em> is a <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2135" target="_blank">holocentric</a> organism, so that instead of having a single localized centromeric region on the chromosome (monocentric), it assembles diffuse kinetochores along the entire poleward face of each sister chromatid, which facilitates a high rate of chromosomal rearrangements and translocations (<a href="http://www.wormbook.org/chapters/www_genomevol/genomevol.html#sec1_3_8" target="_blank">Coghlan, 2005</a>; <a href="http://www.wormbook.org/chapters/www_celldivision/celldivision.html#d0e2246" target="_blank">Oegema and Hyman, 2006</a>).</p>
+									<p><br>
+										See <a href="hglossary.htm#holocentricchromosomes" target="_blank">Holocentric chromosomes </a><br>
+										See <a href="mglossary.htm#monocentricchromosomes" target="_blank">Monocentric chromosomes</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="kinetocilium"></a>Kinetocilium</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The motile form of  cilium known for many other animals, which typically display 9 + 2 arrangements  of microtubules, a distinctive basal body, and sometimes a rootlet beneath the  cilium. Sensory cilia in nematodes,  including <em>C. elegans</em>, are distinctly different from kineocilia, lacking a  conventional basal body and most often having 9 + 0 microtubules. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="kink"></a>Kink</b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A severe local bending of  the body, more abrupt than the normal smooth body bends of <em>C. elegans.</em></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="kinkerphenotype"></a><a href="http://www.wormbase.org/db/misc/phenotype?name=kinker" target="_blank">Kinker phenotype </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A mutant phenotype in which  the animal moves in very severe bending motions, more sharply angled and/or  much deeper than normal sinusoidal body bends of the wild type. Usually associated with an Unc (<a href="http://www.wormbase.org/db/misc/phenotype?name=WBPhenotype%3A0000643;class=Phenotype" target="_blank">uncoordinated</a>) phenotype. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="kissandrun"></a><a href="http://www.neuroworld.it/aBC/kis_run.htm" target="_blank">Kiss and run</a> </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A model for vesicle fusion where synaptic vesicles fuse transiently with the plasma membrane to release their  contents, but rather than collapsing into the synaptic membrane, they remain intact and are recycled for refilling and further transmitter  release.</p>
+									<p><br>
+										See <a href="fglossary.htm#fusion" target="_blank">Fusion</a> <br>
+										See <a href="vglossary.htm#vesiclefusion" target="_blank">Vesicle fusion </a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="klinokinesis"></a>Klinokinesis</font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="#kinesis">Kinesis</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="klinotaxis"></a>Klinotaxis</font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A change in the turning rate in response to the spatial gradient of a stimulus field (Dunn, 1990). Chemotaxis in <em>C.  elegans</em> may be accomplished by a mechanism utilizing klinotaxis (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000387;class=Paper" target="_blank">Ward, 1973</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000455;class=Paper" target="_blank">Dusenbery, 1980</a>)</p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: November 17, 2009. This section should be cited as: Herndon, L.A. and Hall, D.H. 2009. Glossary K. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.11</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

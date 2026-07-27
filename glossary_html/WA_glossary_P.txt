@@ -1,0 +1,1658 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary P</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - P </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style28"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style30"><strong><font
+color="#0033CC">ABBREVIATION</font></strong></p>
+									<p class="style30"><strong>SYNONYMS (S)<br>
+										ANTONYMS (A) </strong></p></td>
+							<td valign=top width="102"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style30"><strong><font color="#009933">DESCRIPTION </font></strong></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pblastomeres"></a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=P0;class=Cell" target="_blank">P<sub>0</sub></a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=P1%27;class=Cell" target="_blank">P<sub>1</sub></a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=P2%27;class=Cell" target="_blank">P<sub>2</sub></a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=P3%27;class=Cell" target="_blank">P<sub>3</sub></a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=P4%27;class=Cell" target="_blank">P<sub>4</sub></a> blastomeres</font></strong></td>
+							<td valign=top><p><a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=FLPL;class=Cell"></a>P cells (S)<br>
+								P founder  cells (S)<br>
+								Propogative blastomeres (S) Boveri (1899) </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=asymcelldiv&rendertype=figure&id=A4237" target="_blank">Germline precursors found in  early embryo</a>, which undergo asymmetric cell divisions to yield a somatic  founder cell (<a href="http://www.wormbase.org/db/cell/cell.cgi?name=AB;class=Cell" target="_blank">AB</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=EMS;class=Cell" target="_blank">EMS</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=C;class=Cell" target="_blank">C</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=D;class=Cell" target="_blank">D</a>) and a succeeding P blastomere, gradually segregating  germline cytoplasmic determinants into the germline founder cell, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=P4';class=Cell" target="_blank">P<sub>4</sub></a>. These cells each lie at the  posterior pole of the embryo. <a href="http://www.wormbase.org/db/cell/cell.cgi?name=P4';class=Cell" target="_blank">P<sub>4</sub></a> moves inward during gastrulation,  following the inward migration of the <a href="http://www.wormbase.org/db/cell/cell.cgi?name=E;class=Cell" target="_blank">E</a> founder cell, and comes to rest along  the ventral side as a mesodermal cell in the late embryo, before giving rise to  germline lineages in the larval stages.</p>
+									<p> Note  that in Wormbase, the P cells are usually marked as P&rsquo;; thus P1 =  P&rsquo;1 in Wormbase. There is a chance to confuse the &ldquo;P cells&rdquo; and  the &ldquo;P0-P12 lineages&rdquo; (see below). </p>
+								<p><br>
+									See <a href="#pgranules">P granules</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="P0"></a>P0</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Parental generation <font face="Arial, 
+Helvetica, sans-serif"></font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="p0p12lineages" id="p0p12lineages"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=ce2&part=A684&rendertype=figure&id=A685" target="_blank">P0.a, P0- P12 lineages</a> </font></strong></td>
+							<td valign=top><p>P ectoblasts (S)<br>
+								P ventral neuroblasts (S)<br>
+								P neuroectoblasts (S)<br>
+								Ventral cord precursor cells (S) </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Blast  cells lying ventrolaterally in the late embryo and <a href="../hermaphrodite/hypodermis/Images/hypfig5leg.htm" target="_blank">L1 larval stage</a> which <a href="../hermaphrodite/hypodermis/Images/hypfig1leg.htm" target="_blank">divide  during the late L1 larva </a>in stereotypical reiterated fashion to give rise to  many motor neurons which begin function in the ventral cord and preanal  ganglion of the early L2 larva, as well as hypodermal cells (which fuse into hyp7)  and a series of programmed cell deaths.&nbsp;In addition, the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig7leg.htm" target="_blank">Pn.p daughters of P3 through P8 lineages</a> persist without  fusing into the <a href="../hermaphrodite/hypodermis/Images/hypfig5leg.htm" target="_blank">hyp7 syncytium</a> until mid L3 stage when they can be induced to divide  further to produce vulval epithelial cells (<a href="../hermaphrodite/egglaying apparatus/Images/eggfig9leg.htm" target="_blank">vulA &ndash; vulF</a>) or more hyp7  cells. P0 is also known as <a href="http://www.wormbase.org/db/cell/cell.cgi?name=W;class=Cell" target="_blank">W</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pgranules"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=mboc4&part=A3790&rendertype=figure&id=A3828" target="_blank">P granules</a></font></strong></td>
+							<td valign=top>Germline granules (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Darkly staining cytoplasmic  organelles (not membrane bound) that <a href="http://www.sciencemag.org/content/vol0/issue2009/images/data/1172046/DC1/1172046s1.mov" target="_blank">move to the posterior pole of the one cell  embryo</a> and are <a href="http://www.youtube.com/watch?v=hpcji8qK9AY&feature=related" target="_blank">further segregated</a> in the P blastomeres with each succeeding cell  division. These granules occur in <a href="http://www.youtube.com/watch?v=rmKgHUaYUXY&NR=1" target="_blank">clusters</a>, and appear to be ribonucleoprotein particles, containing proteins and  mRNAs specific to the establishment of the germline (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002677;class=Paper" target="_blank">Kemphues and Strome,  1997</a>; <a href="http://www.wormbook.org/chapters/www_specgermline/specgermline.html" target="_blank">Strome, 2005</a>). They occur in all germ cells except mature sperm (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002674;class=Paper" target="_blank">Schedl, 1997</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a href="http://www.wormatlas.org/ver1/handbook/fig.s/GerFIG3A.jpg" target="_blank"> </a><a name="pachyteneregion"></a><a href="../hermaphrodite/germ line/Images/germfig3A_Dleg.htm" target="_blank">Pachytene region</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A distinctive portion of the  distal germline in which all germline cells have entered the pachytene stage. This region lies just distal to the germline&rsquo;s transition zone, where germ  cells coordinately switch into the leptotene/zygotene stage from the premeiosis  stage.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pachytenestage"></a><a href="../hermaphrodite/germ line/Images/germfig3A_Dleg.htm" target="_blank">Pachytene stage</a> </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A distinct stage in meiotic  prophase progression, following zygotene and preceding diplotene. At pachytene stage the chromosomes are  condensed to form tightly bound pairs and the nuclei are characterized by a distinctive &quot;<a href="../hermaphrodite/germ line/Images/germfig3A_Dleg.htm" target="_blank">bowl of spaghetti</a>&quot; morphology. The chromosomes are enjoined by the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3700" target="_blank">synaptonemal complex</a> at this stage.&nbsp; This  feature is best observed by light microscopy in living cells, and is often used  to indicate the progression from mitosis into meiosis, especially with regard  to the germline.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="papilla"></a>Papilla/ Papillae </font><font face="Arial, Helvetica, 
+sans-serif"><a 
+href="http://www.wormatlas.org/ver1/maleHandbook/figsMale/MaleFIG1A.jpg" 
+target="_blank"></a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Sensory endings  that create small, visible lumps in the cuticle surrounding the dendritic  specialization. Examples include the <a href="../hermaphrodite/neuronalsupport/Images/neurofig37leg.htm" target="_blank">deirids</a>, <a href="../male/postcloacal/images/MalePCSFIG3A.jpg" target="_blank">post-cloacal sensillae (PCS)</a>, <a href="../male/hook/images/MaleHookFIG1.jpg" target="_blank">hook</a>, and<a href="../hermaphrodite/neuronalsupport/Images/neurofig34leg.htm" target="_blank"> inner labial sensillae of the lips</a>. A  longer, bristle-like sensillium would alternately be termed a &quot;seta&quot;. Mechanoreceptors might form  subtle cuticular features on the lips, but we do not see papillae by SEM  for these structures; instead they apparently form nubbins within the cuticle  that produce no visible specialization when viewed from the surface. </p>
+									<p>During morphogenesis, more complex sensilla  (<a href="../male/rays/images/MaleRayFIG1.jpg" target="_blank">male rays</a>, for example) may also adopt the form of papillae prior to their  final elongation phase, which in some developmental mutants may remain as papillae. Some papilla may form a closed structure (as in  the case of the <a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Anteriorandposteriordeiridsensilla35" target="_blank">deirid</a>) or they could be open to the exterior environment (as in the<a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Innerlabialsensilla33" target="_blank"> inner labial sensilla</a>). Alternately, the whole structure of any of the <a href="../hermaphrodite/introduction/IMAGES/introfig4Aleg.htm" target="_blank">six lips</a> may be considered a papilla, containing several neighboring sensilla per  papilla (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000205;class=Paper" target="_blank">Klass et al., 1976</a>).</p>
+								<p><br>
+									See <a href="nglossary.htm#nubbin" target="_blank">Nubbin</a><br>
+									See <a href="sglossary.htm#seta" target="_blank">Seta / Setae</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="papillarycellbody"></a><a href="http://www.wormatlas.org/ver1/Ware_build0.2/art/fig17_large.jpg" target="_blank">Papillary cell body</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>A (neuron) cell body  associated with a papilla; generally used to refer to the mechanosensory cells  of the lips.</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="papillarycilia"></a><a href="../hermaphrodite/neuronalsupport/Images/neurofig34leg.htm" target="_blank">Papillary cilia</a></font></strong> </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The  ciliated endings of the sensory neurons of the lips, such as the <a href="../hermaphrodite/neuronalsupport/Images/neurofig33leg.htm" target="_blank">inner labial  </a>or <a href="../hermaphrodite/neuronalsupport/Images/neurofig36leg.htm" target="_blank">outer labial neurons</a>.<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="papillaryfiber"></a><a href="http://www.wormatlas.org/ver1/Ware_build0.2/art/fig28_large.jpg" target="_blank">Papillary fiber</a> </font></strong> </font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A neuronal process emanating  from a papilla. Generally used in reference to the mechanosensory nerves running from the lips to the  nerve ring.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="papillarygland"></a>Papillary gland </font></strong></td>
+							<td valign=top><a href="sglossary.htm#sheathcell" target="_blank">Sheath cell</a> (S archaic) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top>&nbsp;</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="papillarynerve"></a>Papillary nerve </font></strong></td>
+							<td valign=top><a href="lglossary.htm#labialnerve" target="_blank">Labial nerve</a> (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td align="left" valign=top>&nbsp;</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="papillaryorgan"></a>Papillary organ </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellipodium"><p>The collected sensory and  support cells involved in a single papilla.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="parphenotype"></a><a href="http://www.mbg.cornell.edu/cals/mbg/research/kemphues-lab/images/par_phenotypes.gif" target="_blank">Par phenotype</a> </strong></td>
+							<td valign=top><em>Par</em>titioning defective (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An embryonic defect (<a href="http://www.mbg.cornell.edu/cals/mbg/research/kemphues-lab/par-mutations.cfm" target="_blank">par mutation</a>) in which cell polarity of the single cell  embryo is disrupted, and cytoplasmic organelles (<a href="http://www.ncbi.nlm.nih.gov/books/NBK26861/figure/A3828/" target="_blank">P granules</a>, <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">chromosomes</a>) and  molecular species (mRNAs, protein kinases, and others) fail to segregate  (partition) into specific regions of the cell in normal fashion, disrupting  cell division and normal cell fate decisions. Correct <a href="http://www.mbg.cornell.edu/cals/mbg/research/kemphues-lab/par-proteins.cfm" target="_blank">localization of the PAR proteins</a> facilitates proper cell polarity. (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004134;class=Paper" target="_blank">Kemphues, 2000</a>; <a href="http://www.wormbook.org/chapters/www_asymcelldiv/asymcelldiv.html#d0e451" target="_blank">Gonczy and Rose, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="paracrytallinearray"></a>Paracrystal/ Paracrystalline array </font></b></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Large molecules may  associate with one another in highly ordered forms to create higher order  complexes, known as &ldquo;<a href="http://www.ncbi.nlm.nih.gov/books/NBK28209/figure/A24/" target="_blank">paracrystalline arrays</a>&rdquo;. These arrays may be seen by light  microscopy under polarized light as &ldquo;birefringence&rdquo;. Such features are a normal aspect some cells  such as muscles. Paracrystals can also  form when mutated or poorly processed molecules associate into abnormal aggregates, and these may  also be scored under polarized light (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000399;class=Paper" target="_blank">Waterston et al., 1977</a>).</p>
+									<p><br>
+										See <a href="bglossary.htm#birefringence" target="_blank">Birefringence</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="paralysis"></a>Paralysis</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><br>
+							</font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A loss of muscle function that usually comes from damage to the nervous system, but can also come from damage to the muscles. It can be a feature of specific genetic mutations that cause paralysis directly, such as in the case of some <a href="http://www.wormbase.org/db/misc/phenotype?name=unc" target="_blank">unc</a> (uncoordinated) mutants, or can result from external causes such as exposure to anoxia and high temperatures. Certain <a href="http://www.wormbook.org/chapters/www_acetylcholine/cholinefig1.jpg" target="_blank">mutations</a> and chemicals (<a href="http://www.wormbook.org/chapters/www_acetylcholine/cholinefig2.jpg" target="_blank">such as levamisole and aldicarb</a>) that promote acetylcholine buildup at the synapses cause a hypercontracted paralysis (<a href="http://www.wormbook.org/chapters/www_acetylcholine/acetylcholine.html" target="_blank">Rand, 2006</a>). Infection by pathogens also leads to a paralysis which is often followed by death (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003860;class=Paper" target="_blank">Darby et al., 1999</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="paramyosin"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.547" target="_blank">Paramyosin</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>This protein, which is only found in invertebrate muscle, serves as a  template for <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.533" target="_blank">thick filament assembly in bodywall muscles in <em>C. elegans</em></a>. Myosin heavy chain proteins bind to paramyosin  to form an elongated rod-like multimeric structure, the thick filament.</p>
+									<p><br>
+										See <a href="tglossary.htm#thickfilament" target="_blank">Thick filament</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="parasite"></a>Parasite/ Parasitism </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Nematode species often live  as parasites, feeding on or inside of another &ldquo;host&rdquo; species, which may be a  plant, animal, or even another annelid.&nbsp; </p>
+									<p><strong>Obligate parasites </strong>cannot exist and reproduce apart from their host. </p>
+								<p><strong>Facultative  parasites</strong> may survive separately from their normal host species, but occasionally infect a host organism.&nbsp; </p>
+								<p><strong>Pathogenic parasites</strong> cause the death of  their host.&nbsp; </p>
+								<p><strong>Ectoparasites</strong> live on the outer surface their host.&nbsp; </p>
+								<p><strong>Endoparasites</strong> live inside the body of their host.</p>
+								<p> Parasites  typically depend upon their hosts for more than just a supply of food. They may also receive enzymes and  developmental signals that guide and control their further maturation, and help  in dispersal (transport to a new host). </p>
+								<p><br>
+									See <a href="cglossary.htm#commensal" target="_blank">Commensal</a><br>
+									See <a href="fglossary.htm#freeliving" target="_blank">Free living</a><br>
+									See <a href="mglossary.htm#mutualism" target="_blank">Mutualism</a><br>
+									See <a href="nglossary.htm#necromenic" target="_blank">Necromenic</a><br>
+									See <a href="#phoretic">Phoretic</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="parthenogenesis"></a>Parthenogenesis</font></strong></td>
+							<td valign=top><p>Parthogenesis (S)<br>
+								Asexual reproduction (S)</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A form of  asexual reproduction, used by some nematode species (but not by <em>C. elegans</em>), in  which unfertilized oocytes within females progress through direct development into  mature embryos upon passage through the spermatheca (as in <em>Meloidogyne  javanica</em> (Triantaphyllou, 1962)).&nbsp;This mode of reproduction may be favored by certain parasitic species  under conditions that prohibit finding sexual partners, and may alternate with  amphimictic matings when away from the  parasitized host, under free-living conditions (Bird and Bird, 1991; Poinar and Hansen, 1983). Parthenogenesis can operate either through  meiotic or mitotic progression of the developing oocyte (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>; <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769504&query_hl=12&itool=pubmed_DocSum" target="_blank">Anya, 1976</a>). Sperm are rarely present, and do not contribute  genetic material in a parthenogenetic species. </p>
+									<p><br>
+										See <a href="#pseudogamy">Pseudogamy</a><br>
+										See <a href="sglossary.htm#selfing" target="_blank">Selfing</a><br>
+										See <a href="tglossary.htm#thelytoky" target="_blank">Thelytoky</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="particle"></a>Particle</font></strong></td>
+							<td valign=top><a href="#matingresistance"></a></td>
+							<td valign=top><p><a href="#matingresistance"><span class="style25"></span></a></p></td>
+							<td valign=top><p>A small  discrete object inside or outside of a cell, lacking a membrane coat. One example is  the yolk particles (also known as <a href="../hermaphrodite/intestine/Images/intfig1leg.htm" target="_blank">gut granules</a>) in the pseudocoelom (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003617;class=Paper" target="_blank">Hall et al., 1999</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="paternaleffect"></a>Paternal effect </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Influences provided  to the embryo by the male parent.</p>
+									<p><br>
+										See <a href="mglossary.htm#maternaleffect" target="_blank">Maternal effect</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="paternaleffectlethal"></a>Paternal effect lethal </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A homozygous mutant that can  develop successfully to adulthood, but whose sperm are defective and  fertilization usually leads to abnormal zygotic development. Use of paternal effect lethal mutants provides a way to genetically define the contributions of the sperm to early embryogenesis. </p>
+									<p><br>
+										See <a href="mglossary.htm#maternaleffectlethal" target="_blank">Maternal effect lethal</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="paternity"></a>Paternity</font></strong></td>
+							<td valign=top><p>Siring (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The animal that has provided  the sperm (male germ cell) in a mating is referred to as the paternal animal,  or &ldquo;sire&rdquo;. Since <em>C. elegans</em> is <a href="#polyandry">polyandrous</a>, the progeny of a single hermaphrodite may come from both  self-sperm and the sperm of one or more males.  Paternity is often scored after male mating (crossing) by the use of a  genetic marker.<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pathselection"></a>Path selection </font></strong></td>
+							<td valign=top><p>Axon guidance (S)<br>
+								Pathfinding (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Neurons project axons, often long distances, to reach their targets. Guidance molecules act as cues to attract and repel the axons so that they find the correct path to their destination. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="pathogenicparasite"></a>Pathogenic parasite </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A parasitic species that  causes illness or disease in its host, eventually resulting its death.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="pathogenesis"></a>Pathogenesis</font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Literally &quot;disease development&quot;, this term refers to the events and mechanisms that underlie the development of a disease. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="pboc"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=gaba&rendertype=figure&id=A6411" target="_blank">pBoc</a></font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A  defined step in the<a href="../hermaphrodite/rectum/jump.html?newLink=mainframe.htm&newAnchor=Defecationmotorprogram7" target="_blank"> defecation motor program</a> which is controlled by the <a href="http://www.wormbook.org/chapters/www_gaba/gaba.html#sec1_3" target="_blank">GABA neurons</a> (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowSection&rid=ce2.section.840" target="_blank">Avery and Thomas, 1997</a>; <a href="http://www.wormbook.org/chapters/www_gaba/gaba.html" target="_blank">Jorgensen, 2005</a>).</p>
+								  <p><br>
+										See <a href="dglossary.htm#defecationmotorprogram" target="_blank">Defecation motor program</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pdacell" id="pdacell"></a><a href="../neurons/Individual Neurons/PDAframeset.html" target="_blank">PDA cell </a></font></strong></td>
+							<td valign=top>Y cell </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Terminal differentiation of Y cell in hermaphrodites. In males Y divides and anterior daughter becomes PDA. </p>
+									<p><br>
+										See <a href="yglossary.htm#ycell">Y cell </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="peloderan"></a>Peloderan</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A <a href="http://www.nyu.edu/projects/fitch/fresearch/fevolution/fmales/Tips.gif" target="_blank">characteristic of some nematode species</a>, including <em>C. elegans</em>, in which the male tail fan  extends posteriorly to meet at the midline behind the most posterior rays producing a blunt-ended tail  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000351;class=Paper" target="_blank">Schneider, 1866</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003418;class=Paper" target="_blank">Nguyen et al., 1999</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005465;class=Paper" target="_blank">Fitch and Sudhaus, 2002</a>; <a href="http://www.wormbook.org/chapters/www_phylogrhabditids/phylorhab.html#d0e571" target="_blank">Kiontke and Fitch, 2005</a>). </p>
+									<p><br>
+										See <a href="lglossary.htm#leptoderan" target="_blank">Leptoderan</a><br>
+										See <a href="cglossary.htm#caudalalae" target="_blank">Caudal alae</a><br>
+										See <a href="fglossary.htm#fan" target="_blank">Fan</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pellucidlayer"></a>Pellucid layer </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#membranousorganelle"><p>The  developing eggshell just after fertilization when this chitinous layer is  being produced just beneath the fertilization membrane.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="periactivezone"></a><a href="http://www.wormbook.org/chapters/www_synaptogenesis/synaptogenesis.html#d0e912" target="_blank">Periactive zone</a> </font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a 
+href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A  region of the pre-synaptic axon near the active zone which is a site of endocytosis and vesicle membrane recycling, but is relatively poor in mature vesicles. It is thought that this region may have a role in separating synaptic domains from non-synaptic cytoplasm (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004146;class=Paper" target="_blank">Zhen  et al., 2000</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024955;class=Paper" target="_blank">Nakata et al., 2005</a>; <a href="http://www.wormbook.org/chapters/www_synaptogenesis/synaptogenesis.html" target="_blank">Jin, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="perientericfluid"></a>Perienteric fluid </font></strong></td>
+							<td valign=top><p>Pseudocoelom (S) </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="peristalsis"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=ce2&part=A820&rendertype=figure&id=A824" target="_blank">Peristalsis</a></font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a 
+href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Rhythmic contraction of smooth muscle which produces wave-like motion to move contents from one place to another.<a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Feedingbehavior10" target="_blank"> In <em>C. elegans</em></a> this term is usually used to describe the <a href="http://www.mcb.arizona.edu/wardlab/eatingvid.html" target="_blank">contraction of the isthmus of the pharynx during  feeding</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001197;class=Paper" target="_blank">Avery and Horvitz, 1989</a>) where about 1 out of  4 pumps is followed by a wave of contraction that begins in the middle of the isthmus and moves towards the posterior, carrying food to the terminal bulb. </p>
+									<p>Possibly it could also be used to describe contractions of the intestine to move food through the digestive tract and  also of movement by the gonad sheath and/or spermatheca during  fertilization.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="perivitellinespace"></a><a href="../hermaphrodite/pericellular/jump.html?newLink=mainframe.htm&newAnchor=Eggshellandpervitellinespace5" target="_blank">Perivitelline space</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The fluid-filled space lying  between the eggshell and the vitelline membrane in the early embryo (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001518;class=Paper" target="_blank">Bossinger  and Schierenberg, 1992</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001644;class=Paper" target="_blank">Schierenberg and Junkersdorf, 1992</a>).  Prior to creation of the eggshell, it is the space lying between the outer membrane of the one cell embryo and its  fertlilization membrane, </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="peroxisome"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK26844/figure/A2373/" target="_blank">Peroxisome</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A very small (similar in size to mitochondrion) single membrane, cytoplasmic  organelle which is responsible for <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mcb.figgrp.4363" target="_blank">several steps in lipid metabolism</a>. Peroxisomes have been demonstrated to be  present <a href="http://jcs.biologists.org/cgi/content/full/116/9/1797/FIG1" target="_blank">in<em> C. elegans</em> tissues</a> by fluorescence microscopy (<a href="http://jcs.biologists.org/cgi/content/full/116/9/1797" target="_blank">Thieringer et al., 2003</a>) and electron microscopy (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005562;class=Paper" target="_blank">Yokota et al., 2002</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phagocyte"></a>Phagocyte</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A  cell that engulfs an apoptotic cell during cell clearance (See<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025058;class=Paper" target="_blank"> Mangahas and Zhou, 2005</a>).</p>
+									<br>
+								See <a href="#phagosome">Phagosome</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phagocytosis"></a>Phagocytosis</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"> <a href="http://www.wormbook.org/chapters/www_programcelldeath/programcelldeath.html#d0e1636" target="_blank">Engulfment</a> (S) </font></p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>&quot;Cell eating&quot;. An endocytic process by which a dying  cell or cell fragment is surrounded and digested by a neighboring cell. A very rapid process in apoptosis, but may proceed more slowly in necrosis. In early embryos,  the birth of some cells which are destined to undergo apoptosis appears to induce rapid apoptosis,  as if the dying cell sends out a signal to its neighbor very early in its own  degenerative program. It is still not  clear whether any phagocytotic events, &quot;murders&quot;, occur to kill healthy cells.</p>
+									<p><br>
+										See <a href="eglossary.htm#engulfment" target="_blank">Engulfment</a><br>
+										See <a href="eglossary.htm#endocytosis" target="_blank">Endocytosis </a><br>
+										See <a href="mglossary.htm#murder" target="_blank">Murder</a><br>
+										See <a href="sglossary.htm#suicide" target="_blank">Suicide</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="phagosome"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.4658" target="_blank">Phagosome</a></font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A cell process or internal  chamber that engulfs an apoptotic or necrotic cell, as well as invading bacteria or cell debris, to form a large intracellular vesicle. The phagosomes <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=eurekah.figgrp.36311" target="_blank">then fuse with lysosomes producing phagolysosomes</a> in which the ingested material is digested by the lysosomal acid hydrolases. (See <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025058;class=Paper" target="_blank">Mangahas and Zhou, 2005</a>) </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="pharyngealchannels"></a><a href="../hermaphrodite/cuticle/Images/cutfig7Aleg.htm" target="_blank">Pharyngeal channels</a><a href="http://www.wormatlas.org/ver1/handbook/fig.s/alim21.jpg" target="_blank"> </a></font></b></td>
+							<td valign=top><p>Tubular radii (S)<br>
+								Marginal tubes (S-archaic) </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Three <a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank">cuticle-lined  channels</a> (tubular radii) lying at the extreme distal edges of the triradiate  (rays of the buccal cavity and procorpus). These channels are thought to funnel excess  liquid rostrally to exit the mouth during mastication, while food particles are trapped in the sieve.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pharyngealepithelium"></a><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Pharyngealepithelium3" target="_blank">Pharyngeal epithelium </a></font></strong></td>
+							<td valign=top>Buccal epithelium (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An anterior region of the  pharynx, lying just anterior to  the corpus, which forms a thin cuticle-lined tube connecting the buccal cavity  to the pharynx proper. <a href="../hermaphrodite/pharynx/Images/phafig5A_Cleg.htm" target="_blank">Nine cells  form this tube</a> by two successive rings of nonsyncytial tissue with six-fold symmetry. These cells are not muscular, but are dominated by radial intermediate filaments  reinforcing the tube-like lumen.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pharyngealgland"></a><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Glandcellsofthepharynx6" target="_blank">Pharyngeal gland</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p><a href="../hermaphrodite/pharynx/Images/phafig8A_Fleg.htm" target="_blank">Five gland cells</a> (g1 and g2  cell types - <a href="http://www.wormbase.org/db/cell/cell.cgi?name=g1AL;class=Cell" target="_blank">g1AL</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=g1AR;class=Cell" target="_blank">g1AR</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=g1P;class=Cell" target="_blank">g1P</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=g2L;class=Cell" target="_blank">g2L</a>, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=g2R;class=Cell" target="_blank">g2R</a>) lie within the pharyngeal tissue and empty their contents via  anterior ducts into the lumen of the pharynx. One pair of g1 cells are fused. The chemical contents of these secretions are unknown, but may be  involved in digestion or molting.</p>
+									<p><br>
+										See <a href="gglossary.htm#glandcell" target="_blank">Gland cell </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pharyngealintestinalvalve"></a><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Pharyngealintestinalvalve8" target="_blank">Pharyngeal-intestinal valve</a></font></strong></td>
+							<td valign=top><p>Pharyngeal valve (S)<br>
+								Cardia (S)<br>
+								Esophago-intestinal valve (S)</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A set of <a href="../hermaphrodite/pharynx/Images/phafig12leg.htm" target="_blank">six epithelial  cells</a> that form a<a href="../hermaphrodite/pharynx/Images/phafig11leg.htm" target="_blank"> narrow passage connecting the posterior bulb of the pharynx to the  anterior intestine</a> (<a href="../movies/VPI.mpg">3-D reconstruction movie</a>).The valve is composed of <a href="../hermaphrodite/intestine/Images/intfig2leg.htm" target="_blank">3 pairs of cells each forming a flattened disc-like ring</a> and is lined by a layer of cuticle. (Note that <a href="http://www.wormatlas.org/ver1/albertson_1975/toc.html" target="_blank">Albertson and Thomson, 1976</a> erroneously report only 5 cells here.) The <a href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank">pm8</a> muscle of the pharynx may act to open the valve when the<a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank"> grinder</a> is active as there are no apparent muscular elements operating within or attaching to the valve. The valve's primary function appears to be to prevent  regurgitation of the intestinal contents (Bird and Bird, 1991, after Loos,  1905). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pharyngeallumen"></a><a href="../hermaphrodite/pharynx/Images/phafig11leg.htm" target="_blank">Pharyngeal lumen</a> </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Narrow extracellular space  through which food and liquid flow in/out of the <a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank">buccal cavity</a> past the <a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">grinder</a> and <a href="../hermaphrodite/pharynx/Images/phafig11leg.htm" target="_blank">pharyngeal-intestinal valve</a> and into the <a href="../hermaphrodite/intestine/Images/intfig1leg.htm" target="_blank">intestine</a>. The lumen has several  specialized portions, including the <a href="../hermaphrodite/cuticle/Images/cutfig7Aleg.htm" target="_blank">pharyngeal channels</a>, and is bounded by <a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank">cuticle</a>. Cuticular specializations  include the <a href="../hermaphrodite/cuticle/Images/cutfig7Aleg.htm" target="_blank">flaps</a>, the <a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank">grinder</a> and the <a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank">sieve</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pharyngealmuscle"></a><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Musclecellsofthepharynx4" target="_blank">Pharyngeal muscle</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>There are <a href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank">eight muscle segments </a>(pm1-8) in the pharynx each containing 1 to 3 muscles cells, most with three giving the pharynx  <a href="../hermaphrodite/musclenonstriated/Images/musfig17leg.htm" target="_blank">three-fold symmetry</a>. In most segments, the muscle filaments are oriented radially to help open and close the pharyngeal lumen, though pm7 muscles are oriented obliquely to pull on the grinder region. All cells, except pm8, are innervated by pharyngeal motor neurons. </p></td>
+						</tr>
+						<tr class="style18">
+							<td height="115" valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pharyngealnerve"></a><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Pharyngealneurons7" target="_blank">Pharyngeal nerve</a></font></strong><a href="http://www.wormatlas.org/ver1/handbook/fig.s/alim16.jpg"><strong><font face="Arial, Helvetica, 
+sans-serif"></font></strong></a> </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A set of<a href="../hermaphrodite/pharynx/Images/phafig9A_Eleg.htm"> three longitudinal nerves</a> (<a href="../neurons/Individual Neurons/I1frameset.html" target="_blank">I1L</a>, <a href="../neurons/Individual Neurons/NSMframeset.html" target="_blank">NSML</a> and <a href="../neurons/Individual Neurons/M2frameset.html" target="_blank">M2L</a>) running along the anterior/posterior  axis within the pharynx, each lying within a narrow groove created between syncytial  pairs of muscles. One nerve lies dorsally, in close apposition to the dorsal  gland duct, while the other two nerves lie subventrally.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pharyngealnervering"></a><a href="../hermaphrodite/pharynx/Images/phafig9A_Eleg.htm" target="_blank">Pharyngeal nerve ring</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A small circle of axonal  processes which form within the first bulb of the pharynx and run around the  lumen to allow all pharyngeal neurons to form synaptic contacts (neuropil) with  other local neurons. No members of the  somatic nervous system participate here. A smaller, less well organized neuropil, the <a href="../hermaphrodite/pharynx/Images/phafig9F_Hleg.htm" target="_blank">terminal bulb commissure</a>, forms at the posterior  commissure of the pharyngeal nervous system.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><strong><font face="Arial, 
+Helvetica, sans-serif"><a name="pharyngealneurons"></a><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Pharyngealneurons7" target="_blank">Pharyngeal neurons</a></font></strong></p></td>
+							<td valign=top height="111">Pharyngeal nervous system (S) </td>
+							<td valign=top height="111"><p><span class="style25"></span></p></td>
+							<td valign=top height="111"><p>The pharyngeal nervous system is composed of 20 pharyngeal neurons which lie completely within the pharynx. These are grouped into several categories and include  motor neurons (<a href="../neurons/Individual Neurons/M1frameset.html" target="_blank">M1</a>, <a href="../neurons/Individual Neurons/M2frameset.html" target="_blank">M2</a>, <a href="../neurons/Individual Neurons/M3frameset.html" target="_blank">M3</a>, <a href="../neurons/Individual Neurons/M4frameset.html" target="_blank">M4</a> and <a href="../neurons/Individual Neurons/M5frameset.html" target="_blank">M5</a>), interneurons (<a href="../neurons/Individual Neurons/I1frameset.html" target="_blank">I1</a>, <a href="../neurons/Individual Neurons/I2frameset.html" target="_blank">I2</a>, <a href="../neurons/Individual Neurons/I3frameset.html" target="_blank">I3</a>, <a href="../neurons/Individual Neurons/I4frameset.html" target="_blank">I4</a>, <a href="../neurons/Individual Neurons/I5frameset.html" target="_blank">I5</a> and <a href="../neurons/Individual Neurons/I6frameset.html" target="_blank">I6</a>), and other types of neurons (<a href="../neurons/Individual Neurons/MCframeset.html" target="_blank">MC</a>, <a href="../neurons/Individual Neurons/NSMframeset.html" target="_blank">NSM</a> and <a href="../neurons/Individual Neurons/MIframeset.html" target="_blank">MI</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pharyngealpumping"></a><a href="http://www.mcb.arizona.edu/wardlab/eatingvid.html" target="_blank">Pharyngeal pumping </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A stereotyped <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=ce2&part=A820&rendertype=figure&id=A824" target="_blank">sequence of  muscle contractions</a> (motor program) by individual pharyngeal muscles that act  to draw food (bacteria) into the pharynx and to masticate that food with the grinder before  moving it into the intestine (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001197;class=Paper" target="_blank">Avery and Horvitz, 1989</a>). One pump consists of an nearly simultaneous contraction of the <a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">corpus, anterior isthmus and terminal bulb</a> followed by relaxation (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.section.820" target="_blank">Avery and Thomas, 1997</a>). </p>
+									<p>While an  animal is in the presence of food, pharyngeal pumping occurs constitutively,  but this action slows or stops when the animal moves away from food,  during  lethargus, in dauer larvae and as the animal ages. The  coordination of pharyngeal muscles is under control of the pharyngeal nervous  system, which is virtually independent of the nerve ring.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pharynx"></a><a href="../hermaphrodite/pharynx/Phaframeset.html" target="_blank">Pharynx</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Esophagus (S) <br>
+							</font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The mouthparts at the  anterior end of the digestive tract which contain a series of radial muscles,  related neurons and epithelial cells, and several gland cells which may aid in  digestion. The pharynx is divided into <a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">several regions</a>, including the corpus (procorpus and metacorpus - first bulb), isthmus and  terminal bulb (second bulb). Specialized cuticular teeth  (<a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank">the grinder</a>) within the pharyngeal lumen may tear open the food prior to  digestion in the intestine. The pharynx  lies behind the<a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank"> buccal cavity</a>, and is separated from the intestine by the <a href="../hermaphrodite/pharynx/Images/phafig11leg.htm" target="_blank">pharyngeal  valve</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><strong><font face="Arial, 
+Helvetica, sans-serif"><a name="phasmid"></a><a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Phasmidsensilla36" target="_blank">Phasmid</a></font></strong></p></td>
+							<td valign=top height="111"><p><font face="Arial, Helvetica, 
+sans-serif"><br>
+							</font></p></td>
+							<td valign=top height="111"><p class="style25">&nbsp;</p>
+									<p class="style25"><br>
+								</p></td>
+							<td valign=top height="111"><p>A bilateral pair (<a href="../neurons/Individual Neurons/PHAframeset.html" target="_blank">PHA</a> and <a href="../neurons/Individual Neurons/PHBframeset.html" target="_blank">PHB</a>) of  chemosensory endings in the tail tip, containing two sensory neurons each. <a href="../hermaphrodite/neuronalsupport/Images/neurofig41Ileg.htm" target="_blank">In the hermaphrodite</a> these endings open  through the cuticle via lateral phasmid channels at the base of the tail whip. <a href="../hermaphrodite/neuronalsupport/Images/neurofig41A_Hleg.htm" target="_blank">In the male</a> the phasmid channels become  diverted to open slightly more forward, on the ventral surface at the base of  the copulatory bursa, posterior to the opening of the cloaca.</p>
+									<p><br>
+										See <a href="aglossary.htm#amphid" target="_blank">Amphid</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phasmidchannel"></a>Phasmid channel </font></strong></td>
+							<td valign=top>Phasmid lining (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See <a href="aglossary.htm#amphidchannel" target="_blank">Amphid channel </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phasmidgland"></a>Phasmid gland </font></strong></td>
+							<td valign=top>Phasmid sheath cell (S-archaic) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phasmidnerve"></a>Phasmid nerve </font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A bilateral pair of phasmid  nerves extend posteriorly into the tail tip from the lumbar ganglia to caudal  sensory structures including the phasmids and tail whip, in close continuity  with the caudal limit of the lateral hypodermal cords.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phasmidsheath"></a><a href="../hermaphrodite/neuronalsupport/Images/neurofig41A_Hleg.htm" target="_blank">Phasmid sheath </a></font></strong></td>
+							<td valign=top><p>Phasmid gland (S)</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The glia-like cell  (Phsh) that forms the channel within which the phasmid cilia are exposed to the  exterior environment; the cuticular opening of that channel is formed by the  phasmid socket cell.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phasmidia"></a>Phasmidia</font></strong></td>
+							<td valign=top><a href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=63322" target="_blank">Secernentea</a> (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A major group of nematode  species, categorized by: </p>
+									<p><strong>1)</strong> caudal phasmids<br>
+											<strong>2)</strong> a tubular secretory/excretory system<br>
+											<strong>3)</strong> pore-like  amphids located on the lips<br>
+											<strong>4)</strong> no caudal or epidermal glands<br>
+											<strong>5)</strong> rarely having cephalic setae<br>
+											<strong>6)</strong> three esophageal glands <br>
+											<strong>7)</strong> live mostly  in terrestrial environments </p>
+								<p>(Bird and Bird, 1991)</p>
+								<p>Divided into 3 sub-classes: Rhabditia (of which <em>C. elegans</em> is a member), Spiruria (all parasitic) and Diplogasteria. Most  parasitic nematodes derive from the Phasmidia.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phenoxypropanol"></a>Phenoxypropanol</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"></font></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="#propylenephnoxitol">Propylene phenoxitol</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pheromone"></a>Pheromone</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Any substance (usually an  odorant) released from the body that may act as a signal (attractant or  repellant) to other members of the same species, either as a sexual attractant  or as a social signal (aggregant or repellant).</p>
+									<p> Sexual pheromones are known from many nematode species (Bird and  Bird, 1991). A  sexual pheromone (of unknown chemistry) is likely to underlie the distinctive  &ldquo;leaving&rdquo; behavior observed in <em>C. elegans</em> males (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005617;class=Paper" target="_blank">Lipton and Emmons, 2003</a>). </p>
+								<p>A &ldquo;<a href="http://www.wormbook.org/chapters/www_dauer/dauer.html#sec5" target="_blank">dauer pheromone</a>&rdquo;  induces larval <em>C. elegans </em>to alter their developmental status to enter the <a href="http://www.wormbook.org/chapters/www_dauer/dauer.html#sec6" target="_blank">dauer pathway</a> when animals  are overcrowded (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000503;class=Paper" target="_blank">Albert et al., 1981</a>). This pheromone, called <a href="http://www.kdr.co.kr/Daumone/main.asp" target="_blank">daumone</a>, has been purified and synthesized 6-(3,5-dihydroxy-6-methyltetrahydropyran-2-yloxy)heptanoic                    acid (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024930;class=Paper" target="_blank">Jeong et al., 2005</a>) and is secreted and sensed by all animals  to determine nematode density. </p>
+								<p>An aggregating pheromone is sensed by the <a href="../neurons/Individual Neurons/ASHframeset.html" target="_blank">ASH</a> or <a href="../neurons/Individual Neurons/ADLframeset.html" target="_blank">ADL</a> nociceptive neurons of the amphids, and can induce social feeding  behavior in <em>C. elegans</em> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005511;class=Paper" target="_blank">DeBono et al., 2002</a>).  Curiously, this unknown chemical signal is aversive, yet stimulates the  animals to group together. This social feeding response is antagonized by a  parallel signaling event transduced by reception of a secreted signal within  the pseudocoelom by other sense cells (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005512;class=Paper" target="_blank">Coates and DeBono, 2002</a>). </p>
+								<p>Secreted  signals that cause signaling between different species of animals are called  allelochemics (Bird and Bird, 1991). The  physical source(s) of pheromone secretion is unknown, but would seem likely to  overlap with the postulated sources of the glycocalyx. It is possible that several of the above  responses involve the same pheromone, perhaps acting on the same or different  receptors at different stage in the animal&rsquo;s development.</p>
+								<p><br>
+									See <a href="aglossary.htm#aggregation" target="_blank">Aggregation</a><br>
+									See <a href="aglossary.htm#allelochemical" target="_blank">Allelochemical</a><br>
+									See <a href="bglossary.htm#bordering" target="_blank">Bordering</a><br>
+									See <a href="dglossary.htm#dauer" target="_blank">Dauer</a><br>
+									See <a href="lglossary.htm#leavingbehavior" target="_blank">Leaving behavior</a><br>
+									See <a href="sglossary.htm#semiochemical" target="_blank">Semiochemical </a><br>
+									See <a href="sglossary.htm#socialfeeding" target="_blank">Social feeding</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phoretic"></a>Phoretic</font></strong></td>
+							<td valign=top><a href="http://www.wormbook.org/chapters/www_ecolCaenorhabditis/ecolCaenorhabditis.html#d0e232" target="_blank">Phoresy</a> (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A type of  commensal relationship between two species in which one animal (the nematode)  uses  another host species for transportation only, and does not harm the host, or  feed on the host when it dies (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027629;class=Paper" target="_blank">Hong and Sommer, 2006</a>; <a href="http://www.wormbook.org/chapters/www_ecolCaenorhabditis/ecolCaenorhabditis.html" target="_blank">Kiontke and Sudhaus, 2006</a>).</p>
+									<p><br>
+										See <a href="nglossary.htm#necromenic" target="_blank">Necromenic</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="photokinesis"></a>Photokinesis</font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Movement  in response to the presence of light. Some nematode species seem  to demonstrate generalized changes in behavior when exposed to light, without  orienting to the light source (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>). Some species, including <em>C. elegans</em> are reported to show specific forms of phototaxis, and move towards  or away from the light source.</p>
+									<p><br>
+										See <a href="kglossary.htm#kinesis" target="_blank">Kinesis</a><br>
+										See <a href="#phototaxis">Phototaxis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phototaxis"></a>Phototaxis</font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A behavioral change in  response to exposure to light that causes the animal to become oriented to the  light source. Positive phototaxis carries the animal towards the light, whereas  negative phototaxis carries the animal away from the light. <em>C. elegans</em> is negatively  phototactic and responds to exposure to light (especially in the UV range) by  increasing its body motions to escape from the stimulus (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000774;class=Paper" target="_blank">Burr, 1985</a>). Responses in other nematode species reviewed in <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, (1975)</a>.</p>
+									<p><br>
+										See <a href="tglossary.htm#taxis" target="_blank">Taxis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phylogeny" id="phylogeny"></a><a href="http://www.wormbook.org/chapters/www_phylogrhabditids/phylofig1.jpg" target="_blank">Phylogeny</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Evolutionary &quot;trees&quot; that represent the relatedness of various species over time.</p>
+									<p>For a detailed description of rhabditid phylogeny, see <a href="http://www.wormbook.org/chapters/www_phylogrhabditids/phylorhab.html" target="_blank">Kiontke and Fitch, 2005</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phytoparasite"></a>Phytoparasite</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A plant parasite. Many nematode species are plant parasites,  generally having specialized mouthparts, such as a stylet, to pierce and suck  from plant tissues.</p>
+									<p><br>
+										See <a href="#parasite">Parasite</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="phytophagus"></a>Phytophagus</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Plant  eating</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="picell"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig5ABleg.htm" target="_blank"><font face="Arial, Helvetica, 
+sans-serif">Pi cell</font></a></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Signaling from the anchor cell (<a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">AC</a>) induces  6 nearby VU grand-progeny to adopt the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">pi cell fate</a>. These cells <a href="../hermaphrodite/egglaying apparatus/Images/eggfig4CDleg.htm" target="_blank">generate the uv1 and the utse </a> cells which form the ventral <a href="../hermaphrodite/egglaying apparatus/Images/eggfig3leg.htm" target="_blank">uterus</a>. </p>
+									<p> <br>
+										See <a href="uglossary.htm#uterus" target="_blank">Uterus </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pick" id="pick"></a><a href="http://www.wormclassroom.org/image/platinum-wire-scale" target="_blank">Pick</a></font></strong></td>
+							<td valign=top>Worm pick (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Usually made from platinum wire and a glass pipette, it is used to manipulate individual worms on <a href="http://www.wormclassroom.org/image/petri-dish-covered" target="_blank">culture plates</a> using a <a href="http://www.wormclassroom.org/image/dissecting-microscope" target="_blank">dissecting microscope</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pinocytosis"></a>Pinocytosis</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>&quot;Cell drinking&quot;. Material to be ingested by a cell is taken in by invagination of a portion of the plasma membrane in a process called <a href="http://www.wormbook.org/chapters/www_intracellulartrafficking/intracellulartrafficking.html#d0e58" target="_blank">endocytosis</a>. The two main types of endocytosis  are distinguished on the basis of the size of the vesicles formed. Phagocytosis &quot;cellular eating&quot; involves taking in large particles. Pinocytosis involves the ingestion of fluids and small molecules via small vesicles (~100nm). </p>
+									<p><br>
+										See <a href="eglossary.htm#endocytosis" target="_blank">Endocytosis</a><br>
+										See <a href="#phagocytosis">Phagocytosis</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pioneeraxon"></a>Pioneer axon </font></strong></td>
+							<td valign=top>Pioneers (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An  axon that establishes a new path as it grows away from a neuron cell body along the  bodywall, often in contact with the hypodermis and overlying basal lamina. In general, a pioneer axon may exhibit a  larger complex growth cone than that of a follower axon, so that it can extend  filopodia over a wider region to sample the environment for guidance cues.</p>
+									<p><br>
+										See <a href="fglossary.htm#followeraxon" target="_blank">Follower axon</a><br>
+										See <a href="gglossary.htm#guidepostcell" target="_blank">Guidepost cell</a><br>
+										See <a href="gglossary.htm#growthcone" target="_blank">Growth cone</a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="pioneerneuron"></a>Pioneer neuron </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A neuron that extends a pioneer axon.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pirouette"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec7_6" target="_blank">Pirouette</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A quick bout of  reversals and/or omega turns that interrupt forward body motion, and help to  reorient the animal on a chemical gradient (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003740;class=Paper" target="_blank">Pierce-Shimomura et al., 1999</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025064;class=Paper" target="_blank">Miller et al., 2005</a>; <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec7_6" target="_blank">Lockery, 2005</a>).</p>
+									<p><br>
+										See <a href="oglossary.htm#omegaturn" target="_blank">Omega turn</a><br>
+										See <a href="rglossary.htm#reversal" target="_blank">Reversal</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="plasmamembrane"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1862" target="_blank">Plasma membrane</a> </font></strong></td>
+							<td valign=top><p>Plasmalemma (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A semipermeable lipid bilayer that contains and supports a variety of biological molecules including proteins, sugars and lipids. This membrane creates a boundary between the interior and exterior environment for cells, cellular organelles and tissues, within an organism. It also functions to control what goes into and out of the cell and maintains the cell potential. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="plasticity"></a>Plasticity</font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Can refer to properties of the whole animal, of a given tissue, of a  given cell, to subcellular features in a cell, or perhaps to molecular  conformations of one macromolecule or a molecular complex.</p>
+									<p>Generally refers to the  ability of a given element to adapt its shape and/or function to compensate for  local changes in its environment, or to stresses brought about by its own  previous history of activity.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="platymyarian"></a>Platymyarian</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A condition (generally true  in <em>C. elegans</em>) in which the sarcomeres of bodywall muscles all tend to lie in  direct apposition to the outer bodywall; as opposed to &ldquo;coelomyarian&rdquo; nematode  species in which some sarcomeres are formed away from the outer bodywall to  face the sides of the muscle cell or the pseudocoelom itself (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000351;class=Paper" target="_blank">Schneider, 1860</a>;  Chitwood and Chitwood, 1950; Bird and Bird, 1991).</p>
+									<p><br>
+										See <a href="cglossary.htm#circomyarian" target="_blank">Circomyarian</a><br>
+										See <a href="mglossary.htm#meromyarian" target="_blank">Meromyarian</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pleatedjunction"></a><a href="../hermaphrodite/somatic gonad/Images/somaticfig10leg.htm" target="_blank">Pleated junction</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See <a href="sglossary.htm#septatejunction" target="_blank">Septate junction</a> (S)</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pleatedseptatejunction"></a><a href="../hermaphrodite/somatic gonad/Images/somaticfig10leg.htm" target="_blank">Pleated septate junction </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See <a href="sglossary.htm#septatejunction" target="_blank">Septate junction</a> (S) </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pleiotropy"></a>Pleiotropy</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A condition in which one  gene (or one gene mutation) has multiple and/or variable effects (phenotypes)  in several tissues or cell types, or at several distinct stages in  development.</p>
+									<p> <strong>Mosaic pleiotropy </strong>arises  due to the parallel use of the same gene product in several different types of  cells, perhaps at different times in development.</p>
+								<p><strong>Relational pleiotropy </strong>arises due to  secondary cascades of intercellular signaling, such that genetic changes in one  cell lead to altered intercellular interactions, and thus cause secondary  changes in cells that do not require the gene directly. </p>
+								<p>In <em>C. elegans</em>, the low level of intercellular  regulation greatly reduces chances for relational pleiotropy (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000388;class=Paper" target="_blank">Ward, 1976</a>). <font face="Arial, Helvetica, sans-serif"><br>
+								</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="plexus"></a>Plexus</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A structure in the form of a network, especially as it refers to nerves and blood vessels. In <em>C. elegans</em> this term is used to describe the many nerve  processes interwoven at a region of synaptic neuropil, or to the interweaving  of major nerves as they enter a ganglionic region, such as the nerve ring. It can also refer to interdigitization of  muscle arms at the muscle plate. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="plicae"></a><a href="../hermaphrodite/cuticle/Images/cutfig9Bleg.htm" target="_blank">Plicae</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Shallow folds (pleating) of the hypodermis in the molting nematode that  permit the outer surface of this new worm tissue to be more extensive in area than  the current outer cuticle. New cuticle  is deposited over the plicae, underneath the old cuticle, and after molting,  the new larval stage (or adult) will rapidly expand in size to stretch out the  new cuticle, removing evidence of the plicae (Bird, 1977). Such plicae can be readily seen in <em>C. elegans</em> before the molts (Hall, unpublished).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ploidy"></a>Ploidy</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The number of homologous sets of chromosome in a cell. Most cells in an organism are diploid and contain two full sets of chromosomes. However, sex cells (sperm and egg)  are haploid and contain only one set of chromosomes. <em>C. elegans</em> hermaphrodites contain 4 autosomes and 2 X chromosomes while males only have 1 X chromosome. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="plug"></a>Plug<a 
+href="http://www.wormatlas.org/ver1/Ware_build0.2/art/fig7_large.jpg" 
+target="_blank"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><strong>1)</strong> the gelatinous <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=populationgenetics&rendertype=figure&id=A7010" target="_blank">copulatory plug</a> produced by a male nematode after mating</p>
+									<p><strong>2)</strong> the  <a href="../hermaphrodite/somatic gonad/Images/somaticfig10leg.htm" target="_blank">structure formed by certain cells (sujcs)</a> that block the passage of the spermatheca  prior to sexual maturity in the hermaphrodite</p>
+								<p><strong>3)</strong> a refractile thread that blocks the mouth during development of the pharynx, but falls away shortly before hatching </p>
+								<p>These structures are entirely unrelated.</p>
+								<p><br>
+									See <a href="cglossary.htm#copulatoryplug" target="_blank">Copulatory plug</a><br>
+									See <a href="#pluggingmale">Plugging male</a><br>
+									See <a href="sglossary.htm#sujccell" target="_blank">sujc cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="plugcell"></a><a href="../hermaphrodite/somatic gonad/Images/somaticfig10leg.htm" target="_blank">Plug cell </a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Core cell of spermathecal valve (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="sglossary.htm#sujccell" target="_blank">sujc cell</a><br>
+								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pluggingmale"></a>Plugging male</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Males of some species of nematode, but not <em>C. elegans</em>, generate a gelatinous plug on the vulva after spicular retraction. This ability is facilitated by the action of the plg-1 gene (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002770;class=Paper" target="_blank">Hodgkin and Doniach, 1997</a>), perhaps by helping in the coagulation of the fluid to make the plug (<a href="http://www.wormbook.org/chapters/www_malematingbehavior/malematingbehavior.html#d0e1132" target="_blank">Barr and Garcia, 2006</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="plumstage"></a><a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">Plum stage </a></font></strong></td>
+							<td valign=top>Two-fold stage (S)<br>
+								Morphogenesis stage (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="plusend"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2973" target="_blank">Plus end</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The growing tip of  a microtubule or microfilament which often faces outward towards the periphery of a cell.</p>
+									<p><br>
+										See <a href="#protofilament">Protofilament</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pm1pm8"></a><a href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank">pm1-pm8</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The 8 separate segments that form 8 consecutive rings of radial musculature that encircle the pharynx. </p>
+									<p><br>
+										See <a href="#pharyngealmuscle">Pharyngeal muscle </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pnp"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig7leg.htm" target="_blank">Pn.p</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Ventral hypodermal cells that give rise to the<a href="../hermaphrodite/egglaying apparatus/Images/eggfig9leg.htm" target="_blank"> vulval toroids.</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pocket"></a>Pocket </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See <a href="sglossary.htm#sheath" target="_blank">Sheath</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="polarbody"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">Polar body</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>One of two small cells  produced, each during one of the two meiotic cell divisions, which are then  discarded in the creation of the haploid germ cell.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="polarityreversal"></a>Polarity reversal </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Changes in overall orientation in space of a tissue&rsquo;s developmental pattern, of  a cell group&rsquo;s pattern of cell divisions, or of an individual cell&rsquo;s  distribution of structural elements. Under some circumstances, any given lineage may demonstrate a  reversal in the overall pattern of cell divisions (the fate adopted by the  anterior daughter may be switched with that of the posterior daughter, etc)  either due to steric problems or mutation (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000463;class=Paper" target="_blank">Sulston and White, 1980</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000548;class=Paper" target="_blank">Horvitz and Sternberg, 1982</a>). </p>
+									<p>Some  tissues display long range polarity in their organization, such as the gonad&rsquo;s  distal ovary vs proximal storage of sperm and in some mutants can show polarity  reversal such that a new zone of mitotic activity can be created proximal to  the vulva (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.chapter.335" target="_blank">Schedl, 1997</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005992;class=Paper" target="_blank">Pepper et al., 2003</a>). </p>
+								<p>Some cell types may undergo a  transformation of their shape during late stages of morphogenesis that reverse  the order of their structural features in space; for instance, the <a href="../neurons/Individual Neurons/DDframeset.html" target="_blank">DD</a> neuron  can switch the position of its axon and dendritic specialization during late  larval development, so that its axonal process and dendritic process exchange  places (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001847;class=Paper" target="_blank">Walthall et al., 1993</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="polyandry"></a>Polyandry</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The tendency of the female to mate with multiple male partners. In <em>C. elegans</em>, the  hermaphrodite will mate multiple times with different males (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003404;class=Paper" target="_blank">LaMunyon and Ward, 1999</a>).</p>
+									<p><br>
+										See <a href="cglossary.htm#copulatoryplug" target="_blank">Copulatory plug</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="polymodalinput"></a>Polymodal input</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p><strong>1)</strong> a characteristic of some primary interneurons in which they  receive synaptic inputs from a variety of different sensory neurons, who in  turn are receptive to substantially different kinds of sensory stimulation  (chemical, mechanical, osmotic, thermal, etc)&nbsp;</p>
+									<p><strong>2)</strong> a sensory neuron that maintains multiple dendrites  or multiple membrane receptors that allows it to be receptive to a variety of  different modes of stimulation</p>
+								<p><strong>3)</strong> a single membrane receptor that is responsive  to a variety of substantially different environmental factors</p>
+								<p><br>
+									See <a href="nglossary.htm#nocioceptor" target="_blank">Nocioceptor</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="polymyarian"></a>Polymyarian<a 
+href="http://www.wormatlas.org/ver1/handbook/fig.s/musfig34c.jpg" 
+target="_blank"></a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Muscles that contain many muscle cells side by side within a single quadrant as is the case the very large species <em>Ascaris</em>. </p>
+									<p><br>
+										See <a href="mglossary.htm#meromyarian" target="_blank">Meromyarian</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="polyspermy"></a>Polyspermy</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An abnormal  condition in which multiple spermatozoons have managed  to enter the same oocyte during fertilization, providing excess copies of chromosomal material. Such events generally do not produce viable  offspring.</p>
+									<p>&quot;Block of polyspermy&rdquo; is thought to be accomplished by  several coincident events at the moment when the first spermatozoon crosses the  oocyte&rsquo;s outer membrane, including a change in membrane potential in the oocyte  and the immediate secretion of a &ldquo;fertilization membrane&rdquo; to physically  obstruct close approach by another sperm.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="porecell"></a><a href="../hermaphrodite/excretory/jump.html?newLink=mainframe.htm&newAnchor=Porecell5" target="_blank">Pore cell </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A transitional epithelial  cell that connects the <a href="../hermaphrodite/excretory/Images/excfig1leg.htm" target="_blank">excretory duct</a> to the hypodermis of the ventral bodywall  at the back of the head, producing the <a href="../hermaphrodite/excretory/Images/excfig2leg.htm" target="_blank">excretory pore</a>, an outlet for secretions  of the excretory system. Blockage or  destruction of the pore is generally fatal to the animal.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="postcloacalsensilla"></a><a href="../male/postcloacal/PCSframeset.html" target="_blank">Post-cloacal sensillum/ sensilla </a></font></strong></td>
+							<td valign=top>PCS</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The PCS is a male specific structure that functions redundantly with the <a href="../male/hook/Hookframeset.html" target="_blank">hook</a> in <a href="../male/introduction/images/MaleIntroFIG3.jpg" target="_blank">several steps</a> of <a href="../movies/Mating.mov" target="_blank">mating behavior</a> including: locating the vulva, backing over the vulval region and inducing spicule prodding behavior. The PCS is innervated by three bilateral pairs of sensory  endings in the male tail lying on the ventral surface just posterior to the <a href="../male/postcloacal/images/MalePCSFIG1A.jpg" target="_blank">cloacal opening</a>, and pointing in posteriolateral directions (<a href="../neurons/Individual Neurons/PCAframeset.html" target="_blank">PCA</a>, <a href="../neurons/Individual Neurons/PCBframeset.html" target="_blank">PCB</a>, and <a href="../neurons/Individual Neurons/PCCframeset.html" target="_blank">PCC</a>). Each sensillum consists of two neuron  endings enclosed by a sheath and socket cell.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="postcorpus"></a><a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">Postcorpus</a></font></strong></td>
+							<td valign=top><p>Posterior bulb (S)<br>
+								Second bulb (S) <br>
+								Terminal bulb (S) </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The most posterior portion  of the pharynx, containing the pharyngeal glands.</p>
+									<p><br>
+										See <a href="sglossary.htm#secondbulb" target="_blank">Second bulb</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="postdeirid"></a>Postdeirid</font></strong></td>
+							<td valign=top>Posterior lateral sensillum (S)<br>
+								Posterior deirid (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See <a href="dglossary.htm#deirid" target="_blank">Deirid</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="postdauer"></a>Postdauer</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A special form of <a href="../hermaphrodite/introduction/IMAGES/introfig8leg.htm" target="_blank">L3</a> larva  that has emerged from true dauer larva status and is preparing to molt into <a href="../hermaphrodite/introduction/IMAGES/introfig8leg.htm" target="_blank">L4</a> stage.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="postembryonic"></a>Postembryonic</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Any event or  feature which occurs during larval or adult life, but not within the developing  egg.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="posteriorbulb"></a><a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">Posterior bulb </a></font></strong></td>
+							<td valign=top>Second bulb (S)<br>
+								Postcorpus (S) <br>
+								Terminal bulb (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A  major subdivision of the pharynx, lying between the isthmus and the pharyngeal  valve. The bulb has an enlarged round shape and contains several large radial pharyngeal muscles, some neurons  and three large gland cells (<a href="http://www.wormatlas.org/ver1/albertson_1975/toc.html" target="_blank">Albertson and Thomson, 1976</a>). </p>
+									<p><br>
+										See <a href="sglossary.htm#secondbulb" target="_blank">Second bulb</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="posteriorcommissure"></a><a href="../hermaphrodite/pharynx/Images/phafig9F_Hleg.htm" target="_blank">Posterior commissure </a></font></strong></td>
+							<td valign=top>Terminal bulb commissure (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A minor &ldquo;nerve ring&rdquo; in the pharyngeal nervous system,  lying within the second pharyngeal bulb, where some members of the pharyngeal  nervous system meet and form synapses.</p>
+									<p><br>
+										See <a href="#pharyngealnervering">Pharyngeal nerve ring</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="posteriorintestine"></a><a href="../hermaphrodite/intestine/Images/intfig1leg.htm" target="_blank">Posterior intestine</a></font></strong></td>
+							<td valign=top>Prerectal intestine (S)<br>
+								Prerectal region (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The more posterior zone of  the intestine, lying just anterior to the rectum, and surrounded by the motor  elements of the stomatal-intestinal muscle.  The<a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank"> lumen is slightly dilated</a> and receives secretions from the rectal  gland cells near its termination at the rectal valve.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="posteriorlateralganglion"></a>Posterior-lateral ganglion </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Neuron somata associated with  the post-deirid.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="postreproductive"></a>Postreproductive </font></strong></td>
+							<td valign=top>Gravid (A) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An aging adult animal  that is no longer capable of producing fertile germ cells nor nourishing and  laying fertilized embryos, although it may still contain older, nonviable  oocytes or sperm.</p>
+									<p><br>
+										See <a href="gglossary.htm#gravid" target="_blank">Gravid</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="postsynapticcell"></a><a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank">Postsynaptic cell</a> </font></strong></td>
+							<td valign=top>Postsynaptic element (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Either a neuron or a muscle cell that receives a synaptic  input from a presynaptic neuron. In rare  cases, other tissues, including hypodermis and marginal cells may also appear to  be postsynaptic (lying very close to a presynaptic density), but the  physiological significance of these contacts is unknown.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="postsynapticdensity"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.746"postsynaptic+density"+AND+ce2[book]+AND+1656[uid]&rid=ce2.figgrp.746" target="_blank">Postsynaptic density</a> </font></strong></td>
+							<td valign=top>Postsynaptic specialization (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A thin electron dense  specialization lying on the cytoplasmic surface of a postsynaptic cell (neuron  or muscle) (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.chapter.741" target="_blank">Rand and Nonet, 1997</a>) or a thickening of the postsynaptic  membrane. </p>
+									<p>These specializations are  generally not found in <em>C. elegans</em> synapses except under rare circumstances,  perhaps due to poor fixation or their very small size. In higher animals these  specializations are often expected as a reliable indicator of a functional  synaptic contact, and there are characteristic differences in certain synapses  according to their function or cell type; none of these differences have been  reliably seen in the nematode.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="preanalganglion"></a><a href="../hermaphrodite/nervous/Images/neurofig18leg.htm" target="_blank">Preanal ganglion </a></font></strong></td>
+							<td valign=top><p>PAG cells (S) </p>
+									<p>Pre-anal ganglion (S) </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The  preanal ganglion lies at the posterior limit of the ventral nerve cord in the  tail. It contains <a href="../hermaphroditetailneurons.html" target="_blank">12 neuron cell bodies</a> that send most of their neuronal processes into the ventral nerve cord. A local portion of neuropil involving many  pre-anal and lumbar neurons is continuous with the neuropil of the ventral  nerve. In the <a href="../male/postcloacal/images/MalePCSFIG4AB.jpg" target="_blank">adult male tail, this  ganglion</a> gains many additional neurons and a greatly expanded neuropil,  functioning in the control of male mating behaviors.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="precipiceresponse"></a>Precipice response </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An aversive  response of the animal when encountering a steep edge, as at the edge of an  agar chunk. Animals may avoid the edge (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_3" target="_blank">Hart, 2006</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="precursorcell"></a>Precursor cell </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Ancestral cell in a lineage.&nbsp;</p>
+									<p> <br>
+										See <a href="bglossary.htm#blastcell" target="_blank">Blast cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="predacious"></a>Predacious/ Predatory/ Predator </font></strong></td>
+							<td valign=top>Predaceous (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The term implies that a  species has a select set of target organisms which it  searches out for food. By comparison, an  omnivore may eat a wider variety of species, perhaps both plant and animal  life, with much less selectivity. <em>C. elegans </em>consumes bacteria in the wild, and can be  considered a predator of bacteria.</p>
+									<p>Many other animals and some fungi are predators of  nematodes. Some fungi can  trap nematodes (including <em>C. elegans</em>) by a small lariat-shaped ring or with  sticky knobs, and then consume them (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>). In the laboratory, mites are often  found as predators on cultures of <em>C. elegans</em>.</p>
+								<p><br>
+									See<a href="#parasite"> Parasite</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="predauerlarval"></a>Predauer larva </font></strong></td>
+							<td valign=top>L2d (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A distinctive late  L2 larval stage (L2d) whose body shape is beginning to show changes prior to  entering the dauer state, although it is still capable of advancing instead to  an L3 stage if environmental conditions improve (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000686;class=Paper" target="_blank">Golden and Riddle, 1984</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pregastrulationstage"></a><a href="http://www.wormbook.org/chapters/www_asymcelldiv/asymcelldiv.html" target="_blank">Pregastrulation stage </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The earliest phase of  embryogenesis, during which the egg undergoes early cell divisions to grow from  one cell to 26 cells during the first hour and a half after fertilization (see <a href="http://www.loci.wisc.edu/biophotonics/4d-microscopy" target="_blank">4-D movie</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="preinfective"></a>Preinfective</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A free-living  larval stage of a species that will later infect a host plant or animal. In parasitic nematodes, the third larval  stage is often the last pre-infective stage and L3 larvae may undergo  developmental arrest until a host is found.  The anatomy and neuroanatomy of preinfective L3s may parallel the  anatomy of dauer larva of <em>C. elegans</em> (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=15275212&query_hl=8&itool=pubmed_docsum" target="_blank">Ashton and Schad, 1996</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="prerectalintestine"></a>Prerectal intestine </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See<a href="#posteriorintestine"> Posterior intestine </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="presynapticdensity"></a><a href="../hermaphrodite/nervous/Images/neurofig21leg.htm?rid=ce2.figgrp.746"postsynaptic+density"+AND+wormbook[book]+AND+741441[uid]&rid=wormbook.figgrp.6074" target="_blank">Presynaptic density</a> </font></strong></td>
+							<td valign=top>Presynaptic specialization (S)<br>
+								Active zone (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synaptogenesis&rendertype=figure&id=A6074" target="_blank">electron dense tuft or  bar</a> lying on the cytoplasmic surface of a presynaptic membrane at a synapse,  usually bounded by a cluster of synaptic vesicles nearby (<a href="http://www.wormbook.org/chapters/www_synaptogenesis/synaptogenesis.html#d0e261" target="_blank">Jin, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="presynapticterminal"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synaptogenesis&rendertype=figure&id=A6074" target="_blank">Presynaptic terminal</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top>The swelling of the axon in the locale of a synapse including the  cluster of synaptic vesicles that surround the electron dense membrane specializations of the presynaptic region (<a href="http://www.wormbook.org/chapters/www_synaptogenesis/synaptogenesis.html#d0e261" target="_blank">Jin, 2005</a>). </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pretzelstage"></a><a href="http://worms.zoology.wisc.edu/morphogenesis.jpg" target="_blank">Pretzel stage</a> </font></strong></td>
+							<td valign=top>Four-fold stage (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>This comprises the final two  stages in embryogenesis, &ldquo;early pretzel&rdquo; stage and &ldquo;late pretzel&rdquo; stage, just  prior to hatching. The animal now is  folded into four lengths within the eggshell and resembles a pretzel. By early pretzel stage, the head begins to  move independently from the body.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="primaryectoderm"></a>Primary ectoderm </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The cells and tissues that form from the <a href="http://www.wormbase.org/db/cell/cell.cgi?name=AB;class=Cell" target="_blank">AB</a> lineage,  principally comprised of anterior hypodermis, neurons and some pharyngeal  ectoderm.</p>
+									<p><br>
+										See <a href="sglossary.htm#secondaryectoderm" target="_blank">Secondary ectoderm</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="primaryinterneuron"></a>Primary interneuron </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An interneuron that receives  direct synaptic input from sensory neurons.  It may in turn direct its own synaptic output to secondary interneurons  and/or to command interneurons.</p>
+									<p><br>
+										See <a href="cglossary.htm#commandinterneuron" target="_blank">Command interneuron</a><br>
+										See <a href="sglossary.htm#secondaryinterneuron" target="_blank">Secondary interneuron</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="primarymesoderm"></a>Primary mesoderm </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The cells and tissues that  form from the <a href="http://www.wormbase.org/db/cell/cell.cgi?name=MS;class=Cell" target="_blank">MS</a> lineage, consisting of most bodywall muscles and the muscles  of the pharynx.</p>
+									<p><br>
+										See <a href="sglossary.htm#secondarymesoderm" target="_blank">Secondary mesoderm</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="primaryoocyte"></a><a href="../hermaphrodite/germ line/Images/germfig7Bleg.htm" target="_blank">Primary oocyte</a> </font></strong></td>
+							<td valign=top>1<sup>o</sup> oocyte (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The most mature oocyte  within the gonad sheath, lying next to the spermatheca, which awaits  fertilization.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="primaryspermatocyte"></a><a href="../hermaphrodite/germ line/Images/germfig7Aleg.htm" target="_blank">Primary spermatocyte </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A blast cell that divides to  give rise to four  mature sperm and a residual body.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="priming"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synapticfunction&rendertype=figure&id=A6279" target="_blank">Priming</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Step of synaptic vesicle cycle that occurs after docking of the vesicle that renders it competent  to fuse with the plasma membrane and release its contents (for more detail see <a href="http://www.wormbook.org/chapters/www_synapticfunction/synapticfunction.html#d0e489" target="_blank">Richmond, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="primordium"></a>Primordium/ Primordia </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An embryonic or larval  tissue, usually nonfunctional, which will later develop further through cell  divisions and/or morphogenesis to form a functional adult organ.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="primordialgermcell"></a><a href="../hermaphrodite/germ line/Images/germfig6leg.htm" target="_blank">Primordial germ cell</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Those early germ cells lying  closest to the distal tip cell within the gonad primordium or the distal gonad  arm that remain in mitosis to generate the lineages of the sperm and oocytes,  the direct descendants of <a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z2;class=Cell" target="_blank">Z2</a> and <a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z3;class=Cell" target="_blank">Z3</a>.&nbsp;They all appear to be syncytial with one another from mid L2 onwards  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005992;class=Paper" target="_blank">Pepper et al., 2003</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="process"></a>Process</font></strong></td>
+							<td valign=top><a href="aglossary.htm#axon" target="_blank">Axon</a> (S)<br>
+									<a href="dglossary.htm#dendrite" target="_blank">Dendrite </a>(S) <br>
+									<a href="nglossary.htm#neurite" target="_blank">Neurite</a> (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="processbundle"></a>Process bundle </font></strong></td>
+							<td valign=top><a href="nglossary.htm#nervecord" target="_blank">Nerve cord</a> (S)<br>
+									<a href="fglossary.htm#fascicle" target="_blank">Fascicle</a> (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="processextension"></a>Process extension </font></strong></td>
+							<td valign=top>Process outgrowth (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="procorpus"></a><a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">Procorpus</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The most anterior region of  the pharynx, lying just before the 1st bulb. This portion of the pharynx is  long, thin and muscular.&nbsp; </p>
+									<br>
+								See <a href="cglossary.htm#corpus" target="_blank">Corpus</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proctodeum"></a><a href="../male/proctodeum/Procframeset.html" target="_blank">Proctodeum/ Proctodaeum </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The most posterior  portions of the alimentary system. In <em>C. elegans,</em> the term is almost exclusively used for the male anatomy, rather than  the hermaphrodite, and includes the intestinal valve cells, gland cells, all  epithelial cells lining the cloacal sinus and all spicule-related epithelial  cells. However,  the   vas deferens cells, intestinal cells and bursa cells are not included.</p>
+									<p><br>
+										See <a href="cglossary.htm#cloaca" target="_blank">Cloaca</a><br>
+										See <a href="rglossary.htm#rectum" target="_blank">Rectum</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="prod"></a><a href="../male/introduction/images/MaleIntroFIG3.jpg" target="_blank">Prod</a></font></strong></td>
+							<td valign=top>Prodding (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An intermediate  step in <a href="../movies/Mating.mov" target="_blank">male mating behavior</a> during which the male repeatedly extends his <a href="../male/spicules/images/MaleSpicFIG1.jpg" target="_blank">spicules</a> towards the hermaphrodite <a href="../hermaphrodite/egglaying apparatus/Images/eggfig6ABleg.htm" target="_blank">vulva</a> in an attempt to insert them. Once he meets lowered resistance, spicules  are fully extended and sperm transfer begins (<a href="http://www.wormbook.org/chapters/www_malematingbehavior/malematingbehavior.html" target="_blank">Barr and Garcia, 2006</a>). Prodding appears to be rhythmic and fast,  perhaps as fast as 7-9 Hertz (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec10_4" target="_blank">Emmons in Hart, 2005</a>).</p>
+									<br>
+								See <a href="iglossary.htm#insertion" target="_blank">Insertion</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="progeny"></a>Progeny</font></strong></td>
+							<td valign=top>Offspring (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The set of individuals  produced by an adult animal are its progeny.&nbsp;Since the nematode is self-fertilizing, progeny can also be subdivided  into self-progeny (produced by internal self fertilization) vs cross-progeny (produced  by sexual mating between a male and hermaphrodite). Members of  succeeding generations (F1, F2, etc.) from one parent  animal might also be included among its progeny.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="programmedcelldeath"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mga.figgrp.2255" target="_blank">Programmed cell death </a></font></strong></td>
+							<td valign=top>Apoptosis (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A common form of cell death which appears to originate as a decision within the nucleus to initiate a cascade of cellular events inside both the nucleoplasm and the cytoplasm resulting in chromatin clumping, nuclear breakdown, cell shrinkage and eventual death. The dead cell is then <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3249" target="_blank">engulfed </a>and removed by a neighboring cell. The <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=programcelldeath&rendertype=figure&id=A4681" target="_blank">molecular components required for engulfment</a> have been identified in <em>C. elegans</em>. Unlike necrotic cell death, apoptosis does not generally spread to neighboring cells. The <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=programcelldeath&rendertype=figure&id=A4679" target="_blank">genetic pathway</a> controlling this process has been identified in <em>C. elegans </em>(<a href="http://www.wormbook.org/chapters/www_programcelldeath/programcelldeath.html" target="_blank">Conradt and Xue, 2005</a>). During development of the worm, <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mga.figgrp.2258" target="_blank">specific cells are generated that then undergo apoptosis</a>. </p>
+									<p><br>
+										See <a href="aglossary.htm#apoptosis" target="_blank">Apoptosis </a><br>
+										See <a href="nglossary.htm#necrosis" target="_blank">Necrosis</a><br>
+										See <a href="eglossary.htm#engulfment" target="_blank">Engulfment</a><br>
+										See <a href="mglossary.htm#murder" target="_blank">Murder</a><br>
+										See <a href="sglossary.htm#suicide" target="_blank">Suicide</a><br>
+										See <a href="uglossary.htm#undeadcells" target="_blank">Undead cells</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="prohabdion"></a>Prohabdion</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Specialized<a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank"> cuticle lining  the prostom</a>, formed by the arcade cells. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proliferation"></a>Proliferation</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An increase in overall  number of an object, cell type, or animal due to divisions (splitting and  growth, mitosis) or new births (reproduction).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proliferationphase"></a>Proliferation phase </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The  first half of embryogenesis, a six hour period during which the single cell  zygote rapidly undergoes many rounds of synchronous cell divisions to produce  an embryo containing about 550 cells at the end of gastrulation. At this time, most cells are still virtually  undifferentiated. The proliferation phase  is followed by a 5 hour &ldquo;morphogenesis phase&rdquo; during which cells exit the cell  cycle and begin to undergo tissue development. </p>
+									<p>The  same term may also be used in reference to the pattern of cell divisions  occurring in the distal germline to produce early gametes, or  also to early  stages in the development of the male tail&rsquo;s sexual features in the L3 larva,  when many new neurons, muscles and support cells are born, prior to  differentiating in late L4 stage.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proliferative"></a>Proliferative</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A lineage pattern  in which a stem cell continues to divide repeatedly (and symmetrically) to  produce a large number of (equivalent) daughters, totaling more cells than  usual, perhaps more than the organism actually will utilize in this class (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000500;class=Paper" target="_blank">Sulston and Horvitz, 1981</a>).</p>
+									<br>
+								See <a href="rglossary.htm#reiterative" target="_blank">Reiterative</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="prometaphase"></a>Prometaphase</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A subdivision of <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3346" target="_blank">M phase</a> during which the nuclear envelope breaks down into vesicles and the developing  mitotic spindle microtubules move from the cytoplasm into the nuclear region  and become associated with the chromosomes.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pronuclearenvelope"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">Pronuclear envelope </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A lipid bilayer, the  equivalent of the nuclear envelope, that surrounds each pronucleus within  gametes and within the early zygote after pronuclear reformation (<a href="http://www.wormbase.org/db/misc/paper?http://www.wormbase.org/db/misc/paper?name=WBPaper00003469;class=Paper" target="_blank">Gonczy et al., 1999</a>; <a href="http://www.wormbook.org/chapters/www_asymcelldiv/asymcelldiv.html" target="_blank">Gonczy and Rose, 2005</a>).</p>
+									<p><br>
+										See <a href="nglossary.htm#nuclearenvelope" target="_blank">Nuclear envelope</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pronuclearfusion"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">Pronuclear fusion </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An event during zygote  formation after the migration and rotation of the two (haploid) pronuclei  within the one-cell embryo in which they join together to create a  diploid nucleus. The act of  touching between the pronuclei is also called the &ldquo;pronuclear meeting&rdquo;  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005735;class=Paper" target="_blank">Cuenca, 2003</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pronuclearmigration"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2133" target="_blank">Pronuclear migration</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An event during zygote  formation after pronuclear reformation in which the two pronuclei are  translocated along the anterior/posterior axis so that they meet near the  posterior pole of the one-cell embryo (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000212;class=Paper" target="_blank">Krieg et al., 1978</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001741;class=Paper" target="_blank">Hird and White,  1993</a>). The maternal pronucleus travels  farther, passing through the pseudocleavage constriction to enter the posterior  portion of the embryo and meet the male pronucleus; they rotate around one  another just prior to fusion. For more detail, see <a href="http://www.wormbook.org/chapters/www_celldivision/celldivision.html#d0e845" target="_blank">Oegema and Hyman (2006)</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><p><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pronuclearreformation" id="pronuclearreformation"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2132" target="_blank">Pronuclear reformation</a></font></strong></p></td>
+							<td valign=top>Reconstitution of pronuclei (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Soon after the  fertilization event, the (haploid) pronuclei of the egg and sperm seem to  disappear for about 30 minutes. Egg cell  cytoplasm is rearranged by cytoplasmic streaming (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000280;class=Paper" target="_blank">Nigon et al., 1960</a>) after  which the two pronuclei reappear, now positioned on opposite poles (one  anterior and one posterior), an event called &ldquo;reformation&rdquo;. These pronuclei will then migrate towards one  another, rotate and fuse prior to form the first diploid nucleus of the zygote  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000212;class=Paper" target="_blank">Krieg et al., 1978</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pronuclearrotation"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">Pronuclear rotation</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An event during zygote formation during which the two pronuclei migrate  into close apposition in the posterior compartment of the single cell embryo,  then move 90<sup>o</sup> past each other  along the left/right axis so that they  lie virtually on top of one another prior to fusion. Then they fuse and create a diploid nucleus  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000088;class=Paper" target="_blank">Deppe et al., 1978</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000667;class=Paper" target="_blank">Albertson, 1984</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pronuclearstage"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">Pronuclear stage</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The earliest  events in zygote formation, a thirty minute period during which the pronuclei  disappear, reform, migrate, rotate and fuse with one another to create a  diploid nucleus.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pronucleus"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2133" target="_blank">Pronucleus</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The haploid nucleus of a  gamete at the time of fertilization. The  pronuclei of the oocyte and sperm, disappear, reform, migrate towards one another, rotate versus each other and fuse to create the first  diploid nucleus of the embryo prior to first mitosis (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000667;class=Paper" target="_blank">Allberston, 1984</a>;&nbsp;<a href="http://www.wormbook.org/chapters/www_celldivision/celldivision.html#d0e845" target="_blank">Oegema and Hyman, 2006</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="prophase"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.79" target="_blank">Prophase</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A stage in cell division,  the transition between <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=eurekah.figgrp.11541" target="_blank">G2 phase</a> and <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3346" target="_blank">M phase</a> in the cell cycle, during which  cytoskeletal proteins in the cytoplasm begin to rearrange to form a mitotic  spindle, while the chromosomes condense pairwise into sister chromatids within  the nucleus.&nbsp; These features are more  easily visualized by light microscopy techniques than by TEM.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proprioception"></a>Proprioception/ Proprioceptor </font></strong></td>
+							<td valign=top>Kinesthesia (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Sense of one's own body that leads to the orientation and coordination of movement. In <em>C. elegans</em>, proper proprioception generates <a href="http://labs.bio.unc.edu/Goldstein/crawl.mov" target="_blank">a sinusoidal pattern of movement</a>. This type of locomotion requires contraction of the <a href="../hermaphrodite/musclesomatic/Images/musfig7leg.htm" target="_blank">dorsal and ventral body muscles</a> in an alternating pattern, probably driven by several categories of non-specialized neuron  processes (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mechano.chapter.182#196" target="_blank">Voglis and Tavernarakis, 2005</a>). It is not known for certain how this sinusoidal wave is propagated, but it may be via the action of &quot;stretch receptors&quot;. The &ldquo;light touch response&rdquo; of  the touch neurons (<a href="../neurons/Individual Neurons/ALMframeset.html" target="_blank">ALM</a>, <a href="../neurons/Individual Neurons/PLMframeset.html" target="_blank">PLM</a>, <a href="../neurons/Individual Neurons/AVMframeset.html" target="_blank">AVM</a>, <a href="../neurons/Individual Neurons/PVMframeset.html" target="_blank">PVM</a>) could be reasonably compared to stretch sensitive, or proprioceptive, activation. Stretch-sensitive processes have also been  imputed among certain neurons in the male tail (Sulston et al., 1984) where the  processes may sense the status of spicule eversion or the positions of other  mating structures.</p>
+									<p>In the pharynx, neuronal endings attached by adherens  junctions or hemidesmosomes to the cuticle or muscle epithelium have been termed  proprioceptive by <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000009;class=Paper" target="_blank">Albertson and Thomson (1976)</a> and <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000015;class=Paper" target="_blank">Ward et al. (1975) </a>suggested that  some receptors of the lips could be proprioceptive by analogy to the structure  of campaniform sensilla in insects, which are believed to detect physical  stressing of the integument. It is also  possible that some receptors may be responsive to both mechanical sensations  produced by objects encountered in the local environment and from stretching  of the cuticle, spicules, or buccal cavity during self-produced body motions.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="propylenephnoxitol"></a>Propylene phenoxitol</font></strong></td>
+							<td valign=top>Phenoxypropanol (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A compound commonly used as  a reversible anaesthetic for <em>C. elegans</em> (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston and Horvitz, 1977</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="prostom"></a><a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">Prostom</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An anterior portion of the  buccal cavity, cylindrical in shape, in register with the arcade cells, just  behind the lips. It is lined by arcade cell cuticle. </p>
+									<p><br>
+										See <a href="cglossary.htm#cheilostom" target="_blank">Cheilostom</a><br>
+										See <a href="tglossary.htm#telostom" target="_blank">Telostom</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="protandricreproductivesystem"></a>Protandrous/ Protandric reproductive system </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A system in which the  germline produces sperm first, and then switches to producing oocytes. This  trait describes <em>C. elegans </em>reproduction.&nbsp;Some <em>Rhabditis</em> species can resume making sperm at repeated intervals,  interspersed with intervals of oocyte production (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proteasome"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mcb.figgrp.560" target="_blank">Proteasome</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A  large multimolecular complex, residing the in the cell cytoplasm, which is  responsible for the breakdown of ubiquinated proteins into small peptide fragments. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proteome"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=networkbio&rendertype=figure&id=A11108" target="_blank">Proteome</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The complete set of proteins in a given organism at a given time. The term could also be applied to the collection of proteins found in a particular cell type under specific conditions. For<em> C. elegans</em> protein mining, researchers can use <a href="www.wormbase.org" target="_blank">Wormbase</a>.</p>
+									<p><br>
+										See <a href="gglossary.htm#genome" target="_blank">Genome</a><br>
+										See <a href="oglossary.htm#orfeome" target="_blank">ORFeome</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="protodendrite"></a>Protodendrite</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Term  for  the short specialization extending from the young sensory neuron cell body to  the bodywall. It attaches the early cilium to the cuticle, prior to involution  of the cell body and extension of the dendrite, by passive stretching between  the cuticle and the receding cell body.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="protofilament"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2968" target="_blank">Protofilament</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The individual molecular  subunits which make up a microtubule. Microtubules can differ in their inherent  diameters depending upon how many protofilaments surround the tubule. Under special  conditions, protofilaments can be visualized by TEM as they split from the  microtubule (at &ldquo;minus ends&rdquo;), or can be grouped into sheet-like structures in  growing (&ldquo;plus end&rdquo;) microtubules (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00006216;class=Paper" target="_blank">O&rsquo;Toole et al., 2003</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="protractormuscle"></a><a href="../male/musclemale/jump.html?newLink=mainframe.htm&newAnchor=Spiculeprotractormuscles12" target="_blank">Protractor muscle</a> </font></strong></td>
+							<td valign=top>Spicule protractors (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The<a href="../male/musclemale/images/MaleMusFIG22.jpg" target="_blank"> two protractor muscles</a> (one dorsal dsp<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM3L.pa;class=Cell" target="_blank">L</a>/<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM3R.pa;class=Cell" target="_blank">R</a> and one ventral vsp<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM1L.aaa;class=Cell" target="_blank">L</a>/<a href="http://www.wormbase.org/db/cell/cell.cgi?name=SM1R.aaa;class=Cell" target="_blank">R</a>) are <a href="../male/musclemale/images/MaleMusFIG27.jpg" target="_blank">attached to the base of each spicule</a>. Contraction of the muscle causes <a href="../movies/Spicules.mpg" target="_blank">the spicules to extrude from the body</a>. They are <a href="../male/musclemale/images/MaleMusFIG31.jpg" target="_blank">directly innervated</a> by <a href="../neurons/Individual Neurons/SPCframeset.html" target="_blank">SPCL/R</a> neurons. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proximal"></a>Proximal</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An object lying  relatively close to the center or origin of a structure or reference point (in anatomy this usually is the main trunk of the body). The  converse of distal, meaning an object lying farther away.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proximalarm"></a><a href="../hermaphrodite/reproductive/Images/reprofig1leg.htm" target="_blank">Proximal arm</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>That portion of the  hermaphrodite gonad lying closer to the vulva and uterus; usually referring to  that portion lying between the vulva and the &ldquo;loop&rdquo;. The portion lying farther away from the vulva  and uterus, past the loop, is known as the distal arm.</p>
+									<p><br>
+										See <a href="dglossary.htm#distalarm" target="_blank">Distal arm </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="proximalepithelium"></a>Proximal epithelium </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A category of epithelial  tissue within the uterus, involving those portions <a href="../hermaphrodite/egglaying apparatus/Images/eggfig2leg.htm" target="_blank">proximal to the vulva </a>(e.g.  the dorsal epithelium, du, and the ventral epithelium, uv2 and uv3) (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002608;class=Paper" target="_blank">Newman  et al., 1996</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudocleavage"></a><a href="http://www.bio.unc.edu/faculty/goldstein/lab/flows.mov" target="_blank">Pseudocleavage</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A distinct period preceding  the complete division of the one-cell embryo during which directed flow of  cortical cell components cause rearrangements which prefigure an asymmetry to  the first cleavage (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001741;class=Paper" target="_blank">Hird and White, 1993</a>).  These changes include polarized flow of cytoplasm, pronuclear migration,  and reorganization of cortical actin networks just under the plasma membrane,  perhaps organized by the orientation of the mitotic spindle and a contractile  ring during cytokinesis.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudocleavagefurrow"></a><a href="http://www.bio.unc.edu/faculty/goldstein/lab/flows.mov" target="_blank">Pseudocleavage furrow </a></font></strong></td>
+							<td valign=top>Pseudocleavage constriction (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A belt-like region of indentation causing a noticeable narrowing or  constriction of the one-cell embryo along the midline, about halfway between  the anterior and posterior poles which closely resembles the cleavage furrow  that would occur after a nuclear mitosis as a step in cell division. While this furrow disappears after fusion of the pronuclei, a few minutes later the new diploid nucleus does undergo  mitosis and a new cleavage furrow is generated in virtually the same place. The cell then divides the two subsequent  cell daughters (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000667;class=Paper" target="_blank">Albertson, 1984</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001741;class=Paper" target="_blank">Hird and White, 1993</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudocoelom"></a><a href="../hermaphrodite/pericellular/jump.html?newLink=mainframe.htm&newAnchor=Pseudocoelom2" target="_blank">Pseudocoelom</a></font></strong></td>
+							<td valign=top>Pseudocoelomic cavity (S) <br>
+								Body cavity (S)<br>
+								Pseudocoel (S) <br>
+								Peri-enteric fluid (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A<a href="../hermaphrodite/pericellular/Images/perifig2leg.htm" target="_blank"> fluid-filled space</a> which separates the bodywall from internal organs. <a href="../hermaphrodite/pericellular/Images/perifig1leg.htm" target="_blank">Within this space</a> the  digestive tract and reproductive tract lie separately, each enclosed by its own  basal lamina. All tissues have their basal side turned towards this cavity and are covered there by basement membranes. Intercellular signals,  nutrients and waste products can travel between tissues within this space. Pseudocoelom fluids are prevented from leakage by barrier junctions in the surrounding epithelium.</p>
+									<p> <br>
+										See <a href="bglossary.htm#blastocoel" target="_blank">Blastocoel</a><br>
+										See <a href="cglossary.htm#coelomiccavity" target="_blank">Coelomic cavity</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudocoelomicfluid"></a>Pseudocoelomic fluid </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The contents of the cavity;  it may contain hypertonic salt solutions to maintain the animal&rsquo;s turgor  pressure, and to provide a medium through which signals and waste products can  flow.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudocoelomate"></a>Pseudocoelomate</font></strong></td>
+							<td valign=top>Aschelminthes (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A classification of  primitive animals characterized by the presence of the pseudocoelom. This  includes roundworms, rotifers, gastrotrichs, and others.&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudocoelomicmembrane"></a>Pseudocoelomic membrane </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A spongy structure bounding  the pseudocoelomic cavity.<a href="../hermaphrodite/pericellular/Images/perifig2leg.htm" target="_blank"> In <em>C. elegans </em>it consists  of basal laminae of the  major tissues</a>, where as in other nematode species it may contain some cell processes, fibrils, and tubular  systems (Bird and Bird, 1991).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudocoelomocyte"></a><a href="../hermaphrodite/coelomocyte/Coelomoframeset.html" target="_blank">Pseudocoelomocyte</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See <a href="cglossary.htm#coelomocyte" target="_blank">Coelomocyte </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudogamy"></a>Pseudogamy/ Pseudogamous</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A form of parthenogenesis  in which sperm is necessary to activate egg development, but where the male chromosomes are discarded, with the sperm pronucleus degenerating without fusing to the female  pronucleus. This condition can occur in  species that are hermaphroditic or bisexual (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>; <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=769504&query_hl=3&itool=pubmed_docsum" target="_blank">Anya, 1976</a>).  It is not known to occur in <em>C. elegans</em>, but has been reported for <em>Rhabditis aberrans</em>, another hermaphroditic species (Kruger, 1913).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudomale"></a>Pseudomale</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A mutant intersex phenotype  in which an animal exhibits some or all of the male tissues (male gonad, male  copulatory structures) while carrying the XX chromosomes. Some   fail to copulate successfully with hermaphrodites or females due to lack of  normal mating behavior (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000205;class=Paper" target="_blank">Klass et al., 1976</a>), but others are capable  of producing cross-progeny (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000178;class=Paper" target="_blank">Hodgkin and Brenner, 1977</a>), or may be fertile  hermaphrodites despite having secondary male features (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000478;class=Paper" target="_blank">Herman and Horvitz,  1980</a>).</p>
+									<p><br>
+										See <a href="iglossary.htm#intersex" target="_blank">Intersex</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudopod"></a>Pseudopodium/ Pseudopod/ Pseudopodia </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An elongated cell extension,  more narrow than a lamellipodium, but broader than a filopodium, which may be  extended in advance of a migrating cell or cell process. They are  present as <a href="http://www.mcb.arizona.edu/wardlab/spermtem.html" target="_blank">leading extensions on spermatozoa</a>, developing neuronal processes,  migrating hypodermal processes and somatic sheath cells. Migrating cells displaying trailing  pseudopodia include the distal tip cell of the gonad.</p>
+									<p><br>
+										See <a href="fglossary.htm#filopodium" target="_blank">Filopodium/ Filopodia</a><br>
+										See <a href="gglossary.htm#growthcone" target="_blank">Growth cone</a><br>
+										See <a href="lglossary.htm#lamellipodium" target="_blank">Lamellipodium/ Lamellipod/ Lamellipodia</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudopodelongation" id="pseudopodelongation"></a>Pseudopod elongation </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A required component of  pseudopod motility, apparently stemming from <a href="http://www.mcb.arizona.edu/wardlab/treadingvid.html" target="_blank">membrane flow within the pseudopod</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000529;class=Paper" target="_blank">Ward et al., 1981</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002791;class=Paper" target="_blank">Achanzar and Ward, 1997</a>).&nbsp;The <a href="http://www.mcb.arizona.edu/wardlab/crawlingvid.html" target="_blank">spermatozoon moves by amoeboid action</a> of the pseudopod, extending  membrane ruffles and short cell extensions to guide the cell forward, somewhat  like the movement of a neuron growth cone.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudopodinitiation"></a><a href="../hermaphrodite/germ line/Images/germfig9leg.htm" target="_blank">Pseudopod initiation</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An early step in the  creation of the pseudopod in a maturing spermatozoon, apparently due to the  fusion of membranous organelles with the plasma membrane to contribute membrane  and fibrous material to the growing pseudopod (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000529;class=Paper" target="_blank">Ward et al., 1981</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002791;class=Paper" target="_blank">Achanzar and  Ward, 1997</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pseudovulva"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=cellfusion&rendertype=figure&id=A2333" target="_blank">Pseudovulva</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An aberrant multicellular  structure caused by excessive inductive signals acting upon the VPC blast cells  to create an extra (nonfunctional) vulval specialization by inducing extra cell  divisions to create extra pi  blast cells and their progeny. These can  generally been seen by light microscopy as one or more small protrusions along  the ventral surface of the adult animal, flanking the location of the true  vulva.</p>
+									<p> <br>
+										See <a href="mglossary.htm#multivulvaphenotype" target="_blank">Multivulva phenotype </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="pumping"></a><a href="http://www.mcb.arizona.edu/wardlab/eatingvid.html" target="_blank">Pumping</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See <a href="#pharyngealpumping">Pharyngeal pumping </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="punctate"></a>Punctate</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Staining patterns seen by light microscopy in which the stain  highlights discrete spots (puncta) as opposed to diffuse staining. This term is often used with respect to  staining for synaptic proteins, in which <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=eurekah&part=A58943&rendertype=figure&id=A58951" target="_blank">labeling for either pre-synaptic  proteins</a> or <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=ionotropicglutatmaterecep&rendertype=figure&id=A6485" target="_blank">post-synaptic proteins tends to be punctate</a>, but also can refer to repeating patterns such as those in seen <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=sarcomereassemblycelegansmusc&rendertype=figure&id=A2685" target="_blank">muscle cells</a>. The &ldquo;punctate&rdquo; object should be compact but  may be irregular in shape.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="puncta"></a>Punctum/ Puncta </font></strong></td>
+							<td valign=top>Dot (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Individual structure(s) that  have small compact shapes, such as <a href="../hermaphrodite/nervous/Images/neurofig2DEleg.htm?rid=mechano.figgrp.193" target="_blank">synaptic swellings along an axon</a>. The term  implies the cohesive compact shape less than the exact size, since the punctate  shape of one signal may overlap that of another punctate signal of different  size, referring to separate components of a single larger element (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005543;class=Paperhttp://www.wormbase.org/db/misc/paper?name=WBPaper00005543;class=Paper" target="_blank">Hallam  et al., 2002</a>). In a mutant background,  the term is sometimes still used to refer to objects that are more compact in  wild type, but have become distorted and diffuse due to mutation.</p>
+									<p><br>
+										See <a href="sglossary.htm#synapticterminal" target="_blank">Synaptic terminal</a></p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: February 17, 2010. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary P. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.16</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

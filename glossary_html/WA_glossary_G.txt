@@ -1,0 +1,705 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary G</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - G </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="181"><span class="style27"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="204"><p class="style27"><font 
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style27">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="149"><span class="style27"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="919"><p class="style27"><font color="#009933">DESCRIPTION </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="104"><p><b><a name="g1g2"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004780" target="_blank">G1</a></b> <b><br>
+										<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004779" target="_blank">G2</a></b></p></td>
+							<td valign=top height="104">&nbsp;</td>
+							<td valign=top height="104"><p class="style25">ABprpaaaapa<br>
+								ABplapaapa</p></td>
+							<td valign=top><p><a href="../hermaphrodite/excretory/Images/ExcFIG10.jpg" target="_blank">Ventral ganglion neuroblasts</a>								present at hatching, located near the <a href="../hermaphrodite/excretory/Images/excfig9leg.htm" target="_blank">excretory pore</a>. <font color="#0033CC"><b><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004780" target="_blank">G1</a></b> </font>divides in L1 to produce ring motor neurons/ interneurons <a href="../neurons/Individual Neurons/RMHframeset.html" target="_blank">RMHR</a> (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0005009" target="_blank">G1.r</a>) and <a href="../neurons/Individual Neurons/RMHframeset.html" target="_blank">RMHL</a> (<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0005011" target="_blank">G1.l</a> ). <b><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004779" target="_blank">G2</a></b> divides in L2 to ring motor neurons /interneurons <a href="../neurons/Individual Neurons/RMFframeset.html" target="_blank">RMFR</a> (<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0005018" target="_blank">G2.ar</a>) and <a href="../neurons/Individual Neurons/RMFframeset.html" target="_blank">RMFL</a> (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0005019" target="_blank">G2.al</a>) and <a href="../hermaphrodite/excretory/jump.html?newLink=mainframe.htm&newAnchor=Porecell5" target="_blank">excretory socket/pore cell</a> (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004534" target="_blank">G2.p</a>).</p>
+									<p><br>
+										See <a href="http://www.wormatlas.org/ver1/handbook/excretory.htm" target="_blank">Excretory 
+											system</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gactin"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK21594/figure/A5147/"f+actin"+AND+mcb[book]+AND+106752[uid]&rid=mcb.figgrp.5147" target="_blank">G 
+								actin</a></b></td>
+							<td valign=top>Globular actin (S)<br>
+								Monomeric actin (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>G actin is the monomeric form of actin that is often stored in large pools so that it is available to form long polymers in the presence of ATP. These polymers are called<a href="http://www.ncbi.nlm.nih.gov/books/NBK9908/figure/A1767/" target="_blank"> F actin</a> (filamentous actin). G actin can also assemble with certain actin-binding proteins to form a gel-like 
+								network, a common cytoskeletal feature found in the lamellipodia of migrating 
+		      cells or as reinforcement to the plasma membrane in cells under stress. </p>
+									<p><br>
+										See <a href="aglossary.htm#actin" target="_blank">Actin</a><br>
+										See <a href="fglossary.htm#factin" target="_blank">F actin</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gneuron"></a>&#147;g&#148; 
+								neuron</b></td>
+							<td valign=top><font color="#0033CC"><a href="../neurons/Individual Neurons/ASGframeset.html" target="_blank"><b>ASG</b></a></font> cell (S)</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>See <a href="aglossary.htm#asgcell">ASG</a> cell </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="galvanotaxis"></a>Galvanotaxis</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A behavior in which the animal 
+								orients its body motion to the direction of a local electrical field. 
+								Most nematodes seem to have this capability, moving towards the cathode, 
+								but the nature of the response is not understood. <em>C. elegans</em> has been 
+								observed to move directly towards or away from a current source in an 
+								electric field (<font color="#0033CC"><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2617915/" target="_blank">Sukul 
+							  and Croll, 1978</a></font>).</p>
+									<p><br>
+										See <a href="tglossary.htm#taxis" target="_blank">Taxis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gamete"></a>Gamete</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A cell 
+								in the germline that will give rise to one or more germ cells (spermatozoa 
+								or oocytes) by later cell divisions and/or maturation.</p>
+									<p>Alternately, a gamete or a &#147;mature gamete&#148; can refer to a mature 
+										oocyte or spermatozoon, with a haploid set of chromosomes, that is a cell 
+										that is competent to fuse with another gamete to create a zygote. In <i>C. 
+											elegans,</i> the two precursors of <a href="../hermaphrodite/germ line/Germframeset.html" target="_blank">germline tissue</a> are <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004576" target="_blank">Z2</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004575" target="_blank">Z3</a>, the daughters 
+							of embryonic founder cell <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006773" target="_blank">P4</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gametogenesis"></a><a href="../hermaphrodite/germ line/Images/germfig6leg.htm" target="_blank">Gametogenesis</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The process 
+								through which gametes, ova or spermatozoa, are created.
+								
+							</p>
+									<p>For greater detail see <a href="../hermaphrodite/germ line/Germframeset.html" target="_blank">Germ line</a></p>
+									<p> 
+										See <a href="oglosssary.htm#oogenesis" target="_blank">Oogenesis</a><br>
+										See <a href="sglossary.htm#spermatogenesis" target="_blank">Spermatogenesis </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="ganglion"></a>Ganglion</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A cluster of neuron cell bodies  (somata). In higher animals, virtually  all ganglia also include a local zone of neuropil (synaptic processes), often as  a distinct profusion of short branches surrounded by a ring of cell  bodies. Thin glial sheets often separate  the somata from the neuropil. However,  in <em>C. elegans </em>most synapses are centralized in the <a href="http://www.wormatlas.org/cellIDhead1.html" target="_blank">nerve ring</a> and the major  motor nerve cords, so that many ganglia either lack neuropil, or exist as  separate cell clusters in loose association with the nerve ring neuropil. Ganglia associated with the nerve ring  include the dorsal, lateral (bilateral pair) and retrovesicular. Some ganglia in the tail have local neuropil only in the <a href="http://www.wormatlas.org/maletailneurons.html" target="_blank">adult male </a>(lumbar and dorso-rectal). Ganglia associated with the ventral nerve cord include the ventral and pre-anal.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gapjunction"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK26857/figure/A3498/" target="_blank">Gap junction</a> </b></td>
+							<td valign=top>Electrical synapse  
+								(S)</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A common (~600 per animal, <a href="../ver1/MoW_built0.92/toc.html?name=WBPaper00000938;class=Paper" target="_blank">White et al., 1986</a>) intercellular  junction found between opposing plasma membranes of two neighboring cells that  allows the intercellular transfer of electrons and small molecules. These generally occur between two <a href="../male/musclemale/images/MaleMusFIG25.jpg" target="_blank">like cells  within a tissue</a>, but can also occur between nerve and muscle, or between  <a href="../hermaphrodite/somatic gonad/Images/somaticfig6leg.htm" target="_blank">somatic gonad and germline</a>. While in  higher vertebrates all gap junctions are formed by members of the connexin gene  family, <a href="../hermaphrodite/pharynx/Images/phafig7BCleg.htm" target="_blank">in nematodes</a> and other invertebrates, these junctions appear to be formed  only by members of the innexin family (<a href="http://onlinelibrary.wiley.com/doi/10.1002/bies.1057/abstract" target="_blank">Phelan and Starich, 2001</a>). These junctions may also be sites of  metabolic coupling.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gastrula"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK19716/figure/A4549/" target="_blank">Gastrula</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The form of the embryo at  the end of gastrulation, at which time the germ layers have moved inside the  embryo; the preceding stage is often called the blastula.<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gastrulation"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK19716/figure/A4549/" target="_blank">Gastrulation</a></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A key step in the early development of the  embryo, in which some cells from the outside of an relatively undifferentiated,  single mass of about 26 cells, begin to <a href="http://www.bio.unc.edu/faculty/goldstein/lab/gastr.html" target="_blank">migrate inward</a> from the ventral side  to create an inner cell layer from which mesodermal tissues will eventually be  derived. This step begins about 100 minutes after fertilization and is completed about 200 minutes later.  By the end of gastrulation, many cells among  both the inside and outside layers have begun to differentiate into distinctive  cell types and tissues, and the embryo begins to elongate. The <a href="http://www.ncbi.nlm.nih.gov/books/NBK19716/figure/A4555/" target="_blank">first cells to ingress</a> at gastrulation are  the founder cells <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006733" target="_blank">Ea</a> and <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006612" target="_blank">Ep</a> (which found the intestine), <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006773" target="_blank">P4</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=P4;class=Cell" target="_blank"></a> (which  founds the germline), the <a href="http://www.wormbase.org/db/cell/cell.cgi?name=MS;class=Cell" target="_blank">MS</a>  daughters, and some cells stemming from <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003810" target="_blank">C</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004873" target="_blank">D</a> and <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004015" target="_blank">AB</a> founder cells. </p>
+						    <p>Gastrulation has been described  in detail for <em>C. elegans</em> by <a href="http://www.wormatlas.org/ver1/Sulstonemblin_1983/toc.html" target="_blank">Sulston et al. (1983)</a>, <a href="dx.doi.org/10.1242/dev.00211" target="_blank">Lee and Goldstein (2003)</a> and by <a href="http://www.wormbook.org/chapters/www_gastrulation/gastrulation.html" target="_blank">Nance et al. (2005)</a>.</p>
+								<p><br>
+										See <a href="eglossary.htm#elongation" target="_blank">Elongation</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="genitalia"></a>Genitalia</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>This term is used  to refer to the secondary sexual features of the hermaphrodite and male. <a href="../male/neuronalsupport/images/MaleNeuroFIG1.jpg" target="_blank">Male genitalia</a> includes the male tail, such as the  fan, rays, spicules, and gubernaculum while the hermaphrodite's primary feature is the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig6ABleg.htm" target="_blank">vulva</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="genitalpapilla"></a>Genital papilla/papillae </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This term may sometimes be  used to refer collectively to the <a href="../male/rays/Rayframeset.html" target="_blank">male tail rays</a>, the <a href="../male/hook/Hookframeset.html" target="_blank">hook</a>, <a href="../male/spicules/Spicframeset.html" target="_blank">spicules</a>, and <a href="../male/postcloacal/PCSframeset.html" target="_blank">post-cloacal sensilla</a>, and  in older nematode literature was meant to refer specifically to the <a href="../male/rays/Rayframeset.html" target="_blank">rays</a>. The term could also refer more literally to an intermediate stage during ray formation,  just prior to ray extension, when each ray cell group actually does take the  form of a small bump in the cuticle, e.g.<a href="http://www.wormatlas.org/male/hypodermis/images/MaleHypFIG6.jpg" target="_blank"> a papilla</a>, before the ray extends to  adopt its adult appearance.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="genitalsenseorgans"></a><a href="../male/neuronalsupport/Neuroframeset.html" target="_blank">Genital sense organs</a> </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Refers to  the sensilla of the male tail, including those of the <a href="../male/spicules/Spicframeset.html" target="_blank">spicules</a>, <a href="../male/rays/Rayframeset.html" target="_blank">rays</a>, and those  <a href="../male/postcloacal/PCSframeset.html" target="_blank">surrounding the cloacal opening</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="genitaltract"></a>Genital tract </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td align="left" valign=top><p>See <a href="rglossary.htm#reproductivetract" target="_blank">Reproductive tract </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="genome"></a>Genome</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The complete collection of genes encoded  within the nucleus of a cell, including both expressed and unexpressed gene  sequences. The 97-megabase genomic sequence of <em>C. elegans </em>revealed over 19,000 genes, ~40% of which have predicted protein products that match  those in other organisms (<a href="https://dx.doi.org/10.1126/science.282.5396.2012" target="_blank"><em>C. elegans</em> Sequencing Consortium, 1998</a>). See <a href="http://www.wormbook.org/chapters/www_networkbio/networkbio.html" target="_blank">Piano et al. 2006 </a> for more detail. <a href="http://www.wormbase.org/" target="_blank">WormBase</a> is an online resource for information on the genomics of<em> C. elegans</em>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gentletouch" id="gentletouch"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_1" target="_blank">Gentle touch</a> </b></td>
+							<td valign=top>Light touch (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A mechanosensory behavior, mediated by<a href="http://www.ncbi.nlm.nih.gov/books/NBK19654/figure/A6607/" target="_blank"> six touch receptor neurons</a>. Response to gentle touch is <a href="http://www.ncbi.nlm.nih.gov/books/NBK19734/figure/A7509/" target="_blank">tested</a> by stroking the worm with a eyebrow hair (see <a href="http://video.mit.edu/watch/c-elegans-responding-to-a-touch-stimulus-8153/" target="_blank">video</a>). Stroking the anterior portion of the animal results in backward movement while touching the tail causes the animal to move forward (For review see <a href="http://dx.doi.org/10.1007/s00424-006-0187-x" target="_blank">Bounoutas and Chalfie, 2007</a>).</p>
+									<p><br>
+										See <a href="hglossary.htm#harshtouch" target="_blank">Harsh touch</a><br>
+										See <a href="mglossary.htm#mechanoreceptorneurons" target="_blank">Mechanoreceptor neurons</a><br>
+										See <a href="mglossary.htm#mechanosensation" target="_blank">Mechanosensation</a> <br>
+										See <a href="tglossary.htm#touchresponse" target="_blank">Touch response</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="geotaxis"></a>Geotaxis </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Directed movement in   response to the gravitational field that causes the animal to become oriented  to the source. Positive geotaxis is down toward the direction of gravity and carries the animal into the soil,  whereas negative geotaxis carries the animal upwards. No response to gravity has yet been  demonstrated in <em>C. elegans</em>.</p>
+									<p><br>
+										See <a href="tglossary.htm#taxis" target="_blank">Taxis</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="germcell"></a><a href="../hermaphrodite/germ line/Images/germfig2leg.htm" target="_blank">Germ cell </a></b> </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Any member cell of the male or female  germline, including sperm, oocytes, and their precursors. In the nematode gonad, the<a href="../hermaphrodite/germ line/Images/germfig6leg.htm" target="_blank"> germ line proliferates</a> from one primordial germ cell (PGC). Immature germ cells  are not completely cellularized; instead they each maintain a syncytial linkage  via the <a href="../hermaphrodite/germ line/Images/germfig2leg.htm" target="_blank">rachis</a>, yet also retain their individual plasma membrane  borders. Individual  &ldquo;cells&rdquo; seem to act independently within this syncytium, therefore each  connecting element, containing one nucleus, a few cytoplasmic organelles and a  bounding plasma membrane is considered a separate germ cell.</p>
+									<p><br>
+										See <a href="oglossary.htm#oocyte" target="_blank">Oocyte</a><br>
+										See <a href="sglossary.htm#spermatocyte" target="_blank">Spermatocyte</a><br>
+										See <a href="rglossary.htm#rachis" target="_blank">Rachis </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="germlayer"></a>Germ layer </b></td>
+							<td valign=top>Embryonic germ layer (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>In higher animals, this  term refers to three principal groups of cells that lie in separate layers and  give rise to separate tissues: ectoderm, mesoderm and endoderm.&nbsp; In <em>C. elegans</em>, such cell groups begin as just  small cell clusters in the early embryo, rather than as clearly separate layers  (ectoderm = <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004015" target="_blank">AB</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=AB;class=Cell" target="_blank"></a> + <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003810" target="_blank">C</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=C;class=Cell" target="_blank"></a> blast cells; mesoderm = <a href="http://www.wormbase.org/db/cell/cell.cgi?name=MS;class=Cell" target="_blank">MS</a> + <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003810" target="_blank">C</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=D;class=Cell" target="_blank"></a>; endoderm = <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004804" target="_blank">E</a>).&nbsp; Their lineages are not as restricted  as expected, so that the <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004015" target="_blank">AB</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=AB;class=Cell" target="_blank"></a> lineage provides a few mesodermal cells, while the <a href="http://www.wormbase.org/db/cell/cell.cgi?name=MS;class=Cell" target="_blank">MS</a> lineage provides a few ectodermal cells. Nonetheless, the term is occasionally used within <em>C. elegans</em> literature  to reference these few blast cells (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000473;class=Paper" target="_blank">von  Ehrenstein and Schierenberg, 1980</a>).&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><strong><a name="germplasm"></a>Germ plasm</strong><br>
+							</b></td>
+							<td valign=top><p>Germinal plasm  (S)<br>
+								Nuage (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Cytoplasm found in germline cells but not somatic cells. Germ plasm is composed of specific cytoplasmic components (proteins,  P granules, and nuclear DNA) present in the early embryo that segregate only to the progenitor cells of the germline and not to  the progenitors of the somatic lineages. This segregation process begins  with the very earliest cell divisions in the embryo (<a href="http://www.wormbook.org/chapters/www_asymcelldiv/asymcelldiv.html" target="_blank">G&ouml;nczy and Rose, 2005</a>) and restricts germ plasm to  the posterior P blastomeres, both by intracellular transport and anchorage of  these elements to the posterior pole (<a href="http://www.cell.com/retrieve/pii/0092867495900829" target="_blank">Guo and Kemphues, 1995</a>; <a href="http://dev.biologists.org/content/122/10/3075.long" target="_blank">Boyd et al., 1996</a>; <a href="http://www.cell.com/developmental-cell/retrieve/pii/S1534580702002265" target="_blank">Lyczak et al., 2002</a>), and by active degradative  mechanisms (<a href="http://www.cell.com/current-biology/retrieve/pii/S0960982203007693" target="_blank">Spike and Strome, 2003</a>; <a href="http://www.cell.com/developmental-cell/retrieve/pii/S1534580703002314" target="_blank">Pellettieri et al., 2003</a>). This active  degradation is one of the mechanisms by which the germ plasm matures into  embryonic cytoplasm in all somatic cells, while the germline progenitor cells  segregate and retain germ plasm at the posterior pole of the embryo.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="germinalcell"></a><a href="../hermaphrodite/germ line/Images/germfig6leg.htm" target="_blank">Germinal cell</a> </b></td>
+							<td valign=top>Germline precursor  (S)<br>
+							</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The founder cells of the germline, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004576" target="_blank">Z2</a><a href="Z2" target="_blank"></a> and <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004575" target="_blank">Z3</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z3;class=Cell" target="_blank"></a> (derived from <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006773" target="_blank">P<sub>4</sub></a>), and their daughters. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="germinalnucleus"></a>Germinal nucleus </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Referring to a nucleus of one of the  founder cells of the germline (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004576" target="_blank">Z2</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z2;class=Cell#results" target="_blank"></a> or <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004575" target="_blank">Z3</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z3;class=Cell" target="_blank"></a>), but not including nuclei that give  rise to somatic gonad (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004577" target="_blank">Z1</a> or <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004574" target="_blank">Z4</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="germinalvesicle"></a>Germinal vesicle </strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The nucleus of the primary oocyte at the  time of fertilization; it is the source of the female pronucleus prior to  pronuclear fusion. It generally lies at  the opposite pole from the site of sperm entry, and seems to break down (Germinal Vesicle Break Down -GVBD) shortly  after the fertilization event (Nigon, 1949; Nigon and Brun, 1955; <a href="http://dx.doi.org/10.1016/j.ydbio.2005.03.009" target="_blank">McNally and McNally, 2005</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="germinalzone"></a>Germinal zone </strong></td>
+							<td valign=top>Mitotic zone (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The portion of the gonad in  which the germ cells are mitotic. In the  hermaphrodite, these are <a href="../hermaphrodite/germ line/Images/germfig3A_Dleg.htm" target="_blank">the distal portions of the ovaries</a> which are found in the distal portion  of each of the two gonad arms. The <a href="../male/germline/images/MaleReproFIG17A.jpg" target="_blank">male germ line also exhibits distal-proximal polarity</a> with the mitotic cell population located at the most distal end of the gonad in the testis.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="germline"></a><a href="../male/germline/Germlineframeset.html" target="_blank">Germline</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The lineage that gives rise  to all germ cells in an animal, that is the spermatozoa, oocytes and their precursors,  through repeated  cell divisions stemming from a single founder cell,  the  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006773" target="_blank">P<sub>4</sub> blastomere</a>.</p>
+							<p>See also <a href="http://www.wormbook.org/chapters/www_introgermline/introgermline.html" target="_blank">Hubbard and Greenstein, 2005</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="germlinefoundercell"></a>Germline founder cell</b></td>
+							<td valign=top><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006773" target="_blank">P<sub>4</sub></a> blastomere </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The germline founder cell that gives rise, by mitotic cell divisions, to all of the germ cells, but does not contribute to the somatic portion of the gonad. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="germlineproliferation"></a><a href="http://www.wormbook.org/chapters/www_germlineprolifcontrol/germlineprolifcontrol.html" target="_blank">Germline proliferation</a> </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p><span class="style25"></span></p></td>
+							<td valign=top><p>The process by which the one primordial germ cell proliferates to become over a thousand cells in the adult animal. Initial proliferation occurs in the distal mitotic zone. Then, via a carefully regulated pathway, cells move proximally to a transition zone where they enter meiosis and later, gametogenesis. Germline proliferation arrests if larvae enter the dauer stage and resumes once normal development occurs. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="germlinetumor"></a>Germline tumor </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A mutant phenotype  involving germline proliferation, in which the germ cells proliferate in unchecked divisions. In one case, they complete the early stages of meiotic prophase, but then exit pachytene and return to a mitotic cycle. Mutations in <em><a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00001595" target="_blank">gld-1</a></em> produce this phenotype in hermaphrodites, but not males (<a href="http://www.genetics.org/content/139/2/607.long" target="_blank">Francis et al., 1995</a>). Other studies have shown that an inappropriate interaction between proximal sheath cells and undifferentiated germ cells can drive the formation of a proximal germline tumor implicating the somatic gonadal sheath in the regulation of germline development (<a href="http://dx.doi.org/10.1016/j.ydbio.2004.12.021" target="_blank">Killian and Hubbard, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gfp"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK22342/figure/A364/" target="_blank">GFP</a></b></td>
+							<td valign=top>Green fluorescent protein </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A commonly used<a href="http://wormclassroom.org/green-fluorescent-protein-gene-construction" target="_blank"> molecular marker used in  transgenic strains</a> to label a gene product, organelle, cell or tissue in live  animals. The original gene was derived  from <a href="http://jrscience.wcp.muohio.edu/movies/jellyfishC99.mov" target="_blank">jellyfish</a> and gives off a <a href="http://zeiss-campus.magnet.fsu.edu/articles/probes/jellyfishfps.html#gfp" target="_blank">green color</a> under <a href="http://wormclassroom.org/image/nerve-system-labeled-gfp" target="_blank">fluorescent illumination</a> (<a href="http://dx.doi.org/10.1126/science.8303295" target="_blank">Chalfie et al., 1994</a>). Alternate versions are now available which  give other colors such as <a href="http://zeiss-campus.magnet.fsu.edu/articles/probes/jellyfishfps.html#yfp" target="_blank">yellow</a> and <a href="http://zeiss-campus.magnet.fsu.edu/articles/probes/jellyfishfps.html#cfp" target="_blank">cyan</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003544;class=Paper" target="_blank">Miller et al., 1999</a>). Using GFP in<a href="http://www.wormbook.org/chapters/www_reportergenefusions/reportergenefusions.html" target="_blank"> reporter gene fusions</a> in <em>C. elegans</em> has become a well used tool for visualizing gene expression patterns (<a href="http://www.wormbook.org/chapters/www_reportergenefusions/reportergenefusions.html" target="_blank">Boulin et al., 2006</a>).</p>
+									<p><br>
+										See <a href="cglossary.htm#cfp" target="_blank">CFP</a><br>
+										See <a href="yglossary.htm#yfp" target="_blank">YFP</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="glandcell"></a>Gland cell </b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A variety of very different  cell types which share cytoplasmic features (such as large membrane-bound granules)  that suggest a role in secretion, thus termed gland cells. Most, but not all, extend long  ducts or cell processes away from the cell body to the site of secretion. They lie in different parts of the bodies, in association with  very different tissues, and may open externally or internally. Listed below are the gland cell types of <em>C. elegans</em>. Only the pharyngeal glands seem to have direct innervation  (<a href="../ver1/albertson_1975/toc.html?name=WBPaper00000009;class=Paper" target="_blank">Albertson and Thomson, 1976</a>). Although common in some other nematode species, there are no  &ldquo;caudal&rdquo; glands in <em>C. elegans</em>, which would secrete material out of the extreme  tail tip.<br>
+											<a href="../hermaphrodite/neuronalsupport/Images/neurofig26leg.htm" target="_blank"><br>
+											<strong>Amphid glands</strong></a> = amphid sheath cells with external opening <br>
+					<strong><a href="../hermaphrodite/pharynx/Images/phafig8A_Fleg.htm" target="_blank">Pharyngeal  glands</a></strong> = g1 (3 cells, one pair  fused)  and g2 (2 cells) all open to pharynx lumen (see also<a href="http://www.wormatlas.org/pharynxatlas/pharynxatlas.html" target="_blank"> Pharynx Atlas</a>)<br>
+											<strong><a href="../hermaphrodite/excretory/Images/excfig1leg.htm" target="_blank">Excretory gland</a></strong> = fusion of two  cells and opens  to excretory duct <br>
+											<strong><a href="../hermaphrodite/rectum/Images/rectfig1leg.htm" target="_blank">Rectal gland</a></strong> = composed of 3  (non syncytial) cells, opens  to intestinal lumen </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="glialcell"></a>Glial cell </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>In <em>C. elegans</em>, the sheath cells, socket  cells and structural cells bear some resemblance to glia, since they provide  thin wrapping structures around neuropil or axons, or produce protected  environments for nerve endings (dendrites).&nbsp;They may also provide substrates for outgrowth of growth cones (<a href="http://dx.doi.org/10.1016/S0896-6273(00)80021-5" target="_blank">Wadsworth et al., 1996</a>).<br> 
+								See <a href="../hermaphrodite/neuronalsupport/Neurosupportframeset.html" target="_blank">Neuronal support cells</a>.</p>
+								<p>While the <a href="../hermaphrodite/muscleGLR/MusGLRframeset.html" target="_blank">GLR cells</a> have been named as if they  might serve a glial function in the nervous system, in fact they appear to belong more properly  to the mesoderm and act as scaffold cells to the head muscles, not directly  touching the nerve ring itself, and therefore not serving a glial function per  se.</p>
+									<p><br>
+									See <a href="sglossary.htm#scaffoldcell" target="_blank">Scaffold cell</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="glottis"></a>Glottis</b></td>
+							<td valign=top>Metastom (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The portion of the posterior<a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank"> buccal  cavity</a> where cuticular flaps operate to open and close the pharyngeal lumen.</p>
+									<p><br>
+										See <a href="fglossary.htm#flaps" target="_blank">Flaps</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="glycocalyx"></a><a href="../hermaphrodite/pericellular/jump.html?newLink=mainframe.htm&newAnchor=Specializedglycoproteinmatrices4" target="_blank">Glycocalyx</a></b></td>
+							<td valign=top><p>Surface coat  (S)<br>
+								Envelope (S) </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>This term has multiple uses:</p>
+									<p><strong>1)</strong> An <a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank">outer coating of the  cuticle</a>, often called the &ldquo;<a href="http://www.ncbi.nlm.nih.gov/books/NBK20022/" target="_blank">surface coat</a>&rdquo; of the epicuticle. While its molecular makeup is not completely understood, it may  include glycoproteins (proteoglycans and mucins) and many tissues may  contribute components to it though it is known that it is non-collagenous. There are suggestions that some portions are secreted from the  pharyngeal and excretory glands (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000354;class=Paper" target="_blank">Singh and Sulston, 1978</a>; <a href="http://www.sciencedirect.com/science/book/9780120996513" target="_blank">Bird and Bird, 1991</a>),   the excretory system (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000706;class=Paper" target="_blank">Nelson and Riddle, 1984</a>; Bird et al., 1988; and by  analogy to <em>T. canis</em> data <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001755;class=Paper" target="_blank">Blaxter et al., 1992</a>), the sensory sheath cells of the sensilla  (Anne Hart&rsquo;s data), possibly from the lumenal surface of the intestine,   material deposited by transcuticular mechanisms from beneath the cuticle  (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002694;class=Paper" target="_blank">Blaxter and Bird, 1997</a>), or even material secreted by the newly fertilized embryo  (Hall, unpublished). Some species of  nematodes have specialized glands in the head or tail (epidermal glands) that  contribute secretions to the glycocalyx (<a href="http://www.sciencedirect.com/science/book/9780120996513" target="_blank">Bird and Bird, 1991</a>). By analogy, it seems possible that the rectal  glands in <em>C. elegans</em> tail may also  contribute to the cuticle's glycocalyx. The glycocalyx may serve multiple  functions, including as a lubricant (to aid in the animal&rsquo;s movements through  the environment), as a protective agent or in pheromone signaling to other  nematodes.</p>
+								<p><strong>2)</strong> The  extracellular coating on <a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank">microvilli of intestinal cells</a> facing the lumen. The molecular nature of this feature has not  yet been determined in <em>C. elegans</em>. </p>
+								<p><strong>3)</strong> The  extracellular coating over the lumenal surface of the <a href="../hermaphrodite/excretory/Images/excfig7BCleg.htm" target="_blank">excretory canal</a>  sinus. Known to include<a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00002827" target="_blank"> LET-653</a> mucin  (<a href="http://www.biochemj.org/bj/357/0167/bj3570167.htm" target="_blank">Guerardel et al., 2001</a>).</p>
+								<p><strong>4)</strong> The  extracellular coat on the surface of the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig11BCleg.htm" target="_blank">uterine epithelium</a>, facing the lumen which may help to cement the lumen into an &ldquo;open&rdquo; position to create the egg chamber  in the adult gonad (White, Southgate and Hall, unpublished). </p>
+								<p><strong>5) </strong>A <a href="../hermaphrodite/pericellular/Images/perifig2leg.htm" target="_blank">covering of the surface</a> of the proximal 2-3 oocytes between the sheath and the oocytes. </p>
+								<p><strong>6)</strong> The  <a href="../hermaphrodite/pericellular/Images/perifig5leg.htm">temporary coat on the young embryo</a> immediately after fertilization, which forms  within seconds and is then shed upon secretion of the eggshell.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="glycogen"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK28412/figure/A3483/" target="_blank">Glycogen</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A polysaccharide  molecule used as a means to store glucose in certain tissues. It is prominently seen by <a href="http://www.wormimage.org/image.php?id=130737&page=1" target="_blank">TEM in muscle arms and in  hypodermis</a> in well fed <em>C. elegans</em> adults. These small  storage granules have an electron lucent, particulate appearance by TEM (about 10-40 nm diameter), often appearing brighter than any other object, as if  they fail to stain or even to be infiltrated by the plastic resin. They may appear as very light particles in  thick sections observed by light microscopy. They lie  in large free clusters in the cytoplasm, away from other organelles,  and have no associated membrane.</p>
+									<p><br>
+										See <a href="#gutgranule">Gut granule</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="golgi"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK26941/figure/A2347/" target="_blank">Golgi</a></b></td>
+							<td valign=top><p>Golgi apparatus (S) <br>
+								Golgi body (S) <br>
+								Dictyosome (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Large membranous organelles  lying in the cell cytoplasm, often clustered near the nucleus and the RER; more  numerous in cells with high level of secretory activity.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gonad"></a><a href="../hermaphrodite/reproductive/Images/reprofig1leg.htm" target="_blank">Gonad</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A specialized  tissue of the reproductive tract that produces the male or female gametes. In hermaphroditic nematodes, one gonad, or &ldquo;ovotestis&rdquo;, can produce both male gametes and female gametes in succession.  The <a href="../hermaphrodite/reproductive/Images/reprofig1leg.htm" target="_blank">reproductive tract in the hermaphrodite </a>has two equivalent gonad &ldquo;arms&rdquo;,  while <a href="../hermaphrodite/introduction/IMAGES/introfig5leg.htm" target="_blank">the male </a>has a one-armed gonad. Each gonad arm bends in the middle (a reflexion, often called the <a href="../hermaphrodite/somatic gonad/Images/somaticfig5leg.htm" target="_blank">&quot;loop&quot;</a>). As it grows longer, that portion lying closer to the gonopore (vulva or  cloaca) is termed the &ldquo;proximal arm&rdquo;, while the &ldquo;distal arm&rdquo; lies further  away with the extreme end named the &quot;<a href="../hermaphrodite/somatic gonad/Images/somaticfig4leg.htm" target="_blank">distal tip</a>&rdquo;. Each mature gonad arm  generally consists of a core of germline cells surrounded by an outer somatic  epithelium (<a href="../hermaphrodite/somatic gonad/Somframeset.html" target="_blank">somatic gonad</a>), comprised of the <a href="../hermaphrodite/musclenonstriated/Images/musfig23leg.htm" target="_blank">gonad sheath</a> (ovary), <a href="../hermaphrodite/somatic gonad/Images/somaticfig7leg.htm" target="_blank">spermatheca</a>, <a href="../hermaphrodite/egglaying apparatus/Images/eggfig3leg.htm" target="_blank">uterus</a> (oviduct) and <a href="../hermaphrodite/egglaying apparatus/Images/eggfig6ABleg.htm" target="_blank">vulva</a> in the hermaphrodite, or gonadal  sheath, <a href="../male/somaticgonad/images/MaleReproFIG8.jpg" target="_blank">seminal vesicle</a> and <a href="../male/proctodeum/images/MaleProcFIG2.jpg" target="_blank">cloaca</a> in the <a href="../male/somaticgonad/Somaticgonadframeset.html" target="_blank">male</a>. </p>
+									<p><br>
+										See <a href="dglossary.htm#distaltipcell" target="_blank">Distal tip cell</a><br>
+										See <a href="oglossary.htm#ovary" target="_blank">Ovary</a><br>
+										See <a href="oglossary.htm#oviduct" target="_blank">Oviduct</a><br>
+										See <a href="sglossary.htm#sheath" target="_blank">Sheath</a><br>
+										See <a href="sglossary.htm#seminalvesicle" target="_blank">Seminal vesicle</a><br>
+										See <a href="tglossary.htm#testis" target="_blank">Testis</a><br>
+										See <a href="uglossary.htm#uterus" target="_blank">Uterus</a><br>
+										See <a href="vglossary.htm#vasdeferens" target="_blank">Vas deferens</a>&nbsp;&nbsp; </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gonadalleader"></a>Gonadal leader </b></td>
+							<td valign=top><p> Distal tip cell (S)<br>
+								Linker cell (S) </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The somatic gonad cell, also known as the <a href="../hermaphrodite/somatic gonad/Images/somaticfig3leg.htm" target="_blank">distal tip cell</a> (in the hermaphrodite) or the<a href="../male/somaticgonad/images/MaleReproFIG4.jpg" target="_blank"> linker cell</a> (in the male), which  guides the outgrowth of the gonad primordium into an extended tube-shaped  structure. It crawls along the bodywall,  pulling or leading the developing gonadal cells which are behind it, while  also secreting a signal which causes nearby germ cells to remain in mitosis. The <a href="../hermaphrodite/somatic gonad/Images/somaticfig3Eleg.htm" target="_blank">two-armed gonad</a> in the hermaphrodite has  two leader cells, whereas the <a href="../male/somaticgonad/images/MaleReproFIG3.jpg" target="_blank">one-armed male gonad</a> has one leader cell.</p>
+									<p> <br>
+										See <a href="dglossary.htm#distaltipcell" target="_blank">Distal tip cell</a><br>
+										See <a href="lglossary.htm#linkercell" target="_blank">Linker cell</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gonadalmigration"></a><a href="../hermaphrodite/germ line/Images/germfig6leg.htm" target="_blank">Gonadal migration</a> </b></td>
+							<td valign=top><p>&nbsp; </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>This term refers to the gross movement of  the whole structure of the gonad along the bodywall, behind the gonadal leader cell and away from the developing  vulva. The gonad primordium begins as a cluster of four blast cells on the  ventral side of the midbody in the embryo.&nbsp;During larval stages these cells begin to divide and create a much larger  mass of cells which then must be shaped into a long tubular epithelium  surrounding an extended mass of germ cells.&nbsp;Eventually, each gonad arm migrates away from the vulva, turns  dorsally and then reflects back towards the midpoint along the bodywall. See <a href="../movies/Germlinedev.swf" target="_blank">animation</a>. </p>
+									<p> <br>
+										See <a href="dglossary.htm#distaltipcell" target="_blank">Distal tip cell </a><br>
+										See <a href="rglossary.htm#reflexion" target="_blank">Reflexion </a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gonadalprimordium"></a><a href="../hermaphrodite/somatic gonad/Images/somaticfig1leg.htm" target="_blank">Gonadal primordium</a> </b></td>
+							<td valign=top><p>&nbsp; </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A <a href="../hermaphrodite/egglaying apparatus/Images/eggfig14B_Dleg.htm" target="_blank">small cluster of cells</a> in the embryo and young larva that begin to  develop into the gonad during the late L1 stage. Initially the primordium  consists of just four cells:<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004577" target="_blank"> Z1</a>and <a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z4;class=Cell#results" target="_blank"> Z4</a> give rise to the somatic cells of gonad,  while <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004576" target="_blank">Z2</a><a href="Z2" target="_blank"></a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z2;class=Cell#results" target="_blank"></a> and <a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z3;class=Cell#results" target="_blank"> Z3</a> give rise to the germline itself. Their subsequent lineages  are sex-specific and occur during larval development (<a href="../ver1/postemblingonad_1979/toc.html?name=WBPaper00000193;class=Paper" target="_blank">Kimble and Hirsh, 1979</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gonadogenesis"></a><a href="http://www.wormbook.org/chapters/www_introgermline/introgermline.html#d0e48" target="_blank">Gonadogenesis</a></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The developmental process  through which the adult gonad is formed from an initial set of four blast  cells, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004577" target="_blank">Z1</a>,<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004576" target="_blank"> Z2</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z1;class=Cell" target="_blank"></a>,  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004575" target="_blank">Z3</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=Z3;class=Cell" target="_blank"></a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004574" target="_blank">Z4</a>, born in the early embryo (<a href="../ver1/postemblingonad_1979/toc.html?name=WBPaper00000193;class=Paper" target="_blank">Kimble and Hirsh, 1979</a><a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000193;class=Paper" target="_blank"></a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gonadsheath"></a><a href="../hermaphrodite/musclenonstriated/Images/musfig23leg.htm" target="_blank">Gonad sheath</a></b></td>
+							<td valign=top>Cellular sheath (S)<br>
+								Somatic sheath (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A set of five cell pairs  which form a thin continuous tube surrounding the proximal portions of the  ovary and covering the maturing oocytes from the spermatheca to the loop region  and over the near portion of the distal gonad arm. These cells are tightly joined to each other  and to the spermatheca by adherens junctions, have fenestrations which permit yolk  to pass from the pseudocoelom to maturing oocytes, and communicate directly to mature oocytes by gap junctions.&nbsp;The most distal sheath cell pair extends long filapodia over the distal  germline to stretch the sheath over the distal arm (<a href="http://dx.doi.org/10.1006/dbio.1999.9356" target="_blank">Hall et al., 1999</a>).</p>
+								<p>See <a href="../hermaphrodite/musclenonstriated/jump.html?newLink=mainframe.htm&newAnchor=Contractilegonadsheath8" target="_blank">Contractile gonad sheath of the hermaphrodite </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gonochoristic"></a>Gonochoristic</b></td>
+							<td valign=top>Gonochoric (S) </td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>The method of  reproduction in which male and female germ cells are provided by two sexes and  fertilized within the female. As opposed  to hermaphroditism or parthogenesis. </p>
+									<p> <br>
+										See <a href="dglossary.htm#dioecious" target="_blank">Dioecious</a> <br>
+										See <a href="hglossary.htm#hermaphrodite" target="_blank">Hermaphrodite</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gonoduct"></a>Gonoduct</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>An archaic term referring collectively to those passageways which carry  germ cells or fertilized oocytes within the body, e.g. the gonad sheath,  uterus, and vulva in the hermaphrodite, and the vas deferens in the male.</p>
+									<p> <br>
+										See<a href="rglossary.htm#reproductivetract" target="_blank"> Reproductive tract </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gonopore"></a>Gonopore</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A narrow body opening  through which germ cells and/or embryos are released into the exterior. </p>
+									<p> <br>
+										See <a href="cglossary.htm#cloaca" target="_blank">Cloaca</a> <br>
+										See<a href="vglossary.htm#vulva" target="_blank"> Vulva </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gpilinkage"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK9889/figure/A1486/" target="_blank">GPI-linkage</a></b></td>
+							<td valign=top><p>GPI-anchor<br>
+								GPI-anchorage</p>
+									<p>&nbsp;</p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A protein that becomes attached to the  plasma membrane via a specific covalent linker involving  glycosylphosphotidylinositol (GPI) rather than via a transmembrane protein  sequence.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="granule"></a>Granule</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A dark-staining object in the cell  cytoplasm or in the nucleoplasm. These usually correspond to a membrane-bound, secretory or storage vesicle (a <a href="../hermaphrodite/pericellular/Images/perifig2leg.htm" target="_blank">yolk granule</a>, for instance), but could also  refer to a compact dense structure without a  membranous coat (such as a <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=dbio&part=A1767&rendertype=figure&id=A1773" target="_blank">P granule</a>).</p>
+									<p>Alternately,  an &ldquo;internal granule&rdquo; can be a small dark object lying within a larger clear  vesicle or vacuole (<a href="http://dx.doi.org/10.1006/dbio.1999.9471" target="_blank">Leung et al., 1999</a>).</p>
+								<p> <br>
+									See <a href="#glycogen">Glycogen</a> <br>
+									See <a href="pglossary.htm#pgranules" target="_blank">P granules </a><br>
+									See <a href="sglossary.htm#secretorygranule" target="_blank">Secretory granule </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gravid"></a>Gravid</b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>Generally means carrying eggs or unborn young (being pregnant). In <em>C. elegans</em> refers to an <a href="../hermaphrodite/introduction/IMAGES/introfig1leg.htm" target="_blank">adult hermaphrodite full of fertilized eggs and embryos</a>. </p>
+									<p> <br>
+										See <a href="pglossary.htm#postreproductive" target="_blank">Post-reproductive</a> <br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="grinder"></a><a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm?ID=1848&name=N2T" target="_blank">Grinder </a></b></td>
+							<td valign=top><p> Teeth (S)<br>
+								Cuticle knobs (S) <br>
+								Esophageal valve (S) </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style25"></span></td>
+							<td valign=top><p>A highly specialized <a href="http://www.wormimage.org/image.jsp?ID=1848&name=N2T" target="_blank">cuticle  region of the pharynx</a> inside the lumen of the <a href="../hermaphrodite/pharynx/Images/phafig2leg.htm" target="_blank">second bulb</a>, secreted by the lumenal surface of the <a href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank">pm6 and pm7 muscle cells</a> (<a href="http://www.ncbi.nlm.nih.gov/books/NBK20143/" target="_blank">Avery and Thomas, 1997</a>). The grinder appears to  physically break open bacteria to aid in their digestion. These irregular teeth are probably scraped  against one another by motor actions of radial muscles (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003724" target="_blank">pm6</a>)  and longitudinal muscles (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003721" target="_blank">pm7</a>). </p>
+									<p>Some authors interpret this  structure as a valve rather than a feeding apparatus (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas, 1975</a>). In this interpretation, the interlocking  teeth are essential to regulate pressure changes within the lumen and to seal  the contents from backflow out the buccal opening during pumping. <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank">Nicholas  (1975)</a> suggests that high turgor pressure will normally act to shut down the  lumen, but that coordinated opening of first the anterior and then the  posterior haustrulum (by muscle contractions in the second bulb) permits  one-way passage of food particles via a click-shut mechanism of the valve&rsquo;s  teeth. </p>
+								<p><br>
+									See <a href="hglossary.htm#haustrulum" target="_blank">Haustrulum</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="groundsubstance"></a>Ground substance </b></td>
+							<td valign=top><p>Ground material (S)<br>
+								Matrix (S)</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Material which evenly fills  the cytoplasmic space (cytosol) or extracellular space in a  proscribed region. It may be of medium density or very electron dense. It often forms a distinct background for other  darker or lighter objects (with more distinctive borders or membranes) within  the same space.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="growthcone"></a><a href="http://www.wormatlas.org/ver1/durbinv1.2/figs/full_jpg/fig1.1full.jpg" target="_blank">Growth cone</a> </b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An enlargement of the  distal end of a growing axon, from which several lamellipodia and thin filapodia extend along  the bodywall to lead the growth cone in a particular direction, based upon the  reception of guidance cues from the local environment. Receptors expressed in the growth cone  membrane are thought to transduce attractive and repulsive cues which either  promote further filapodial (or lamellipodial) extensions towards the signal  source, or cause filapodial collapse and turning away. The shape of the growth cone is very plastic,  based upon actin-based cytoskeletal dynamics, whereas the trailing axon shape  is more stable, based mostly upon microtubule extension to shape its structure.</p>
+									<p><br>
+										See <a href="#guidancecue">Guidance cue</a><br>
+										See <a href="fglossary.htm#filapodium" target="_blank">Filapodium</a> <br>
+										See <a href="fglossary.htm#followeraxon" target="_blank">Follower axon</a> <br>
+										See <a href="pglossary.htm#pioneeraxon" target="_blank">Pioneer axon</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gubernaculum"></a><a href="../male/musclemale/images/MaleMusFIG34.jpg" target="_blank">Gubernaculum</a></b></td>
+							<td valign=top>Spicular pouch (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A sclerotized cuticular structure at the  base of the male tail fan which houses the retracted <a href="../male/spicules/Spicframeset.html" target="_blank">spicules</a> and guides the  eversion of the spicules through the anus. It also features a small sensory &ldquo;<a href="../male/hook/Hookframeset.html" target="_blank">hook</a>&rdquo;  at the base of the spicules which may be involved in triggering their  eversion. In  some references, this structure also includes the <a href="../male/postcloacal/images/MalePCSFIG1A.jpg" target="_blank">cloacal opening</a>, and the  ventral side of the tail fan.</p>
+									<p>Alternately, <a href="http://www.wormatlas.org/ver1/Sulston postembmale_1980/toc.html" target="_blank">Sulston  et al. (1980)</a> uses this term to refer only to the sclerotized cuticle itself;  but this usage seems non-standard.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gubernacularmuscles"></a><a href="../male/musclemale/jump.html?newLink=mainframe.htm&newAnchor=Gubernacularmuscles2" target="_blank">Gubernacular muscles</a> </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A specialized set of sex-specific muscles attached to the gubernaculum in  the male tail which are required to change the shape of the gubernaculum during male  mating behavior. These <a href="../male/musclemale/images/MaleMusFIG34.jpg">two bilateral muscle pairs</a> are the gubernacular <a href="../male/musclemale/jump.html?newLink=mainframe.htm&newAnchor=Gubernacularerectormuscles21" target="_blank">erectors</a> (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003796" target="_blank">gecL</a>/<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003795" target="_blank">R</a>) and <a href="../male/musclemale/jump.html?newLink=mainframe.htm&newAnchor=Gubernacularretractormuscles" target="_blank">retractors</a> (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003794" target="_blank">grtL</a>/<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003793" target="_blank">R</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="guidancecue"></a>Guidance cue </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Items  along the trajectory of a moving object (whole animal, cell, tissue, organelle,  or cell part) that are used in determining changes in direction. They can consist of physical barriers to continued progress, differences in adhesive  qualities of the substrate, or molecular signals provided into the medium as  soluble factors or membrane-bound moieties. Molecular cues might be arrayed as graded signals along the trajectory,  or in broad stripes, and may be attractive or repulsive to the  moving object.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="guidepostcell"></a>Guidepost cell </b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This term is used in  reference to a common mechanism of axon guidance. The guidepost cell is thought to present a <a href="#guidancecue">&ldquo;guidance cue&rdquo;</a> on its plasma membrane or secrete the cue into its surround  (perhaps onto the local basal lamina).  The cue molecules act to attract or repel the advance of certain axon  growth cones which express a receptor for that guidance cue.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gustatoryplasticity"></a>Gustatory plasticity </b></td>
+							<td valign=top><br>
+							</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A form of chemotaxis  behavior in which pre-exposure to high salt changes the animal&rsquo;s preference to  intermediate salt concentrations (<a href="http://dx.doi.org/10.1093/emboj/21.5.986" target="_blank">Jansen et al., 2002</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gut"></a><a href="../hermaphrodite/intestine/Intframeset.html" target="_blank">Gut</a></b></td>
+							<td valign=top>Intestine (S) <br>
+							</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A general term which may  refer both to the intestine and to related muscles and valves which regulate  intake or outflow of its contents.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><b><a name="gutgranule"></a>Gut granule</b></p>
+									<p><b> <br>
+								</b></p></td>
+							<td valign=top height="111"><p><br>
+							</p></td>
+							<td valign=top height="111"><p class="style25">&nbsp;</p>
+									<p class="style25"><br>
+								</p></td>
+							<td valign=top><p>A nonspecific term which may encompass a  variety of different inclusions within the intestinal cytoplasm, including  birefringent crystalline objects and other dark-staining endosomes. Their contents might include <a href="#glycogen">glycogen</a> granules (polysaccharide storage), rhabditin (carbohydrate storage), yolk granules  (lipid and protein), and concentrated waste products.</p>
+									<p>In some naming schemes, the more highly birefringent crystals may be  termed as &ldquo;spheroids&rdquo; or &ldquo;spherocrystals&rdquo; while dense-staining, less  birefringent objects are categorized as gut granules, and non-staining polysaccharide deposits are categorized  separately as glycogen granules. </p>
+								<p><br>
+									See <a href="#glycogen">Glycogen</a><br>
+									See <a href="rglossary.htm#rhabditin" target="_blank">Rhabditin</a><br>
+									See <a href="yglossary.htm#yolk" target="_blank">Yolk </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a name="gymnostom"></a>Gymnostom</b></td>
+							<td valign=top>Prostom (S)<br>
+							</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The middle portion of the  buccal capsule, bordered by the arcade cells. This region lies just anterior to  the stegostom and posterior to the cheilostom (<a href="http://link.springer.com/article/10.1007/s004270050208" target="_blank">Dolinski et al., 1998</a>).</p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">This section should be cited as: Herndon, L.A., Lints, R. and Hall, D.H. 2009. Glossary G. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.7">10.3908/wormatlas.6.7</a></span><span class="style1"><br>
+					  Edited for the web by Laura A. Herndon. Last revision: December 18, 2013. </span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

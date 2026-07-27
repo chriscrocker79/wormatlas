@@ -1,0 +1,1426 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary D</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+.style11 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svgv" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - D </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr>
+							<td valign=top width="262"><span class="style8"><font color="#993300">PART/CELL 
+								NAME </font></span></td>
+							<td valign=top width="150"><p class="style8"><font color="#0033CC">ABBREVIATION</font></p>
+									<p class="style8">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="137"><span class="style8"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="503"><span class="style8"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="d" id="d"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004873" target="_blank">D</a> </b></td>
+							<td width="150" valign=top class="style18" ><p>D blastomere (S)<br>
+								D founder cell (S)</p></td>
+							<td width="137" valign=top class="style18" ><span class="style25">P0.pppa </span></td>
+							<td width="503" valign=top class="style18" ><p>Embryonic founder cell. Gives 
+								rise to 20 somatic muscle cells and no other cell types.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><a name="dmotorneurons"></a>D 
+								motor neurons</b></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>Class D motor neurons are a 
+								subset of the ventral cord motor neurons which drive the bodywall muscles. 
+								They are postulated to serve as cross-inhibitors, causing muscle relaxation 
+								of bodywall muscles on the opposite side from the muscles undergoing strong 
+								contraction during the propagation of a sinusoidal body wave. This class 
+								includes <a href="../neurons/Individual Neurons/VDframeset.html" target="_blank">VD</a> and <a href="../neurons/Individual Neurons/DDframeset.html" target="_blank">DD</a> neurons. </p>
+									<p><br>
+										See <a href="#ddneurons">DD neurons </a><br>
+										See <a href="vglossary.htm#vdcells">VD neurons </a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18" ><b><a name="daneurons" id="daneurons"></a><a href="../neurons/Individual Neurons/DAframeset.html" target="_blank">DA neurons </a></b></td>
+							<td width="150" valign=top class="style18" ><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004871" target="_blank">DA1</a> <br>
+			      <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004869http://www.wormbase.org/db/cell/cell.cgi?name=DA2;class=Cell" target="_blank">DA2</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004867" target="_blank">DA3</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004865" target="_blank">DA4</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004863" target="_blank">DA5</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004861" target="_blank">DA6</a> <br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004859" target="_blank">DA7</a> <br>
+								  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004858" target="_blank">DA8</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004857" target="_blank">DA9</a></td>
+							<td width="137" valign=top class="style18"><span class="style25">ABprppapaap <br>
+								ABplppapapa <br>
+								ABprppapapa <br>
+								ABplppapapp <br>
+								ABprppapapp <br>
+								ABplpppaaap <br>
+								ABprpppaaap <br>
+								ABprpapappp <br>
+								ABplpppaaaa</span></td>
+							<td width="503" valign=top class="style18" ><p>Ventral cord &quot;dorsal A&quot; 
+								motor neurons, innervate dorsal muscles, and are cholinergic. Function 
+								in backward locomotion. Receive input from the driver interneuron <a href="../neurons/Individual Neurons/AVAframeset.html" target="_blank">AVA</a>, 
+								modulator interneuron <a href="../neurons/Individual Neurons/AVDframeset.html" target="_blank">AVD</a> and <a href="../neurons/Individual Neurons/AVEframeset.html" target="_blank">AVE</a>. Send output to inhibitory<a href="../neurons/Individual Neurons/VDframeset.html" target="_blank"> VD</a> neurons. </p>
+									<p><br>
+										See <a href="http://www.ncbi.nlm.nih.gov:80/books/bv.fcgi?call=bv.View..ShowSection&rid=ce2.section.780" target="_blank">Locomotion 
+											circuit</a><br>
+								</p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="daf"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000637" target="_blank">daf</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>DAuer Formation abnormal mutant </p>
+									<p><br>
+										See <a href="#dauer">Dauer</a><br>
+										See <a href="#dauerconstitutive">Dauer constitutive</a><br>
+										See <a href="#dauerdefective">Dauer defective</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b>DAPI</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="#dapi">4'-6-Diamidino-2-phenylindole</a> </td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="darkcoredvesicle"></a>Dark-cored 
+								vesicle</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="#densecorevesicle">Dense 
+								core vesicle</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dasneurons"></a>DAS 
+								neurons</b></td>
+							<td width="150" valign=top class="style18"><a href="../neurons/Individual Neurons/ASframeset.html" target="_blank">AS </a>motor neurons (S)</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="aglossary.htm#ascells" target="_blank">AS 
+								cells</a></td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauer" id="dauer"></a><a href="http://www.wormatlas.org/dauer/dauerhomepage.htm" target="_blank">Dauer</a></b></td>
+							<td width="150" height="12" valign=top class="style18"><a href="http://www.wormbook.org/chapters/www_dauer/dauer.html" target="_blank">Dauer 
+								larva</a> (S)</td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18"><p>An <a href="../hermaphrodite/introduction/IMAGES/introfig6leg.htm" target="_blank">alternative larval stage</a> which <i>C. elegans </i>enters in preference to becoming an L2 larva when 
+								placed under conditions of environmental stress, low food supply, or crowding 
+								(<a href="http://dx.doi.org/10.1016/0012-1606(75)90109-8" target="_blank">Cassada and Russell, 1975</a>; <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2617852/" target="_blank">Riddle, 1978</a>). This stage has <a href="../hermaphrodite/introduction/IMAGES/introfig8leg.htm" target="_blank">a longer, thinner 
+									body shape</a> than the L2 larva, is less active, and able to cross physical 
+								barriers (by ignoring aversive stimuli) to escape its current conditions. 
+								The dauer larva has a <a href="../dauer/cuticle/Images/dcutfig4leg.htm?book=ce2&part=A888&rendertype=figure&id=A890" target="_blank">closed mouth</a>  and does not feed. Its intestinal cells are filled with <a href="../dauer/intestine/Images/dintfig3leg.htm" target="_blank">electron dense storage granules</a>. Upon reaching more 
+								favorable conditions the dauer molts directly into the L3 stage and resumes 
+								normal development. A dauer larva can remain in this stage for four to 
+								eight times the normal 3-week life span of nondauer animals. It is covered 
+<a href="../dauer/cuticle/Cutframeset.html" target="_blank"> cuticle</a>, and most tissues may be reduced in volume.</p>
+									<p>Mutants are available which increase (<a href="#dauerconstitutive">DAuer Formation constitutive</a>; daf-c) 
+										or decrease (<a href="#dauerdefective">DAuer Formation defective</a>; daf-d) entry to the dauer state, 
+										and some of these genes may be involved in producing longer lifespan.</p>
+								<p>Alternatively, the &#147;dauer larva&#148; can also refer to an obligate 
+									L3 stage (in some species, an L2 stage) in many parasitic nematode species, 
+									which stall their development until they locate the necessary host to 
+									support final stages of differentiation (<a href="/handbook/references.htm" target="_blank">Bird 
+										and Bird, 1991</a>). Many of these dauers are known to adopt characteristic 
+									coiled postures, as well as ceasing to feed.</p>
+								<p>See <a href="http://www.wormbook.org/chapters/www_dauer/dauer.html" target="_blank">Hu, 2007</a> in <a href="http://www.wormbook.org/" target="_blank">WormBook</a> for more detail.</p>
+								<p> <br>
+									See <a href="#diapause">Diapause</a><br>
+									See <a href="lglossary.htm#lethargus" target="_blank">Lethargus</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauerarrest" id="dauerarrest"></a><a href="../dauer/diapause/DNeuroRegframeset.html" target="_blank">Dauer 
+								arrest</a></b></td>
+							<td width="150" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18">Refers 
+								to the state of arrested tissue development in the dauer larva. Whereas 
+								nematode tissues continuously grow and undergo progressive developmental 
+								advances throughout normal larval growth, the dauer larva enters a state 
+								of arrest in which no developmental changes occur, until the animal finds 
+								more suitable growing conditions, or until it spontaneously shifts back 
+								into a normal developmental schedule. This change back to normal growth 
+								is often called &#147;exiting dauer&#148; (arrest) or dauer recovery.</td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauerbehavior"></a><a href="../dauer/behavior/Behaviorframeset.html" target="_blank">Dauer 
+								behavior</a></b></td>
+							<td width="150" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18"><p>Animals that have entered into 
+								the dauer state show several general changes in overt behavior. They stop 
+								their pharyngeal pumping, there is a modest decline in their rate of body 
+								motion, however, they exhibit a complex dispersal behavior. The dispersal 
+								behavior motivates the animal to move away from its present surroundings, 
+								ignoring aversive stimuli such as osmotic barriers, and to find a more 
+								attractive environment in which to resume normal growth. Dauers can often 
+								lie motionless and very straight, as if lacking normal muscle tone. However, 
+								they remain responsive to touch or chemical stimuli and can then move 
+								quickly. </p>
+									<p><br>
+										See <a href="#dispersal">Dispersal</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauerconstitutive" id="dauerconstitutive"></a>Dauer 
+								constitutive</b></td>
+							<td width="150" height="12" valign=top class="style18"><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000012" target="_blank">daf-c</a></td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18"><p>A mutant phenotype in which 
+								animals will spontaneously enter the dauer state even under favorable 
+								conditions for normal growth and development (<a href="http://www.nature.com/nature/journal/v290/n5808/abs/290668a0.html" target="_blank">Riddle 
+					    et al., 1981</a>; <a href="http://dx.doi.org/10.1016/0012-1606(81)90367-5" target="_blank">Riddle and MacMorris, 1981</a>).</p>
+									<p><br>
+										See <a href="#dauerdefective">Dauer defective</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauercuticle"></a><a href="../dauer/cuticle/Cutframeset.html?rid=ce2.figgrp.890" target="_blank">Dauer 
+								cuticle</a></b></td>
+							<td width="150" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18">The 
+								outer cuticle of the dauer larva is specialized to protect the animal during 
+								prolonged times of desiccation. The cuticle is much thicker than the normal 
+								L2 or L3 cuticle, with an added internal layer showing many <a href="../dauer/cuticle/Images/dcutfig1leg.htm" target="_blank">parallel striations</a> to form a dense rectangular meshwork which may strengthen the cuticle. The 
+								dauer larva is much more resistant to killing by detergent treatments such 
+								as 1% SDS, due in part to this tough cuticle. The dauer cuticle also displays 
+								characteristic <a href="../dauer/cuticle/Images/dcutfig2leg.htm" target="_blank">alae along the lateral seam</a> that are different from those 
+								of the L1 or adult animals. Early dauers typically also display at least 
+								a remnant portion of outer cuticle which is thought to represent a fragmentary 
+								L2 cuticle; this remnant is eventually lost without any change in the status 
+								of the dauer animal (<a href="http://dx.doi.org/10.1016/0012-1606(75)90109-8" target="_blank">Cassada and Russell, 1975</a><a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000058;class=Paper" target="_blank"></a>).</td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauerdefective" id="dauerdefective"></a>Dauer 
+								defective</b></td>
+							<td width="150" height="12" valign=top class="style18">daf-d</td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18">A 
+								mutant phenotype where animals are unable to form dauer larva under conditions 
+								that would induce dauer formation in wild type animals(<a href="http://www.nature.com/nature/journal/v290/n5808/abs/290668a0.html" target="_blank">Riddle 
+					    et al., 1981</a>; <a href="http://dx.doi.org/10.1016/0012-1606(81)90367-5" target="_blank">Riddle and MacMorris, 1981</a>).</td>
+						</tr>
+						<tr>
+							<td height="12" valign=top class="style18"><b><a name="dauerdispersal"></a>Dauer 
+								dispersal</b></td>
+							<td height="12" valign=top class="style18">&nbsp;</td>
+							<td height="12" valign=top class="style18">&nbsp;</td>
+							<td height="12" valign=top class="style18">The 
+								dispersal behavior motivates the dauer larva to move away from its present 
+								surroundings, ignoring aversive stimuli such as osmotic barriers, to find 
+								a more attractive environment in which to resume normal growth. This dispersal 
+								behavior makes dauers rather difficult to maintain on typical culture plates, 
+								since they will spontaneously crawl off to their deaths. Dauers can also 
+								<a href="../dauer/behavior/Images/dbehaviorfig1leg.htm" target="_blank">stand upright on their tails</a> from the substrate, waving in the air, a behavior 
+								which may also serve to aid the animal&#146;s escape from starvation in 
+								nature by catching a ride on a passing insect or animal (<a href="http://dx.doi.org/10.1016/0012-1606(75)90109-8" target="_blank">Cassada and Russell, 1975</a><a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000058;class=Paper" target="_blank"></a>).</td>
+						</tr>
+						<tr>
+							<td height="12" valign=top class="style18"><b><a name="dauerentry"></a>Dauer entry </b></td>
+							<td height="12" valign=top class="style18">&nbsp;</td>
+							<td height="12" valign=top class="style18">&nbsp;</td>
+							<td height="12" valign=top class="style18"><p>The progression of  developmental changes through which a larval animal becomes a dauer larva. </p>
+									<p><br>
+										See <a href="#dauerformation">Dauer formation </a></p></td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauerexit"></a>Dauer exit</b></td>
+							<td width="150" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18"><p>The resumption of normal development and behavior that occurs after a dauer larval molts into an L3 stage larva. </p>
+									<p><br>
+										See <a href="#dauerrecovery">Dauer recovery </a></p></td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauerformation"></a><a href="../hermaphrodite/introduction/IMAGES/introfig6leg.htm" target="_blank">Dauer 
+								formation</a></b></td>
+							<td width="150" height="12" valign=top class="style18">Dauer entry (S) </td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18">The 
+								developmental process through which a stressed L1 larva proceeds to enter 
+								into the dauer larva stage in preference to entering the normal L2 stage. 
+								A series of tissue changes is involved, including the shrinkage of most 
+								tissues to give the animal a darker, much thinner appearance and a higher 
+								specific gravity (see <a href="http://dx.doi.org/10.1016/0012-1606(75)90109-8" target="_blank">Cassada and Russell, 1975</a><a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000058;class=Paper" target="_blank"></a>). The seam cells contract in width and a new thickened 
+								cuticle is produced.</td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauerpathway"></a><a href="http://www.wormbook.org/chapters/www_tgfbsignal/tgfbsignal.html#d0e451" target="_blank">Dauer 
+								pathway</a></b></td>
+							<td width="150" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18">A 
+								set of related genes whose sequential expression controls the decision to 
+								force the animal to develop into a dauer larva in preference to the normal 
+								L2 stage. Mutations in some of these genes can redirect this decision process 
+								to force all animals to enter the dauer stage (dauer constitutive) 
+								or to prevent all animals from entering dauer (dauer defective), 
+								irrespective of the environmental signals.</td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauerrecovery"></a>Dauer 
+								recovery</b></td>
+							<td width="150" height="12" valign=top class="style18">Dauer 
+								exit (S)</td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18"><p>A process through which a dauer 
+								larva reverts to normal developmental programs (<a href="http://dx.doi.org/10.1016/0012-1606(75)90109-8" target="_blank">Cassada and Russell, 1975</a><a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000058;class=Paper" target="_blank"></a>). This process can be stimulated by the animal finding 
+								a suitable environment (a fresh food supply, for instance) or can sometimes 
+								occur spontaneously. A series of steps occurs, including the resumption 
+								of pharyngeal pumping, an increase in body motions, a swelling of the 
+								body volume to about the diameter of a normal juvenile L2, the shedding 
+								of the dauer cuticle, and after the cuticle is shed, a rapid resumption 
+								of longitudinal growth. </p>
+								  <p><br>
+										See <a href="#dauerarrest">Dauer arrest</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" height="12" valign=top class="style18"><b><a name="dauerresistance"></a>Dauer 
+								resistance</b></td>
+							<td width="150" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="137" height="12" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="12" valign=top class="style18"><p>Dauer larva are much more successful 
+								in living at extreme conditions, such as high or low temperatures (outside 
+								the normal range of 15-25<sup>o</sup> C), the presence of dilute acids, detergents, 
+								anesthetics, or even fixatives. This resistance is due in part to their 
+								thickened cuticle, but also to their greatly reduced pharyngeal pumping, 
+								both of which combine to deny access of toxic agents to the internal tissues 
+								(<a href="http://dx.doi.org/10.1016/0012-1606(75)90109-8" target="_blank">Cassada and Russell, 1975</a><a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000058;class=Paper" target="_blank"></a>).</p>
+								  <p><br>
+										See <a href="cglossary.htm#cryptobiosis" target="_blank">Cryptobiosis</a><br>
+										See <a href="#diapause">Diapause</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dbneurons" id="dbneurons"></a><a href="../neurons/Individual Neurons/DBframeset.html" target="_blank">DB 
+								neurons</a></b></td>
+							<td width="150" valign=top class="style18"><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004846" target="_blank">DB1</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004845" target="_blank">DB2</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004844" target="_blank">DB3</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004843" target="_blank">DB4</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004842" target="_blank">DB5</a> <br>
+									<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004841" target="_blank">DB6</a> <br>
+										<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004840" target="_blank">DB7</a></p>
+									<p>DB motor neurons (S)</p></td>
+							<td width="137" valign=top class="style18"><span class="style25">ABplpaaaapp <br>
+								ABarappappa <br>
+								ABprpaaaapp <br>
+								ABprpappapp <br>
+								ABplpapappp <br>
+								ABplppaappp <br>
+								ABprppaappp</span></td>
+							<td width="503" valign=top class="style18"><p>Ventral cord &quot;dorsal B&quot; 
+								motor neurons, innervate dorsal muscles and are cholinergic. Function 
+								in forward locomotion. Receive input from the driver interneuron <a href="../neurons/Individual Neurons/PVCframeset.html" target="_blank">PVC </a>and 
+								modulator interneuron <a href="../neurons/Individual Neurons/AVBframeset.html" target="_blank">AVB</a>. 
+								Send output to inhibitory <a href="../neurons/Individual Neurons/VDframeset.html" target="_blank">VD</a> neurons. </p>
+									<p><br>
+										See <a href="http://www.ncbi.nlm.nih.gov:80/books/bv.fcgi?call=bv.View..ShowSection&rid=ce2.section.780" target="_blank">Locomotion 
+											circuit</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dband"></a>D 
+								band</b></td>
+							<td width="150" valign=top class="style18">D zone 
+								(S)</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="zglossary.htm#zband">Z 
+								band</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dc"></a>DC</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>Dorsal cord </p>
+									<p><br>
+										See <a href="#dorsalcord">Dorsal cord</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="ddneurons" id="ddneurons"></a><a href="../neurons/Individual Neurons/DDframeset.html" target="_blank">DD neurons </a></b></td>
+							<td width="150" valign=top class="style18"><p><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004839" target="_blank">DD1</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004838" target="_blank">DD2</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004837" target="_blank">DD3</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004826" target="_blank">DD4</a> <br>
+									<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004825" target="_blank">DD5</a> <br>
+										<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004824" target="_blank">DD6</a></p>
+									<p><a href="/neurons.htm/DDn.htm" target="_blank">DD</a> motor neurons (S)</p></td>
+							<td width="137" valign=top class="style18"><span class="style25">ABplppappap <br>
+								ABprppappap <br>
+								ABplppapppa <br>
+								ABprppapppa <br>
+								ABplppapppp <br>
+								ABprppapppp</span></td>
+							<td width="503" valign=top class="style18"><p>Ventral cord <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=gaba&rendertype=figure&id=A6409" target="_blank">&quot;dorsal D&quot; 
+								motor neurons</a>, function as reciprocal inhibitors during sinusoidal movement 
+								of the animal. Receive input from <a href="../neurons/Individual Neurons/VAframeset.html" target="_blank">VA</a>, <a href="../neurons/Individual Neurons/VBframeset.html" target="_blank">VB</a> and <a href="../neurons/Individual Neurons/VCframeset.html" target="_blank">VC</a> class motor neurons. 
+								Contain <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=gaba&rendertype=figure&id=A6407" target="_blank">GABA</a> as neurotransmitter. Change their pattern of motor synapses 
+								during postembryonic development from ventral to dorsal. </p>
+									<p><br>
+										See <a href="vglossary.htm#vdcells" target="_blank">VD cells</a><br>
+										See <a href="http://www.ncbi.nlm.nih.gov:80/books/bv.fcgi?call=bv.View..ShowSection&rid=ce2.section.780" target="_blank">Locomotion 
+											circuit</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="de1de8" id="de1de8"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">DE1-DE8</a></b></td>
+							<td width="150" valign=top class="style18">Dorsal 
+								eight (S)</td>
+							<td width="137" valign=top class="style18"><p class="style25">DE1
+                            <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0007610" target="_blank"><br>Z1.papaaa</a> <br>
+								<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007760" target="_blank">Z4.apaaaa</a><br>
+								DE2<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007611" target="_blank"><br>
+									Z1.papaap </a><br>
+								<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0003520" target="_blank"> Z4.apaaap</a><br>
+								DE3<br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003371" target="_blank">Z1.papapa</a> <br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0007761" target="_blank">Z4.apaapa</a><br>
+								DE4<br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0003378" target="_blank">Z1.papapp</a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0007764" target="_blank">Z4.apaapp</a> <br>
+								DE5<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007619" target="_blank"><br>
+									Z1.pappaa </a><br>
+								<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007768" target="_blank">Z4.apapaa</a><br>
+								DE6 <a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007622" target="_blank"><br>
+									Z1.pappap</a> <br>
+								<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007771" target="_blank">Z4.apapap</a><br>
+								DE7<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007625" target="_blank"><br>
+									Z1.papppa</a> <br>
+								<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007775" target="_blank">Z4.apappa</a><br>
+								DE8<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007626" target="_blank"><br>
+									Z1.papppp</a> <br>
+								<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0007776" target="_blank">Z4.apappp</a> </p></td>
+							<td width="503" valign=top class="style18">A set of eight blast cells at an intermediate stage in uterine development. 
+								They are the great-grand progeny derived from the DU precursor, and come to lie together along the 
+								dorsal surface of the gonad primordium. Each undergoes similar stereotyped 
+								cell divisions to give rise to epithelial and muscle cells of the mature 
+								gonad.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="decontamination"></a>Decontamination</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">A <a href="http://medicine.yale.edu/labs/koelle/www/Protocols_files/protocol_cleaning_worm_stk.html" target="_blank">procedure</a> for cleaning a nematode strain to separate the desirable animals from a 
+								strain of bacteria which may be detrimental to maintenance of the culture, 
+								or detrimental to study of the nematode in isolation from its food source. 
+								Some bacterial strains are particularly difficult for the nematode to consume, 
+								or build into sticky masses on the culture plate which interfere with mating, 
+								etc. Decontamination procedures can range from simple: moving viable worms 
+								away from the offending bacteria and onto a &#147;clean&#148; plate; to 
+								the severe: killing all bacteria by bleaching and recovering the nematode 
+								strain from surviving eggs or dauer larvae. </td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="decussation"></a>Decussation</b></td>
+							<td width="150" valign=top class="style18">Midline 
+								crossing (S)</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">Crossing 
+								over of neuron processes or nerve bundles to the contralateral side.</td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><a name="deepventralbend"></a><a href="http://www.plosbiology.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pbio.1001529.g007&representation=PNG_M" target="_blank">Deep ventral bend</a></b></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>A characteristic body posture often adopted by  the animal at the onset of a reversal. This motion is very similar to an omega turn, except that the latter  always includes direct contact of the head and body during the turn (<a href="http://www.jneurosci.org/content/25/13/3369.full" target="_blank">Miller et  al., 2005</a>). The animal simultaneously  contracts all ventral bodywall muscles along the midbody to perform this bend,  bringing the head to a position almost in reverse to its previous direction of  motion.&nbsp; <br>
+								A similar sharp bending of the posterior  ventral body muscles often occurs in the male while searching for the vulva of  the hermaphrodite; he performs this bend when reversing direction while  traveling in close contact with the hermaphrodite&rsquo;s body.</p>
+									<p> <br>
+										See <a href="oglossary.htm#omegaturn" target="_blank">Omega turn</a> <br>
+										See <a href="rglossary.htm#reversal" target="_blank">Reversal</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="defasiculation"></a>Defasciculation</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">Debundling 
+								of neuron processes.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="defecationmotorprogram"></a><a href="../hermaphrodite/rectum/jump.html?newLink=mainframe.htm&newAnchor=Defecationmotorprogram7" target="_blank">Defecation 
+								motor program</a></b></td>
+							<td width="150" valign=top class="style18"><p>DMP</p>
+									<p>Defecation cycle (S)</p></td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>In <i>C. elegans,</i> defecation 
+								occurs approximately every 45 seconds and through a stereotyped sequence 
+								of muscle contractions. This<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=gaba&rendertype=figure&id=A6411" target="_blank"> sequence of events</a> includes posterior 
+								body contraction (pBoc), relaxation, anterior body contraction (aBoc), expulsion 
+								of gut contents by enteric muscle contraction (Emc) and opening of anus (Exp), and 
+								intercycle period. In the male, the control of anal seal differs dramatically 
+								from the hermaphrodite, otherwise DMP is similar to that of hermaphrodite's 
+								(<a href="http://www.ncbi.nlm.nih.gov/books/NBK20047/" target="_blank">Avery and Thomas 1997</a>). Bodywall muscles, intestinal muscles, 
+							the anal depressor muscle, the anal sphincter muscle and the <a href="../neurons/Individual Neurons/AVLframeset.html" target="_blank">AVL</a> and <a href="../neurons/Individual Neurons/DVBframeset.html" target="_blank">DVB</a> neurons all work together to carry out defecation. </p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="definedmedium"></a>Defined 
+								medium</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>An axenic medium in which all 
+								components can be separately listed and identified; many axenic media 
+								have included additives such as &#147;liver extract&#148; that are sufficient 
+								to grow nematodes for many generations, but where the exact chemical nature 
+								of some additive(s) is uncertain. If a defined medium consists entirely 
+								of well-defined chemicals, it is termed a holidic medium; if it includes 
+								one tissue extract, it is termed a meridic medium. Defined media for raising <a href="http://home.sandiego.edu/~cloer/loerlab/wormfood.html" target="_blank">nematodes</a> were reviewed in detail by<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" target="_blank"> Nicholas (1975).</a></p>
+									<p> <br>
+										See <a href="aglossary.htm#axenicmedium" target="_blank">Axenic 
+											medium</a><br>
+										See <a href="hglossary.htm#holidicmedium" target="_blank">Holidic medium</a><br>
+										See <a href="mglossary.htm#meridicmedium" target="_blank">Meridic medium</a><br>
+										See <a href="xglossary.htm#xenicmedium" target="_blank">Xenic medium</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="degenerin"></a>Degenerin</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">A name 
+								applied to several unrelated families of channel-forming proteins, which 
+								when mutated can cause a necrotic cell death within hours after gene expression 
+								(<a href="http://dx.doi.org/10.1038/345410a0" target="_blank">Chalfie 
+									and Wolinsky, 1990</a>; <a href="http://www.genetics.org/content/139/3/1261.long" target="_blank">Shreffler 
+										et al., 1995</a>; <a href="http://www.jneurosci.org/content/17/3/1033.long" target="_blank">Hall 
+											et al., 1997</a>; <a href="http://dx.doi.org/10.1038/nature01205" target="_blank">Chelur 
+												et al., 2002</a>). Certain dominant mutations apparently interfere with normal 
+								channel gating, leading to a catastrophic leak of ions across the plasma 
+								membrane and eventual cell toxicity.</td>
+						</tr>
+						<tr>
+							<td width="262" height="94" valign=top class="style18"><b><a name="deirid"></a><a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Anteriorandposteriordeiridsensilla35" target="_blank">Deirid</a></b></td>
+							<td width="150" height="94" valign=top class="style18">Lateral 
+								sensillum (S)</td>
+							<td width="137" height="94" valign=top class="style18">&nbsp;</td>
+							<td width="503" height="94" valign=top class="style18"><p>Two pairs of specialized sensory 
+								papillae one of which lies along the left and right side of the head, 
+								at the back of the pharynx, at the same level as the excretory pore (anterior 
+								deirid) and the other lies along the posterior half of the body (posterior 
+								deirid). </p>
+									</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dendrite"></a>Dendrite</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">A neuronal 
+								process that is specialized in morphology and/or position to receive synaptic 
+								inputs, or that connects a sensory cilium to the cell body. In higher animals, 
+								most neurons are specialized to have one major axon that forms many synapses 
+								onto downstream target muscles or neurons, and many dendrites which receive 
+								synaptic or sensory input. Nematode neurons have simpler anatomy and most 
+								neuronal processes share dual functions (axon and dendrite) and are more 
+								properly termed &#147;neurites&#148;. Among the neurons that have dendrites 
+								in the nematodes are amphid neurons and some other head sensory neurons.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="densebody" id="densebody"></a><a href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" target="_blank">Dense 
+								body</a></b></td>
+							<td width="150" valign=top class="style18"><p><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3067" target="_blank">Z disc</a> (S)<br>
+								Z body (S)</p></td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>This is a <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.533" target="_blank">specialized form 
+								of hemi-adherens junction</a> found in nematode muscles that acts as the attachment 
+								plaque for thin filaments onto the cell membrane. It forms the basis for 
+								organizing the bodywall muscles into obliquely striated muscles. The dense 
+								body in bodywall muscles is especially large, indenting far into the cytoplasm 
+								to border each sarcomere, thus providing a long row of coherent attachment 
+								sites at regular intervals. Other muscle types in <i>C. elegans</i> have 
+								smaller dense bodies or only dense plaques that usually fail to extend 
+								away from the cell membrane, but consist of very thick hemi-adherens junctions. 
+								The dense body is also connected across the cell membrane to the underlying 
+								basal lamina and to the hypodermis and cuticle, acting as a site of anchorage 
+								for muscle to the bodywall and exoskeleton of the animal. This intercellular 
+					    attachment may represent a category of<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=sarcomereassemblycelegansmusc&rendertype=figure&id=A2681" target="_blank"> &#147;focal adhesion&#148;</a>.</p>
+									<p><br>
+										See <a href="#denseplaque">Dense plaque</a><br>
+										See <a href="fglossary.htm#focaladhesion" target="_blank">Focal adhesion</a><br>
+										See <a href="hglossary.htm#hemiadherensjunction" target="_blank">Hemi-adherens junction<br>
+										</a>See <a href="zglossary.htm#zdisc" target="_blank">Z disc</a> </p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="densecorevesicle" id="densecorevesicle"></a><a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank">Dense 
+								core vesicle</a></b></td>
+							<td width="150" valign=top class="style18"><p>DCV</p>
+									<p>Dark-cored vesicles (S)</p></td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>A class of membrane-bound vesicles 
+								found inside neurons, gland cells, and some epithelial cells in which 
+								the central core appears darkly stained when viewed in thin section by 
+								electron microscopy. Vesicle populations can differ widely in diameter 
+								and in contents, according to their functions, and perhaps subject to 
+								changes in fixation and staining protocols. </p>
+									<p align="left">Dense core vesicles have sometimes 
+										been associated with neuropeptides in higher animals, but little is known 
+										about their contents in<i> C. elegans</i>. In <i>C. elegans</i>, only 
+										a few neurons have prominent dense core vesicles as their primary vesicle 
+										type (e.g. <a href="../neurons/Individual Neurons/NSMframeset.html" target="_blank">NSM</a>, <a href="../neurons/Individual Neurons/HSNframeset.html" target="_blank">HSN</a>). In most amphid neurons, they co-exist with the more 
+										ubiquitous, electron-lucent, 35 nm, synaptic-like vesicles. The sizes 
+										of DCV's in <i>C. elegans</i> vary from 37 nm (e.g. in <a href="../neurons/Individual Neurons/ASEframeset.html" target="_blank">ASE</a> neuron) to 
+										53 nm (e.g. in <a href="../neurons/Individual Neurons/ASKframeset.html" target="_blank">ASK</a> neuron) (<a href="http://www.wormatlas.org/ver1/MoW_built0.92/toc.html" target="_blank">White 
+											et al., 1986</a>). Excretory glands contain very large dense core vesicles, 
+										while some sheath cells and hypodermal cells sometimes have smaller dense 
+										core vesicles. </p>
+								<p><br>
+									See <a href="vglossary.htm#vesicle" target="_blank">Vesicle</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="denseplaque" id="denseplaque"></a><a href="../hermaphrodite/musclesomatic/Images/musfig13leg.htm" target="_blank">Dense 
+								plaque</a></b></td>
+							<td width="150" valign=top class="style18">Attachment plaque (S) </td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>A modified form of the dense 
+								body that forms where two adjoining bodywall muscle cells meet at their 
+								lateral membranes. At normal dense bodies within a single muscle, two 
+								myofilament lattices extend away in opposite directions within the cell, 
+								kept in alignment through the strong adherence to the dense body. At dense 
+								plaques, the two myofilament lattices within two adjoining bodywall muscles 
+								extend away from either side of the plaque, thus causing the sarcomeres 
+								of adjoining cells to be in rigid alignment.<br>
+								Many other muscles cells in the nematode have dense plaques rather than 
+								dense bodies organizing their myofilament lattice, and only form one sarcomere 
+								per cell, rather than forming multiple sarcomeres in a striated pattern.<br>
+								The dense plaque is also connected across the cell membrane to the underlying 
+								basal lamina and often to the hypodermis and cuticle, acting as a site 
+								of anchorage for muscle to the bodywall and exoskeleton of the animal.</p>
+									<p><br>
+										See <a href="#densebody">Dense body</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="depressorani"></a><a href="../hermaphrodite/musclenonstriated/Images/musfig19leg.htm" target="_blank">Depressor 
+								ani</a></b></td>
+							<td width="150" valign=top class="style18">Anal 
+								depressor muscle (S)</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="aglossary.htm#analdepressormuscle" target="_blank">Anal 
+								depressor muscle</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="desmosome"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3489" target="_blank">Desmosome</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>Desmosomes are adhesive <strong>intercellular junctions</strong> that anchor the <strong>intermediate filament</strong> network to the plasma membrane. They function both as an adhesive complex and as a cell-surface attachment site for intermediate filaments, and hence integrate the intermediate filament cytoskeleton between cells and play an important role in maintaining tissue integrity.</p>
+									<p> <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=eurekah.figgrp.41116" target="_blank">Hemidesmosomes</a> are similar in morphology to halves of desmosomes and function as an anchoring junction of the cell to a <strong>non-cellular substrate</strong>. In <em>C. elegans</em>, hemidesmosomes within hypodermis (also called fibrous organelles) function to anchor muscle sarcomere to exoskeleton (cuticle) and allow for transmission of muscle tension laterally  to the cuticle (<a href="http://www.cell.com/current-biology/retrieve/pii/S0960982201005164" target="_blank">Hahn and Labouesse, 2001</a>). </p>
+								<p>Unlike tight junctions (zona occludentes) where adjacent cell membranes appear to form a tight seal, in both desmosomes and hemidesmosomes, adjacent cell membranes are visibly separated and the gap is filled with dense fibrous material.</p>
+								<p>Note that in early <i>C. elegans</i> literature the term &quot;desmosome&quot; was used in reference to several forms 
+									of adherens or septate junctions, but is now considered an invalid term. &#147;Belt 
+									desmosomes&#148; referred to zonula adherens junctions that mark the lateral 
+									borders of many epithelial cells where they surround a lumen, as in the 
+									intestine. </p>
+								<p><br>
+									See <a href="aglossary.htm#adherensjunction" target="_blank">Adherens 
+										junction</a><br>
+									See <a href="fglossary.htm#fibrousorganelle" target="_blank">Fibrous organelle</a><br>
+									See <a href="hglossary.htm#hemidesmosome" target="_blank">Hemidesmosomes</a><br>
+									See <a href="sglossary.htm#septatejunction" target="_blank">Septate junction</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="developmentalarrest"></a>Developmental 
+								arrest</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>An abnormal 
+								stoppage of normal tissue development due to adverse environmental factors 
+								(starvation, crowding, anoxia) or a genetic defect. Arrest often takes place 
+								at characteristic times in the cell cycle, or due to the lack of a key regulatory 
+								signal required to stimulate further morphogenetic steps. If arrest occurs 
+								during early or late embryogenesis, it is called an &quot;embryonic arrest&quot; 
+								and is lethal. Alternatively, postembryonic development (i.e. postembryonic 
+								cell division) can be arrested in the newly hatched L1 larva in the absence 
+								of food. Arrested L1 animals are viable for up to 6 days. When they are placed 
+								in the presence of food, postembryonic development resumes normally in these 
+								animals (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003201;class=Paper" target="_blank">Hong et al., 1998</a>). Similarly, the <a href="../dauer/diapause/DNeuroRegframeset.html" target="_blank">dauer larva</a> is a morphologically specialized and developmentally arrested 
+								third-stage larva that can survive four to eight times the 3-week life span 
+								of animals that have bypassed the dauer stage. The developmental choice 
+				    to enter the dauer stage is temporally and environmentally controlled. </p>
+									<p><br>
+										See <a href="#dauer">Dauer</a></p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><a name="devitellinizedembryo"></a>Devitellinized embryo </b></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>An early embryo  in which the lipid layer (as well as the eggshell) has been physically  dissected or otherwise removed from the specimen.</p>
+									<p><br>
+										See <a href="lglossary.htm#lipidlayer" target="_blank">Lipid layer</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="diagonalmuscle"></a><a href="../male/muscleintro/jump.html?newLink=mainframe.htm&newAnchor=Diagonalmuscles3" target="_blank">Diagonal 
+								muscle</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">Specialized 
+								muscles that develop only in the adult male tail, lying lengthwise along 
+								the ventral bodywall in association with the two ventral quadrants of bodywall 
+								muscles. These muscles contract during copulation behaviors, helping to 
+								flex the male tail in a ventral bend to bring the copulatory bursa into 
+								contact with the shape of the hermaphrodite&#146;s body.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dapi" id="dapi"></a><a href="http://en.wikipedia.org/wiki/Image:DAPI.png" target="_blank">4'-6-Diamidino-2-phenylindole</a></b></td>
+							<td width="150" valign=top class="style18">DAPI</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>A chemical stain for nuclei 
+								which is commonly used in fixed specimens and produces a<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=intromethodscellbiology&rendertype=figure&id=A10025" target="_blank"> bright blue label</a>. 
+								DAPI forms fluorescent complexes with natural double-stranded DNA, showing 
+								a fluorescence specificity for AT, AU and IC clusters.</p>
+									<p>See <a href="http://www.wormatlas.org/ver1/anatmeth/anatmeth.htm" target="_blank">Anatomical 
+										methods</a><br>
+										See<a href="http://micro.magnet.fsu.edu/primer/techniques/fluorescence/fluorocubes/dapi-wu.html" target="_blank"> Excitation-emission spectrum for DAPI</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="diapause" id="diapause"></a>Diapause</b></td>
+							<td width="150" valign=top class="style18">L1 diapause (S) </td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>An obligate state of arrested 
+								development or quiescence, especially common among various parasitic nematode 
+								species. Animals may go into diapause at a particular season, 
+								or upon reaching a certain stage in development, after which they await 
+								a particular signal to exit and resume development (<a href="http://www.wormatlas.org/ver1/handbook/references.htm" target="_blank">Bird and Bird, 1991</a>). 
+								The exit signal may be a change in environment, the passage into an obligate 
+				    host, etc. <em>C. elegans</em> enters diapause if  it is starved at the time of hatching (<a href="http://dx.doi.org/10.1016/j.cub.2006.03.021" target="_blank">Baugh and Sternberg, 2006</a>; <a href="http://dx.doi.org/10.1016/j.cub.2006.02.073" target="_blank">Fukuyama et  al., 2006</a>). In laboratory culture,  starved plates typically accumulate animals in L1 diapause and in the dauer stage. This developmental arrest  continues until the animals are fed again. Insulin signaling appears to  regulate a stop in the cell cycle during diapause, as <em><a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00000898" target="_blank">daf-2</a></em> mutants go into L1 diapause constitutively, even when fed  (<a href="http://dx.doi.org/10.1016/j.cub.2006.03.021" target="_blank">Baugh and Sternberg, 2006</a><a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027347;class=Paper" target="_blank"></a>; <a href="http://www.genetics.org/content/130/1/105" target="_blank">Vowels and Thomas, 1992</a>).</p>
+								  <p><br>
+										See <a href="cglossary.htm#cryptobiosis" target="_blank">Cryptobiosis</a> <br>
+										See <a href="#dauer">Dauer</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dicmicroscopy"></a><a href="http://wormclassroom.org/differential-interference-contrast-dic-microscopy" target="_blank">DIC 
+								microscopy</a></b></td>
+							<td width="150" valign=top class="style18">Nomarski 
+								microscopy (S)</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>Differential interference contrast imaging. This type of micrscopy is used to visualize transparent structures in phase microscopy. This is achevied by visualizing in phase microscopy and taking advanatage of the different refractive indexes within the sample. As the samples do not need to be stained or fixed for visualization, DIC microscopy is particularly suited for time lapse observations of live <a href="http://www.bio.unc.edu/faculty/goldstein/lab/celdev.mov" target="_blank">cells</a> and <a href="http://www.bio.unc.edu/faculty/goldstein/lab/crawl.mov" target="_blank">animals</a>.</p>
+									<p>For methods see <a href="http://www.wormbook.org/chapters/www_intromethodscellbiology/intromethodscellbiology.html#d0e116" target="_blank">Shaham, 2006</a>.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><a name="dictyosome"></a>Dictyosome</b></td>
+							<td valign=top class="style18">Golgi apparatus (S) </td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>The small membrane saccules of the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2347" target="_blank">Golgi apparatus</a>. </p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="didelphic"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=evolutionofdev&rendertype=figure&id=A6899" target="_blank">Didelphic</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>Having two a two-armed gonad as is the case for <i>C. elegans</i> hermaphrodites, but not males which are always monodelphic. Evolutionary diversification has resulted in female monodelphy as well (See <a href="http://www.wormbook.org/chapters/www_evoldevnematode/evoldevnematode.html" target="_blank">Sommer, 2005</a>). </p>
+									<p><br>
+										See<a href="aglossary.htm#amphidelphic" target="_blank"> Amphidelphic</a> <br>
+										See <a href="mglossary.htm#monodelphic" target="_blank">Monodelphic</a> </p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b>DiI</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>See <a href="#dil">1,1-dioctadecyl-3,3,3,3-<br>
+								tetramethylindocarbocyanin</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dilatedcisternae"></a><a href="../male/hook/images/MaleHookFIG2D.jpg" target="_blank">Dilated 
+								cisternae</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>A cytoplasmic feature noted 
+								in some neuron cell bodies which have been used to differentiate between 
+								two classes of sense cells in the lumbar ganglia of the male tail (<a href="http://www.wormatlas.org/ver1/Sulston%20postembmale_1980/toc.html" target="_blank">Sulston 
+									et al., 1980</a>). By comparison to more recent fixations, these cisternae 
+								appear to correspond to <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2205" target="_blank">rough endoplasmic reticulum</a>; thus the dilations 
+								appear to be swellings between leaflets of the RER.</p>
+									<p><br>
+										See <a href="cglossary.htm#cistern" target="_blank">Cistern / Cisternae</a><br>
+										See <a href="rglossary.htm#roughendoplasmicreticulum" target="_blank">Rough endoplasmic reticulum</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dilatormuscle"></a><a href="../hermaphrodite/musclenonstriated/Images/musfig18leg.htm" target="_blank">Dilator 
+								muscle</a></b></td>
+							<td width="150" valign=top class="style18"><p>Dilator ani (S)<br>
+								Anal dilator muscle (S)<br>
+								Rectal muscle (S)<br>
+								Anal sphincter (S)<br>
+								Rectal sphincter muscle (S)</p></td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="aglossary.htm#analsphinctermuscle" target="_blank">Anal 
+								sphincter muscle </a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b>DiO</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="#dio">3,3'-dioladecyloxacarbocyanine 
+								perchlorate</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dil" id="dil"></a><a href="http://www.sigmaaldrich.com/catalog/ProductDetail.do?lang=en&N4=468495|ALDRICH&N5=SEARCH_CONCAT_PNO|BRAND_KEY&F=SPEC" target="_blank">1,1-dioctadecyl-3,3,3,3- <br>
+								tetramethyl<br>
+								indocarbocyanine</a></b></td>
+							<td width="150" valign=top class="style18">DiI</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>A vital, lipophilic fluorescent 
+								dye (observed through the rhodamine filter) that is used <a href="../EMmethods/DiIDiO.htm" target="_blank">to stain </a>certain 
+									sensory neurons with endings open to outside in <i>C. elegans</i>. These 
+						  neurons are: <a href="../neurons/Individual Neurons/ASKframeset.html" target="_blank">ASK</a><a href="/neurons.htm/ask.htm" target="_blank"></a>, <a href="../neurons/Individual Neurons/ADLframeset.html" target="_blank">ADL</a>, <a href="../neurons/Individual Neurons/ASIframeset.html" target="_blank">ASI</a>, <a href="../neurons/Individual Neurons/AWBframeset.html" target="_blank">AWB</a>, <a href="../neurons/Individual Neurons/ASHframeset.html" target="_blank">ASH</a> and <a href="../neurons/Individual Neurons/ASJframeset.html" target="_blank">ASJ</a> in<a href="../images/DiI3.jpg" target="_blank"> the head</a> and <a href="../neurons/Individual Neurons/PHAframeset.html" target="_blank">PHA</a> and <a href="../neurons/Individual Neurons/PHBframeset.html" target="_blank">PHB</a> in <a href="../images/DiI1.jpg" target="_blank">the tail</a>. </p>
+									<p><br>
+										See <a href="http://www.wormatlas.org/ver1/anatmeth/anatmeth.htm" target="_blank">Anatomical </a><a href="http://www.wormatlas.org/ver1/anatmeth/anatmeth.htm">methods</a> <br>
+										See <a href="#dyefillingdefective">Dye filling defective</a> </p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><p><b><a name="dio" id="dio"></a><a href="http://www.sigmaaldrich.com/catalog/ProductDetail.do?D7=0&N5=Product No.|BRAND_KEY&N4=42367|FLUKA&N25=0&QS=ON&F=SPEC" target="_blank">3,3'-dioctadecyl<br>
+								oxacarbocyanine 
+								perchlorate</a></b></p></td>
+							<td valign=top class="style18">DiO</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>A vital, lipophilic fluorescent 
+								dye (observed through the orange/yellow- FITC filter) that is used <a href="../EMmethods/DiIDiO.htm" target="_blank">to stain</a> certain sensory neurons with endings open to outside in <i>C. elegans</i>. 
+				    These neurons are: <a href="../neurons/Individual Neurons/ASKframeset.html" target="_blank">ASK</a><a href="/neurons.htm/ask.htm" target="_blank"></a>, <a href="../neurons/Individual Neurons/ADLframeset.html" target="_blank">ADL</a>, <a href="../neurons/Individual Neurons/ASIframeset.html" target="_blank">ASI</a>, <a href="../neurons/Individual Neurons/AWBframeset.html" target="_blank">AWB</a>, <a href="../neurons/Individual Neurons/ASHframeset.html" target="_blank">ASH</a> and <a href="../neurons/Individual Neurons/ASJframeset.html" target="_blank">ASJ</a> in<a href="../images/DiI3.jpg" target="_blank"> the head</a> and <a href="../neurons/Individual Neurons/PHAframeset.html" target="_blank">PHA</a> and <a href="../neurons/Individual Neurons/PHBframeset.html" target="_blank">PHB</a> in <a href="../images/DiI1.jpg" target="_blank">the tail</a>.</p>
+									<p><br>
+										See <a href="http://www.wormatlas.org/ver1/anatmeth/anatmeth.htm" target="_blank">Anatomical </a><a href="http://www.wormatlas.org/ver1/anatmeth/anatmeth.htm">methods</a><br>
+										See <a href="#dyefillingdefective">Dye filling defective</a> </p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dioecious"></a>Dioecious</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>A sexual reproduction method 
+								in which there are separate male and female individuals in the population 
+								that generate sperm and oocytes respectively. <em>C. elegans</em>, which has males 
+								and hermaphrodites, are considered a dioecious species.</p>
+									<p><br>
+										See <a href="aglossary.htm#amphimictic" target="_blank">Amphimictic</a> <br>
+										See <a href="aglossary.htm#andricindex" target="_blank">Andric index</a> <br>
+										See <a href="aglossary.htm#automictic" target="_blank">Automictic</a><br>
+										See <a href="gglossary.htm#gonochoristic" target="_blank">Gonochoristic</a><br>
+										See <a href="tglossary.htm#thelytoky" target="_blank">Thelytoky</a></p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><a name="dsic"></a>Disc</b></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">A thin 
+								electron dense cytoplasmic specialization found at the distal end of the <a href="../neurons/Individual Neurons/IL1frameset.html" target="_blank">IL1</a> cilium, closely bound to a ring of microtubules; may be part of a sensory 
+								apparatus where the cilium terminates just under the cuticle.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dishabituation"></a>Dishabituation</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>A rapid  behavioral change in which an animal quickly recovers from a habituated state  to a stimulus. This change can be caused by a brief train of electric shocks  or another strong noxious stimulus (See <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec5" target="_blank">Rankin&rsquo;s description in Hart, 2006</a>).</p>
+									<p><br>
+										See <a href="hglossary.htm#habituation" target="_blank">Habituation</a><br>
+										See<a href="tglossary.htm#tapresponse" target="_blank"> Tap response</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dispersal" id="dispersal"></a>Disperse/Dispersal</b></td>
+							<td width="150" valign=top class="style18">Aggregation (A) </td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>An elementary behavior in which 
+								animals tend to move apart from one another when faced with crowded or 
+								aversive conditions in the absence of food. This is the opposite from 
+								aggregation.</p>
+									<p><br>
+										See <a href="aglossary.htm#aggregation" target="_blank">Aggregation</a><br>
+								    See <a href="nglossary.htm#nictation">Nictation</a><br>
+										See <a href="sglossary.htm#socialfeeding" target="_blank">Social feeding</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="distal"></a>Distal</b></td>
+							<td width="150" valign=top class="style18">Proximal 
+								(A)</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">Lying 
+								farther away from the center or origin of a structure or a reference point.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="distalarm"></a><a href="../hermaphrodite/reproductive/Images/reprofig1leg.htm" target="_blank">Distal 
+								arm</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">That 
+								portion of the hermaphrodite gonad lying farthest from the vulva and uterus; 
+								usually referring to the portion lying past the &#147;loop&#148;. The portion 
+								lying closer to the vulva is known as the &#147;proximal arm&#148;. </td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="distaltipcell"></a><a href="../hermaphrodite/somatic gonad/jump.html?newLink=mainframe.htm&newAnchor=Thedistaltipcell2" target="_blank">Distal 
+								tip cell</a></b></td>
+							<td width="150" valign=top class="style18"><p>DTC</p>
+									<p>Gonadal leader (S)<br>
+										Cap cell (S)<br>
+								</p></td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>A somatic cell with several 
+								important functions within the gonad (ovary); it lies at <a href="../hermaphrodite/reproductive/Images/reprofig1leg.htm" target="_blank">the distal tip 
+									of the germline</a> in the hermaphrodite. The cell performs a &#147;<a href="../hermaphrodite/somatic gonad/Images/somaticfig3leg.htm" target="_blank">leader 
+										function</a>&#148; as it guides and shapes the outgrowth of the mitotic germ 
+								cells by squeezing on the most distal germ cells while crawling along 
+								the bodywall to force the germline to extend into a long tubular shape. 
+								It also secretes the <a href="http://www.wormbase.org/species/c_elegans/gene/WBGene00002246" target="_blank">LAG-2</a> signal that influences nearby germ cells to 
+						  remain in mitosis in the ovary.</p>
+									<p>This cell follows an alternate fate in the male gonad as the <a href="../male/somaticgonad/images/MaleReproFIG6.jpg" target="_blank">male DTCs</a> do not migrate; this function is fulfilled by the <a href="../male/somaticgonad/images/MaleReproFIG4.jpg" target="_blank">male linker cell</a>. </p>
+								<p><br>
+									See <a href="aglossary.htm#anchorcell" target="_blank">Anchor 
+										cell</a><br>
+									See <a href="lglossary.htm#linkercell" target="_blank">Linker cell </a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="diverticulum"></a>Diverticulum</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="cglossary.htm#cecum" target="_blank">Cecum/Ceca</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dmneuron"></a>DM 
+								neuron</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0005027" target="_blank">RMED 
+								cell</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dnc"></a>DNC</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>Dorsal nerve cord </p>
+									<p><br>
+										See <a href="#dorsalcord">Dorsal cord</a></p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><a name="dockedvesicle"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synapticfunction&rendertype=figure&id=A6279" target="_blank">Docked vesicle </a></b></td>
+							<td valign=top class="style18"><p><br>
+							</p></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>A synaptic vesicle that has become linked to the active zone at the  pre-synaptic membrane of a synapse. Once docked, the vesicle becomes &ldquo;primed&rdquo;  for fusion to the membrane in order to release the vesicle contents into the  extracellular cleft of a synapse.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><a name="docking"></a><a href="http://www.wormbook.org/chapters/www_synapticfunction/synapticfunction.html#d0e616" target="_blank">Docking </a></b></td>
+							<td valign=top class="style18"><p><br>
+							</p></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>The process through which a synaptic vesicle becomes ready for membrane  fusion at an active zone of a synapse, presumably by attaching to some  component of the presynaptic density or the presynaptic membrane.</p>
+									<p>See <a href="http://www.wormbook.org/chapters/www_synapticfunction/synapticfunction.html#d0e511" target="_blank">Richmond, 2005</a> for more detail. </p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><a name="dorsal" id="dorsal"></a>Dorsal </b></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>The upper or back side of an animal. </p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsalclosure"></a><a href="http://www.wormbook.org/chapters/www_epidermalmorphogenesis/epidermalmorphogenesis.html#d0e450" target="_blank">Dorsal 
+								closure</a></b></td>
+							<td width="150" valign=top class="style18"><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=epidermalmorphogenesis&rendertype=figure&id=A4436" target="_blank">Dorsal intercalation</a> (S) </td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>An event 
+								occurring during embryogenesis, after gastrulation, in which the hypodermis 
+								stretches across the dorsal side of the embryo to fuse and fully enclose 
+								the embryo in a full tube of hypodermis. </p>
+									<p>See <a href="http://www.wormbook.org/chapters/www_epidermalmorphogenesis/epidermalmorphogenesis.html#d0e450" target="_blank">Chisholm and Hardin, 2005</a> for more detail. </p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsalcoiler"></a>Dorsal 
+								coiler</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="http://www.wormatlas.org/ver1/glossaries/cglossary.htm" target="_blank">Coiler</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsalcord" id="dorsalcord"></a>Dorsal 
+								cord</b></td>
+							<td width="150" valign=top class="style18">DC or 
+								DNC (in case of neuronal definition)</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>This term can refer to either 
+								of two anatomical structures:</p>
+									<p><strong>1)</strong> A <a href="../hermaphrodite/nervous/Images/neurofig2A-Cleg.htm" target="_blank">longitudinal nerve tract</a>										that runs on the left side of the dorsal hypodermal ridge in <i>C. elegans.</i> Dorsal cord is made of processes of ventral cord motor neurons that send 
+										commissures to the dorsal side, as well as processes of certain head and 
+										tail neurons. Dorsal cord itself contains no associated cell bodies along 
+										its length.</p>
+								<p><strong>2)</strong> Less frequently it refers 
+									to the dorsal hypodermal cord (i.e., <a href="../hermaphrodite/hypodermis/Images/hypfig8leg.htm" target="_blank">dorsal hypodermal ridge</a>).</p>
+								<p><br>
+									See <a href="#dorsalhypodermalridge">Dorsal hypodermal ridge</a><br>
+									See <a href="hglossary.htm#hypodermalridge" target="_blank">Hypodermal ridge</a><br>
+									See <a href="nglossary.htm#nerve" target="_blank">Nerve</a><br>
+									See <a href="vglossary.htm#ventralcord" target="_blank">Ventral cord</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsaleight"></a>Dorsal 
+								eight</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="#de1de8">DE1-DE8</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsalganglion"></a><a href="../cellIDhead1.html" target="_blank">Dorsal ganglion</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">The dorsal 
+								ganglion lies beside the nerve ring in the head. It contains neuron cell 
+								bodies that send their neuronal processes into the ring and longitudinal 
+								nerves, but form no local neuropil separate from the nerve ring. The dorsal 
+								ganglion is in close contact with the dorsal hypodermal cord.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsalhypodermalridge" id="dorsalhypodermalridge"></a><a href="../hermaphrodite/hypodermis/Images/hypfig8leg.htm" target="_blank">Dorsal hypodermal ridge</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>The smallest of the four principal 
+								hypodermal ridges running along the length of the body from the nose to 
+								the tail. The dorsal ridge contains no nuclei but is syncytial with the 
+								larger lateral ridges. </p>
+									<p><br>
+										See <a href="#dorsalcord">Dorsal cord</a><br>
+										See <a href="hglossary.htm#hypodermalridge" target="_blank">Hypodermal ridge</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsalnervecord"></a><a href="../hermaphrodite/nervous/Images/neurofig2A-Cleg.htm" target="_blank">Dorsal 
+								nerve cord</a></b></td>
+							<td width="150" valign=top class="style18"><p>DNC</p>
+									<p>Dorsal cord (S)</p></td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="#dorsalcord">Dorsal 
+								cord</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsalray"></a><a href="../male/rays/images/MaleRayFIG1.jpg" target="_blank">Dorsal 
+								ray</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>Any ray in the male tail that 
+								opens to the outside on the dorsal surface of the fan; the pattern of 
+								these opening is highly stereotyped, such that certain rays always open 
+								dorsally (rays 1, 5 and 7), others ventrally (rays 2, 4 and 8), and a few at the lateral margin of the fan (rays 2 and 9). </p>
+									<p><br>
+										See <a href="rglossary.htm#ray" target="_blank">Ray</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsalsublateralcord" id="dorsalsublateralcord"></a>Dorsal sublateral cord</b></td>
+							<td width="150" valign=top class="style18">DSL</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>Left and right sided longitudinal 
+								nerve tracts that run between the dorsal cord and the tracts formed by <a href="../neurons/Individual Neurons/ALMframeset.html" target="_blank">ALM</a>/<a href="../neurons/Individual Neurons/ALNframeset.html" target="_blank">ALN</a> neurons. It is formed by the processes of <a href="../neurons/Individual Neurons/SIAframeset.html" target="_blank">SIAD</a>, <a href="../neurons/Individual Neurons/SIBframeset.html" target="_blank">SIBD</a>, <a href="../neurons/Individual Neurons/SMBframeset.html" target="_blank">SMBD</a>, <a href="../neurons/Individual Neurons/SMDframeset.html" target="_blank">SMDD</a> and <a href="../neurons/Individual Neurons/SDQframeset.html" target="_blank">SDQ</a> neurons. </p>
+									<p><br>
+										See <a href="cglossary.htm#cord" target="_blank">Cord </a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsaluterus"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">Dorsal 
+								uterus</a></b></td>
+							<td width="150" valign=top class="style18">DU</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">Twenty 
+								eight cells (14 per gonad arm) that are born in two homologous lineages to 
+								contribute to more dorsal aspects of the uterine epithelium.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsalventralaxis"></a>Dorsal-ventral 
+								axis</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">Describes 
+								a theoretical plane of projection along the length of the animal congruent 
+								to the dorsal and ventral midlines.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsolateralcommissure"></a><a href="../hermaphrodite/nervous/Images/neurofig18leg.htm" target="_blank">Dorso-lateral 
+								commissure</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>A bilateral pair of minor commissures 
+								in the tail between the dorsal cord and the lumbar ganglia. In the <i>C. 
+									elegans</i> hermaphrodite it carries the axons of <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004858" target="_blank">DA8</a> (left side) and 
+                        <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004857" target="_blank">DA9</a> (right side), but may include more processes in the adult male. </p>
+									<p><br>
+										See <a href="cglossary.htm#commissure" target="_blank">Commissure</a><br>
+										See <a href="lglossary.htm#lumbarcommissure" target="_blank">Lumbar commissure</a><br>
+								</p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsorectalcommissure" id="dorsorectalcommissure"></a><a href="../hermaphrodite/nervous/Images/neurofig18leg.htm" target="_blank">Dorso-rectal 
+								commissure</a></b></td>
+							<td width="150" valign=top class="style18">Rectal 
+								commissure (S)</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">A bilateral 
+								pair of minor commissures in the tail between the dorso-rectal ganglion 
+								and the preanal ganglion, traveling alongside the left and right sides of 
+								the rectum in close apposition to rectal hypodermis and the anal depressor 
+								muscle. These commissures are formed by processes of three neurons; <a href="../neurons/Individual Neurons/DVAframeset.html" target="_blank">DVA</a>, <a href="../neurons/Individual Neurons/DVBframeset.html" target="_blank">DVB</a> and <a href="../neurons/Individual Neurons/DVCframeset.html" target="_blank">DVC</a>. <a href="../neurons/Individual Neurons/DVAframeset.html" target="_blank">DVA</a><a href="/neurons.htm/dva.htm" target="_blank"></a> neuron's process travels from the right side whereas those 
+								of <a href="../neurons/Individual Neurons/DVBframeset.html" target="_blank">DVB</a><a href="/neurons.htm/dvb.htm" target="_blank"></a> and <a href="../neurons/Individual Neurons/DVCframeset.html" target="_blank">DVC</a><a href="/neurons.htm/dvc.htm" target="_blank"></a> travel from the left side.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsorectalganglion"></a><a href="../hermaphroditetailneurons.html" target="_blank">Dorso-rectal 
+								ganglion</a></b></td>
+							<td width="150" valign=top class="style18"><p>DRG</p>
+									<p>Dorsorectal ganglion (S)<br>
+										Dorsal-rectal ganglion (S)</p></td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18"><p>The dorso-rectal ganglion lies 
+								above and behind the rectum in the tail, in close continuity with the 
+								anal hypodermal ridge. It contains 3 neuron cell bodies (<a href="../neurons/Individual Neurons/DVAframeset.html" target="_blank">DVA</a><a href="http://www.wormatlas.org/ver1/neurons.htm/dva.htm" target="_blank"></a>, <a href="../neurons/Individual Neurons/DVBframeset.html" target="_blank">DVB</a><a href="http://www.wormatlas.org/ver1/neurons.htm/dvb.htm" target="_blank"></a> and <a href="../neurons/Individual Neurons/DVCframeset.html" target="_blank">DVC</a><a href="http://www.wormatlas.org/ver1/neurons.htm/dvc.htm" target="_blank"></a>) that send their neuronal processes into the ventral nerve cord via 
+								dorso-rectal commissures that encircle the anus. The ganglion contains 
+								no local neuropil in the hermaphrodite. In the adult male tail, this ganglion 
+								gains additional neurons and some local neuropil. </p>
+									<p><br>
+										See <a href="#dorsorectalcommissure">Dorso-rectal commissure</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dorsoventralguidance"></a>Dorso-ventral 
+								guidance</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">Describes 
+								a mechanism by which cells or cell processes grow along the bodywall, either 
+								towards the dorsal or the ventral midline, usually following &#147;circumferential&#148; 
+								paths.</td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><a name="dosagecompensation" id="dosagecompensation"></a><a href="http://www.wormbook.org/chapters/www_dosagecomp/dosagecomp.html" target="_blank">Dosage compensation </a></b></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>The mechanism by which an organism compensates for unequal numbers of X chromosomes between the sexes so that somatic cells of either sex express equal levels of X-linked gene products. There are <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=dosagecomp&rendertype=figure&id=A3634" target="_blank">diverse strategies</a> employed by different species to achieve dosage compensation. In <em>C. elegans</em>, males have one X (XO) and females have two (XX). A <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=dosagecomp&rendertype=figure&id=A3636" target="_blank">protein complex</a> binds both X chromosomes of hermaphrodites and reduces transcript level by half. </p>
+									<p>See <a href="http://www.wormbook.org/chapters/www_dosagecomp/dosagecomp.html" target="_blank">Meyer, 2005</a> for more information. </p>
+								<p><br>
+									See <a href="sglossary.htm#sexdetermination" target="_blank">Sex determination</a> </p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dot"></a>Dot</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="rglossary.htm#ringanddot" target="_blank">Ring 
+								and dot</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="doublemutant"></a>Double 
+								mutant</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">An animal 
+								that carries two separate mutant alleles within its genotype. See<a href="http://www.wormbook.org/chapters/www_makingcompdmutants.2/makingcompdmutants.html" target="_blank"> Fay, 2006</a> for construction methods. </td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dpy"></a>dpy</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="#dumpy">Dumpy</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dsl"></a>DSL</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="#dorsalsublateralcord">Dorsal 
+								sublateral cord</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="du" id="du"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig2leg.htm" target="_blank">du</a> cell</b></td>
+							<td width="150" valign=top class="style18"><a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0006782" target="_blank">du</a></td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">Dorsal 
+								uterine cell, which is formed by the fusion of four cells. Should not be 
+								confused with DU cell (see below).</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="ducell" id="ducell"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006781" target="_blank">DU</a> cell</b></td>
+							<td width="150" valign=top class="style18">Dorsal 
+								uterine precursor (S)</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">A blast 
+								cell. Should not be confused with du cell (see above).</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="ductcell"></a>Duct 
+								cell</b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">See <a href="eglossary.htm#excretoryductcell" target="_blank">Excretory 
+								duct cell</a></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="Dumpy"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000583" target="_blank">DumPY</a></b></td>
+							<td width="150" valign=top class="style18">dpy</td>
+							<td width="137" valign=top class="style18">&nbsp;</td>
+							<td width="503" valign=top class="style18">Common <a href="http://www.wormclassroom.org/files/worm/dpyHalf.mov" target="_blank">mutant phenotype in which the body is short and somewhat fat</a>. Dumpy animals 
+								differ from small (<a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000229" target="_blank">sma</a>) mutants, which produce &#147;miniature&#148; animals 
+								that are very short and not fattened (<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC40134/" target="_blank">Savage 
+									et al., 1996</a>, <a href="http://dx.doi.org/10.1016/S0378-1119(00)00162-1" target="_blank">Zimmerman 
+										and Padgett, 2000)</a>. Some Dpy animals are also <a href="http://www.wormclassroom.org/files/worm/RolHalf.mov" target="_blank">rollers</a>. Dumpy phenotypes are often caused by defects in cuticle collagen genes (<a href="http://www.wormbook.org/chapters/www_cuticle/cuticle.html#sec4_1" target="_blank">Page and Johnstone, 2007</a>) or dosage compensation genes (<a href="http://www.wormbook.org/chapters/www_dosagecomp/dosagecomp.html" target="_blank">Meyer, 2005</a>).</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dva"></a><a href="../neurons/Individual Neurons/DVAframeset.html" target="_blank">DVA</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18"><span class="style25"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004823" target="_blank">ABprppppapp</a></span></td>
+							<td width="503" valign=top class="style18">Ring 
+								interneuron located in dorso-rectal ganglion. Has a large vesicle-filled 
+								process in ring.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dvb"></a><a href="../neurons/Individual Neurons/DVBframeset.html" target="_blank">DVB</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18"><span class="style25"><a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0004822" target="_blank">K.p</a></span></td>
+							<td width="503" valign=top class="style18">An excitatory 
+								GABAergic motor neuron located in dorso-rectal ganglion. Makes a neuromuscular 
+								junction with the anal depressor muscle. Together with the <a href="../neurons/Individual Neurons/AVLframeset.html" target="_blank">AVL</a> neuron, <a href="../neurons/Individual Neurons/DVBframeset.html" target="_blank">DVB</a> is involved in activation of the expulsion muscle contraction step in defecation 
+								motor program.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dvc"></a><a href="../neurons/Individual Neurons/DVCframeset.html" target="_blank">DVC</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18"><span class="style25"><a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0004821" target="_blank">Caapaa</a></span></td>
+							<td width="503" valign=top class="style18">Ring 
+								interneuron located in dorso-rectal ganglion.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dve"></a><a href="../neurons/Individual Neurons/DVEframeset.html" target="_blank">DVE</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18"><span class="style25"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004820" target="_blank">B.ppap</a></span></td>
+							<td width="503" valign=top class="style18">Male 
+								specific neuron</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dvf" id="dvf"></a><a href="../neurons/Individual Neurons/DVFframeset.html" target="_blank">DVF</a></b></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18"><span class="style25"><a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0004819" target="_blank">B.ppppa</a></span></td>
+							<td width="503" valign=top class="style18">Male 
+								specific neuron</td>
+						</tr>
+						<tr>
+							<td valign=top class="style18" ><b><a name="dwellingbehavior"></a>Dwelling behavior</b></td>
+							<td valign=top class="style18" >Roaming behavior (A) </td>
+							<td valign=top class="style18" >&nbsp;</td>
+							<td valign=top class="style18" ><p>A behavioral state in which  the nematode often stops, reverses or turns, and moves at low speed, tending to  remain in the same general area on the culture plate (<a href="http://dx.doi.org/10.1016/j.cub.2005.04.017" target="_blank">Cheung et al., 2005</a>).</p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><p><b><a name="dx"></a><a href="../neurons/Individual Neurons/DXframeset.html" target="_blank">DX1/2 <br>
+								DX1/2 <br>
+								DX3/4<br>
+								DX3/4</a></b></p></td>
+							<td width="150" valign=top class="style18">&nbsp;</td>
+							<td width="137" valign=top class="style18"><p class="style25"><a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0004818" target="_blank">F.lvda </a><br>
+								<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004817" target="_blank">F.rvda </a><br>
+								<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0004806" target="_blank">U.laa</a><br>
+								<a href="http://www.wormbase.org/species/c_elegans/anatomy_term/WBbt:0004805" target="_blank">U.raa</a></p></td>
+							<td width="503" valign=top class="style18">Male 
+								specific neurons, darkly staining cell bodies in preanal ganglion, processes 
+								penetrate basement membrane and contact muscles.</td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18"><b><a name="dyadicsynapse"></a><a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank">Dyadic 
+								synapse</a></b></td>
+							<td width="150" valign=top class="style18" >&nbsp;</td>
+							<td width="137" valign=top class="style18" >&nbsp;</td>
+							<td width="503" valign=top class="style18" ><p>In many portions of the <i>C. 
+								elegans</i> nervous system, this is the most common form of synapse, with 
+								one presynaptic process contacting two other postsynaptic processes simultaneously 
+				    at one place; A --&gt; B+C. It is also the most common form of <a href="../hermaphrodite/nervous/Images/neurofig6leg.htm" target="_blank">neuromuscular junction</a> (NMJ).</p>
+									<p><br>
+										See <a href="mglossary.htm#monadicsynapse" target="_blank">Monadic synapse</a><br>
+										See <a href="tglossary.htm#triadicsynapse" target="_blank">Triadic synapse</a></p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18" ><b><a name="dyefillingdefective" id="dyefillingdefective"></a><a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000255" target="_blank">DYe 
+								Filling defective</a></b></td>
+							<td width="150" valign=top class="style18" >dyf</td>
+							<td width="137" valign=top class="style18" >&nbsp;</td>
+							<td width="503" valign=top class="style18" ><p>A mutant phenotype in which 
+								vital dyes such as FITC, DIL and DIO fail to fill the sensory neurons 
+								that are open to outside and are normally stained by <a href="../EMmethods/DiIDiO.htm" target="_blank">incubation of the 
+									animal in these dyes</a> (<a href=http://www.wormbase.org/db/misc/paper?name=WBPaper00002087;class=Paper target="_blank">Starich 
+							et al., 1995</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000793;class=Paper" target="_blank">Hedgecock et al., 1985</a>).</p></td>
+						</tr>
+						<tr>
+							<td width="262" valign=top class="style18" ><b><a name="dynein"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3078" target="_blank">Dynein</a></b></span></td>
+							<td width="150" valign=top class="style18" >&nbsp;</td>
+							<td width="137" valign=top class="style18" ><span class="style25"></span></td>
+							<td valign=top class="style18"><p class="style33">A microtubule-based motor protein, 
+								which is generally specialized to carry cargoes towards the minus-end 
+								of the microtubule.</p>
+									<p><br>
+										See <a href="kglossary.htm#kinesin" target="_blank">Kinesin</a></p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">This <span class="style11">section</span> should be cited as: Herndon, L.A., Altun, Z.F. and Hall, D.H. 2009. Glossary D. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.4">10.3908/wormatlas.6.4</a>.<br>
+					</span><span class="style1">Edited for the web by Laura A. Herndon. Last revision: November 19, 2013. </span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+</body></html>

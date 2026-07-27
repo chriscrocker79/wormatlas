@@ -1,0 +1,640 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary N</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - N </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="106"><span class="style27"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="129"><p class="style27"><font
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style27">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="76"><span class="style27"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="592"><span class="style27"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style29"><font face="Arial, Helvetica, 
+sans-serif"><a name="nneuron"></a><a href="../neurons/Individual Neurons/BAGframeset.html" target="_blank"><strong>&quot;n&quot; neuron</strong></a> </font></span></td>
+							<td valign=top><p class="style35"><a href="http://www.wormbase.org/db/cell/cell.cgi?name=BAGL;class=Cell" target="_blank">BAGL </a><br>
+											<a href="http://www.wormbase.org/db/cell/cell.cgi?name=BAGR;class=Cell" target="_blank">BAGR</a> <br>
+								</p>
+									<p class="style35">&nbsp;</p></td>
+							<td valign=top><span class="style31">ABalppappap<br>
+								ABarappppap</span></td>
+							<td valign=top><p class="style35"><a href="../hermaphrodite/neuronalsupport/Images/neurofig25leg.htm" target="_blank">Two sensory neurons</a> with ciliated endings in the head with elliptical closed processes near the cilium. The endings have no associated sheath and socket cells and are not directly attached to the hypodermis. The cell bodies are situated anterior to the nerve ring and send processes to the head. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><a name="n2"></a><a href="http://wormbase.org/db/gene/strain?name=N2;class=Strain" target="_blank">N2</a></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">Most studies of <em>C. elegans</em> use this reference strain isolated originally in Bristol, U.K. For more details on the population genetics of <em>C. elegans</em> see <a href="http://www.wormbook.org/chapters/www_naturalvariationgenetics/naturalvariationgenetics.html" target="_blank">Barriere and Felix, 2005</a>. </p>
+									<p class="style35"><br>
+										See <a href="bglossary.htm#bergeracstrain" target="_blank">Bergerac </a><br>
+										See <a href="bglossary.htm#bristolstrain" target="_blank">Bristol </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neck"></a>Neck</font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">The region bordering the  head and the midbody in which <a href="../hermaphrodite/muscleintro/Images/musfig6G-Kleg.htm?id=10570" target="_blank">bodywall muscle</a> are dually innervated at both the  nerve ring and at the <a href="../hermaphrodite/muscleintro/Images/musfig6A-Fleg.htm" target="_blank">ventral nerve cord</a>. This portion of the body shows more  flexible searching motions that depart from a strictly dorsal/ ventral orientation.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><font face="Arial, Helvetica, sans-serif"><b><a name="necromenic"></a>Necromenic</b></font></span></td>
+							<td valign=top><a href="http://www.wormbook.org/chapters/www_ecolCaenorhabditis/ecolCaenorhabditis.html#d0e221" target="_blank" class="style35">Necromeny</a></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">A special version of commensal lifestyle where dauer stage animals associate with  a live host, such as an insect or beetle, but do not harm it.&nbsp; When the host dies, the necromenic nematode  advances to adulthood while feeding on the corpse of the host (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003847;class=Paper" target="_blank">Baird,  1999</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027629;class=Paper" target="_blank">Hong and  Sommer, 2006</a>; <a href="http://www.wormbook.org/chapters/www_ecolCaenorhabditis/ecolCaenorhabditis.html" target="_blank">Kiontke and Sudhaus, 2006</a>).</p>
+									<p class="style35"><br>
+										See <a href="cglossary.htm#commensal" target="_blank">Commensal </a><br>
+										See <a href="pglossary.htm#phoretic" target="_blank">Phoretic</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="necrosis"></a><a href="http://www.jneurosci.org/cgi/content/full/17/3/1033/F9" target="_blank">Necrosis</a></font></strong></span></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">A common form of cell death  caused by external insults to cellular integrity; in some cases, necrosis may  spread from cell to cell to damage many neighboring cells. Necrotic cells show <a href="http://www.jneurosci.org/cgi/content/full/17/3/1033/F3" target="_blank">early swelling</a> in  cytoplasmic organelles and the nucleus, lytic activity in the cytoplasm, and  late changes in chromatin, while the cell gradually swells in volume before  dying (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.section.520" target="_blank">Hengartner, 1997</a>). </p>
+									<p class="style35">Necrotic-like cell death in <em>C. elegans</em> has been carefully <a href="http://www.jneurosci.org/cgi/content/full/17/3/1033/F3" target="_blank">characterized in neurons</a> undergoing degenerin-induced cell death (<a href="http://www.jneurosci.org/cgi/content/full/17/3/1033#F3" target="_blank">Hall et al., 1997</a>). </p>
+								<p class="style35"><br>
+									See <a href="aglossary.htm#apoptosis" target="_blank">Apoptosis</a><br>
+									See <a href="pglossary.htm#phagocytosis" target="_blank">Phagocytosis</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neighborhood"></a>Neighborhood</font></strong></span></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">A characteristic,  specialized pattern of fasciculation among neurites (generated during process  outgrowth) that causes individual neurites to be surrounded by a standard set of  neighbors along a nerve cord or within neuropil; the pattern surrounding any  particular nerve process is called its &ldquo;neighborhood&rdquo; (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000702;class=Paper" target="_blank">White et al., 1983</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nematicide"></a>Nematicide </font></strong></span></td>
+							<td valign=top><span class="style35">Nematocide (S) </span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">Any agent that will destroy  nematodes, especially those species that parasitize plants. This term is commonly used for any agent used  to kill nematodes for agricultural purposes.</p>
+									<p class="style35"><br>
+										See <a href="aglossary.htm#anthelminthic" target="_blank">Anthelminthic</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><b><font face="Arial, Helvetica, sans-serif"><a name="nematode"></a>Nematode </font></b></span></td>
+							<td valign=top><span class="style35">Roundworm (S) <br>
+								Worm (S) <br>
+								Nema (S) </span></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">Any member of the phylum <a href="http://www.wormbook.org/chapters/www_quicktourdiversity/nematfig2.jpg" target="_blank">Nematoda</a>, including the pinworm, hookworm and Trichinella; all of these are  characterized as &ldquo;roundworms&rdquo;. <em>C. elegans</em> is a member of this phylum (<a href="http://www.wormbook.org/chapters/www_quicktourdiversity/quicktourdiversity.html" target="_blank">De Ley, 2006</a>). <br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nerve"></a>Nerve</font></strong></span></td>
+							<td valign=top><span class="style35">Process bundle (S)<br>
+								Nerve cord (S) <br>
+								Nerve bundles (S) </span></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">A bundle of thin  neuronal processes running in parallel, connecting different ganglia, sensory  endings, synaptic neuropil, and/or regions of motor output. In the nematode there are generally no glial-like  wrappings (no myelin) associated with a nerve, but virtually all nerves in the  bodywall are closely associated with hypodermis and the hypodermal basal  lamina. Nerves in the pharynx seem to  run independent of any epithelia, often lying within a groove established by  the muscles. Most major nerves in the  nematode run longitudinally and are interconnected via circumferential commissures.</p>
+									<p class="style35"><strong>Named nerves:<br>
+										</strong>Amphid (2) = Chemosensory<br>
+										Dorsal cord <br>
+										Labial (6) = Mechanosensory <br>
+										Dorsal (pharynx)<br>
+										Lateral (2)<br>
+										Lumbar-preanal (2)  [runs as a pair of commissures] <br>
+										Pharyngeal (3) =  Dorsal and Subventral (2) <br>
+										Phasmid (2) <br>
+										Ventral Cord (2) </p>
+								<p class="style35"><br>
+									See <a href="fglossary.htm#fascicle" target="_blank">Fascicle</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nervecord"></a>Nerve cord </font></strong></span></td>
+							<td valign=top><span class="style35">Nerve Chord (S) </span></td>
+							<td valign=top>&nbsp;</td>
+							<td align="left" valign=top><p class="style35">An organized bundle of nerve  processes. The <a href="../hermaphrodite/nervous/Images/neurofig20leg.htm" target="_blank">dorsal</a> and <a href="../cellIDbodyVCMN.html" target="_blank">ventral </a>nerve cords <a href="../hermaphrodite/nervous/Images/neurofig7leg.htm" target="_blank">run the length</a> of the worm from<a href="../hermaphrodite/nervous/Images/neurofig5leg.htm" target="_blank"> head to tail</a>. </p>
+									<p class="style35"><br>
+										See <a href="cglossary.htm#cord" target="_blank">Cord/ Chord</a> <br>
+										See <a href="dglossary.htm#dorsalcord" target="_blank">Dorsal Cord </a><br>
+										See <a href="#nerve">Nerve </a><br>
+										See <a href="vglossary.htm#ventralcord" target="_blank">Ventral Cord </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nervefiber"></a>Nerve fiber </font></strong></span></td>
+							<td valign=top><span class="style35">Neurite (S) </span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellipodium"><p class="style35">Part of a nerve cord. An individual neuronal process lying within a  nerve; thus an axon, dendrite or neurite with mixed function. Can also refer to a neuronal process running  independently away from an organized nerve cord.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><a name="nervering"></a><a href="../hermaphrodite/nervous/Images/neurofig1leg.htm" target="_blank">Nerve ring</a></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">The major zone of overlap,  among approximately 200 overlapping axons in the head, which<a href="../hermaphrodite/nervous/Images/neurofig19leg.htm" target="_blank"> encircles the isthmus of the  pharynx</a> to form a <a href="../hermaphrodite/muscleintro/Images/musfig5Gleg.htm" target="_blank">tightly packed ring-like structure</a> on the outside of the  pharynx. The nerve ring lies directly  over a cylindrical muscle plate formed by arms from the head muscles. The nerve ring is the most concentrated zone  of synaptic interconnections among the neurons of the head, and most head  neurons lie very close by, such that the nerve ring and its associated neurons  could be considered one huge ganglion, acting as &ldquo;the brain&rdquo; of the nematode. </p>
+									<p class="style35">A much <a href="../hermaphrodite/pharynx/Images/phafig9A_Eleg.htm" target="_blank">smaller ring of axons lies within the  pharynx</a>, formed by neurites extended from many pharyngeal neurons. Head neurons form almost no synapses away  from the nerve ring or the longitudinal motor nerves.</p>
+								<p class="style35"><br>
+									See <a href="pglossary.htm#pharyngealnervering" target="_blank">Pharyngeal nerve ring</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><b><font face="Arial, Helvetica, sans-serif"><a name="nervoussystem"></a><a href="../hermaphrodite/nervous/Neuroframeset.html" target="_blank">Nervous system</a> </font></b></span></td>
+							<td valign=top><span class="style35">Neurons (S)<br>
+								Nervous tissue (S) </span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">The nervous system of<em> C. elegans</em> is formed from 302 neurons, each of which has unique properties, morphologies and connectivities. While <em>C. elegans</em> does not have a &quot;brain&quot; per se, most of the nervous system is situated in the head region which is where most of the sensing by the animal occurs. For more details see <a href="http://www.wormbook.org/chapters/www_specnervsys/specnervsys.html" target="_blank">Hobert, 2005</a>. </p>
+									<p class="style35"><br>
+										See <a href="#nervering">Nerve ring</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neuralplasticity"></a>Neural plasticity </font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">Functional changes in the nervous system ranging from changes at the synapses during development (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.section.916" target="_blank">Jorgensen and Rankin, 1997</a>; <a href="http://www.wormbook.org/chapters/www_specnervsys/specnervsys.html#d0e1561" target="_blank">Hobert, 2005</a>) to changes in behavior of the adult animal (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.section.924" target="_blank">Jorgensen and Rankin, 1997</a>). Behavioral assays have been developed to test for neural plasticity by chemotaxis (<a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec4_1" target="_blank">Jensen, 2005</a> and <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec5_6" target="_blank">Mori, 2005</a> in <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html" target="_blank">Hart, 2006</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neurite"></a>Neurite</font></strong></span></td>
+							<td valign=top><span class="style35"><font face="Arial, Helvetica, sans-serif">Axon or dendrite (S)<br>
+								Process or branch or Commissure (S) <br>
+								Nerve fiber (S) <br>
+							</font></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">This term is often used  preferentially to &ldquo;dendrite&rdquo; or  &ldquo;axon&rdquo; to refer to neuronal processes with mixed functions (e.g. having some  sensory role and also an important role in synaptic interactions), or to an unspecialized neuronal process which  has not yet developed a specific function.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neuroblast"></a>Neuroblast</font></strong></span></td>
+							<td valign=top><span class="style35"><font face="Arial, Helvetica, sans-serif">Blast cell (S) <br>
+								Epidermoblast (S) </font></span></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">Precursor, or stem cell, to  neurons. In <em>C. elegans </em>there are few  true neuroblasts since most neuronal lineages are not pure; their precursors  yield mixtures of neurons, structural cells and hypodermis.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neurocraticcontroloflocomotion" id="neurocraticcontroloflocomotion"></a>Neurocratic control of locomotion</font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">A theory of behavioral  control of nematode locomotion in which the primary role of the nervous system  is to switch between alternate waveforms, where each waveform is chiefly  generated by a &ldquo;myogenic&rdquo; control mechanism (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=5139022&query_hl=3&itool=pubmed_docsum" target="_blank">Crofton, 1971</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000076;class=Paper" target="_blank">Croll, 1975</a>),  inherent to muscle-muscle interconnections.</p>
+									<p class="style35"><br>
+										See <a href="mglossary.htm#myogeniccontroloflocomotion" target="_blank">Myogenic control of locomotion</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neurofilament"></a>Neurofilament</font></strong></span></td>
+							<td valign=top><p class="style35">Intermediate filament (S) </p></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">Any type of filamentous protein lying within the  cytoplasm, e.g. any filamentous cytoskeletal component within a neuron soma or  process, especially those whose biochemical nature is not immediately  known. However, the term is most often  used to refer to an intermediate filament.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><b><font face="Arial, Helvetica, 
+sans-serif"><a name="neurogenesis"></a>Neurogenesis</font></b></span></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p><a href="#matingresistance"><span class="style25"><span class="style30"><span class="style33"><span class="style35"><span class="style35"></span></span></span></span></span></a></p></td>
+							<td valign=top><p class="style35">The formation and development of neurons. <em>C. elegans</em> adults have 302 neurons. For discussions on the specification and patterning of the nervous system in <em>C. elegans</em> see <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=neurogenesis+AND+ce2%5Bbook%5D+AND+1601%5Buid%5D&rid=ce2.section.684" target="_blank">Ruvkun, 1997</a> and <a href="http://www.wormbook.org/chapters/www_specnervsys/specnervsys.html" target="_blank">Hobert, 2005</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neurogenic"></a>Neurogenic</font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">Tissue that originates from the nervous system or that  is competent to produce neuronal cells.</p>
+									<p class="style35"><br>
+										See <a href="mglossary.htm#myogeniccontroloflocomotion" target="_blank">Myogenic control of locomotion</a><br>
+										See <a href="#neurocraticcontroloflocomotion">Neurocratic control of locomotion</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neuroglia"></a>Neuroglia</font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">Non-neuronal cells that provide support and nutrition to neurons. A large class of these in <em>C. elegans</em> are the <a href="../hermaphrodite/neuronalsupport/Neurosupportframeset.html" target="_blank">support cells of the neuronal sensilla</a>. </p>
+									<p class="style35"><br>
+										See <a href="gglossary.htm#glialcell" target="_blank">Glial cell </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><b><font face="Arial, Helvetica, 
+sans-serif"><a name="neurohormone"></a>Neurohormone</font></b></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">A secreted substance from a  neuron, perhaps from <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=eurekah.figgrp.58946" target="_blank">the active zone</a>, or from <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synapticfunction&rendertype=figure&id=A6279" target="_blank">a synaptic vesicle</a>, which  has a direct chemical action at a distance from the release site, further away  than the closest postsynaptic processes.&nbsp;Such chemical action at a distance may influence other neurons, muscles,  and perhaps other tissues.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neuromodulator"></a>Neuromodulator</font></strong></span></td>
+							<td valign=top><p><span class="style30"><span class="style33"><span class="style35"><span class="style35"></span></span></span></span></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">A substance released by a neuron that influences other neurons, but is not classified as a neurotransmitter. For example, in <em>C. elegans</em> neuromodulators are thought to influence dauer formation (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=neuromodulator+AND+ce2%5Bbook%5D+AND+1805%5Buid%5D&rid=ce2.figgrp.887" target="_blank">Riddle and Albert, 1997</a>) and egg laying (<a href="http://www.wormbook.org/chapters/www_egglaying/egglaying.html#d0e267" target="_blank">Schafer, 2006</a>). </p>
+									<p class="style35"><br>
+										See<a href="#neurotransmitter"> Neurotransmitter </a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neuromuscularjunction"></a><a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank">Neuromuscular junction</a></font></strong></span></td>
+							<td valign=top><p class="style35">NMJ</p>
+									<p class="style35">Neuromuscular synapse (S)<br>
+										Myoneural junction (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">This is a form of <a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Chemicalsynapses2101" target="_blank">chemical  synapse</a> that connects a presynaptic motor axon to one or more postsynaptic  muscle arms. A typical animal has about 2000 neuromuscular junctions. In many cases a single NMJ  is <a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank">dyadic</a>, with one presynaptic axon contacting two separate muscle arms  simultaneously (as in<a href="../hermaphrodite/muscleintro/Images/musfig5ABleg.htm" target="_blank"> nerve ring NMJs</a>), or contacting a muscle arm and a neuron  dendrite simultaneously (as at most NMJs of the ventral nerve cord and dorsal  nerve cord). NMJs exhibit virtually all  the same features as other chemical synapses in <em>C. elegans</em>. There is rarely any evidence for a  postsynaptic specialization on the muscle arm membrane.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neuron"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=.0I2LEa7S2jtnhfK8Co3UhwZA3j8WKPPQnN98P" target="_blank">Neuron</a></font></strong></span></td>
+							<td valign=top><p class="style35">Nerve cell (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">A specialized cell that communicates with other  neurons and muscles via chemical and/or electrical synapses, or by releasing  neurohormones to direct the behavior of the animal, but which has no motor  function of its own. Typical neurons are small cells with long nerve processes;  they have primary roles as sensory neurons, interneurons or motor neurons. In <em>C. elegans</em>, in rare instances, neurons may  have a principal role in development, guiding neurite outgrowth or maintaining  nerve positions, rather than passing along intercellular signals via vesicle release  at synapses. <a href="../hermaphrodite/nervous/Neuroframeset.html" target="_blank">Nematode neurons</a> generally  do not utilize action potentials, but instead send graded electrical potentials  along their axons and dendrites between their input and output zones.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><b><font face="Arial, Helvetica, 
+sans-serif"><a name="neuropeptide"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=bnchm.figgrp.1301" target="_blank">Neuropeptide</a></font></b></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">Specialized peptidergic neurotransmitters encoded as preproproteins that are posttranslationally processed to yield bioactive neuropeptides. They modulate synaptic signaling through other, small-molecule, neurotransmitters and exert their function via  seven-span transmembrane receptors. Thirty-two neuropeptide-like proteins have been identified in <em>C. elegans</em> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004975;class=Paper" target="_blank">Nathoo et al., 2001</a>).</p>
+									<p class="style35"><br>
+										See <a href="#neurotransmitter">Neurotransmitter </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><b><font face="Arial, Helvetica, 
+sans-serif"><a name="neuropil"></a>Neuropil/ Neuropile </font></b></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">The network of neuronal processes (axonal and dendritic) together without the cell bodies of the neurons. In higher animals the main neuropil is the gray matter of the brain and spinal cord. For <em>C. elegans</em>, this is the <a href="../hermaphrodite/nervous/Images/neurofig19leg.htm" target="_blank">nerve ring</a>, where many neurons come together and synapses are formed (<a href="http://www.wormatlas.org/ver1/Ware_build0.2/toc.html" target="_blank">Ware et al., 1975</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neurosecretoryending"></a>Neurosecretory ending </font></strong></span></td>
+							<td valign=top><p class="style35"><font face="Arial, Helvetica, 
+sans-serif">Neurohumoral transmission (S) </font></p></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">Synaptic ending without a  clear postsynaptic target, suggesting that vesicle contents may diffuse via  pseudocoelom to a distant target cell or tissue (e.g. <a href="../neurons/Individual Neurons/NSMframeset.html" target="_blank">NSM</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><font face="Arial, Helvetica, sans-serif"><b><a name="neurotransmitter"></a>Neurotransmitter</b></font></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">A chemical compound, packaged inside of a membrane-bound  &ldquo;<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=synapticfunction&rendertype=figure&id=A6279" target="_blank">synaptic vesicle</a>&rdquo; in the cytoplasm of a neuron. The neurotransmitter is released from the  vesicle at a chemical synapse via <a href="http://www.wormbook.org/chapters/www_synapticfunction/synapticfunction.html#d0e606" target="_blank">exocytosis</a>, where the vesicle fuses to the presynaptic  membrane at the <a href="../hermaphrodite/nervous/Images/neurofig21leg.htm?rid=ce2.figgrp.746" target="_blank">active zone</a>.&nbsp; As the  vesicle fuses, neurotransmitter is released into the synaptic cleft to signal  one or more neighboring cells, usually other neurons or muscles. Specific <a href="../neurotransmitterstable.htm" target="_blank">neurotransmitters of <em>C. elegans</em></a> have been identified. </p>
+									<p class="style35"><br>
+										See <a href="#neuropeptide">Neuropeptide</a><br>
+										See <a href="rglossary.htm#receptor" target="_blank">Receptor</a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neurula"></a>Neurula</font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#membranousorganelle"><p class="style35">A stage of development of the early embryo in which neurulation occurs. The <a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">comma stage</a> is a landmark for the end of this stage of development (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002461;class=Paper" target="_blank">Wadsworth and Hedgecock, 1996</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="neurulation"></a>Neurulation </font></strong></span></td>
+							<td valign=top><p class="style35">&nbsp; </p>
+									<p class="style35">&nbsp; </p></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">The earliest stage in the development of the nematode  nervous system, occurring between 230-340 min of embryogenesis, when epidermal blast cells ingress into the developing gastrula  and divide to produce neuroblasts, which in turn begin to establish the early  architecture of the nervous system by forming organized groups of cell bodies  within the bodywall (Wadsworth and Hedgecock, <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001508;class=Paper" target="_blank">1992</a>, <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002461;class=Paper" target="_blank">1996</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ngm"></a><a href="http://www.wormbook.org/chapters/www_strainmaintain/strainmaintain.html#d0e214" target="_blank">NGM</a></font></strong></span></td>
+							<td valign=top><p class="style35">Nematode growth medium </p></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">A defined chemical medium  which has proven to be adequate to produce a healthy culture of <em>C. elegans </em>when seeded with an <em>E. coli</em> OP50 lawn of bacteria and is typically poured into petri plates using a peristaltic pump. To reduce the grown of unwanted bacteria and fungi, drugs such as streptomycin or nystatin can be added to the solution before being poured (<a href="http://www.wormbook.org/chapters/www_strainmaintain/strainmaintain.html" target="_blank">Stiernagle, 2006</a>).<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nictation"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_4" target="_blank">Nictation</a></font></strong></span></td>
+							<td valign=top><span class="style35">Waving (S) </span></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">A behavior seen in dauer  larva in which they crawl up upon the substrate, such  as a mold filament or a grass blade, and <a href="http://www.ijm.fr/en/ijm/research/research-groups/nematode/activites/populations/" target="_blank">wave back and forth</a> while standing on their tail, in search of a new arthropod  host (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00010003;class=Paper" target="_blank">Croll and Matthews, 1977</a>; <a href="http://www.wormbook.org/chapters/www_ecolCaenorhabditis/ecolCaenorhabditis.html#d0e275" target="_blank">Kiontke and  Sudhaus, 2006</a>).</p>
+									<p class="style35"><br>
+										See <a href="#necromenic">Necromenic</a><br>
+										See <a href="pglossary.htm#phoretic" target="_blank">Phoretic </a><br>
+										See <a href="pglossary.htm#waving" target="_blank">Waving</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nmj"></a>NMJ</font></strong></span></td>
+							<td valign=top><span class="style35"><a href="#neuromuscularjunction">Neuromuscular junction</a> (S) </span></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p><span class="style30"><span class="style33"><span class="style35"><span class="style35"></span></span></span></span></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><b><font face="Arial, Helvetica, 
+sans-serif"><a name="nocioceptor"></a><a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Nociception242" target="_blank">Nocioceptor/ Nocioceptive/ Nociception</a></font></b></span></td>
+							<td valign=top><p><span class="style30"><span class="style33"><span class="style35"><span class="style35"></span></span></span></span></p></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">A  sensory receptor which is stimulated by painful stimuli. Whether the nematode can sense pain is  difficult to ascertain, but certain sensory endings (<a href="../neurons/Individual Neurons/ASHframeset.html" target="_blank">ASH</a>, <a href="../neurons/Individual Neurons/PVDframeset.html" target="_blank">PVD</a>) in <em>C. elegans</em> have  been ascribed to be homologous to nocioceptors because they are sensitive to a  wide range of stimuli (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=3543978&query_hl=17&itool=pubmed_docsum" target="_blank">Besson and Chaouch, 1987</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002687;class=Paper" target="_blank">Driscoll and Kaplan, 1997</a>, <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024376;class=Paper" target="_blank">Tobin and Bargmann, 2004 </a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><b><font face="Arial, Helvetica, 
+sans-serif"><a name="nomarskimicroscopy"></a><a href="http://www.wormclassroom.org/cr/DIC.html" target="_blank">Nomarski microscopy</a> </font></b></span></td>
+							<td valign=top><p class="style35">DIC microscopy (S) </p></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">A form of high resolution  interference optics (differential interference contrast, or DIC) that allows live nematodes to be observed at high  magnification without staining, and<a href="../hermaphrodite/introduction/IMAGES/introfig8leg.htm" target="_blank"> to resolve individual cells and nuclei</a> in  thin optic sections (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=5361069&query_hl=19&itool=pubmed_DocSum" target="_blank">Allen, David and Nomarski, 1969</a>).</p>
+									<p class="style35"><br>
+										See <a href="dglossary.htm#dicmicroscopy" target="_blank">DIC microscopy </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="normoxia"></a>Normoxia/ Normoxic </font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">An environment containing  the normal concentration of oxygen (21% O<sub>2</sub>). </p>
+									<p class="style35"> <br>
+										See <a href="aglossary.htm#anoxia" target="_blank">Anoxia </a><br>
+										See <a href="hglossary.htm#hypoxia" target="_blank">Hypoxia</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nose"></a><a href="../hermaphrodite/introduction/IMAGES/introfig4Aleg.htm" target="_blank">Nose</a></font></strong></span></td>
+							<td valign=top><span class="style35">Snout (S) </span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">The extreme anterior portion of the body</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nosetouch"></a><a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_7" target="_blank">Nose touch </a></font></strong></span></td>
+							<td valign=top><span class="style35"><font face="Arial, Helvetica, sans-serif"><br>
+							</font></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">A behavioral response  mediated by several neuronal sensilla in the head (<a href="../neurons/Individual Neurons/ASHframeset.html" target="_blank">ASH</a><a href="http://www.wormatlas.org/ver1/neurons.htm/ash.htm" target="_blank"></a>, <a href="../neurons/Individual Neurons/OLQframeset.html" target="_blank">OLQ</a>, <a href="../neurons/Individual Neurons/FLPframeset.html" target="_blank">FLP</a>) when the  animal runs directly into a fine hair on the substrate; the response is to  reverse direction and is often called &ldquo;nose touch avoidance&rdquo; (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001705;class=Paper" target="_blank">Kaplan and Horvitz,  1993</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002309;class=Paper" target="_blank">Hart et al., 1995</a>; <a href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2_7" target="_blank">Hart, 2006</a>).</p>
+								  <p class="style35"><br>
+										See <a href="mglossary.htm#mechanosensation" target="_blank">Mechanosensation</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nuage"></a>Nuage</font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">See <a href="gglossary.htm#germplasm" target="_blank">Germ plasm </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nubbin"></a><a href="../hermaphrodite/neuronalsupport/Images/neurofig30leg.htm" target="_blank">Nubbin</a></font></strong></span></td>
+							<td valign=top><p class="style35"> Cuticular nubbin (S) <br>
+								CN (S) <br>
+								Ciliary cap (S) </p>
+									<p class="style35">&nbsp; </p></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">A very short lateral  projection from the cilium of some sensory dendrites (<a href="../neurons/Individual Neurons/CEPframeset.html" target="_blank">CEP</a>, <a href="../neurons/Individual Neurons/OLLframeset.html" target="_blank">OLL</a>, <a href="../neurons/Individual Neurons/OLQframeset.html" target="_blank">OLQ</a><a href="http://www.wormatlas.org/ver1/neurons.htm/olq.htm" target="_blank"></a>, <a href="../neurons/Individual Neurons/ADEframeset.html" target="_blank">ADE</a>) that  embeds into the inner cuticle layer, presumably anchoring the cilium to the  cuticle. The nubbin material is  apparently an extracellular secretion from the cilium and is somewhat electron  dense, but generally does not produce an external bump (papilla) on the surface  of the animal. These sensory endings  sometimes are open through the cuticle, but are more often closed (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000932;class=Paper" target="_blank">Perkins  et al., 1986</a>).</p>
+								  <p class="style35"><br>
+										See <a href="pglossary.htm#papilla" target="_blank">Papilla</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nuclearenvelope"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">Nuclear envelope</a> </font></strong></span></td>
+							<td valign=top><p class="style35">Nuclear membrane (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">Similar to that of <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=eurekah.figgrp.13128" target="_blank">vertebrates</a>, the <a href="http://www.wormbook.org/chapters/www_celldivision/celldivision.html#d0e383" target="_blank">nuclear envelope of <em>C. elegans</em></a> has two concentric membranes (outer and inner) that enclose a lumenal space. Nuclear pore complexes mediate bidirectional transport between the nucleus and cytoplasm and a laminar network (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004416;class=Paper" target="_blank">Liu et al., 2000</a>, <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005158;class=Paper" target="_blank">Gruenbaum, 2002</a>) provides support and for the proper segregation of the chromosomes (<a href="http://www.wormbook.org/chapters/www_celldivision/celldivision.html#d0e383" target="_blank">Oegema and Hyman, 2006</a>). During mitosis, the nuclear envelope goes through <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2132" target="_blank">a cycle of breakdown and reassembly</a>. </p>
+									<p class="style35"><br>
+										See <a href="lglossary.htm#lamin" target="_blank">Lamin</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nuclearmigration"></a>Nuclear migration </font></strong></span></td>
+							<td valign=top><p><span class="style30"><span class="style33"><span class="style35"><span class="style35"></span></span></span></span></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">Certain cell nuclei make characteristic movements during embryogenesis  (at comma stage) or later during tissue morphogenesis. During <a href="http://www.wormbook.org/chapters/www_epidermalmorphogenesis/epidermalmorphogenesis.html#d0e769" target="_blank">embryonic closure</a>, some hypodermal  nuclei move within extended processes of the hypodermal cells to migrate from  one side of the body to the other, crossing the dorsal midline. Similarly, in mid L1 stage, certain precursor  nuclei (Pn cells) migrate from lateral positions to the ventral midline prior  to dividing to produce neurons of the ventral nerve cord. It is most likely that nuclei may be actively  moved via the internal cytoskeleton by motor proteins, or perhaps pushed  passively by the squeezing actions of adjacent cells. Some mutants are known to block the normal  progress of these migrations, including the lineage mutants unc-83,unc-84, and  lin-3 (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000500;class=Paper" target="_blank">Sulston and Horvitz, 1981</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nuclearpore"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2157" target="_blank">Nuclear pore</a> </font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">Periodic, highly organized,  channels (patent holes) in the nuclear membrane across which macromolecules  including mRNAs and transcription factors can be transported between the  nucleus and the cytoplasm. They are evenly  spaced throughout the membrane and are most easily seen by freeze fracture.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nucleolus"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1044"nucleolus"+AND+mboc4[book]+AND+372690[uid]&rid=mboc4.figgrp.1044" target="_blank">Nucleolus</a></font></strong></span></td>
+							<td valign=top><p><span class="style30"><span class="style33"><span class="style35"><span class="style35"></span></span></span></span></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">A darkly staining part of the nucleus that is the site for <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.1047" target="_blank">the processing of rRNAs and their assembly into ribosomes</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nucleosome"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.595" target="_blank">Nucleosome</a></font></strong></span></td>
+							<td valign=top><p><span class="style30"><span class="style33"><span class="style35"><span class="style35"></span></span></span></span></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">The basic level of chromatin packing in which the DNA is wrapped around a protein core formed from histones. This gives a &quot;<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.631" target="_blank">beads on a string</a>&quot; look to the DNA. Each nucleosome core particle is separated from the next by a region of<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.632" target="_blank"> linker DNA</a>. Nucleosomes are then usually packed together into compact stacks generating a condensed <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.641" target="_blank">30 nm fiber</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nucleus"></a>Nucleus</font></strong></span></td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">Membrane enclosed organelle which contains most of the cell's genetic material. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nulloxsperm"></a>Nullo-X sperm </font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">A sperm cell that contains  no copy of the normal X chromosome. Males produce equal numbers of haplo-X and nullo-X sperm so that half their progeny will also be male. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="nursecells"></a>Nurse cells </font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p class="style35">Germ cells in the somatic  gonad are produced in excess numbers in comparison to the final yield of mature  spermatocytes and oocytes, such that many individual germ cell nuclei undergo  programmed cell death as they approach the loop of the gonad arm. Since all germ cells prior to this locale form  a single syncytium, connected by a central rachis, it is postulated that the  excess germ cells and especially their nuclei serve as nurse cells to those  germ cells which do survive (<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowSection&rid=ce2.chapter.485" target="_blank">Hengartner, 1997</a>), synthesizing components which  are delivered into the rachis to feed the surviving cells prior to their  cellularization.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><span class="style35"><strong><font face="Arial, Helvetica, sans-serif"><a name="nymph"></a>Nymph</font></strong></span></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style35"></span></td>
+							<td valign=top><p class="style35">See <a href="lglossary.htm#larva" target="_blank">Larva </a></p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: January 27, 2010. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary N. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.14</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

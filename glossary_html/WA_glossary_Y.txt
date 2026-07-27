@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary Y</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - Y </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style28"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style28"><font
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style28">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="102"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style28"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ycell"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004578" target="_blank">Y cell </a></font></strong></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/PDAframeset.html" target="_blank">PDA</a></p>
+									<p><font face="Arial, Helvetica, sans-serif">Y blast cell (S)<br>
+								</font><font face="Arial, Helvetica, sans-serif">F cell (archaic) </font></p></td>
+							<td valign=top><p class="style26"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0008247" target="_blank">Y (herm) </a><br>
+								ABprpppaaaa </p>
+									<p class="style26"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0008248" target="_blank">Y.a (male)</a></p></td>
+							<td valign=top><p> A motor neuron that  becomes terminally differentiated as PDA after early larval stages<a href="../hermaphrodite/rectum/Images/rectfig3A_Eleg.htm" target="_blank"> in the hermaphrodite</a> when it forms a portion of the anterior wall of the rectum.&nbsp;<a href="../male/reproproctodeum/images/MaleProcFIG3.jpg" target="_blank">In the male</a>,  the Y cell <a href="../male/reproproctodeum/images/MaleProcFIG4.jpg" target="_blank">acts as a blast cell and divides again</a> and the anterior daughter becomes PDA (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston and Horvitz, 1977</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ylink"></a><a href="http://www.ncbi.nlm.nih.gov/books/NBK19729/figure/cilia_figure2/?report=objectonly" target="_blank">Y link</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A proteinaceous extension  (usually Y shaped) that connects an axoneme to the cell membrane of a cilium.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="yneuron"></a>y neuron </font></strong></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/URYframeset.html" target="_blank">URY</a></p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>&nbsp;</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="yfp"></a><a href="http://zeiss-campus.magnet.fsu.edu/articles/probes/jellyfishfps.html#yfp" target="_blank">YFP</a></font></strong></td>
+							<td valign=top><p>Yellow fluorescent protein </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A useful tag for fluorescence microscopy, it is genetic mutant of green fluorescent protein. Its <a href="http://zeiss-campus.magnet.fsu.edu/articles/probes/images/aequoreafpintrofigure4.jpg" target="_blank">excitation peak is 514nm and its emission peak is 527nm</a>. There are a number of more stable variants of YFP including Venus (<a href="http://dx.doi.org/10.1038/nbt0102-87" target="_blank">Nagai et al., 2002</a>) and Citrine (<a href="http://www.jbc.org/content/276/31/29188.long" target="_blank">Griesbeck et al., 2001</a>). For more details on fluorescent proteins see<a href="http://www.olympusfluoview.com/applications/fpcolorpalette.html" target="_blank"> link</a>. </p>
+									<p><br>
+										See <a href="cglossary.htm#cfp" target="_blank">CFP </a><br>
+										See <a href="gglossary.htm#gfp" target="_blank">GFP</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="yolk"></a>Yolk</font></strong></td>
+							<td valign=top>Vitellogenin (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A nutrient protein produced  by intestinal cells and secreted by them into the pseudocoelom, from which it  can be shared with other tissues in the body.&nbsp;Yolk is sequestered inside a membrane while lying within the cytoplasm  (forming a yolk granule), but in the <a href="../hermaphrodite/pericellular/Images/perifig2leg.htm" target="_blank">pseudocoelom</a> it exists as a large free  &ldquo;particle&rdquo; without a membrane coating.  It can then be endocytosed back into another cytoplasmic granule in  receiving cells, including <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=intracellulartrafficking&rendertype=figure&id=A2632" target="_blank">oocytes prior to fertilization</a>. Yolk granules are found in<a href="http://www.wormatlas.org/dauer/intestine/Images/dintfig3leg.htm" target="_blank"> dauer intestinal cells</a> as well as in aging, post-reproductive animals where it <a href="http://www.nature.com/nature/journal/v419/n6909/images/nature01135-f4.2.jpg" target="_blank"> accumulates within the body cavity</a> (<a href="../images/Herndon 2002.pdf?name=WBPaper00005490;class=Paper" target="_blank">Herndon et al., 2002</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="yolkgranule"></a><a href="http://www.wormatlas.org/hermaphrodite/pericellular/Images/perifig2leg.htm" target="_blank">Yolk granule</a> </font></strong></td>
+							<td valign=top>Hyaline sphere (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A membrane bounded sac containing yolk. </p>
+									<p><br>
+										See <a href="#yolk">Yolk</a> </p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: October 4, 2013. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary Y. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.25">10.3908/wormatlas.6.25</a></span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

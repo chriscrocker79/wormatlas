@@ -1,0 +1,372 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary U</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - U </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td width="135" height="87" valign=top><span class="style8"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style8"><font
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style8">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="102"><span class="style8"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style8"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ucell"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004942" target="_blank">U cell </a></font></strong></td>
+							<td valign=top class="style18"><p><a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=FLPL;class=Cell"></a>E cell (S) </p></td>
+							<td valign=top class="style18">ABplppppapa</td>
+							<td valign=top class="style18"><p>Formerly called the E  cell, this ectoblast  forms a portion of the <a href="../hermaphrodite/rectum/Images/rectfig3A_Eleg.htm" target="_blank">anterior wall of  the rectum in the hermaphrodite</a>. In  the male, however, the cell acts as <a href="../male/alimproct/images/MaleProcFIG3.jpg" target="_blank">a blast cell</a> and <a href="../male/alimproct/images/MaleProcFIG4.jpg" target="_blank">divides to produce a lineage </a>whose<a href="../male/alimproct/images/MaleProcFIG8.jpg" target="_blank"> progeny</a> help establish a<a href="../male/alimproct/images/MaleProcFIG13BC.jpg" target="_blank"> connection between the cloaca and the gonad</a> (<a href="http://www.wormatlas.org/ver1/postemblin_1977/toc.html" target="_blank">Sulston and Horvitz,  1977</a>).</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="ultrastructure"></a>Ultrastructure</font></strong></td>
+							<td valign=top class="style18"><p>Fine structure (S) </p></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>The smallest details of  cell structure as seen after fixation and staining for high resolution electron  microscopy. Usually these features are not observable by light microscopy, even at high magnification.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="unc"></a><a href="http://www.wormclassroom.org/files/worm/uncHalf.mov" target="_blank">Unc</a></font></strong></td>
+							<td valign=top class="style18"><p>Uncoordinated phenotype (S)<br>
+								Locomotion abnormal (S) </p></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>Mutations causing an<a href="http://www.wormbase.org/species/all/phenotype/WBPhenotype:0000643" target="_blank"> abnormal locomotion phenotype</a> in the animal, which may  include subtle twitching or halting behavior, odd jerky motions, curling or  kinky motions, constant twitching, shrinking and expanding lengthwise without  progress of the body, partial paralysis, or limp or rigid paralysis. Uncoordination is a  very common phenotype among genetic mutations in <em>C. elegans</em>, only some of which  are numbered among the listed <a href="http://www.wormbase.org/resources/gene_class/unc" target="_blank">unc mutants</a>. The affected genes may be expressed either in neurons, muscles or even  in other tissues affecting the structures required for coordinated movement,  including the cuticle (as in <a href="http://www.wormbase.org/resources/gene_class/rol" target="_blank">Rol mutants</a>). Some of these phenotypes are recognizable as morphological traits or  spontaneous defects in movement, while some others are only revealed when the  animal is stimulated to move, perhaps by prodding with a fine wire.</p>
+									<p><br>
+										See <a href="cglossary.htm#coiler" target="_blank">Coiler&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+										See <a href="kglossary.htm#kinkerphenotype" target="_blank">Kinker phenotype</a><br>
+										See <a href="pglossary.htm#paralysis" target="_blank">Paralysis</a> <br>
+										See <a href="rglossary.htm#roller" target="_blank">Roller</a> <br>
+										See <a href="sglossary.htm#shrinkerphenotype" target="_blank">Shrinker phenotype</a> <br>
+										See <a href="tglossary.htm#twitcherphenotype" target="_blank">Twitcher phenotype</a><br>
+								</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, sans-serif"><a name="undeadcells"></a>Undead cells </font></strong></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>Surviving cells who were  fated by lineage to undergo apoptosis, but which for some reason (mutation,  random chance) did not die on schedule (<a href="http://rstb.royalsocietypublishing.org/content/331/1261/263" target="_blank">White et al., 1991</a>; <a href="http://dx.doi.org/10.1016/0092-8674(87)90593-9" target="_blank">Avery  and Horvitz, 1987</a>).&nbsp;Such surviving cells  often exhibit some characteristics of differentiated cells, but rarely seem to  contribute any new functionality to the whole animal by their presence. Occasionally they can replace or supplement  the function of another existing cell.</p>
+									<p><br>
+										See <a href="aglossary.htm#apoptosis" target="_blank">Apoptosis</a></p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="undercoat"></a>Undercoat</font></strong></td>
+							<td valign=top class="style18"><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top class="style18"><span class="style6"></span></td>
+							<td valign=top class="style18"><p>See <a href="sglossary.htm#scaffold" target="_blank">Scaffold </a></p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, sans-serif"><a name="undulate"></a><a href="http://labs.bio.unc.edu/Goldstein/crawl.mov" target="_blank">Undulate/ Undulatory </a></font></strong></td>
+							<td valign=top class="style18"><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top class="style18"><span class="style6"></span></td>
+							<td valign=top class="style18"><p>Bending back and forth in a smooth, sinusoidal, wave-like motion. This term well describes the  locomotion of <em>C. elegans </em>and other nematodes which is similar to the movement of  a snake or eel.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="unipolar"></a>Unipolar</font></strong></td>
+							<td valign=top class="style18">Multipolar (A) </td>
+							<td valign=top class="style18"><span class="style6"></span></td>
+							<td valign=top class="style18"><p>A neuron with only a single extension from the cell body. For example see the<a href="../neurons/Individual Neurons/MIframeset.html" target="_blank"> MI neuron</a>.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="utcell"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig2leg.htm" target="_blank">ut cell</a> </font></strong></font></b></td>
+							<td valign=top class="style18"><p>ut1 - ut 4 </p></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p><a href="../hermaphrodite/egglaying apparatus/Images/eggtable1leg.htm" target="_blank">Uterine toroidal epithelial cells</a> (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006785" target="_blank">ut1</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006786" target="_blank">ut2</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006787" target="_blank">ut3</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006788" target="_blank">ut4</a>; each toroid is a multinucleate syncytium) which make up the bulk  of the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig1leg.htm" target="_blank">uterus</a>. These four uterine toroid epithelial syncytia join to one another to make up both the anterior and posterior lobes of the uterus.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><font face="Arial, Helvetica, sans-serif"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uterineepithelia"></a>Uterine epithelia </font></strong></font></b></td>
+							<td valign=top class="style18"><p>&nbsp;</p></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>A complex structure  consisting of some 60 cells of multiple cell types which form a variety of  (mostly) syncytial cell groups. All derive from the <a href="../hermaphrodite/somatic gonad/Images/somaticfig1leg.htm" target="_blank">Z1 and Z4 blast cells</a>, via  the anchor cell, the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig4ABleg.htm" target="_blank">DU and VU precursors</a>, and then via the &pi; and &rho; precursors.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uterinelayer"></a>Uterine layer </font></strong></td>
+							<td valign=top class="style18">Oolemma (S) </td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>That portion of the eggshell  that is secreted by the uterine sheath after the oocyte has been  fertilized. This layer varies widely in  structure and thickness among nematode species (Bird and Bird, 1991) though  it is thought to include the  vitelline layer, and in some nematode species, such as Ascaris, an outer  fibrous glycoprotein layer (<a href="http://www.jstor.org/discover/10.2307/3276689" target="_blank">Foor, 1967</a>; Lee and Lestan, 1971). The structure has not been well characterized  as yet in<em> C. elegans.</em></p>
+									<br>
+								See <a href="zglossary.htm#zonapellucida" target="_blank">Zona pellucida</a></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uterinelumen"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig3leg.htm" target="_blank">Uterine lumen</a> </font></strong></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td align="left" valign=top class="style18"><p>The inner space of the uterus through which the fertilized egg passes on its way out of the nematode via the vulva. Prior to the first fertilization event, the space is narrow and<a href="../hermaphrodite/egglaying apparatus/Images/eggfig11BCleg.htm" target="_blank"> blocked by a series of extensions, or fingers, projecting from the uterine wall</a>. The adult uterus inflates to form a much wider  &quot;egg chamber&rdquo;, <a href="http://www.wormimage.org/image.php?id=102871" target="_blank">which houses developing embryos</a> and acts as a passageway for  male-produced sperm to travel from the vulva to the spermatheca.&nbsp;&nbsp;&nbsp; </p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uterinemuscle"></a><a href="../hermaphrodite/egglaying apparatus/jump.html?newLink=mainframe.htm&newAnchor=Uterineandvulvalmuscles4" target="_blank">Uterine muscle</a> </font></strong></td>
+							<td valign=top class="style18"><p><font face="Arial, Helvetica, sans-serif"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004877" target="_blank">um1 </a></font></p>
+									<p><font face="Arial, Helvetica, sans-serif"> <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0004856" target="_blank">um2</a></font></p></td>
+							<td valign=top class="style18"><p class="style6">M.vlpaaaap<br>
+								M.vrpaaaap<br>
+									M.vlpaaaaa<br>
+										M.vrpaaaaa </p>
+									<p class="style6">&nbsp; </p></td>
+							<td align="left" valign=top class="style18"><p>Sex-specific muscles of the  hermaphrodite whose contractions squeeze on the uterus to help move eggs towards  the vulval opening. These are derived postembryonically from the <a href="../images/Mlineage.jpg" target="_blank">M lineage</a> and have non-striated muscle characteristics. Each lobe of the uterus has 4 bands of muscles with <a href="../hermaphrodite/egglaying apparatus/Images/eggfig11Aleg.htm" target="_blank">each band composed of a left/right pair of um1 or um2 muscles</a>. Uterine muscles are covered in <a href="../hermaphrodite/egglaying apparatus/Images/eggfig11BCleg.htm" target="_blank">a thin basal lamina</a> which is anchored to the muscle via hemi-adherens junctions. Contraction of the muscles squeezes the uterus and moves the egg through the lumen. <a href="../hermaphrodite/egglaying apparatus/Images/eggfig13leg.htm" target="_blank">Muscles are not directly innervated</a>, but are coupled via gap junctions to vulval muscles that are innervated by the egg-laying neurons. </p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uterineseamcell"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig2leg.htm" target="_blank">Uterine seam cell </a></font></strong></td>
+							<td valign=top class="style18"><font face="Arial, Helvetica, 
+sans-serif"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006789" target="_blank">utse cell </a></font></td>
+							<td valign=top class="style18"><span class="style6"></span></td>
+							<td valign=top background="#lamellipodium" class="style18"><p>A large thin <a href="../hermaphrodite/egglaying apparatus/Images/eggfig4CDleg.htm" target="_blank">H-shaped  epithelial cell</a> formed by the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig4CDleg.htm" target="_blank">fusion of eight &pi; cell progeny with the anchor cell</a> which extends along the lateral edge of the uterus, sealing  dorsal and ventral halves to create a unified thin epithelium surrounding the  egg chamber. The <a href="../hermaphrodite/egglaying apparatus/Images/eggfig3leg.htm" target="_blank">two sides of the &quot;H&quot; hold the uterus in place by attaching to the lateral seam cells </a> while the central part of the &quot;H&quot; initially forms a &quot;hymen&quot; membrane between the uterine and vulval lumens, but which is broken by passage of the first egg thus creating continuity between the two lumens. Afterwards utse  probably acts as a transitional epithelial cell between the uterus and vulva.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><b><font face="Arial, Helvetica, sans-serif"><a name="uterinesheath"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggfig2leg.htm" target="_blank">Uterine sheath</a> </font></b></td>
+							<td valign=top class="style18"><font face="Arial, Helvetica, 
+sans-serif"></font></td>
+							<td valign=top class="style18"><span class="style6"></span></td>
+							<td valign=top class="style18"><p>The portion of the uterine epithelium which surrounds the egg chamber, composed  primarily of the ut1-ut4 toroids.</p>
+									<p> <br>
+										See <a href="#utcell">ut cell </a></p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uterinespermathecaljunction"></a><a href="../hermaphrodite/somatic gonad/jump.html?newLink=mainframe.htm&newAnchor=Thespermathecaluterinevalve" target="_blank">Uterine spermathecal valve </a></font></strong></td>
+							<td valign=top class="style18"><font face="Arial, Helvetica, sans-serif">sujn cells (S) </font></td>
+							<td valign=top class="style18"><span class="style6"></span></td>
+							<td valign=top class="style18"><p>See <a href="sglossary.htm#spermathecauterinevalve" target="_blank">Spermatheca uterine valve </a></p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uterinevulvalcell" id="uterinevulvalcell"></a><a href="../hermaphrodite/egglaying apparatus/Images/eggtable1leg.htm" target="_blank">Uterine vulval cell</a> </font></strong></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p><a href="#matingresistance"><span class="style4"><span class="style6"></span></span></a></p></td>
+							<td valign=top class="style18"><p>These 3 epithelial cells (<a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006791" target="_blank">uv1</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006792" target="_blank">uv2</a>, <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006793" target="_blank">uv3</a>; all mononucleate)  form the<a href="../hermaphrodite/egglaying apparatus/Images/eggfig3leg.htm" target="_blank"> interface between  the uterus and the vulva</a> via a multilayered set of flaps.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uterinewalltoroidalcells"></a>Uterine wall toroidal cells </font></strong></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>See <a href="tglossary.htm#toroidalcells" target="_blank">Toroidal cells </a></p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uterus"></a><a href="../hermaphrodite/egglaying apparatus/jump.html?newLink=mainframe.htm&newAnchor=Theuterus2" target="_blank">Uterus</a></font></strong></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>The portion of the somatic  gonad which encloses the fertilized eggs after their passage through the  spermatheca.&nbsp;It consists of anterior and posterior lobes which are connected via a central chamber.  Eggs are incubated within  the uterus until their passage through the <a href="../hermaphrodite/egglaying apparatus/Images/eggfig3leg.htm" target="_blank">vulval lumen</a> and then out of the body via the<a href="../hermaphrodite/egglaying apparatus/Images/eggfig6ABleg.htm" target="_blank"> vulval slit</a>.</p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="utse"></a><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006789" target="_blank">utse cell </a></font></strong></td>
+							<td valign=top class="style18"><p>&nbsp;</p></td>
+							<td valign=top class="style18">&nbsp;</td>
+							<td valign=top class="style18"><p>See <a href="#uterineseamcell">Uterine seam cell </a></p></td>
+						</tr>
+						<tr>
+							<td valign=top class="style18"><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="uvcell"></a>uv cell </font></strong></td>
+							<td valign=top class="style18"><a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006791" target="_blank">uv1</a><a href="http://www.wormbase.org/db/ontology/anatomy?name=uv1" target="_blank"></a><br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006792" target="_blank">uv2</a><a href="http://www.wormbase.org/db/ontology/anatomy?name=uv2" target="_blank"></a><br>
+							  <a href="http://www.wormbase.org/species/all/anatomy_term/WBbt:0006793" target="_blank">uv3</a><a href="http://www.wormbase.org/db/ontology/anatomy?name=uv3" target="_blank"></a></td>
+							<td valign=top class="style18"><p><a href="#matingresistance"><span class="style4"><span class="style6"></span></span></a></p></td>
+							<td valign=top class="style18"><p>See <a href="#uvcell">Uterine vulval cell </a></p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: November 12, 2013. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary U. In<em> WormAtlas</em>. &nbsp;doi:<a href="http://dx.doi.org/10.3908/wormatlas.6.21">10.3908/wormatlas.6.21</a></span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

@@ -1,0 +1,617 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary I</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - I </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="181"><span class="style28"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="204"><p class="style28"><font 
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style28">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="149"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="919"><span class="style28"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="104"><p><font face="Arial, Helvetica, sans-serif"><b><a name="iband"></a><a href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" target="_blank">I band</a> </b></font></p></td>
+							<td valign=top height="104"><font face="Arial, Helvetica, 
+sans-serif">I zone (S) </font></td>
+							<td valign=top height="104"><p><span class="style26"></span></p></td>
+							<td valign=top height="104"><p>A <a href="../hermaphrodite/musclesomatic/Images/musfig12leg.htm" target="_blank">dark stripe running  lengthwise within the sarcomere</a> of bodywall muscles, best viewed by polarized  light or antibody staining. I bands run in parallel with A bands to form a  series of alternating bright and dark bands (comprised mostly of myosin and  actin) (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000647;class=Paper" target="_blank">Miller et al., 1983</a>; Waterston, 1988).&nbsp;The I band contains only actin filaments.</p>
+									<p><br>
+										See <a href="aglossary.htm#aband" target="_blank">A band</a> <br>
+										See <a href="aglossary.htm#actin" target="_blank">Actin</a> <br>
+										See <a href="mglossary.htm#mline" target="_blank">M line</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="icell"></a>I cell </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif">Can refer to intestinal cell </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="ineuron"></a>&#147;i&#148; 
+								neuron</b></font></td>
+							<td valign=top><a href="../neurons/Individual Neurons/ASIframeset.html" target="_blank">ASI</a> (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>&nbsp;</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="i1neuron"></a><a href="../neurons/Individual Neurons/I1frameset.html" target="_blank">I1 neuron</a></font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="http://www.wormbase.org/db/ontology/anatomy?name=i1l" target="_blank">I1L</a><br>
+										<a href="http://www.wormbase.org/db/ontology/anatomy?name=i1r" target="_blank">I1R</a></font></p></td>
+							<td valign=top><p class="style26">ABalpapppaa <br>
+								ABarapappaa <br>
+							</p></td>
+							<td valign=top><p><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Interneurons72" target="_blank">Pharyngeal interneuron</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="i2neuron"></a></b><a href="../neurons/Individual Neurons/I2frameset.html" target="_blank"><strong>I2 neuron</strong></a></font></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="http://www.wormbase.org/db/ontology/anatomy?name=i2l" target="_blank">I2L</a><br>
+										<a href="http://www.wormbase.org/db/ontology/anatomy?name=i2r" target="_blank">I2R</a></font></p></td>
+							<td valign=top><p class="style26">ABalpappaapa<br>
+								ABarapapaapa </p></td>
+							<td valign=top><p><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Interneurons72" target="_blank">Pharyngeal interneuron</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="i3neuron" id="i3neuron"></a></b><a href="../neurons/Individual Neurons/I3frameset.html" target="_blank"><strong>I3 neuron</strong></a></font></td>
+							<td valign=top><p><a href="http://www.wormbase.org/db/ontology/anatomy?name=i3" target="_blank">I3</a></p></td>
+							<td valign=top><p class="style26">MSaaaaapaa</p></td>
+							<td valign=top><p><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Interneurons72" target="_blank">Pharyngeal interneuron</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="i4neuron" id="i4neuron"></a></b><a href="../neurons/Individual Neurons/I4frameset.html" target="_blank"><strong>I4 neuron</strong></a></font></td>
+							<td valign=top><p><a href="http://www.wormbase.org/db/ontology/anatomy?name=i4" target="_blank">I4</a></p></td>
+							<td valign=top><p class="style26">MSaaaapaa</p></td>
+							<td valign=top><p><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Interneurons72" target="_blank">Pharyngeal interneuron</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="i5neuron" id="i5neuron"></a></b><a href="../neurons/Individual Neurons/I5frameset.html" target="_blank"><strong>I5 neuron</strong></a></font></td>
+							<td valign=top><p><a href="http://www.wormbase.org/db/ontology/anatomy?name=i5" target="_blank">I5</a></p></td>
+							<td valign=top><p class="style26">ABarapapapp</p></td>
+							<td valign=top><p><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Interneurons72" target="_blank">Pharyngeal interneuron</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="i6neuron" id="i6neuron"></a></b><a href="../neurons/Individual Neurons/I6frameset.html" target="_blank"><strong>I6 neuron</strong></a></font></td>
+							<td valign=top><p><a href="http://www.wormbase.org/db/ontology/anatomy?name=i6" target="_blank">I6</a></p></td>
+							<td valign=top><p class="style26">MSpaaapaa</p></td>
+							<td valign=top><p><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Interneurons72" target="_blank">Pharyngeal interneuron</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="iln"></a>ILN</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="../neurons/Individual Neurons/IL2frameset.html" target="_blank">IL2 neuron</a> (S)</font></p>
+									<p><font face="Arial, Helvetica, sans-serif"><a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004545;class=Anatomy_term" target="_blank">IL2DL</a><br>
+												<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004543;class=Anatomy_term" target="_blank">IL2DR</a><br>
+												<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004541;class=Anatomy_term" target="_blank">IL2L</a><br>
+												<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004539;class=Anatomy_term" target="_blank">IL2R</a><br>
+												<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004538;class=Anatomy_term" target="_blank">IL2VL</a><br>
+										<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004537;class=Anatomy_term" target="_blank">IL2VR</a></font></p></td>
+							<td valign=top><p class="style26">&nbsp;</p>
+									<p class="style26">ABalapappap <br>
+										ABalappppap <br>
+										ABalapaappp <br>
+										ABalaappppp <br>
+										ABalppapppp <br>
+										ABarapppppp</p></td>
+							<td valign=top><a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Innerlabialsensilla33" target="_blank">Inner labial neuron </a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="ilr"></a>ILR</font></strong></td>
+							<td valign=top><p><a href="../neurons/Individual Neurons/IL1frameset.html" target="_blank">IL1 neuron</a> (S) </p>
+									<p><font face="Arial, Helvetica, sans-serif"><a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004738;class=Anatomy_term" target="_blank">IL1DL</a><br>
+												<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004737;class=Anatomy_term" target="_blank">IL1DR</a><br>
+												<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004553;class=Anatomy_term" target="_blank">IL1L</a><br>
+												<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004551;class=Anatomy_term" target="_blank">IL1R</a><br>
+												<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004549;class=Anatomy_term" target="_blank">IL1VL</a><br>
+										<a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004547;class=Anatomy_term" target="_blank">IL1V</a></font><a href="http://www.wormbase.org/db/ontology/anatomy?name=WBbt%3A0004547;class=Anatomy_term">R</a></p></td>
+							<td valign=top><p class="style26">&nbsp;</p>
+									<p class="style26">ABalapappaaa<br>
+										ABalappppaaa<br>
+										ABalapaappaa<br>
+										ABalaappppaa<br>
+										ABalppapppaa<br>
+										ABarapppppaa</p></td>
+							<td valign=top><p><a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Innerlabialsensilla33" target="_blank">Inner labial neuron</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="immuneresponse"></a>Immune response</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Innate immunity   
+								(S)</font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>The mechanism of resisting pathogen infection. Because of the chemical and mechanical nature of the nematode's cuticle, most pathogens infect <em>C. elegans</em> after being ingested. As such, <em>C. elegans</em> has a navigation system that allows it to try and avoid noxious factors. Pathogen avoidance may be mediated by the <a href="http://www.wormbook.org/chapters/www_signalingimmuneresponse/signalingimmuneresponse.html#d0e637" target="_blank">Toll receptor</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004692;class=Paper" target="_blank">Pujol et al., 2001</a>; <a href="http://www.wormbook.org/chapters/www_signalingimmuneresponse/signalingimmuneresponse.html" target="_blank">Ewbank, 2006</a>). Other work has implicated a role for <a href="http://www.wormbook.org/chapters/www_signalingimmuneresponse/signalingimmuneresponse.html#d0e986" target="_blank">stress response</a> genes in the immune response (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005917;class=Paper" target="_blank">Garsin et al., 2003</a>; <a href="http://www.wormbook.org/chapters/www_signalingimmuneresponse/signalingimmuneresponse.html" target="_blank">Ewbank, 2006</a>). See <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025180;class=Paper" target="_blank">Gravato-Nobre and Hodgkin (2005)</a> for review on innate immunity in <em>C. elegans</em>. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="imprinting"></a>Imprinting</font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A simple form of learning in nematodes in which an individual animal's exposure to a specific set of conditions, such as thermal (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000161;class=Paper" target="_blank">Hedgecock and Russell, 1975</a>) and olfactory cues (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026662;class=Paper" target="_blank">Remy and Hobert, 2005</a>), during a critical developmental time period alters the animal's behavior upon encountering similar conditions later in life. Olfactory imprinting was found to be mediated by a single pair of interneurons suggesting a role for chemosensory receptors in this behavior (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00026662;class=Paper" target="_blank">Remy and Hobert, 2005</a>).<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="inbred"></a>Inbred/ Inbreeding </font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The repeated crossing of a strain back  into itself or with a closely related strain so that the resulting progeny tend  to become highly homozygous at most genetic loci.</p>
+									<p><font face="Arial, Helvetica, sans-serif"><br>
+										See <a href="oglossary.htm#outcross" target="_blank">Outcross </a><br>
+										See <a href="bglossary.htm#backcross" target="_blank">Backcross</a> </font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="inbreedingdepression"></a>Inbreeding depression </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A reduction in fecundity associated with  repeated generations of inbreeding. This  phenomenon is well known for many animal species, including some bisexual  nematodes (Nigon, 1949), but is not likely to be as large a factor in the self-fertilizing hermaphrodite though it has been indicated in the determination of the sex ratio of <em>C. elegans</em> populations (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005921;class=Paper" target="_blank">Cutter et al., 2003</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005186;class=Paper" target="_blank">Stewart and Phillips, 2002</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="indirectdevelopment"></a>Indirect development </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>Heterogonic (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Describes a lifestyle in  which a parasitic species must undergo one full generation as a free-living  species. The free-living animals proceed  through sexual reproduction before undergoing developmental arrest at an  intermediate larval stage. The arrested larvae must find a host and infect it  before resuming development, or die. The  infective animals may reproduce through parthenogenesis as females inside the host (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=1713962&query_hl=9&itool=pubmed_docsum" target="_blank">Hawdon and Schad, 1991</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="inductivesignalling"></a>Inductive signaling </strong></td>
+							<td valign=top>Induction (S)</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A mechanism of tissue  differentiation where a signal or signals produced extrinsic to the cell or  tissue is received at the cell membrane and cause the cell to alter its status.  It has been demonstrated in <em>C. elegans</em> in some key developmental steps, such as in <a href="http://www.wormbook.org/chapters/www_notchembryo/notchembryo.html" target="_blank">early embryogenesis</a>, postembryonic <a href="http://www.wormbook.org/chapters/www_vulvaldev/vulvaldev.html" target="_blank">development of the vulva</a>, and in <a href="http://www.wormbook.org/chapters/www_maledevelopment/maledevelopment.html" target="_blank">the connection of  the vas deferens to the cloaca</a> (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000463;class=Paper" target="_blank">Sulston and White, 1980</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000193;class=Paper" target="_blank">Kimble and Hirsh,  1979</a>). There is generally no lineal  relationship between the inducing cell and those responding to the inducing  signal.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="infection"></a>Infection</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td align="left" valign=top><p>The growth of a secondary organism within  the cells or body cavity of a host animal.&nbsp;<em>C. elegans</em> has been shown to be subject to infection by bacteria and yeasts (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003376;class=Paper" target="_blank">Tan et al., 1999</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004466;class=Paper" target="_blank">Labrousse et al., 2000</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005119;class=Paper" target="_blank">Aballay and Ausubel, 2002</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005590;class=Paper" target="_blank">Mylonakis et al., 2002</a>; Hall, unpublished) though not from viruses, possibly due to the RNAi surveillance system which could provide virus defense (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024258;class=Paper" target="_blank">Vastenhouw and Plasterk, 2001</a>). In some  cases, infection seems to lead to death of the animal either by toxic interactions  or by blocking feeding. Other infections  may interfere with sexual reproduction by blocking normal use of the male tail  apparatus.</p>
+									<p>There is no evidence to our  knowledge that <em>C. elegans</em> itself can live as a parasite, but may be free-living  and/or live commensally with pillbugs, as has been shown for several  related rhabditid species (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001874;class=Paper" target="_blank">Baird et al., 1994</a>).</p>
+								<p><br>
+									See <a href="cglossary.htm#commensal" target="_blank">Commensal</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="infertile"></a>Infertile</font></b></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>Sterile (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The inability to produce viable offspring. Infertility can stem from problems with gamete production, fertilization or early development of the offspring. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="ingress"></a>Ingress/ Ingression </font></b></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Move inward, as to  migrate to a more central position relative to the outside of the body. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="inhiibitorysynapse"></a>Inhibitory synapse </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>Excitatory synapse (A) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A synaptic connection  between two neurons whose stimulation leads to a decrease in electrical  activity in the postsynaptic cell (a hyperpolarization).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="innateimmunity"></a>Innate immunity </b></font> </td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Nematodes are exposed to a variety of bacteria, fungi and viruses  that coexist in the soil environment (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025180;class=Paper" target="_blank">Gravato-Nobre and Hodgkin, 2005</a>). While some bacteria are palatable as food for <em>C. elegans</em>, others can be toxic. Besides being shielded by a thick cuticle,  nematodes also secrete a modified glycocalyx over this cuticle to reduce the  stickiness of unwanted neighbors (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024246;class=Paper" target="_blank">H&ouml;flich et al., 2004</a>). When bacteria, viruses or toxins do become  established inside the animal, the coelomocytes are eliminate some of them from  the body cavity.&nbsp; The intestine can be  colonized by unfriendly bacteria (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003376;class=Paper" target="_blank">Tan et al., 1999</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005948;class=Paper" target="_blank">Alegado et al., 2003</a>), but  its lumen is also tightly sealed to prevent entry of live bacteria into the worm&rsquo;s  tissues. Bacterial invasion can induce local tissue swelling during the host defense (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00025180;class=Paper" target="_blank">Gravato-Nobre et al., 2005</a>). The RNAi phenomenon may be a relic innate response to viral invasion. </p>
+									<p><br>
+										See <a href="cglossary.htm#coelomocyte" target="_blank">Coelomocyte</a><br>
+										See <a href="#immuneresponse">Immune response</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="innerlabialsensilla"></a><a href="../hermaphrodite/neuronalsupport/jump.html?newLink=mainframe.htm&newAnchor=Innerlabialsensilla33" target="_blank">Inner labial sensilla </a></font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif">IL cells (S)<br>
+								Internal labials (S)</font></p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Sensilla found on <a href="../hermaphrodite/introduction/IMAGES/introfig4Aleg.htm" target="_blank">the end of each lip in a symmetrical pattern</a>. Each sensilla contain 2 dendrites as well as one sheath and one socket cell.</p>
+									<p><br>
+										See <a href="#iln">ILN</a><br>
+										See <a href="#ilr">ILR</a> <br>
+										See <a href="lglossary.htm#labial" target="_blank">Labial </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><strong><a name="innervitellinemembrane" id="innervitellinemembrane"></a>Inner vitelline membrane </strong><b><br>
+							</b></font></td>
+							<td valign=top><p>Lipid layer (S) <br>
+											<font face="Arial, Helvetica, sans-serif"></font>Vitelline envelope (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A common misnomer in <em>C. elegans</em> literature.&nbsp; It refers to the innermost  layer of the eggshell, a lipid bilayer which formally should be referred to as the  lipid layer.</p>
+									<p><br>
+										See <a href="eglossary.htm#eggshell" target="_blank">Eggshell</a><br>
+										See <a href="vglossary.htm#vitellinemembrane" target="_blank">Vitelline membrane</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="innervationprocess"></a>Innervation process </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a href="mglossary.htm#musclearm" target="_blank">Muscle arm </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intI"></a>int I, int II etc. </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A naming system for <a href="../hermaphrodite/intestine/Images/intfig2leg.htm" target="_blank">successive rings</a> of  intestinal cells along the body axis, with int I being the most anterior set  and int IX the most posterior; after <a href="http://www.wormatlas.org/ver1/Sulstonemblin_1983/toc.html" target="_blank">Sulston et al., 1983</a>.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="insertion"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=malematingbehavior&rendertype=figure&id=A5901" target="_blank">Insertion</a></font></strong></td>
+							<td valign=top><a href="http://www.wormbook.org/chapters/www_malematingbehavior/malematingbehavior.html#d0e1008" target="_blank">Spicule insertion</a> (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The  behavioral act of fully extending the male spicules into the vulva.&nbsp;This behavior is coordinated by sex-specific <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=malematingbehavior&rendertype=figure&id=A5899" target="_blank">neurons</a> and <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=malematingbehavior&rendertype=figure&id=A5900" target="_blank">muscles</a> in the male tail. <a href="../movies/Spicules.mpg" target="_blank">Sperm transfer</a> occurs immediately following spicule penetration of the vulva (<a href="http://www.wormbook.org/chapters/www_malematingbehavior/malematingbehavior.html" target="_blank">Barr and Garcia, 2006</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intercalation"></a>Intercalation</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See<a href="#interdigitation"> Interdigitation </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="interdigitation"></a>Interdigitation</font></b></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>Intercalation (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The term is often used in  similar fashion to &ldquo;intercalation&rdquo;, and refers to the pattern by which cells or cell parts become mixed in a regular alternating pattern,  often beginning in two parallel rows and forming a new single row. </p>
+									<p>For instance, <a href="../hermaphrodite/musclesomatic/Images/musfig11leg.htm" target="_blank">muscle arms</a> from separate muscle cells become  interspersed at the muscle plate so that chemical signals from a motorneuron&rsquo;s  neuromuscular junction can simultaneously target several cells at once (<a href="http://www.wormatlas.org/ver1/MoW_built0.92/toc.html" target="_blank">White et al., 1976</a>). Similarly, <a href="../hermaphrodite/hypodermis/Images/hypfig2leg.htm" target="_blank">hypodermal cells </a>from opposite rows extend past one another to  form one row prior to cell fusion in the  hypodermis (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000927;class=Paper" target="_blank">Priess and Hirsh, 1986</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004144;class=Paper" target="_blank">Podbilewicz, 2000</a>). In the latter case, since the whole cells  eventually enter one row, it might be best termed intercalation, whereas in the  former case, where only the cell processes extend into one row, while their cell  bodies remain in separate rows, the process might be better termed  interdigitation.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="interfacialcell"></a><a href="../hermaphrodite/interfacial/Interframeset.html" target="_blank">Interfacial cell</a> </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Transitional epithelium (S) </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A subclass of hypodermis in which an epithelial cell serves either to bridge two neighboring epithelial tissues <font face="Arial, Helvetica, sans-serif">or to form an opening in the epithelium. </font></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intermediatefilament"></a><a href="http://www.cytochemistry.net/Cell-biology/intermediate_filaments.htm" target="_blank">Intermediate filament </a></font></strong></td>
+							<td valign=top>IF</td>
+							<td valign=top><p><span class="style26"></span></p></td>
+							<td valign=top><p>A category of strong cytoplasmic filaments  that reinforce the shape of various epithelial cells, binding to adherens  junctions or hemi-adherens junctions at the plasma membrane. These extremely  long thin cytoskeletal proteins are intermediate in size between microfilaments  (actin) and thick filaments (myosin) or microtubules. They tend to organize into bundles of  parallel filaments to form larger &ldquo;stress fibers&rdquo; and long thin  &ldquo;tonofilaments&rdquo;. In hypodermis, they  are an integral part of the fibrous organelle. Various forms of these proteins are expressed in certain nematode cells,  including  muscles, buccal epithelium, hypodermis, uterine epithelium,  the marginal cells of the pharynx, some amphid accessory cells, and probably in  several forms of valve cells (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000917;class=Paper" target="_blank">Bartnik et al., 1986</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000932;class=Paper" target="_blank">Perkins et al., 1986</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004761;class=Paper" target="_blank">Karabinos et al., 2001</a>, <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00006137;class=Paper" target="_blank">2003</a>). While common in neuron processes  in higher animals, it is not yet certain if intermediate filaments occur in  nematode neurons. Distantly related proteins, the nuclear lamins, occur in the nuclei of all cells.</p>
+									<p><br>
+										See <a href="fglossary.htm#fibrousorganelle" target="_blank">Fibrous organelle</a><br>
+										See <a href="tglossary.htm#tonofilament" target="_blank">Tonofilament</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intermediatelayer"></a>Intermediate layer </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>Matrix layer (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Layer of the <a href="../hermaphrodite/cuticle/Cutframeset.html" target="_blank">cuticle</a></p>
+									<p><br>
+										See <a href="cglossary.htm#corticallayer" target="_blank">Cortical layer</a><br>
+										See <a href="bglossary.htm#basallayer" target="_blank">Basal layer</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="internalcorticallayer"></a>Internal cortical layer </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Internal cortical exocuticle </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A portion of the outer <a href="../hermaphrodite/cuticle/Cutframeset.html" target="_blank">cuticle</a>, comprising  the major portion of the cortical zone. This layer<a href="../hermaphrodite/cuticle/Images/cutfig4leg.htm" target="_blank"> lies just beneath the epicuticle</a>, and contains amorphous  material that sometimes appears electron dense.  It lies just above the median zone, or mesocuticle.</p>
+									<p><br>
+										See <a href="cglossary.htm#corticallayer" target="_blank">Cortical layer</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="internalhatchees"></a>Internal hatchees </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Although<em> C. elegans</em> hermaphrodites normally lay their  eggs prior to hatching, older mothers with diminished motor capabilities, or mutants that have egglaying defects, may  have progeny that hatch within the reproductive tract. These young larvae (&ldquo;hatchees&rdquo;) may reside  within the tract for some time, or break through into the pseudocoelomic space,  from which they can begin to feed on the tissues of the mother.</p>
+									<p><br>
+										See <a href="bglossary.htm#bagofworms" target="_blank">Bag of worms</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="interneuron"></a><a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Interneurons25" target="_blank">Interneuron</a></font></strong></td>
+							<td valign=top>Integrating neuron (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A category of neurons defined by their relationship within a wiring diagram. This is usually the case where the cell receives significant  synaptic inputs (particularly from sensory neurons) and sends significant  synaptic inputs to other neurons (especially to motorneurons). Although this set of relationships could  easily be applied to many neurons within <em>C. elegans</em> circuitry, classification as an interneuron only occurs if it lacks a sensory specialization  (which would classify it as a sensory neuron) and lacks any  significant motor outputs (which would classify it as a  motorneuron).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intersex"></a>Intersex</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A mutant animal in which some tissues have adopted a  male fate while other tissues have adopted the hermphrodite or female fate to  create a living animal which is not wholely of one sexual fate, or which shows  secondary sexual features of both sexes. Such outcomes are fairly common in  some <em>C. elegans </em>mutants (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000252;class=Paper" target="_blank">Nelson et al., 1978</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000724;class=Paper" target="_blank">Doniach and Hodgkin, 1984</a>).</p>
+									<p> Alternately, this term can refer to animals that have one set of  reproductive organs of one sex, and non-functional vestiges of organs of the  opposite sex, often called secondary sexual features. Some nematode species commonly show intersex  features among normal animals in the wild.</p>
+								<p><br>
+									See <a href="hglossary.htm#hermaphrodite" target="_blank">Hermaphrodite</a><br>
+									See <a href="pglossary.htm#pseudomale" target="_blank">Pseudomale</a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="interstitialmatrix"></a>Interstitial matrix </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A space-filling  substance lying between two other well-defined structures, or filling a small  enclosed space.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intestinalcell"></a><a href="../hermaphrodite/intestine/Intframeset.html" target="_blank">Intestinal cell</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Refers to the row of <a href="../hermaphrodite/intestine/Images/intfig2leg.htm" target="_blank">20  large epithelial cells</a> which line the gut lumen, all of which appear to contain  identical cytoplasmic specializations. These cells are large and cuboidal with distinct apical, lateral and basal regions. They collectively form a prominent <a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank">microvillar layer</a> surrounding the  lumen and each cell contains many cytoplasmic organelles related to its digestive function. The term is not  generally referred to the rectal gland cells at the posterior end of the  intestine, which also form some microvilli near the  sphincter valve. The intestinal cells  form distinct pairwise associations (Int rings) around the lumen, and are  strongly linked to their neighboring intestinal cells by zonula adherens  junctions.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intestinalgranule"></a>Intestinal granule </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="gglossary.htm#gutgranule" target="_blank">Gut granule</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intestinallumen"></a><a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank">Intestinal lumen</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The extracellular  space enclosed by the digestive tract, where food is processed by the  intestinal cells. The lumen is bordered  by numerous villi that cover the apical surface of each intestinal cell. Digestive enzymes are secreted into the  lumen and digested products (solutes, salts and liquid) are absorbed into  these cells across the villi. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intestinalmuscle" id="intestinalmuscle"></a><a href="../hermaphrodite/musclenonstriated/jump.html?newLink=mainframe.htm&newAnchor=Stomatointestinalmuscles3" target="_blank">Intestinal muscle</a> </font></strong></td>
+							<td valign=top><p>Somatal-intestinal muscle (S)<br>
+								SI muscle (S) </p>
+									<p><a href="http://www.wormbase.org/db/cell/cell.cgi?name=mu_intL;class=Cell" target="_blank">mu_intL<br>
+										</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=mu_intR;class=Cell" target="_blank">mu_intR</a><a href="http://www.wormbase.org/db/cell/cell.cgi?name=mu_intL;class=Cell" target="_blank"><br>
+								</a></p></td>
+							<td valign=top><p class="style26">&nbsp;</p>
+									<p class="style26">&nbsp;</p>
+								<p class="style26">ABplpppppap<br>
+									MSppaapp</p></td>
+							<td valign=top><p>Two sheet-like cells that connect the intestinal cells to the ventral epidermis. <a href="gglossary.htm#gutgranule"></a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intestine"></a><a href="../hermaphrodite/intestine/Intframeset.html" target="_blank">Intestine</a></font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font>Gut (S) <br>
+								Messenteron (Archaic) </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A chain of very large cuboidal cells  which all descend from a <a href="../hermaphrodite/intestine/Images/intfig3leg.htm" target="_blank">common precursor</a>, the E founder cell and form a <a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank">wide central lumen lined by many microvilli</a> that form a brush border. Food passes from the posterior pharynx to the intestine where it is digested and then on to the rectum which processes the waste products for excretion. </p>
+									<p><a href="../hermaphrodite/intestine/Images/intfig2leg.htm" target="_blank">Intestinal rings</a> form in groups of two and  four cells and surround the common lumen creating an epithelium that is only one cell  deep at any point, with neighboring cells firmly secured to their neighbors by  apical adherens junctions. These cells  have very large nuclei and many contain large vacuoles, yolk granules and other  inclusions. These inclusions increase in number and electron density as the animal ages. </p>
+								<p>The <a href="../hermaphrodite/intestine/Images/intfig5ABleg.htm" target="_blank">anterior intestine</a>, or ventricular region, has a wider, more open lumen. The <a href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" target="_blank">midintestine</a> consists of a straight  simple tube, which becomes flattened to the dorsal side of the pseudocoelom as it passes the vulva. The lumen of the <a href="../hermaphrodite/rectum/Images/rectfig1leg.htm" target="_blank">posterior intestine</a>, or prerectal intestine, may be somewhat dilated and is  bordered by several rectal gland cells which may aid in digestion. These three regions have no distinct boundaries, but show only very gradual changes between them.</p>
+								<p>For more information see Wormbook (<a href="http://www.wormbook.org/chapters/www_intestine/intestine.html" target="_blank">McGhee, 2007</a>).</p>
+								<p><br>
+									See <a href="gglossary.htm#gut" target="_blank">Gut</a> <br>
+									See <a href="cglossary.htm#cecum" target="_blank">Cecum</a> <br>
+									See <a href="mglossary.htm#microvilli" target="_blank">Microvilli</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="intraflagellartransport"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=cilia&rendertype=figure&id=A13650" target="_blank">Intraflagellar transport</a> </font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font>IFT</p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An active mechanism  for transport of materials inside the cilium of a sensory neuron, distal to the  transition zone. Transport is based upon  the activity of microtubule-based motors and can move protein aggregates or  other small cargoes vectorially in both directions at relatively high rates of  speed. IFT may be important both for  cilium formation and for signal transduction by the cilium. In higher animals IFT also occurs in cilia of  many epithelial tissues (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027085;class=Paper" target="_blank">Mak et al., 2006</a>; <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed" target="_blank">Scholey and Anderson, 2006</a>; <a href="http://www.wormbook.org/chapters/www_ciliumbiogenesis.2/ciliumbiogenesis.html" target="_blank">Inglis et al., 2007</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="invadopodia"></a>Invadopodia </font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>Finger-like cell extensions  which precede cell invasion, as is seen on the anchor cell as it invades the  vulval epithelium <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005989;class=Paper" target="_blank">(Sherwood and Sternberg, 2003</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="invagination"></a>Invagination</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font>Ingression (S) </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>This is a process by which there is movement or folding inward. Common processes in <em>C. elegans</em> where invagination is seen include:</p>
+									<p><strong>1)</strong> The formation of a <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" target="_blank">cleavage furrow</a> during cell division. </p>
+								<p><strong>2)</strong> The initial step of <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=gastrulation&rendertype=figure&id=A4549" target="_blank">gastrulation</a> during embryonic development where cells move and fold to create different tissue layers.</p>
+								<p><strong>3)</strong> A step during <a href="../hermaphrodite/egglaying apparatus/Images/eggfig8leg.htm?book=wormbook&part=vulvaldev&rendertype=figure&id=A3451" target="_blank">vulval morphogenesis</a> in which cells detach from the cuticle allowing for the vulval sheet to bend inward. This step establishes the beginning of the vulval lumen. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="invasion"></a>Invasion</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aia.htm" target="_blank"></a> </font>Cell invasion </p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A biological mechanism  through which a cell can cross a basement membrane to penetrate into a  neighboring tissue &ndash; an important feature in both metastasis (intravasation,  etc.) (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00027196;class=Paper" target="_blank">Sherwood, 2006</a>) and intercellular tube formation (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005485;class=Paper" target="_blank">Buechner, 2002</a>). In <em>C. elegans</em>, cell invasion is known to  occur during formation of the vulval uterine junction, when the anchor cell  crosses the basal laminae of the uterus and of the vulval epithelium to link  these tissues (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002540;class=Paper" target="_blank">Newman and Sternberg, 1996</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005989;class=Paper" target="_blank">Sherwood and Sternberg, 2003</a>). Mutations that weaken the basal lamina can  also cause aberrant cell invasions (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00006014;class=Paper" target="_blank">Huang et al., 2003</a>). Long distance migration and morphogenesis of  embryonic and larval cells (sex myoblast, anchor cell) may also involve invasion  events. Conversely, in parasitic species, this term can refer to the event by which a nematode enters the tissues of its host species (plant, animal or even another nematode). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="inverseembryo"></a>Inverse embryo </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>Mirror image embryo </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="ipsilateral"></a>Ipsilateral</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Contralateral (A) </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>A cell or cell extension that lies on the same side of the midline as a reference object. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="isothermaltracking"></a>Isothermal tracking </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="tglossary.htm#thermotaxis" target="_blank">Thermotaxis</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="isthmus"></a><a href="../hermaphrodite/pharynx/Images/phafig2leg.htm?rid=wormbook.figgrp.13650" target="_blank">Isthmus</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aiy.htm" target="_blank"></a> </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A narrowing of the pharynx between the first and second bulbs (between metacorpus and postcorpus) around  which the nerve ring forms.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="iteroparous"></a>Iteroparous/ iteroparity </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aiy.htm" target="_blank"></a> Semelparous/ semelparity (converse) </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The animal&rsquo;s  ability to produce young at repeated intervals over its lifespan rather than  just once during during a narrow time period (as in &ldquo;semelparous&rdquo;  animals). Although its lifespan is quite  brief, <em>C. elegans</em> should probably be  considered to be iteroparous.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="ivermectin"></a><a href="http://en.wikipedia.org/wiki/Ivermectin" target="_blank">Ivermectin</a></font></b></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="/neurons.htm/aiy.htm" target="_blank"></a> </font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A drug commonly used in humans and animals as an anti-parasite medication especially in the treatment of intestinal worms. <a href="http://www.wormbook.org/chapters/www_ionotropicglutatmaterecep/ionotropicglutatmaterecep.html#sec2" target="_blank">Research in <em>C. elegans</em></a> has shows that this drug activates the glutamate-gated chloride channels (<a href="http://www.wormbook.org/chapters/www_ionotropicglutatmaterecep/ionotropicglutatmaterecep.html" target="_blank">Brockie and Maricq, 2006</a>) that has the effect of inhibiting the activity of excitable cells such as muscles and neurons which express these channels. Genetic (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003954;class=Paper" target="_blank">Dent et al., 2000</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005862;class=Paper" target="_blank">Keane and Avery, 2003</a>) and pharmacological approaches (<a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004645;class=Paper" target="_blank">Pemberton et al., 2001</a>) in <em>C. elegans</em> have helped to identify genes and how ivermectin functions to activate these channels. </p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: November 13, 2009. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary I. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.9</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>

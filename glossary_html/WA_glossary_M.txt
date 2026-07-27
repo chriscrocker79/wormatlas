@@ -1,0 +1,2030 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>Glossary M</title>
+<META name="Description" content="WormAtlas: A database of behavioral and structural anatomy of Caenorhabditis elegans.">
+<META name="KeyWords" content="Caenorhabditis, elegans, anatomy, hermaphrodite, worm, nematode">
+
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Wormatlas">
+
+
+<link rel="StyleSheet" href="../css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray.css" type="text/css">
+<link rel="StyleSheet" href="../css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="../css/css.js"></script>
+<script language="JavaScript" type="text/javascript" src="../javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="../pop-closeup.js"></script>
+
+
+
+<style type="text/css">
+
+<!--
+.style18 {color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style3 {	font-size: 24px;
+	color: #0033CC;
+}
+.style4 {font-family: Arial, Helvetica, sans-serif}
+.style8 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style1 {font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 22px;
+	color: #000000;
+}
+-->
+</style>
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr> <td background="../art1/oldheadercolor.jpg" class="pictbackground"><img src="../art1/header_2021.svg" width="829" height="86" border="0" usemap="#Map2">
+</td>
+  </tr><tr class="printhide"><td class="">
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+<td width="1041" align="left" valign="top" class="shadow-horizontal">
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="30" cellspacing="0" border="0" width="100%">
+	<tr>
+  <td width="854" align="left" valign="top" nowrap class="just">
+
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+
+<!-- PICTURE TABLE -->
+<center>
+	<TABLE cellpadding="0" cellspacing="0" width="100%" class="gallerytext">
+		<tr align="center" valign="middle">
+			<td class="just"><hr align="center" class="page-splits">
+					<nobr>
+					<div align="center">
+						<pre><span class="picturename style3">      <a href="aglossary.htm">A</a> <a href="bglossary.htm">B</a> <a href="cglossary.htm">C</a> <a href="dglossary.htm">D</a> <a href="eglossary.htm">E</a> <a href="fglossary.htm">F</a> <a href="gglossary.htm">G</a> <a href="hglossary.htm">H</a> <a href="iglossary.htm">I</a> <a href="jglossary.htm">J</a> <a href="kglossary.htm">K</a> <a href="lglossary.htm">L</a> <a href="mglossary.htm">M</a> <a href="nglossary.htm">N</a> <a href="oglossary.htm">O</a> <a href="pglossary.htm">P</a> <a href="qglossary.htm">Q</a> <a href="rglossary.htm">R</a> <a href="sglossary.htm">S</a> <a href="tglossary.htm">T</a> <a href="uglossary.htm">U</a> <a href="vglossary.htm">V</a> <a href="wglossary.htm">W</a> <a href="xglossary.htm">X</a> <a href="yglossary.htm">Y</a> <a href="zglossary.htm">Z</a> </span></pre>
+					</div>
+						</nobr>
+					<hr align="center" class="page-splits"></td>
+		</tr>
+		<tr>
+			<td class="just style4"><div align="center">
+					<!-- END IMAGE AREA 1 -->
+					<span class="title">Glossary - M </span><a href="../FORMgallery2.htm"></a><br>
+					<!-- IMAGE AREA 2 -->
+					<br>
+				</div>
+					<nobr>
+					<table border=1>
+						<tr class="style8">
+							<td valign=top width="135"><span class="style28"><font color="#993300">PART/CELL NAME </font></span></td>
+							<td valign=top width="132"><p class="style28"><font
+color="#0033CC">ABBREVIATION</font></p>
+									<p class="style28">SYNONYMS (S)<br>
+										ANTONYMS (A) </p></td>
+							<td valign=top width="102"><span class="style28"><font color="#CC9900">LINEAGE </font></span></td>
+							<td valign=top width="712"><span class="style28"><font color="#009933">DESCRIPTION </font></span></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mcell" id="mcell"></a><a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=M;class=Cell" 
+target="_blank">M cell</a></font></strong></td>
+							<td valign=top><p>Sex myoblast (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A <a href="../male/introduction/images/MaleIntroFIG6.jpg" target="_blank">postembryonic mesoblast</a> that lies in the posterior  body region and gives rise 
+								to sexually dimorphic muscles in males and hermaphrodites. A 
+								descendant of <a href="http://www.wormbase.org/db/ontology/anatomy?name=MSap;class=Cell" target="_blank">MS.ap</a>, M is born in an anterior position on the left 
+								side of the embryo and then migrates to the posterior and right side. 
+								In the hermaphrodite, the <a 
+href="../images/Mlineage.jpg" 
+target="_blank">M lineage </a> gives rise to six cell types: <a href="../hermaphrodite/musclesomatic/MusSomaticframeset.html" target="_blank">body wall muscles</a>, <a href="../hermaphrodite/coelomocyte/Coelomoframeset.html" target="_blank">nonmuscle 
+								coelomocytes</a> and four classes of sex  muscles including those of the 
+		      <a href="../hermaphrodite/egglaying apparatus/Eggframeset.html" target="_blank">uterus and vulva</a>. In males, <a 
+href="../male/muscleintro/images/MaleMusFIG3.jpg" 
+target="_blank">M descendants</a> give rise to cells in the tail including some bodywall muscles and to<a href="../male/musclemale/Musmaleframeset.html" target="_blank"> sex muscles of the tail</a> (<a 
+href="http://www.wormbook.org/chapters/www_hermcellfate/hermcellfate.html#d0e1005" target="_blank">Herman, 2006</a>).</p>
+									<p><br>
+										See <a href="sglossary.htm#sexmyoblast" target="_blank">Sex myoblast</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="mline" id="mline"></a><a href="../hermaphrodite/muscleintro/Images/musfig1CDleg.htm" 
+target="_blank">M line</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A planar structure within  the <a 
+href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" 
+target="_blank">muscle sarcomere</a> which lies midway 
+								within the<a href="../hermaphrodite/musclesomatic/Images/musfig12leg.htm" target="_blank"> thick filament</a> (A) band, attaching to the plasma membrane at its base and 
+								running up towards the inward  surface of the <a href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" target="_blank">myofilament lattice</a>. 
+								The  plane of the M line runs parallel to the axis of the A band, 
+								slightly off axis  from the longitudinal body axis. It may organize 
+								the orientation of the myosin  lattice and perhaps the stagger 
+							between adjacent sarcomeres (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000893;class=Paper" 
+target="_blank">Waterston et al.,  1986</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mneuron"></a><a href="../neurons/Individual Neurons/FLPframeset.html" 
+target="_blank">&quot;m&quot; neuron </a></font></strong></td>
+							<td valign=top><p><a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=FLPL;class=Cell" target="_blank">FLPL</a><br>
+										<a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=FLPR;class=Cell" 
+target="_blank">FLPR</a></p>
+									<p>&nbsp;</p></td>
+							<td valign=top><span class="style26">ABplapaaapad<br>
+								ABprapaaapad</span></td>
+							<td valign=top><p>Sensory head neurons with ciliated endings, but 
+								not part of a sensillum and are not open to the outside. Functions 
+								with 2 other classes of mechanosensory neurons to mediate nose touch 
+								avoidance and initiate backwards movement. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="mphase"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3332" target="_blank">M phase</a> </strong></td>
+							<td valign=top>Mitotic phase (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A stage in the cell cycle  during which <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3346" 
+target="_blank">mitosis</a> occurs. It is recognized best by light 
+								microscopy rather  than by TEM methods. (For overview of cell 
+								division in <em>C. elegans</em> see <a 
+href="http://www.wormbook.org/chapters/www_celldivision/celldivision.html" 
+target="_blank">Oegma and Hyman, 2006</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="m1m2m3m4m5"></a><a href="../neurons/Individual Neurons/M1frameset.html" 
+target="_blank">M1</a>, <a 
+href="../neurons/Individual Neurons/M2frameset.html" 
+target="_blank">M2</a>, <a 
+href="../neurons/Individual Neurons/M3frameset.html" 
+target="_blank">M3</a>, <a 
+href="../neurons/Individual Neurons/M4frameset.html" 
+target="_blank">M4</a>, <a 
+href="../neurons/Individual Neurons/M5frameset.html" 
+target="_blank">M5</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>These  are the names of individual <a 
+href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Pharyngealneurons7" 
+target="_blank">pharyngeal motor neurons</a> (<a href="http://www.wormatlas.org/ver1/albertson_1975/toc.html" target="_blank">Albertson and Thomson,  1976</a>)<font face="Arial, 
+Helvetica, sans-serif">.</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><a name="m1m8"></a><a 
+href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank"><strong>m1-m8 
+								(pm1-pm8)</strong></a> </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><a href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Musclecellsofthepharynx4" target="_blank">Pharyngeal muscle cells</a>, which make 8 consecutive 
+								rings of radial musculature encircling the pharyngeal lumen. Most are 
+								arranged in a three-fold symmetrical manner. All except pm6-8 are 
+								syncytial; pm1 has 6 nuclei while each pm2-5 cell has 2 nuclei,  as a 
+								result of cell fusions  (<a 
+href="http://www.wormatlas.org/ver1/albertson_1975/toc.html" 
+target="_blank">Albertson and Thomson, 1976</a>;<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowSection&rid=ce2.section.820" 
+target="_blank"> Avery and Thomas, 1997</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="m8musclecell"></a><a 
+href="../hermaphrodite/pharynx/Images/phafig11leg.htm" 
+target="_blank">m8 muscle cell </a>(pm8)</b></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A single muscle cell lying  at the posterior 
+								end of the pharynx which completely encircles the pharyngeal  lumen. 
+								m8 may act as a sphincter to control the lumenal opening, or possibly 
+								the pharyngeal-intestinal valve just behind it, to restrict 
+								regurgitation from the intestine (<a 
+href="http://www.wormatlas.org/ver1/albertson_1975/toc.html" 
+target="_blank">Albertson and Thomson, 1976</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mainbodysyncytium"></a>Main body syncytium </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Refers to the <a 
+href="../hermaphrodite/hypodermis/Images/hypfig5leg.htm" 
+target="_blank">hyp7  syncytium</a>, the largest component of the <a 
+href="../hermaphrodite/hypodermis/Hypframeset.html" 
+target="_blank">hypodermis</a>. This tissue eventually contains 110 
+								nuclei and  encloses the major portion of the animal&rsquo;s body 
+								length in a circumferential  toroid that includes the ventral and 
+								dorsal hypodermal ridges, as well as most  of the lateral hypodermal 
+							cords over that region.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="majorspermprotein"></a><a href="http://www.mcb.arizona.edu/wardlab/msp.html" target="_blank">Major 
+								sperm protein</a> </b></font></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>MSP</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The dynamic polymerization of MSP drives <em>C. 
+								elegans</em><a href="http://www.mcb.arizona.edu/wardlab/crawlingvid.html" target="_blank"> sperm motility</a> via &quot;<a href="http://www.mcb.arizona.edu/wardlab/treadingvid.html" target="_blank">treadmilling</a>&quot;(<a 
+href="http://www.wormbook.org/chapters/www_spermmotilityMSP/spermmotilityMSP.html" 
+target="_blank">Smith, 2006</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="male"></a><a 
+href="../hermaphrodite/introduction/IMAGES/introfig5leg.htm" 
+target="_blank">Male</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A rare (1/2000) sexual form  in normal <em>Caenorhabditis elegans</em> whose body undergoes a dramatic 
+								sexual  transformation during development, especially of the <a 
+href="../male/introduction/images/MaleIntroFIG2B.jpg" 
+target="_blank">tail</a>, in order to breed sexually with the 
+								hermaphrodite (<a 
+href="http://www.wormbook.org/chapters/www_maledevelopment/maledevelopment.html" 
+target="_blank">Emmons, 2005</a>). Unlike the <a 
+href="../hermaphrodite/introduction/IMAGES/introfig1leg.htm" 
+target="_blank">hermaphrodite</a>, the <a 
+href="../male/reproductive/images/MaleReproFIG1.jpg" 
+target="_blank">male&rsquo;s reproductive tract</a> forms only 
+</p>
+									<p>Tetraploid adults can generate two classes of  hermaphroditic 
+										progeny: &ldquo;high frequency male producers&rdquo; which yield much 
+										higher  fractions of male progeny, and &ldquo;low frequency 
+										producers&rdquo; which yield relatively  few males (Nigon, <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000271;class=Paper" 
+target="_blank">1949</a>; <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003481;class=Paper" 
+target="_blank">1951</a>).<b></b></p>
+								<p><br>
+									See <a href="hglossary.htm#hermaphrodite" 
+target="_blank">Hermaphrodite</a><br>
+							    See <a 
+href="hglossary.htm#highincidenceofmales" 
+target="_blank">High incidence of males </a><br>
+									See <a href="iglossary.htm#intersex" 
+target="_blank">Intersex</a><br>
+									See <a href="sglossary.htm#spontaneousmale" target="_blank">Spontaneous male</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a 
+name="malematingbehavior"></a><a 
+href="../male/muscleintro/images/MaleMusFIG2.jpg" 
+target="_blank">Male mating behavior</a><a 
+href="http://www.wormatlas.org/ver1/maleHandbook/figsMale/MaleFIG2A.jpg" 
+target="_blank"> </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>Males go through specific behaviors to initiate 
+								and undergo mating with hermaphrodites (see <a href="../movies/Mating.mov" target="_blank">mating movie</a>). These behaviors include: 
+								responding to contact, turning, vulval location, spicule insertion 
+								and sperm transfer (<a 
+href="http://www.wormbook.org/chapters/www_malematingbehavior/malematingbehavior.html" 
+target="_blank">Barr and Garcia, 2006</a>). </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="malespecific"></a><a 
+href="../male/introduction/Introframeset.html" 
+target="_blank">Male specific</a> </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Cells, tissues, or functions  that are found 
+								only in the male animal but not in the hermaphrodite.<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="malestock"></a><a 
+href="../male/introduction/jump.html?newLink=mainframe.htm&newAnchor=Generationofmalestocks14" 
+target="_blank">Male stock</a> </font></b></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A culture of <em>C. elegans</em> in  which male 
+								animals are produced at relatively high frequency by repeated 
+								backcrossing of males into a relatively small number of 
+								hermaphrodites. Since hermaphrodites can self-propogate and  produce 
+								virtually all hermaphrodite progeny when not mated, it is difficult 
+								to  maintain a culture with a high proportion of male progeny except 
+								by this  backcrossing method, or by choosing a <em>him</em> mutant 
+								strain to increase the rate of  male production.</p>
+									<p><br>
+										See <a href="sglossary.htm#spontaneousmale" target="_blank">Spontaneous male</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="maletail"></a><a 
+href="../male/introduction/images/MaleIntroFIG2A.jpg" 
+target="_blank">Male tail </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top>The <a href="../male/introduction/images/MaleIntroFIG2B.jpg" target="_blank">male tail</a> contains both male-specific and 
+								sexually dimorphic structures that allow the male to initiate mating 
+								with the hermaphrodite and to transfer sperm into her vulva. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mantle"></a><a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.792" 
+target="_blank">Mantle</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td align="left" valign=top>A specialized extracellular matrix 
+								surrounding the touch receptor neurons. Its production appears to 
+								require  the touch cell processes to be in close apposition of to the 
+								hypodermis (<a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.section.800" 
+target="_blank">Driscoll and Kaplan, 1997</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="marginalcell"></a><a 
+href="../hermaphrodite/pharynx/jump.html?newLink=mainframe.htm&newAnchor=Marginalcells5" 
+target="_blank">Marginal cell </a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font>Marginal fiber (archaic) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#lamellipodium"><p><a href="../hermaphrodite/pharynx/Images/phafig7BCleg.htm" target="_blank">Transitional 
+								epithelial  cells</a> of the pharynx that separate each of the three 
+								syncytial pharyngeal muscle cells from each other. There are a total 
+								of 7 cells: 3 mc1, 3 mc2 and a syncytial mc3 cell with 3 nuclei. 
+								These cells are probably non-contractile, but are filled with 
+								radially  oriented intermediate filament bundles. They lie in rows at 
+								the corners of the lumen and supply reinforcing strength to the 
+							organ. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><a name="masculinization"></a>Masculinization</strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Transformation of cell fates  to produce male 
+								cell fates in place of female cell fates. A  masculinizing mutation 
+								may transform the ratio of germ cell fates to produce  more sperm and 
+								fewer oocytes. Transformation  of somatic cell fates may 
+								produce body parts in a genetic hermaphrodite to form  a male tail, 
+								cloaca or vas deferens.</p>
+									<p><br>
+										See <a 
+href="fglossary.htm#feminization" 
+target="_blank">Feminization</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, sans-serif"><a name="matefinding"></a><a 
+href="http://www.wormbook.org/chapters/www_malematingbehavior/malematingbehavior.html#d0e124" 
+target="_blank">Mate-finding</a></font></b></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif"></font>Mate searching (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Behaviors that  cause sexually adult animals to 
+								be attracted and to approach members of the  opposite sex. In <em>C. 
+									elegans</em>, such behaviors include the &ldquo;leaving 
+								behavior&rdquo; in  males, in which they depart from a food source to 
+								find a suitable hermaphrodite  (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005109;class=Paper" 
+target="_blank">Simon and Sternberg, 2002</a>; <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005617;class=Paper" 
+target="_blank">Lipton and Emmons, 2003</a>; <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024428;class=Paper" 
+target="_blank">Lipton et al, 2004</a>). There is apparently no 
+								detectable preference  among fertile hermaphrodites to aggregate in 
+								the presence of adult males (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024428;class=Paper" 
+target="_blank">Simon  and Sternberg, 2002</a>).</p>
+									<p><br>
+										See <a href="lglossary.htm#leavingbehavior" 
+target="_blank">Leaving behavior</a><br>
+										See <a href="pglossary.htm#pheromone" 
+target="_blank">Pheromone</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="maternaleffect"></a>Maternal effect </font></strong></td>
+							<td valign=top>Maternal expression (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Expression of maternal effect genes is required 
+								in the mother for normal development of her offspring. </p>
+									<p><br>
+										See<a href="#mes"> mes</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="maternaleffectlethal"></a>Maternal effect lethal </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Mel (S) <br>
+							</font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A special class of sterilizing mutations that 
+								prevent the development of the progeny of hermaphrodites homozygous 
+								for the mutation. In contrast to the zygotic lethals, which prevent 
+								the development of the individuals homozygous for the mutation, the 
+								gene product from maternal effect lethals is required in the mother 
+								for the successful completion of the development of her offspring (<a 
+href="http://www.wormbook.org/chapters/www_essentialgenes/essentialgenes.html#d0e101" 
+target="_blank">Kemphues, 2005</a>).  After mating with a wild type 
+								male,  progeny  are generally viable (rescued) and develop normally 
+								as heterozygotes. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="matingbehavior"></a><a href="../male/introduction/images/MaleIntroFIG3.jpg" target="_blank">Mating behavior</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>To attract males for mating, hermaphrodites 
+								provide chemosensory and mechanosensory cues (<a 
+href="http://www.wormbook.org/chapters/www_malematingbehavior/malematingbehavior.html#d0e124" 
+target="_blank">Barr and Garcia, 2006</a>). Males respond to these 
+								cues and undergo a complex behavior pattern to successfully copulate 
+								with the hermaphrodite (see <a href="../movies/Mating.mov" target="_blank">mating movie</a>). This behavior includes: response, turning, 
+								vulva location, spicule insertion, ejaculation and plugging (<a 
+href="http://www.wormbook.org/chapters/www_malematingbehavior/malematingbehavior.html" 
+target="_blank">Barr and Garcia, 2006</a>). Hermaphrodites also 
+				    exhibit behaviors that resist his efforts at effective mating (<a 
+href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec10_1" 
+target="_blank">Emmons, 2005</a>). </p>
+									<p><br>
+										See <a href="#malematingbehavior">Male mating behavior</a><br>
+										See <a href="#matingresistance">Mating resistance </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="matingefficiency"></a>Mating efficiency <a 
+href="http://worms.zoology.wisc.edu/morphogenesis.jpg" 
+target="_blank"></a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A measurement of  the mating ability of a male 
+								adult, in particular the animal&rsquo;s fertility as  opposed to its 
+								mating behavior per se (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000608;class=Paper" 
+target="_blank">Hodgkin, 1983</a>; Hodgkin et al., 1988). Assays for 
+								male mating efficiency are used to determine the ability of mutant 
+								males to be used in genetic crosses (<a 
+href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec10_4" 
+target="_blank">Emmons, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="matingplug"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=populationgenetics&rendertype=figure&id=A7010" target="_blank">Mating plug </a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a 
+href="cglossary.htm#copulatoryplug" target="_blank">Copulatory 
+								plug</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><a 
+name="matingresistance"></a><font face="Arial, Helvetica, 
+sans-serif">Mating resistance </font></b></td>
+							<td valign=top><a href="#matingresistance"></a></td>
+							<td valign=top><p><a href="#matingresistance"><span class="style26"></span></a></p></td>
+							<td valign=top><p>Hermaphrodites have been shown to exhibit two 
+								behaviors associated that reduce the likelihood of effective mating 
+								with a male: sprinting (hermaphrodites move forward quickly away from 
+								a male after being touched by him) and sperm expulsion (after male 
+								ejaculation, contractions of the hermaphrodites uterus may expel the 
+								seminal fluid through the vulva) (<a 
+href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec10_1" 
+target="_blank">Emmons, 2005</a>). </p>
+									<p><br>
+										See <a href="sglossary.htm#spermexpulsion" target="_blank">Sperm expulsion</a><br>
+										See <a href="sglossary.htm#sprinting" target="_blank">Sprinting</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"> <a name="matrix"></a>Matrix</font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Ground 
+								substance (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Flocculent or lacey dense  substance which 
+								fills vesicles or regions of space inside the animal; may be 
+								intracellular or extracellular.</p>
+									<p>Also refers to the <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2501" target="_blank">large internal space of the mitochondrion</a> which contains a mixture of hundreds of enzymes that catalyze the 
+										oxidation of pyruvate and other small organic molecules, copies of 
+										the mitochondrial DNA genome, special mitochondrial ribosomes and 
+										tRNAs (<a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4" 
+target="_blank">Alberts et al., 2002</a>).</p>
+								<p><br>
+									See <a href="eglossary.htm#extracellularmatrix" 
+target="_blank">Extracellular matrix </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="matrixlayer"></a>Matrix layer </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, 
+sans-serif">Intermediate layer  (S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A portion of the<a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank"> medial  layer</a> of the <a 
+href="../hermaphrodite/cuticle/Cutframeset.html" 
+target="_blank">cuticle</a>.</p>
+									<p><br>
+										See <a href="bglossary.htm#basallayer" 
+target="_blank">Basal layer</a><br>
+										See <a href="cglossary.htm#corticallayer" 
+target="_blank">Cortical layer</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="matricide"></a>Matricide </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The killing of an adult  mother by her progeny. 
+								This is a common  endpoint in cases of internal hatching in <em>C. 
+									elegans</em>, either due to poor  success at egg-laying (since 
+								progeny are produced internally by  self-fertilization), or due to 
+								mutations that block normal development of the  vulval opening (egl 
+								phenotype).&nbsp;  Theoretically, there may also be cases in which 
+								the progeny produce a  toxic agent that proves fatal to the mother 
+								(<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00005590;class=Paper" 
+target="_blank">Mylonakis et al., 2002</a>).</p>
+									<p><br>
+										See <a href="bglossary.htm#bagofworms" 
+target="_blank">Bag of worms</a> <br>
+										See <a href="eglossary.htm#egl" 
+target="_blank">Egl</a></p></td>
+						</tr>
+						<tr class="style18">
+						  <td valign=top><a name="MCM"></a><strong><a href="../neurons/Individual Neurons/MCMframeset.html" target="_blank">MCM</a></strong></td>
+						  <td valign=top><p>Male Cell of Mystery MCML<br>
+						    MCMR
+						    <br>						    
+						      <br>
+					        </p></td>
+						  <td valign=top><br>
+						    ABplpaapapap<br>
+						    ABprpaapapap</td>
+						  <td valign=top>Male-specific interneuron born in L4 stage, daughter of the AMso cell, undergoes transdifferentiation from a glial to neuron fate. Its cell body lies among the glial cell bodies in the male head, and has synaptic connections in the adult male nerve ring; required for a form of associative sexual conditioning in the adult male</td>
+						  </tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mechanoreceptorneurons"></a>Mechanoreceptor neurons </font></strong></td>
+							<td valign=top><p>MRNs</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>These neurons generate electrical signals in 
+								response to mechanical stimuli and transmit those signals to other 
+								neurons. One group, the <a href="../hermaphrodite/nervous/Images/neurofig9A-Cleg.htm" target="_blank">touch receptor neurons</a> (<a href="../neurons/Individual Neurons/ALMframeset.html" target="_blank">ALML/R</a>, <a href="../neurons/Individual Neurons/PLMframeset.html" target="_blank">PLML/R</a>, <a href="../neurons/Individual Neurons/AVMframeset.html" target="_blank">AVM</a>, and <a href="../neurons/Individual Neurons/PVMframeset.html" target="_blank">PVM</a>), are nonciliated, 
+								while the<a href="../hermaphrodite/nervous/Images/neurofig10B-Eleg.htm" target="_blank"> ciliated MRNs</a> include <a href="../neurons/Individual Neurons/ASHframeset.html" target="_blank">ASH</a>, <a href="../neurons/Individual Neurons/CEPframeset.html" target="_blank">CEP</a>, <a href="../neurons/Individual Neurons/ADEframeset.html" target="_blank">ADE</a> and <a href="../neurons/Individual Neurons/PDEframeset.html" target="_blank">PDE</a>, as well as 42 
+								male-specific sensory neurons that innervate the male tail (<a 
+href="http://www.wormbook.org/chapters/www_mechanosensation/mechanosensation.html#d0e188" 
+target="_blank">Goodman, 2006</a>).<br>
+							</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mechanosensation"></a><a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Mechanosensation241" target="_blank">Mechanosensation</a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Detection of mechanical stimuli to the body. <em>C. elegans</em> sense a variety of mechanical stimuli including: 
+								gentle touch, harsh touch, nose touch and texture (<a 
+href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec2" 
+target="_blank">Chalfie, 2006</a>).</p>
+									<p><br>
+										See <a 
+href="nglossary.htm#nosetouch" 
+target="_blank">Nose touch</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mechanosensoryending"></a><a href="../hermaphrodite/nervous/Images/neurofig9D-Jleg.htm" target="_blank">Mechanosensory ending </a></font></strong></td>
+							<td valign=top><p>Mechanocilium (S)<br>
+								Mechanoreceptor (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A  rather wide variety of neuronal 
+								specializations have been ascribed a sensory  role which is imputed 
+								to be mechanosensory, but rather few have proven  physiological 
+								responses. Most of these  endings involve morphological 
+								specializations embedded in or immediately under  the cuticle, 
+								sometimes showing physical attachment via hemidesmosomes or  adherens 
+								junctions. Several involve  endings embedded in the hypodermis of a 
+								sensillum. Many neurons project long morphologically  unspecialized 
+								processes in longitudinal nerves which are suspected to allow for 
+								stretch sensation (see <a href="pglossary.htm#proprioception">proprioception</a>), but where no obvious physical 
+								attachments are noted even by electron microscopy. The dendrites of 
+								the touch neurons, which  transduce light touch, are not really 
+								&ldquo;endings&rdquo; in the conventional sense as their major 
+								processes extend longitudinally for many microns, glued to the 
+						  cuticle and hypodermis via an external mantle.</p>
+									<p><br>
+										See <a href="nglossary.htm#nosetouch" 
+target="_blank">Nose touch</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="mechanosensorynerve"></a>Mechanosensory nerve </font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Cephalic nerve cord + labial nerve, which 
+								travel as a bundle from the lip to nerve ring cell  bodies.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="mechanotransduction"></a><a href="http://www.wormbook.org/chapters/www_mechanosensation/mechanosensation.html#d0e893" target="_blank">Mechanotransduction</a></font></b></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The biophysical process by  which a 
+								mechanosensory ending converts a mechanical stimulus into a neuronal 
+								signal. Most of the proteins thought to form the<a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mechano.figgrp.200" target="_blank"> transduction 
+								channels</a> in ciliated <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=mechanosensation&rendertype=table&id=A6584" target="_blank">MRNs</a> are members of the transient receptor 
+								potential (TRP) channel superfamily. Members of the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=mechanosensation&rendertype=table&id=A6605" target="_blank">DEG/ENaC 
+									superfamily</a> have been found to compose channels that operate in 
+							nonciliated MRNs (<a 
+href="http://www.wormbook.org/chapters/www_mechanosensation/mechanosensation.html#d0e893" 
+target="_blank">Goodman, 2006</a>; <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.chapter.777" 
+target="_blank">Driscoll and Kaplan, 1997</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="medianzone"></a><a href="../hermaphrodite/cuticle/Images/cutfig4leg.htm" target="_blank">Median zone</a></font></b></td>
+							<td valign=top><p><font face="Arial, Helvetica, 
+sans-serif">Medial layer (S)<br>
+								Mesocuticle (S) </font></p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An internal compartment of  the <a 
+href="../hermaphrodite/cuticle/Cutframeset.html" 
+target="_blank">cuticle</a> that may show substantial variations 
+								between developmental stages,  or between species. This layer may be 
+								entirely missing in <a href="../hermaphrodite/cuticle/Images/cutfig6leg.htm" target="_blank">larval cuticles</a>, but  is very prominent in<a href="../hermaphrodite/cuticle/Images/cutfig3leg.htm" target="_blank"> adults</a>. It may  include several distinct layers, including the fibril 
+								layer, the matrix layer  and a thin boundary zone, which separates it 
+								from the underlying basal zone of  the cuticle. This region can 
+  display  struts, globular bodies and fluid-filled spaces.</p>
+									<p><br>
+										See <a 
+href="bglossary.htm#basallayer" 
+target="_blank">Basal layer</a><br>
+										See <a href="bglossary.htm#boundaryzone" 
+target="_blank">Boundary zone</a><br>
+										See <a href="cglossary.htm#corticallayer" 
+target="_blank">Cortical layer</a><br>
+										See <a href="fglossary.htm#fibrillayer" 
+target="_blank">Fibril layer</a><br>
+										See <a href="#matrixlayer">Matrix layer</a><br>
+										See <a href="sglossary.htm#strut" target="_blank">Strut</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><b><a name="meiofauna"></a><a 
+href="http://www.meiofauna.org/phyla34.html" 
+target="_blank">Meiofauna</a></b></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The collection of animals that are too small to 
+								be easily seen by eye (those larger species comprise the 
+								&ldquo;macrofauna&rdquo;), but are  larger than the species that can 
+								only be observed with a microscope (the  &ldquo;microfauna&rdquo;). 
+								They can pass through a .5 mm sieve, but are retained on a .045 mm 
+								sieve. <em>C. elegans,</em> with an adult  body length of one micron, 
+								is just barely visible to the eye, and belongs among  the 
+								meiofauna. Nematodes generally are  thought to comprise 70-100% 
+								of the meiofauna biomass in most habitats, and their  total 
+								metabolism may equal 15% of that of the macrofauna (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000255;class=Paper" 
+target="_blank">Nicholas, 1975</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="meiosis"></a><a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3690" 
+target="_blank">Meiosis</a></font></strong></td>
+							<td valign=top>M phase (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top background="#membranousorganelle"><p>A 
+								characteristic series of steps (constituent parts  of meiosis) 
+								through which dividing germ cell nuclei mature into 
+								fertilization-competent haploid oocytes or sperm; these include 
+								meiosis <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3699" 
+target="_blank">prophase I</a> (which itself includes 5 steps), 
+								completion of <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3696" 
+target="_blank">meiotic division I</a> (meiotic <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3693" 
+target="_blank">metaphase I</a> and anaphase I), and <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3696" 
+target="_blank">meiotic division II</a> (meiotic metaphase II and 
+								anaphase II), and telophase (<a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.section.3686" 
+target="_blank">Alberts et al., 2002</a>). In <em>C. elegans</em> the 
+								processes of meiotic maturation, ovulation and fertilization are all 
+								temporally coupled (<a 
+href="http://www.wormbook.org/chapters/www_controloocytematuration/controloocytematuration.html" 
+target="_blank">Greenstein, 2005</a>). The meiotic divisions of <em>C. elegans</em> <a 
+href="../hermaphrodite/germ line/jump.html?newLink=mainframe.htm&newAnchor=Spermatogenesisandspermiogenesis6" 
+target="_blank">spermatogenesis</a> are coordinated with the 
+								<a href="../hermaphrodite/germ line/Images/germfig8leg.htm" target="_blank">morphogenesis</a> of <a href="../hermaphrodite/germ line/Images/germfig9leg.htm" target="_blank">fibrous body-membranous organelles</a> which segregate 
+							into spermatids (<a href="http://www.wormbook.org/chapters/www_spermatogenesis/spermatogenesis.html" 
+target="_blank">L'Hernault, 2006</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="membrane"></a>Membrane<a 
+href="http://www.wormbook.org/chapters/www_behavior/behavior.html#sec10_4" 
+target="_blank"></a></font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a 
+href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An enclosing or separating tissue, usually a 
+								lipid bilayer that acts as a boundary.</p>
+									<p><br>
+										See <a 
+href="bglossary.htm#basallamina" 
+target="_blank">Basal lamina </a><br>
+										See <a href="bglossary.htm#basementmembrane" 
+target="_blank">Basement membrane</a><br>
+										See <a href="nglossary.htm#nuclearenvelope" 
+target="_blank">Nuclear envelope </a><br>
+										See <a 
+href="pglossary.htm#plasmamembrane" 
+target="_blank">Plasma membrane</a> <br>
+										See <a href="sglossary.htm#stackedmembrane" target="_blank">Stacked membrane </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="membranousorganelle"></a><a href="../hermaphrodite/germ line/Images/germfig8leg.htm" target="_blank">Membranous organelle</a></font></strong></td>
+							<td valign=top><p>MO </p>
+									<p>Special membrane structure (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A very distinctive organelle  found in the 
+								periphery of the cytoplasm of the maturing spermatid and 
+								spermatozoan. They contain very <a href="../hermaphrodite/germ line/Images/germfig9leg.htm" target="_blank">electron  dense stacked membrane 
+									structures</a> that can eventually fuse with the plasma membrane  of the 
+								sperm, perhaps leading to formation of the<a href="http://www.mcb.arizona.edu/wardlab/spermtem.html" target="_blank"> pseudopod</a>. The membranous 
+								organelle (MO) has also been  called the &ldquo;special membrane 
+								structure&rdquo; by <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000404;class=Paper" 
+target="_blank">Wolf et al. (1978)</a> and may be formed  from 
+								pre-existing &ldquo;special vesicles&rdquo; and fibrous bodies, which 
+								disappear as the  MO&rsquo;s develop. The organelle consists of  two 
+								lobes separated by an electron dense <a href="../hermaphrodite/germ line/Images/germfig9leg.htm" target="_blank">collar</a>; the larger lobe is 
+								sometimes  called the &ldquo;body lobe&rdquo;, while the smaller lobe 
+								is the &ldquo;head lobe&rdquo; (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000447;class=Paper" 
+target="_blank">Nelson and  Ward, 1980</a>; <a href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002791;class=Paper" 
+target="_blank">Achanzar and Ward, 1997</a>). The <a 
+href="../hermaphrodite/germ line/Images/germfig8leg.htm" 
+target="_blank">MO develops in close association with the fibrous 
+									body (FB)</a>, which is composed of the major sperm protein 
+								filaments, and surrounds it, separated by a collar region (<a 
+href="http://www.wormbook.org/chapters/www_spermatogenesis/spermatogenesis.html#sec2" 
+target="_blank">L'Hernault, 2006</a>). The membranous organelle 
+								eventually fuses with the plasma membrane and  contributes to the 
+								creation of the motile pseudopod of the activated  spermatozoon, 
+								providing both membrane and glycoproteins (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000879;class=Paper" 
+target="_blank">Roberts et al.,  1986</a>). Fibrous material 
+								originating  within the MO passes through the fusion pore and 
+								provides components to the  outside surface of the sperm&rsquo;s 
+								plasma membr
+		      ane (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002791;class=Paper" 
+target="_blank">Achanzar and Ward, 1997</a>). </p>
+									<p> <br>
+										See <a 
+href="cglossary.htm#collar" 
+target="_blank">Collar</a><br>
+										See <a 
+href="fglossary.htm#fibrousbody" target="_blank">Fibrous body </a><br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="memory"></a>Memory</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a 
+href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><em>C. elegans</em> has demonstrated the 
+								ability to learn from mechanosensory, chemosensory and thermosensory 
+								input. They exhibit habituation as well as associative forms of 
+								learning and show both short-term and long-term memory. Additionally 
+								the appear to be able to integrate and remember experiences across 
+								different sensory modalities (See review by <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00024350;class=Paper" 
+target="_blank">Rankin, 2004</a>). </p>
+									<p> <br>
+										See <a href="aglossary.htm#adaptation" 
+target="_blank">Adaptation</a><br>
+										See <a href="hglossary.htm#habituation" 
+target="_blank">Habituation</a><br>
+										See <a href="lglossary.htm#learningandmemory" 
+target="_blank">Learning and Memory</a><br>
+										See <a href="iglossary.htm#imprinting" 
+target="_blank">Imprinting</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="meridicmedium"></a>Meridic medium </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An axenic medium containing  one component that 
+								is not well-characterized, such as a tissue extract. </p>
+									<p> <br>
+										See <a href="hglossary.htm#holidicmedium" 
+target="_blank">Holidic medium</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="meromyarian"></a>Meromyarian</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A condition in which a  nematode muscle quadrant 
+								contains relatively few cells (ranging from 2-5 cells  across, as in <em>C. elegans</em>); as opposed to &ldquo;polymyarian&rdquo; muscles 
+								(in some very  large species such as <em>Ascaris</em>) where there 
+								are many cells side by side within a  quadrant (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000351;class=Paper" 
+target="_blank">Schneider, 1866</a>; Chitwood and Chitwood, 1950). In 
+								&ldquo;holomyarian&rdquo;  muscles, there are never more than 2 cells 
+								across within each quadrant.</p>
+									<p><br>
+										See <a href="hglossary.htm#holomyarian" target="_blank">Holomyarian </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mes"></a>Mes</font></strong></td>
+							<td valign=top>Maternal effect sterile </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Mutations  in these genes causes a sterile 
+								effect due to loss of mature germ cells implying that the mes genes 
+								are essential for germline proliferation and/or  maturation (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001477;class=Paper" 
+target="_blank">Capowski et al., 1991</a>; <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002342;class=Paper" 
+target="_blank">Paulsen et al., 1995</a>). Some mes mutants 
+								appear to contain necrotic  germ cells (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00002979;class=Paper" 
+target="_blank">Garvin et al., 1998</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mesenteron"></a>Mesenteron<a 
+href="http://redpoll.pharmacy.ualberta.ca/drugbank/drugBank/PC_IMAGE/APRD01067_ZOOM.gif" 
+target="_blank"></a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a 
+href="/neurons.htm/aiy.htm" target="_blank"></a> </font>Intestine 
+								(archaic) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a 
+href="iglossary.htm#intestine" target="_blank">Intestine </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="mesoblast"></a>Mesoblast<a 
+href="http://www.wormatlas.org/ver1/handbook/fig.s/IntroFIG6.jpg" 
+target="_blank"></a></font></b></td>
+							<td valign=top><p>M</p>
+									<p><font face="Arial, Helvetica, sans-serif">Blast cells (S) </font></p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../images/Mlineage.jpg" target="_blank">Precursor</a>, or stem cell, of the muscle cells 
+								and  coelomocytes. In <em>C. elegans</em>, non gonadal mesoderm 
+								arises from a single postembryonic mesoblast cell (<a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=M;class=Cell" 
+target="_blank">M</a>). M   is born on the left, next to the pharynx. 
+								It <a href="../hermaphrodite/coelomocyte/Images/ccfig2leg.htm" 
+target="_blank">migrates</a> posteriorly, remains on the midline for 
+								some time, but then shifts to the right-hand side of the intestine 
+				    (<a href="http://www.wormatlas.org/ver1/Sulstonemblin_1983/toc.html" 
+target="_blank">Sulston et al., 1983</a>).</p>
+									<p><br>
+										See <a href="#mcell">M cell </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><b><font face="Arial, Helvetica, 
+sans-serif"><a name="mesocuticle"></a>Mesocuticle</font></b></td>
+							<td valign=top><p>Medial layer (S) </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>See <a href="#medianzone">Median zone</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mesoderm"></a>Mesoderm</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>In higher animals, this term  refers to the 
+								cell layer from which the musculature develops. In <em>C. 
+									elegans</em>, this tissue consists  principally of the daughters of 
+								just two cells in the early embryo, the <a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=MS;class=Cell" 
+target="_blank">MS</a> (primary mesoderm) and <a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=D;class=Cell" 
+target="_blank">D</a> (secondary mesoderm) blast cells. The term is 
+								used to collectively  refer to both these blast cells and to all 
+								developed musculature in a given  animal of any age. </p>
+									<p> <br>
+										See <a href="#mcell">M cell</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mesorhabdion"></a>Mesorhabdion</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Specialized zone of cuticle  lining the 
+								<a href="../hermaphrodite/interfacial/Images/interfig1leg.htm" target="_blank">mesostom or buccal regions</a>, secreted by the pharyngeal 
+								epithelium.<font face="Arial, Helvetica, sans-serif"><br>
+						</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mesostom"></a><a 
+href="../hermaphrodite/interfacial/Images/interfig1leg.htm" 
+target="_blank">Mesostom</a> </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A  portion of the buccal cavity underlain by 
+								the buccal  epithelial cells.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="metacorpus"></a><a 
+href="../hermaphrodite/pharynx/Images/phafig2leg.htm" 
+target="_blank">Metacorpus</a></font></strong></td>
+							<td valign=top><p>Median bulb (S) <br>
+								First bulb (S) </p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The anterior bulb of the <a href="../hermaphrodite/pharynx/Phaframeset.html" target="_blank">pharynx</a>. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="metaneme"></a>Metaneme</font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A type of stretch  receptor, known for some 
+								nematode species, but not <em>C. elegans</em> (Lorenzen, 1994).</p></td>
+						</tr>
+						<tr class="style18">
+							<td height="115" valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="metarhabdion"></a>Metarhabdion</font></strong></td>
+							<td valign=top>Glottoid apparatus (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Specialized zone of cuticle  lining the <a 
+href="../hermaphrodite/interfacial/Images/interfig1leg.htm" 
+target="_blank">metastom</a>, a portion of the buccal passage formed 
+								by the <a href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank">pm1  muscles</a>.&nbsp; In particular, this cuticle  includes the 
+						    <a href="../hermaphrodite/pharynx/Images/phafig5DEleg.htm" target="_blank">flaps</a> that may govern flow in/out of the pharynx proper.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="metastom"></a><a href="http://www.wormatlas.org/ver1/handbook/fig.s/arcade1.jpg" target="_blank">Metastom</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif">Glottis 
+								(S) </font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Archaic term referring to  that portion of the 
+							pharynx formed by the <a href="../hermaphrodite/pharynx/Images/phafig6leg.htm" target="_blank">pharyngeal muscles pm1</a><font face="Arial, 
+Helvetica, sans-serif">.</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, 
+Helvetica, sans-serif"><a name="microadherensjunctions" id="microadherensjunctions"></a>Micro-adherens junctions</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Extremely small transient 
+								junctions that have been proposed to occur between hypodermal 
+								filapodia in  advance of dorsal/ventral cell fusions in the embryo 
+								(<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004144;class=Paper" 
+target="_blank">Podbilewicz, 2000</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="microfilament"></a>Microfilament</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An extremely thin elongated  cytoplasmic 
+								filament, composed of <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.432" 
+target="_blank">actin</a> protein, which can assemble into any of 
+								several distinct forms, including a gel-like meshwork (g-actin), a 
+								tight bundle  of parallel fibers (larger bundles are often called 
+								stress fibers, smaller  bundles are often called f-actin), or can be 
+								interspersed with other  filamentous proteins (e.g. <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3043" 
+target="_blank">myosin</a>) to form a <a 
+href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" 
+target="_blank">myofilament lattice</a>, as in <a 
+href="../hermaphrodite/musclesomatic/Images/musfig8leg.htm" 
+target="_blank">muscle  cells</a>. These are each important &ldquo;cytoskeletal proteins&rdquo; which physically hold 
+								the cell&rsquo;s organelles to one  another internally, and which 
+								connect via plasma membrane attachments  (intercellular junctions) to 
+								hold cells together into a coherent tissue. The actomyosin 
+								(actin + myosin) lattice is  especially important in establishing 
+								asymmetric distribution of proteins in one-cell stage embryos (<a 
+href="http://www.wormbook.org/chapters/www_asymcelldiv/asymcelldiv.html#d0e351" 
+target="_blank">Gonczy and Rose, 2005</a>) and in the force 
+				    generation in all muscles. </p>
+									<p>When cytoskeletal proteins are compared in 
+										cross section,  microfilaments &lt; intermediate  filaments 
+										&lt; thick filaments &lt; microtubules. </p>
+								<p> <br>
+									See <a href="aglossary.htm#actin" 
+target="_blank">Actin</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="microscopy" id="microscopy"></a><a href="http://www.wormclassroom.org/cr/commonMicro.html" target="_blank">Microscopy</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Due to its transparency and easy of manipulation, <em>C. elegans</em> is an ideal organism for microscopic observaton of both live and fixed animals or tissues. </p>
+									<p>See <a href="cglossary.htm#confocalmicroscopy" target="_blank">Confocal microscopy</a> <br>
+										See <a href="dglossary.htm#dicmicroscopy" target="_blank">DIC microscopy</a> <br>
+										See <a href="eglossary.htm#electronmicroscopy" target="_blank">Electron microscopy</a><br>
+										See <a href="fglossary.htm#fourdimensionalmicroscopy" target="_blank">Four dimensional microscopy</a><br>
+										See <a href="#multiphotonfluorescencemicroscopy">Multiphoton fluorescence microscopy </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="microtubule"></a>Microtubule</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A robust macromolecular  array which forms long 
+								extended cytoskeletal elements with a hollow core. The tubule is made 
+								principally of tubulin  protein, which forms parallel strings of 
+								&ldquo;protofilaments&rdquo; along the sides of the  tubule. 
+								Individual species of tubulin proteins generally form homomeric 
+								macromolecular arrays such that each tubule consists of an odd number 
+								of  protofilaments. In <em><a href="../hermaphrodite/nervous/Images/neurofig9D-Jleg.htm" target="_blank">C. elegans</a></em>, 11, 13,  or 15 protofilament microtubules are most common. Microtubules can rapidly 
+								change in length,  except when stabilized by capping proteins, and 
+								can assemble into arrays with  one another to form microtubule 
+								bundles (as inside the nerve axon) or flexible  asters (as in the <a 
+href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2131" 
+target="_blank">mitotic spindle</a>). Microtubule-based motors 
+								(such as kinesins and dyneins) can slide  microtubules past one 
+								another to generate considerable forces in moving  o
+								rganelles within the cell cytoplasm, or can move cargoes within the 
+</p>
+									<p>When  cytoskeletal 
+										proteins are compared in cross section, thin filaments &lt; intermediate filaments &lt; thick filaments  &lt; microtubules. </p>
+								<p> <br>
+									See <a href="tglossary.htm#tubulin" target="_blank">Tubulin </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="microtubulering"></a>Microtubule ring <a 
+href="http://publications.nigms.nih.gov/insidethecell/images/ch2_lipidraft.jpg" 
+target="_blank"></a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><br>
+							</font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a 
+href="cglossary.htm#ciliarynecklace" 
+target="_blank">Ciliary necklace</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top height="111"><p><strong><font face="Arial, 
+Helvetica, sans-serif"><a name="microvilli" id="microvilli"></a>Microvillus/ Microvilli/ Microvillar </font></strong></p>
+									<p><font face="Arial, Helvetica, sans-serif"><b> <br>
+								</b></font></p></td>
+							<td valign=top height="111"><p><font face="Arial, Helvetica, 
+sans-serif"><br>
+							</font></p></td>
+							<td valign=top height="111"><p class="style26">&nbsp;</p>
+									<p class="style26"><br>
+								</p></td>
+							<td valign=top height="111"><p>Open tubular extension at  the 
+								apical surface of some epithelial cells.</p>
+									<p><strong>1)</strong> Found in <a 
+href="../hermaphrodite/intestine/Images/intfig5C_Fleg.htm" 
+target="_blank">intestinal cells</a> and some  neighboring cells in 
+										the alimentary system. Dense collections of microvilli are  bounded 
+										basally by a terminal web and together constitute a &ldquo;brush 
+									  border&rdquo;.</p>
+								<p><strong>2) </strong>Similar microvilli  have been seen in the immature 
+									spermatheca prior to adulthood (Southgate and White, unpublished 
+									data). </p>
+								<p><strong>3)</strong> Some  researchers consider the<a 
+href="../hermaphrodite/neuronalsupport/Images/neurofig24leg.htm" 
+target="_blank"> finger-like extensions</a> of the <a 
+href="../neurons/Individual Neurons/AFDframeset.html" 
+target="_blank">AFD</a> dendrite to be  comparable to microvilli (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00003634;class=Paper" 
+target="_blank">Ashton and Schad, 1996</a>). </p>
+								<p> <br>
+									See <a href="bglossary.htm#brushborder" 
+target="_blank">Brush border</a><br>
+									See <a href="fglossary.htm#fingerlikeprojections" 
+target="_blank">Finger-like projections</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="midbody"></a>Midbody </font></strong></td>
+							<td valign=top>Central body (S) <br>
+								Midsection (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The <a 
+href="../hermaphrodite/introduction/IMAGES/introfig1leg.htm" 
+target="_blank">body region</a> which is behind the head and neck but 
+								in front of the tail, where  the tissues are comprised of the 
+								bodywall, intestine and gonad tissues.<font face="Arial, Helvetica, 
+sans-serif"><br>
+						</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="midintestine"></a>Midintestine</font></strong></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><a 
+href="/neurons.htm/aia.htm" target="_blank"></a> </font></p>
+									<p>&nbsp; </p></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The middle region of the <a 
+href="../hermaphrodite/intestine/Images/intfig1leg.htm" 
+target="_blank">intestine</a>, lying between the anterior and 
+								posterior regions. It consists of a rather simple tubular  epithelium 
+								that becomes pushed to the dorsal side of the pseudocoelomic cavity 
+							by the vulva.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="midline"></a>Midline</font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The midline defines a plane  running along the 
+								dorsal/ventral axis, separating the left and right halves of  the 
+								body. Most features in the bodywall  are symmetric across the 
+								midline, except for the major nerve cords. Most  internal organs in 
+								the adult are not symmetric across the axis. The ventral  midline is 
+								an important landmark in axon guidance; e.g. &ldquo;midline 
+								crossing&rdquo; or decussation. </p>
+									<p> <br>
+										See <a href="vglossary.htm#ventralmidline" target="_blank">Ventral midline</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="midlinecrossing"></a>Midline crossing </font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>See <a 
+href="dglossary.htm#decussation" 
+target="_blank">Decussation</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="migration"></a>Migration<a 
+href="http://www.em-preparation.com/WebSite/pictures.nsf/(ALLIDs)/EA1ADAD163DBD3D3C1256B280037BE80/$FILE/C_elegans_long_big.jpg" 
+target="_blank"></a></font></strong></td>
+							<td valign=top><p>Longitudinal aspect (S) </p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>This term has been used in  many different 
+								contexts to describe directed movements of individual cells or 
+								groups of cells within the body  relative to neighboring cells within 
+								a  tissue. It also refers to movements of cell parts (process 
+								extension, growth cone motions),  organelle movements (such as 
+								nuclei, centrosomes, etc) and relative movements  of molecular 
+								assemblies within a cell. </p>
+									<p>The  term could also be used to describe directed motions of 
+										whole animals or even  populations of animals with respect to an 
+										environmental signal.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mitochondrion" id="mitochondrion"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2501" target="_blank">Mitochondrion/ Mitochondria</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Intracellular organelle that <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2504" target="_blank">completes the metabolism of sugars and produces ATP</a> providing the energy required for much of the cell's processes. Each mitochondrion is bounded by two specialized membranes (an outer and inner membrane) which create two separte compartments - the internal matrix and intermembrane space. They are found in large numbers in tissues that have a high energy requirement such as <a href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" target="_blank">muscle</a> and <a href="../hermaphrodite/germ line/Images/germfig9leg.htm" target="_blank">sperm</a> cells. </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mixedmodality"></a>Mixed modality <a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=lysosome+AND+mboc4%5Bbook%5D+AND+373585%5Buid%5D&rid=mboc4.figgrp.2366"></a></font></strong></td>
+							<td valign=top>Polymodal (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Neurons having more than one  principle 
+								function within the wiring.  For instance, several cells serve both a 
+								sensory and a motor function  and are termed sensorimotor cells. Many 
+								more cells may serve as both sensory cells and as interneurons, or as 
+								motor  cells and as interneurons, but are less easily categorized 
+								since the  &ldquo;interneuron&rdquo; status is less easily 
+								defined.</p>
+									<p>The same term may also refer to neurons which transduce 
+										several different categories of sensation, such as olfaction and 
+										osmosensation  or chemosensation, or chemosensation and 
+										mechanosensation.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="molt"></a>Molt</font></strong></td>
+							<td valign=top>Moult (S) <br>
+								Molting (S) <br>
+								Ecdysis (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The end of each <a 
+href="../hermaphrodite/introduction/IMAGES/introfig6leg.htm" 
+target="_blank">larval stage</a> in <em>C. elegans</em> is marked 
+								with a molt where new, <a href="../hermaphrodite/cuticle/Images/cutfig6leg.htm" target="_blank">stage-specific cuticle</a> is synthesized and the 
+								old one is shed (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000058;class=Paper" 
+target="_blank">Cassada and Russell, 1975</a>). <a href="../hermaphrodite/cuticle/Images/cutfig9Bleg.htm" target="_blank">Molting</a> is almost 
+								simultaneous for the cuticular covering of all hypodermal tissues and 
+								those of  the external openings. The<a href="../hermaphrodite/cuticle/Images/cutfig7BCDEleg.htm" target="_blank"> buccal cavity</a>, <a href="../hermaphrodite/rectum/Images/rectfig3Gleg.htm" target="_blank">rectal cuticle</a> and the coats of  the <a href="../hermaphrodite/cuticle/Images/cutfig8leg.htm" target="_blank">excretory duct </a>and sensilla are all replaced at 
+								each molt along with the  outer cuticle of the bodywall. Before the 
+								molt, the animal enters a brief lethargus stage. Molting is 
+</p>
+									<p><strong>1)</strong> <strong>Apolysis</strong>: The separation of old cuticle from the hypodermis</p>
+								<p><strong>2) Synthesis</strong>:  the formation of new cuticle arising from the hypodermis, and </p>
+								<p><strong>3)</strong> <strong>Ecdysis</strong>: t he shedding of the old cuticle</p>
+								<p> <a href="http://www.wormbook.org/chapters/www_cuticle/cuticle.html#sec6" target="_blank">Cuticle protein synthesis</a> has been found to be high during 
+									molting and  is very much reduced during intermolt periods. 
+									Furthermore, the cuticle  ultrastructure and protein composition 
+							    differ at each molt (<a 
+href="http://www.wormatlas.org/ver1/handbook/references.htm" 
+target="_blank">White, 1988</a>).</p>
+								<p>The timing of the four molts is not regulated by any 
+									external signal in <em>C. elegans</em>, unlike in many parasitic 
+									species, though molting out of the dauer stage is highly sensitive to 
+									external  conditions. Little is known how the molt cycle is driven 
+									internally as <em>C. elegans</em> lacks ecdysone and its receptor. 
+									Presumably, another sterol hormone functions in role (<a 
+href="http://www.wormbook.org/chapters/www_nuclearhormonerecep/nuclearhormonerecep.html#d0e537" 
+target="_blank">Antebi, 2006</a>).</p>
+								<p> <br>
+									See <a 
+href="aglossary.htm#apolysis" 
+target="_blank">Apolysis</a><br>
+									See <a 
+href="eglossary.htm#ecdysis" 
+target="_blank">Ecdysis</a> <br>
+									See <a 
+href="eglossary.htm#exsheathment" 
+target="_blank">Exsheathment </a><br>
+									See <a href="lglossary.htm#lethargus" 
+target="_blank">Lethargus</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="moltingfluid"></a>Molting fluid </font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A secretion from internal  stores that may 
+								supply enzymes required for molting, thought to aid in the digestion 
+								of the old exoskeleton. This fluid may come from the excretory  glands (<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=5161204&query_hl=9&itool=pubmed_DocSum" 
+target="_blank">Davey, 1971</a>; Rogers and Head, 1978) and/or 
+								pharyngeal glands (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001424;class=Paper" 
+target="_blank">Hall and Hedgecock, 1991</a>; Adams et al., 1996). 
+								Release of the molting fluid has been  postulated to follow reception 
+								of an external signal (at least in parasitic  nematodes) and release 
+								of a hormonal intermediate from neurosecretory  neurons.</p>
+									<p><br>
+										See <a 
+href="eglossary.htm#exsheathment" target="_blank">Exsheathment </a><br>
+										See <a href="#molt">Molt</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="monadicsynapse"></a><a href="../hermaphrodite/nervous/Images/neurofig21leg.htm" target="_blank">Monadic synapse</a> </font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A synapse having only one  postsynaptic process.</p>
+									<p><br>
+										See <a 
+href="dglossary.htm#dyadicsynapse" target="_blank">Dyadic 
+											synapse</a><br>
+										See <a href="tglossary.htm#triadicsynapse" target="_blank">Triadic synapse</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="monocentricchromosomes"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=celldivision&rendertype=figure&id=A2135" target="_blank">Monocentric chromosomes</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>The placement of the microtubules occurs at one 
+								specific region (the centromere) and chromosomes move toward the 
+								poles during anaphase with the centromere leading. </p>
+									<p>This is in 
+										contrast to holocentric chromosomes where microtubules bind to the 
+										chromosomes along their entire length. While <em>C. elegans</em> chromosomes have a holokinetic  organization, they do share many 
+									  features and behaviors with monocentric chromosomes (<a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.section.66" 
+target="_blank">Albertson et al., 1997</a>). </p>
+								<p><br>
+									See <a 
+href="hglossary.htm#holocentricchromosomes" 
+target="_blank">Holocentric chromosomes</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="monodelphic"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=evolutionofdev&rendertype=figure&id=A6899" target="_blank">Monodelphic</a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>Possessing a one-armed gonad. <a href="../hermaphrodite/introduction/IMAGES/introfig5leg.htm" target="_blank">Males</a> always have 
+								monodelphic gonads, but females/hermaphrodites vary across species 
+								whether or not they are monodelphic or didelphic (two-armed) as is 
+		      the case for <em>C. elegans</em> hermaphrodites (<a 
+href="http://www.wormbook.org/chapters/www_evoldevnematode/evoldevnematode.html#sec3_1" 
+target="_blank">Sommer, 2005</a>). </p>
+									<p><br>
+										See <a 
+href="aglossary.htm#amphidelphic" target="_blank">Amphidelphic</a> <br>
+										See <a href="dglossary.htm#didelphic" 
+target="_blank">Didelphic</a> </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="monopolar"></a>Monopolar</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A neuron with a single  process extending from 
+								the soma.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="monoxenicmedium"></a>Monoxenic medium </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A simple growth medium for  raising nematodes, 
+								containing a single well-characterized species (monoculture)  of 
+								bacteria. A growth culture containing  two mixed species would be 
+								termed a &ldquo;dixenic&rdquo; medium.&nbsp;</p>
+									<br>
+								See <a 
+href="aglossary.htm#axenicmedium" 
+target="_blank">Axenic medium</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, sans-serif"><a name="monster"></a>Monster</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An embryo or young animal which  has undergone 
+								extremely abnormal development due to mutation or physical 
+								disruption is often called a (developmental) 
+								&ldquo;monster&rdquo;.&nbsp; Such terminal phenotypes (arrest stages) 
+								are  generally lethal and rarely result in fertile adults (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000689;class=Paper" 
+target="_blank">Denich et al., 1984</a>; <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001644;class=Paper" 
+target="_blank">Schierenberg  and Junkersdorf, 1992</a>; <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001418;class=Paper" 
+target="_blank">Schlicht and Schierenberg, 1991</a>).&nbsp;</p>
+									<br>
+								See <a href="aglossary.htm#arreststage" 
+target="_blank">Arrest stage</a><br>
+								See <a href="eglossary.htm#embryonicarrest" 
+target="_blank">Embryonic arrest</a><br>
+								See <a href="tglossary.htm#terminalphenotype" target="_blank">Terminal phenotype</a></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="morphogenesis"></a>Morphogenesis</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The development of the shape of tissues, organs 
+								and organisms. Morphogenesis of the <em>C. elegans</em> embryo occurs 
+								during the last half of <a href="../hermaphrodite/introduction/IMAGES/introfig7leg.htm" target="_blank">embryogenesis</a>, a five hour period which 
+								follows the &ldquo;proliferation phase&rdquo;. Most cells exit the 
+								cell cycle  and begin to differentiate in order to produce the 
+								detailed features of each  tissue prior to hatching. This stage is 
+							mostly controlled by the <a href="../hermaphrodite/hypodermis/jump.html?newLink=mainframe.htm&newAnchor=Embryonicdevelopmentofthehypodermis2" target="_blank">development of the epidermis</a> (<a 
+href="http://www.wormbook.org/chapters/www_epidermalmorphogenesis/epidermalmorphogenesis.html" 
+target="_blank">Chisholm and Hardin, 2005</a>). </p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="morulastage"></a><a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=gastrulation&rendertype=figure&id=A4546" target="_blank">Morula stage </a></font></strong></td>
+							<td valign=top><p>&nbsp;</p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>An early stage of embryonic development in which 
+								the embryo consists of compact ball of 12-32 cells. The cells begin 
+								to differentiate and then once a fluid filled space forms, called the 
+								blastocystic cavity, the morula becomes a blastocyst. </td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mosaicdevelopment"></a>Mosaic development </font></strong></td>
+							<td valign=top><p>&nbsp;</p>
+									<font face="Arial, Helvetica, sans-serif"></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A general means of tissue  development (found 
+								prominently in nematodes, including <em>C. elegans</em>) in which 
+								individual cell lineages tend to operate independently of their 
+								neighbors, such  that intercellular regulatory mechanisms are 
+								diminished or absent. The whole embryo becomes a patchwork or 
+								&ldquo;mosaic&rdquo; structure of cell groups that are operating in 
+								isolation from most  outside influences. If certain stem  cells are 
+								lost or damaged, no other cells can be upregulated to provide more 
+								cells or any regenerative capacity in replacement of the lost tissue. 
+								While mosaic development is very prominent in <em>C. elegans</em> embryos, significant examples of regulation have been experimentally 
+								determined (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000463;class=Paper" 
+target="_blank">Sulston and White, 1980</a>).&nbsp;</p>
+									<p><br>
+										See <a href="rglossary.htm#regulation" target="_blank">Regulation / Regulative potential</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mothercentriole"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3342" target="_blank">Mother centriole</a> </font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"></font>Parent centriole (S) </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top>In a metaphase or  anaphase spindle body, the 
+								&ldquo;mother centriole&rdquo; lies closest to most microtubule 
+								minus ends, and to the centrosome, whereas the &ldquo;daughter 
+								centriole&rdquo; lies off to  the side (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00006216;class=Paper" 
+target="_blank">O&rsquo;Toole et al., 2003</a>).</td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="motile"></a>Motile/ Motility </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The relative degree of  spontaneous and 
+								independent movement of an animal, a cell, an organelle, or cell 
+								part (growth cone)<font face="Arial, Helvetica, sans-serif">. Often 
+									it refers to the movement of the gamete (sperm), but <em>C. 
+										elegans</em> sperm move by a unique crawling mechanism. <br>
+						</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="motorneuron"></a><a href="../hermaphrodite/nervous/jump.html?newLink=mainframe.htm&newAnchor=Motorneuronsandthemotorcircuit23" target="_blank">Motorneuron</a></font></strong></td>
+							<td valign=top>Motoneuron (S) <br>
+								Motor neuron (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A neuron which forms synapses (neuromuscular 
+								junctions) onto one or more muscle cells.</p>
+									<p><br>
+										See <a 
+href="pglossary.htm#polymodalinput" 
+target="_blank">Polymodal input </a><br>
+										See <a href="sglossary.htm#sensorimotorneuron" target="_blank">Sensorimotor neuron</a> <br>
+								</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="motorendplate"></a>Motor end plate </font></strong></td>
+							<td valign=top><a href="#Muscleplate">Muscle plate</a> (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><font face="Arial, Helvetica, sans-serif"><br>
+							</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mouth"></a><a 
+href="../hermaphrodite/introduction/IMAGES/introfig4Aleg.htm" 
+target="_blank">Mouth</a></font></strong></td>
+							<td valign=top>Buccal opening (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>An opening at the anterior end surrounded by 
+								six symmetrical lips  and sensilla.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="msblastomere"></a><a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=MS;class=Cell" 
+target="_blank">MS</a> blastomere </font></strong></td>
+							<td valign=top><p>MS founder cell (S)<br>
+								MSt blastomere (S) </p></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An embryonic founder cell, born on the ventral side from <a 
+href="http://www.wormbase.org/db/cell/cell.cgi?name=EMS;class=Cell" 
+target="_blank">EMS</a>, whose daughter cells, <a href="http://www.wormbase.org/db/cell/cell.cgi?name=E;class=Cell" target="_blank">E</a> and <a href="http://www.wormbase.org/db/cell/cell.cgi?name=MS;class=Cell" target="_blank">MS</a>, give rise to many cell  types, most of which are 
+								<a href="../hermaphrodite/alimentary/Images/alimfig1leg.htm" target="_blank">mesodermal</a>, including <a href="../hermaphrodite/musclesomatic/Images/musfig15leg.htm" target="_blank">somatic muscles</a>, glands, <a href="../hermaphrodite/coelomocyte/Images/ccfig2leg.htm" target="_blank">coelomocytes</a>,<a href="../hermaphrodite/reproductive/Images/reprofig2leg.htm" target="_blank"> somatic 
+							gonad precursors</a>, as well as some neurons.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="msm"></a><a 
+href="http://www.wormatlas.org/ver1/Ware_build0.2/art/fig7_large.jpg" 
+target="_blank">MSM</a></font></strong></td>
+							<td valign=top>Medial submedial neuron </td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>A distinct papillary organ, located slightly 
+							posterior in the lips and containing the dendrite of the <a 
+href="../neurons/Individual Neurons/OLQframeset.html" 
+target="_blank">OLQ</a> neuron.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="multiphotonfluorescencemicroscopy" id="multiphotonfluorescencemicroscopy"></a><a href="http://www.wormclassroom.org/cr/multiphoton.html" target="_blank">Multiphoton fluorescence microscopy</a> </font></strong></td>
+							<td valign=top>MPFE</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A <a href="http://micro.magnet.fsu.edu/primer/techniques/fluorescence/multiphoton/multiphotonintro.html" target="_blank">type of microscopy</a> that combines laser scanning microscopy with multiphoton fluorescence excitation to generate high resolution 3D images of fluorescent signals in live animals. <font face="Arial, Helvetica, sans-serif"><br>
+							</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="multivulvaphenotype"></a><a 
+href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=ce2&part=A644&rendertype=figure&id=A647" 
+target="_blank">Multivulva phenotype </a></font></strong></td>
+							<td valign=top><font face="Arial, Helvetica, sans-serif"><a href="http://www.wormbase.org/db/misc/phenotype?name=muv" target="_blank">Muv</a></font></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><p>An aberrant condition in  which an animal has 
+								more than one vulva, or more likely, one functional vulva  and one or 
+								more extra &ldquo;<a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=cellfusion&rendertype=figure&id=A2333" target="_blank">pseudovulvae</a>&rdquo; (see <a 
+href="http://www.wormbook.org/chapters/www_vulvaldev/vulvaldev.html#d0e334" 
+target="_blank">Sternberg, 2005</a>). Many  mutants are known 
+				    to lead to this condition by the generation of excess cells  from the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=cellfusion&rendertype=figure&id=A2332" target="_blank">Pn.p lineages</a>; these include lin-1, lin-3 and lin-7 (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000496;class=Paper" 
+target="_blank">Horvitz and  Sulston, 1980</a>; <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000500;class=Paper" 
+target="_blank">Sulston and Horvitz, 1981</a>).&nbsp;</p>
+									<p><br>
+										See <a href="pglossary.htm#pseudovulva" 
+target="_blank">Pseudovulva</a><br>
+										See <a href="vglossary.htm#vulvalessphenotype" target="_blank">Vulvaless phenotype </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="murder"></a>Murder</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A postulated mechanism for  the initiation of 
+								cell death, in which one cell dies as a result of an external  signal 
+								from another &quot;killer cell&quot;, or dies due to phagocytosis by 
+								a neighboring cell while  still healthy (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000463;class=Paper" 
+target="_blank">Sulston and White, 1980</a>; <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001419;class=Paper" 
+target="_blank">White et al., 1991</a>).&nbsp;</p>
+									<p><br>
+										See <a 
+href="eglossary.htm#engulfment" target="_blank">Engulfment</a> <br>
+										See <a 
+href="kglossary.htm#killercell" 
+target="_blank">Killer cell</a><br>
+										See <a href="sglossary.htm#suicide" target="_blank">Suicide</a><font face="Arial, Helvetica, sans-serif"><br>
+										</font></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="muscle"></a><a href="../hermaphrodite/muscleintro/MusIntroframeset.html" target="_blank">Muscle</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Somatic cell(s) whose principal function is to 
+								provide contractile forces, either to modify body posture or to 
+								control the  position or motions of particular tissues or organs. In 
+								the nematode, which lacks a skeleton, most  muscles are anchored to 
+								the cuticle. The body&rsquo;s high turgor pressure provides  rigidity 
+								to the cuticle, which can then respond to muscle contractions to 
+								modify the body shape. </p>
+									<p>Some muscle cells  in <em>C. elegans </em>act alone, but the  principal muscles of the <a href="../hermaphrodite/musclesomatic/MusSomaticframeset.html" target="_blank">bodywall</a> and<a href="../hermaphrodite/pharynx/Phaframeset.html" target="_blank"> pharynx</a> operate in groups, either in  synchrony, in sequence, or in 
+										opposition to provide coordinated, smoothly  controlled motions. 
+										Individual muscle cells are often small in size, spindle  shaped, and 
+										consist of single sarcomeres or obliquely striated sarcomeres (as  in 
+							      bodywall muscle). </p>
+								<p>Several cell types have <a href="../hermaphrodite/musclenonstriated/MusNonstriframeset.html" target="_blank">smooth muscle</a> properties, 
+									including the gonad sheath, the uterine muscles, and the anal 
+									sphincter  muscle. Some muscle types are sex-specific,  including the <a href="../hermaphrodite/egglaying apparatus/jump.html?newLink=mainframe.htm&newAnchor=Uterineandvulvalmuscles4" target="_blank">vulval and uterine muscles</a> of the hermaphrodite, 
+		              and the large  variety of <a href="../male/musclemale/Musmaleframeset.html" target="_blank">specialized muscles in the male tail</a>.</p>
+								<p><br>
+									See <a href="bglossary.htm#bodywallmuscle" 
+target="_blank">Bodywall muscle</a><br>
+									See <a href="dglossary.htm#diagonalmuscle" 
+target="_blank">Diagonal muscle</a><br>
+									See <a href="dglossary.htm#dilatormuscle" 
+target="_blank">Dilator muscle</a><br>
+									See <a href="eglossary.htm#erectormuscle" 
+target="_blank">Erector muscle</a><br>
+									See <a href="eglossary.htm#extensormuscle" 
+target="_blank">Extensor muscle</a><br>
+									See <a href="#myoepithelium">Myoepithelium </a><br>
+									See <a href="oglossary.htm#obliquemuscle" 
+target="_blank">Oblique muscle</a><br>
+									See <a href="pglossary.htm#pharyngealmuscle" 
+target="_blank">Pharyngeal muscle</a><br>
+									See <a href="rglossary.htm#retractormuscle" target="_blank">Retractor muscle</a><br>
+									See <a href="sglossary.htm#sphinctermuscle" target="_blank">Sphincter muscle</a><br>
+									See <a href="uglossary.htm#uterinemuscle" target="_blank">Uterine muscle</a><br>
+									See <a href="#Mline">M line</a><br>
+									See <a href="zglossary.htm#zdisc" target="_blank">Z disc</a><br>
+									See <a href="aglossary.htm#actin" 
+target="_blank">Actin</a><br>
+									See <a href="#myosin">Myosin</a><br>
+									See <a href="tglossary.htm#titin" target="_blank">Titin</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a 
+name="musclearm"></a><a 
+href="../hermaphrodite/muscleintro/jump.html?newLink=mainframe.htm&newAnchor=Musclearms4" 
+target="_blank">Muscle arm</a></font></strong></td>
+							<td valign=top>Innervation process  (S) <br></td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A process extension from the  muscle belly by 
+								which the muscle cells reach to the nerve cords to obtain 
+								innervation. This extended muscle  process is a common feature 
+								of practically all somatic muscles, but is not  found in the pharynx, 
+								where neurons extend processes to the muscle cell  directly. The 
+								typical bodywall muscle has 3 to 5 muscle arms. </p>
+									<p><br>
+										See <a href="#Musclebelly">Muscle belly</a><br>
+										See <a href="#Muscleplate">Muscle plate</a><br>
+										See <a 
+href="pglossary.htm#plexus" 
+target="_blank">Plexus</a><br>
+										See <a href="sglossary.htm#spur" target="_blank">Spur </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a 
+name="Musclebelly"></a><a 
+href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" 
+target="_blank">Muscle belly </a></font></strong></td>
+							<td valign=top>Sarcoplasm (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The cytoplasmic swelling  surrounding  the 
+								muscle cell nucleus, which contains many mitochondria and  ribosomes, 
+								but excludes that portion of the cell devoted to the  sarcomeres. 
+								Muscle cells are mostly  spindle-shaped, with sarcomeres extending to 
+								the distal, thinner portions of  the spindle, while the nucleus lies 
+								within the fatter muscle belly.</p>
+									<p><br>
+										See <a href="#musclearm">Muscle arm </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="muslcefiber"></a>Muscle fiber </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>That portion of the muscle  quadrant that 
+								contains the <a 
+href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" 
+target="_blank">myofilament lattice</a>. This term is not often 
+								used in nematode literature. It might refer to the myofilament 
+								lattice  within a since muscle cell, or to the <a 
+href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" 
+target="_blank">collection of sarcomeres</a> within a single muscle 
+				    cell.</p>
+									<p><br>
+										See <a href="sglossary.htm#sarcomere" target="_blank">Sarcomere</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a 
+name="Muscleplate"></a><a 
+href="http://www.wormatlas.org/ver1/Ware_build0.2/art/fig26_large.jpg" 
+target="_blank">Muscle plate</a></font></strong></td>
+							<td valign=top>Motor end plate (S)<b></b> <br>
+								Plexus (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Specialized  interdigitating ends of the muscle 
+								arms form a localized plexus along certain  portions of the 
+								longitudinal nerve cords and nerve ring. This plexus, known as the 
+								&ldquo;muscle plate&rdquo;, is  the site of muscle innervation by the 
+								motorneurons. This portion of each muscle arm tends to be 
+								very thin and electron lucent, lacking any cytoplasmic organelles. 
+								The chemical synapses formed by the motor  axons are called 
+								neuromuscular junctions (NMJs). </p>
+									<p>Some gap junctions (GJs) may  also 
+										occur here between nerve and muscle or between nearby muscle arms. 
+										The most distinctive muscle  plates form just underneath the nerve 
+										ring (forming a complete cylinder), and  opposite the principal motor 
+										neuron axons of the ventral and dorsal nerve cords  (as lengthwise 
+										bands) (<a href="http://www.wormatlas.org/ver1/Ware_build0.2/toc.html" 
+target="_blank">Ware et al., 1975</a>).</p>
+								<p><br>
+									See <a href="gglossary.htm#gapjunction" target="_blank">Gap junction</a> <br>
+									See <a 
+href="nglossary.htm#neuromuscularjunction" 
+target="_blank">Neuromuscular 
+										junction</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="musclequadrant"></a><a 
+href="../hermaphrodite/muscleintro/Images/musfig3leg.htm" 
+target="_blank">Muscle quadrant </a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p><a href="../hermaphrodite/musclesomatic/Images/musfig7leg.htm" target="_blank">Longitudinal bodywall muscles</a> are grouped into 
+								four groups known as the <a 
+href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" 
+target="_blank">muscle quadrants</a>. Each quadrant comprises a 
+								double row of  elongated muscle cells that lie very close together, 
+								covered by a common basal  lamina which separates them from 
+								neighboring territories of hypodermis and  nerves in the bodywall, 
+							and from the pseudocoelomic fluid more centrally.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="musclestabilization"></a>Muscle stabilization </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Structures and/or developmental events by which 
+								the body muscles are anchored  to the bodywall in order to provide 
+								strong resistance to the forces of muscle  contraction, so that 
+								muscle contraction causes motion of the whole body rather  than 
+								damage to the sarcomere.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mutagenesis"></a>Mutagenesis/ Mutagenized </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A procedure used to increase  the rate of 
+								genetic mutations within a population of animals. In <em>C. 
+									elegans</em>, common mutagenic agents  include ethylmethane sulfonate 
+								(EMS), X-rays,  and transposon (Tc1) insertion. </p>
+									<p>Mutagenesis has been 
+										used to create large libraries of nematodes harboring deletions in 
+										their DNA. Screening these libraries has resulted in the isolation of 
+										lines carrying deletions in specific genes. Deletion strains produced 
+										by <a href="http://celeganskoconsortium.omrf.org/" 
+target="_blank">The <em>C. elegans</em> Knockout Consortium</a> are 
+										freely available to researchers upon request. </p>
+								<p><br>
+									See <a href="eglossary.htm#ems" target="_blank">EMS</a><br>
+									See<a href="rglossary.htm#rnai" target="_blank"> RNAi</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="mutualism"></a>Mutualism</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Describes  a lifestyle in which two species 
+								live together, to the benefit of both  organisms. In many cases of 
+								mutualism,  the relationship is obligate, and neither species can 
+								thrive apart from the  other. If only one species derives  obvious 
+								benefits, it is generally considered commensalism. It has been 
+								suggested that <em>C. elegans</em> may have a commensal relationship 
+								with pillbugs in  the wild, living under the shell of the pillbug and 
+								perhaps consuming bacteria  there (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001874;class=Paper" 
+target="_blank">Baird et al., 1994</a>).</p>
+									<p><br>
+										See <a href="cglossary.htm#commensal" 
+target="_blank">Commensal</a><br>
+										See <a href="fglossary.htm#freeliving" 
+target="_blank">Free-living</a><br>
+										See <a href="pglossary.htm#parasite" 
+target="_blank">Parasite</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="myoblast"></a>Myoblast</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Stem cell that divides to  produce muscle cells.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a 
+name="myoepithelium"></a>Myoepithelial/ Myoepithelium</font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Describing any tissue that  shares properties 
+								of both muscle and of epithelial tissue. Some single sarcomere 
+								muscles, such as  pharyngeal muscle cells, have this character since 
+								they secrete cuticle for the  pharyngeal lumen, and cuticle secretion 
+								is generally considered an epithelial  function. Some smooth muscle 
+								tissues, such as the somatic sheath of the gonad, also fit this 
+								definition, as they  completely enclose the germline cells.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="myofilament"></a>Myofilament</font></strong></td>
+							<td valign=top>Myofiber (S) <b></b>Myofibril (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A generic name referring to  both the <a 
+href="../hermaphrodite/musclesomatic/Images/musfig12leg.htm" 
+target="_blank">thick and thin filaments</a> (<a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3043" 
+target="_blank">myosin</a> and <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2969" 
+target="_blank">actin</a> respectively). They make up the &ldquo;<a 
+href="../hermaphrodite/musclesomatic/Images/musfig9leg.htm" 
+target="_blank">myofilament lattice</a>&rdquo;, a  well organized 
+								network of parallel filaments that are intermingled to form the <a 
+href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" 
+target="_blank">sarcomere</a> in &ldquo;obliquely striated&rdquo; and 
+								&ldquo;single sarcomere&rdquo; muscles, but can also  lie in more d
+							ispersed, disorganized arrays within smooth muscles.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="myofilamentlattice"></a><a 
+href="http://www.wormatlas.org/ver1/handbook/fig.s/musfig34c.jpg" 
+target="_blank">Myofilament lattice</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The organized set of <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=cooper.figgrp.1797" 
+target="_blank">overlapping thick and thin filaments</a> (<a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3043" 
+target="_blank">myosin</a> and <a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.2969" 
+target="_blank">actin</a> respectively) that  together compose the 
+								dominant feature of the muscle <a 
+href="../hermaphrodite/musclesomatic/Images/musfig10leg.htm" 
+target="_blank">sarcomere</a>, anchored on each  end to the <a 
+href="../hermaphrodite/musclesomatic/Images/musfig13leg.htm" 
+target="_blank">dense bodies</a>, or Z bands. Each thick 
+								filament is surrounded by
+								evenly spaced thin filaments, all  lying in parallel; they are 
+								believed to slide past one another during muscle  contraction. Thin 
+								filaments outnumber  thick filaments by a ratio of 5:1 in mature 
+				    bodywall muscles. </p>
+									<p>Orderly development of the lattice can be 
+										monitored under polarized light by light microscopy, or in thin 
+										sections by  electron microscopy, and is disrupted in many 
+										mutants.</p>
+								<p><br>
+									See <a href="#myofilament">Myofilament</a><br>
+									See <a href="oglossary.htm#obliquelystriated" 
+target="_blank">Obliquely striated</a><br>
+									See <a href="sglossary.htm#sarcomere" target="_blank">Sarcomere</a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="myogenesis"></a><a href="../hermaphrodite/musclesomatic/jump.html?newLink=mainframe.htm&newAnchor=Developmentofsomaticmuscle3" target="_blank">Myogenesis</a></font></strong></td>
+							<td valign=top>Muscle development (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The set of developmental steps involved in 
+								muscle  differentiation and growth, including the <a href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=wormbook&part=sarcomereassemblycelegansmusc&rendertype=figure&id=A2686" target="_blank">gradual 
+								construction of the early  sarcomere</a>, the mature sarcomere, and the 
+							increase in sarcomere numbers per cell.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="myogeniccontroloflocomotion" id="myogeniccontroloflocomotion"></a>Myogenic control of locomotion </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>A theory that the basic pattern of locomotion in nematodes  is patterned by the direct interconnections between muscle cells (via muscle  arm gap junctions) and not due to the pattern of synaptic inputs from motor  neurons (<a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=5139022&query_hl=3&itool=pubmed_docsum" target="_blank">Crofton, 1971</a>).</p>
+									<p>See <a href="nglossary.htm#neurocraticcontroloflocomotion" target="_blank">Neurocratic control of  locomotion </a></p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="myosin"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3043" target="_blank">Myosin</a></font></strong></td>
+							<td valign=top>Thick filament (S) </td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Very large elongated  macromolecular protein 
+								that forms the<a 
+href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.533" 
+target="_blank"> major cytoskeletal element</a> within muscle  cells, <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=ce2.figgrp.547" 
+target="_blank">the thick filament</a>. Two isoforms of myosin heavy 
+								chain, A and B, are  localized to different regions of individual 
+								thick filaments in bodywall muscle  (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00000647;class=Paper" 
+target="_blank">Miller et al., 1983</a>), binding to a paramyosin (<a 
+href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=books&doptcmdl=GenBookHL&term=paramyosin+AND+ce2%5Bbook%5D+AND+1478%5Buid%5D&rid=ce2.section.532#542" 
+target="_blank
+  ">Moerman and Fire, 1997</a>) core protein to form a long  straight 
+								filament with myosin motors oriented in opposite directions at each 
+								end of the thick filament. Each myosin  heavy chain contains a motor 
+								domain that translocates myosin relative to  adjacent actin thin 
+								filaments to provide the force of muscle contraction.</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="myosinrod"></a><a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.figgrp.3043" target="_blank">Myosin rod</a> </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The central  portion of the myosin heavy chain 
+								molecule, a coiled-coil domain which is&nbsp; long and straight, with 
+								a globular motor  domain on one end and a non-helical tailpiece on 
+								the other end (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00001394;class=Paper" 
+target="_blank">Epstein, 1990</a>; <a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004378;class=Paper" 
+target="_blank">Hoppe and Waterston, 2000</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="myosintailpiece"></a>Myosin tailpiece </font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>The  non-helical portion of the myosin heavy 
+								chain protein, which lies at the  opposite end of the myosin rod from 
+								the motor domain, and is thought to be  involved in thick filament 
+								assembly (<a 
+href="http://www.wormbase.org/db/misc/paper?name=WBPaper00004378;class=Paper" 
+target="_blank">Hoppe and Waterston, 2000</a>).</p></td>
+						</tr>
+						<tr class="style18">
+							<td valign=top><strong><font face="Arial, Helvetica, 
+sans-serif"><a name="myotactin"></a><a 
+href="http://www.jcb.org/cgi/content/full/146/3/659/F1" 
+target="_blank">Myotactin</a></font></strong></td>
+							<td valign=top>&nbsp;</td>
+							<td valign=top><span class="style26"></span></td>
+							<td valign=top><p>Membrane protein involved in  the assembly and 
+								positioning of muscle/hypodermal <a href="../hermaphrodite/musclesomatic/Images/musfig11leg.htm" target="_blank">fibrous organelles</a> (hemi-adherens 
+		      junctions) (<a 
+href="http://jcb.rupress.org/cgi/content/full/146/3/659#F1" 
+target="_blank">Hresko et al., 1999</a>).</p>
+									<p><br>
+										See <a 
+href="fglossary.htm#fibrousorganelle" target="_blank">Fibrous 
+											organelle</a></p></td>
+						</tr>
+					</table>
+						<span class="picturename"><br>
+				</span></nobr></td>
+		</tr>
+		<tr>
+			<td class="just"><hr class="page-splits">			</td>
+		</tr>
+		<tr>
+			<td class="just"><!-- END IMAGE AREA 10 -->
+					<p><br>
+					  <a href="#top"><img src="../picts/topoff.gif" border="0" onMouseOver="this.src='../picts/topon.gif'" onMouseOut="this.src='../picts/topoff.gif'"></a></p>
+					<p><span class="style1">Edited for the web by Laura A. Herndon. Last revision: January 26, 2010. This section should be cited as: Herndon, L.A. and Hall, D.H. 2010. Glossary M. In<em> WormAtlas</em>. &nbsp;doi:10.3908/wormatlas.6.13</span><br>
+					  </p></td>
+		</tr>
+	</table>
+</center>
+<!-- PICTURE TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="../picts/spacer.gif" width="310" height="10" alt="image"><br></td><td width="35" align="center" valign="top" nowrap>
+
+<img src="../picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="../picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="../copyright.js"></script>
+
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+<script src="/google_analytics.js"></script>
+
+
+</BODY></HTML>
