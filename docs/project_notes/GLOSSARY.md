@@ -5,6 +5,12 @@
 > when generating code, documentation, API names, and database schemas.
 > Do not abbreviate or rename these terms without team consensus.
 
+> **Note — two different "glossaries":** This file (GLOSSARY.md) is the
+> project's internal terminology reference. The **wormatlas.org glossary**
+> is the public, A–Z anatomical glossary on the live site, used as the
+> source for backfilling non-cell entity records. When a document says
+> "glossary anchor" or "the glossary backfill," it means the wormatlas.org
+> glossary — not this file. See decisions.md → Glossary Entity Backfill.
 ---
 
 ## Part 1: C. elegans Scientific Terminology
@@ -133,6 +139,9 @@ multiple pages, have properties and relationships, and benefit from
 consistent representation. **Plain-language test:** If you would make
 a dedicated page for it, it's an entity. If it has a WormBase ID,
 it's almost certainly an entity that should be tagged. |
+| Glossary anchor (anchor slug) | The short identifier on a term's row in the wormatlas.org public glossary — the value inside its `<a name="...">` HTML anchor (e.g. adherensjunction, axoneme). Used verbatim as the entity_id for non-cell entities created in the glossary backfill. See decisions.md → entity_id Construction for Non-Cell Entities. |
+| entity_id | The permanent business/join key for an entity record, matched to the spreadsheet exactly. Cells: the cell name as written (int1DL, P0). Non-cell entities: the wormatlas.org glossary anchor slug (adherensjunction). Never lowercased for cells. See key_facts.md → Entity Data Standards. |
+| Stub (stub record) | A minimal entity record from the glossary backfill filling only the identifying/NOT NULL columns (entity_id, entity_name, entity_type, species, taxon_id, data_source, curator_name, status='draft'), leaving description, function, wormbase_id, and enrichment fields blank. Explicitly not RAG-ready. See decisions.md → Stub Entity Records Permitted for Glossary Backfill. |
 | Relationship type | Controlled vocabulary for entity connections: part_of, develops_from, adjacent_to, connected_to, expresses, contains |
 | voyage-3.5 | The selected Voyage AI embedding model for WormAtlas RAG.
 Optimized for retrieval tasks on specialized text |

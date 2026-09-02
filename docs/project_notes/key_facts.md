@@ -85,6 +85,11 @@ Schema.)
     decisions.md → entity_id Construction for Non-Cell Entities —
     Glossary Anchor Slug. Malformed anchors are flagged in the inventory
     pass and corrected under review; never bake a typo into an entity_id.
+  - Terminology: "glossary anchor", "entity_id", "stub", and the
+    "PENDING-" placeholder are defined in GLOSSARY.md → Technical Terms
+    (reconciled with the backfill work, July 2026). GLOSSARY.md also notes
+    the distinction between this project's internal terminology file and
+    the wormatlas.org public glossary used as the backfill source.
 
 ## Entity Counts by Organ System (as of January 2026)
 - Nervous system: 316 cells
@@ -156,7 +161,28 @@ Source file: wormatlas_entities_WITH_WORMFINDR_DATA_01-2026
 - URL testing can and should be automated with a Python script
 
 ## Known Data Gaps
-- int-ring-I referenced in Relationships tab but missing from Entities tab
+- int-ring-1 (Int ring 1, the four-cell anteriormost intestinal ring)
+  referenced in Relationships tab but missing from Entities tab.
+  Corrected July 2026 from an earlier mislabeling as "int-ring-I" —
+  see bugs.md for details.
+- Cataloguing IntFIG2 surfaced a distinct type of gap from the
+  gut-granules case in IntFIG1: cells with known, unambiguous names
+  that are simply missing rows in the Entities tab, as opposed to
+  structures with no established identifier yet. These do NOT need
+  a PENDING- placeholder, since there is nothing ambiguous to
+  resolve — the entity_id is already certain. Confirmed missing as
+  of July 2026: int1DR (sibling cells int1DL/VL/VR already exist),
+  Z2, Z3 (germline precursor cells), K (partner cell K' already
+  exists), PDA (neuron; precursor cell Y already exists). These
+  should be added to the Entities tab directly under their real
+  names once WormBase IDs are looked up — tracked here so they
+  aren't lost, not because their naming is in question.
+- uterus was also found missing while cataloguing IntFIG2 (inset,
+  postembryonic intestinal arrangement). Unlike the cells above,
+  this is a non-cell structure — treated as a PENDING-uterus
+  placeholder per the standard glossary-backfill process, since its
+  entity_type and confirmed glossary anchor still need editor
+  classification, consistent with how gut granules was handled.
 - Figure cataloguing is surfacing anatomical structures visible in
   figures that do not yet have entity_id records in the Entities tab
   (e.g., gut granules, seen in IntFIG1 panel C). The WormAtlas.org
@@ -230,6 +256,374 @@ Source file: wormatlas_entities_WITH_WORMFINDR_DATA_01-2026
   scripts/parse_glossary.py so editors classify entirely in-spreadsheet.
   Record creation and stub counting begin only after classification is
   complete; stub count remains 0 (see the stub-records bullet above).
+- Enrichment flags during classification: an optional `enrichment_note`
+  column was added to the classification sheet (July 2026) so editors can
+  record content problems they notice in passing — e.g. descriptions with
+  C. elegans-specific counts or measurements that won't hold for other
+  species (first raised by Nate Schroeder on the amphid, ~12 neuron types).
+  These are NOT acted on during classification; they are collected for the
+  later enrichment pass, where species-scoped descriptions are written to
+  the RAG Readiness Standard. Classification itself stays at the four
+  columns (is_entity, proposed_entity_type, ambiguous_flag, editor_notes).
+  The column was also added to scripts/parse_glossary.py so a regenerated
+  inventory keeps it.
+  - Cataloguing AlimFIG1 (alimentary overview figure) surfaced a batch of
+  missing entities across its anatomy and lineage panels. Only `intestine`
+  (the one existing organ record) was already present; everything else in
+  the figure is a gap:
+  - Type B (known name, missing row — use the real entity_id directly): the
+    embryonic founder cells E, MS, AB, EMS, ABa, ABp, from lineage panels B
+    and C. All are `cell` entities, NOT cell-group (see decisions.md →
+    Founder/Blast Cells Are `cell`, Not `cell-group`). Each needs a row
+    added directly under its real name plus a cell-level WBbt lookup in the
+    Ontology Browser (never invented; NULL if none exists). Their naming is
+    not in question — tracked here so they are not lost, same as the
+    int1DR / Z2 / Z3 / K / PDA Type B cells above.
+  - Type A (non-cell structure, glossary anchor slug not yet confirmed —
+    PENDING- placeholder per the standard backfill process): pharynx and
+    rectum, entered in the AlimFIG1 figure rows as PENDING-pharynx and
+    PENDING-rectum. To be replaced with their real glossary-anchor
+    entity_ids once the backfill resolves them (the anchor slug, NOT a
+    de-hyphenated form of the placeholder — see decisions.md → entity_id
+    Construction for Non-Cell Entities). Note: pharynx is the anterior
+    analog of the intestine organ, but its entity_id is still unconfirmed
+    and must NOT be assumed to be "pharynx".
+  - Pending Nate Schroeder's classification (NOT yet committed as gaps — see
+    AlimFIG1 classification email): foregut / midgut / hindgut (panel A
+    region labels — distinct entities, or shorthand for pharynx / intestine
+    / rectum?); the unenumerated "specific tissues" labels below panel A
+    (need the actual list before rows can be created); and whether panel C's
+    lineage tree shows EMS as a discrete node.
+  - Running PENDING- set now includes PENDING-pharynx and PENDING-rectum
+    alongside the earlier PENDING-uterus and PENDING-gut-granules. Stub
+    count unaffected (these are figure-surfaced placeholders, not glossary
+    stubs).
+
+- IntFIG3 cataloguing (August 2026) added 28 new rows to the Entities tab,
+  all status='draft' with blank wormbase_id. 28 WBbt Ontology Browser
+  lookups are therefore owed before any of these leave draft — look each up
+  individually (never infer int1DR's WBbt from its siblings), and leave NULL
+  only where a term genuinely has no WBbt. None of the 28 are RAG-ready
+  (drafts lack the full description/function/validated status the RAG
+  Readiness Standard requires). Breakdown:
+  - int1DR (cell, parent_entity_id=int-ring-1) — dorsal right cell of
+    intestinal ring 1. RESOLVES the previously-logged Type B gap for int1DR.
+  - int-ring-1 through int-ring-9 (cell-group, parent_entity_id=intestine),
+    per decisions.md → cell-group Added as Entity Type, using the int-ring-1
+    (arabic) identifier. RESOLVES the previously-logged int-ring-1 gap;
+    int-ring-2..9 are newly created.
+  - 18 embryonic lineage cells (all entity_type=cell, developmental_stage=
+    embryo, sex=both, parent_entity_id NULL per decisions.md → Founder/Blast
+    Cells Are `cell`): E, EMS, MS, P2, ABa, ABp, ABal, ABar, ABpl, ABpr, C,
+    D, P3, P4, Ea, Ep, Z2, Z3. Of these, E, EMS, MS, ABa, ABp (previously
+    logged from AlimFIG1) and Z2, Z3 (previously logged) are now RESOLVED as
+    draft rows; the other 11 (P2, ABal, ABar, ABpl, ABpr, C, D, P3, P4, Ea,
+    Ep) are newly surfaced by IntFIG3.
+  - Developmental parentage of these cells (EMS→E/MS, AB→ABa/ABp, E→Ea/Ep,
+    P2→C/P3, P3→D/P4, P4→Z2/Z3) belongs in the cell_lineage table (DECIDED,
+    not yet built), NOT in parent_entity_id (left NULL for founder cells).
+    Deferred until cell_lineage exists.
+  - Still OPEN, not created by IntFIG3: AB, P0, P1 (2-cell/founder cells not
+    labeled in IntFIG3, skipped by decision); K, PDA (from the earlier
+    int1DR/Z2/Z3 batch); and the E4 daughters Eal/Ear/Epl/Epr (named in the
+    IntFIG3 caption but not individually diagram-labeled — deliberately not
+    created).
+
+- IntFIG3 PENDING- figure placeholders (figure-row values only, not entity
+  rows): PENDING-adherensjunction and PENDING-vulva are new; PENDING-uterus
+  (already logged from IntFIG2) also appears. Running PENDING- set is now:
+  PENDING-uterus, PENDING-gut-granules, PENDING-pharynx, PENDING-rectum,
+  PENDING-adherensjunction, PENDING-vulva. Adherens junction's glossary
+  anchor is already documented (adherensjunction, per GLOSSARY.md), so that
+  one resolves trivially in the backfill. Stub count unaffected — these are
+  figure-surfaced placeholders, not glossary stubs.
+
+- Binucleate-cell synonym enrichment owed (IntFIG3, RAG impact): IntFIG3
+  panel B labels the anterior/posterior NUCLEI of binucleate intestinal
+  cells (int3Da/int3Dp, int3Va, int4Da/int4Dp, int4Va/int4Vp, int5La,
+  int5Ra). These are nuclei, not cells — no entity rows were created for
+  them. To let RAG match a query on a nucleus label, add these labels to the
+  synonyms field of the PARENT cell records (int3D, int3V, int4D, int4V,
+  int5L, int5R). This edit to existing rows is outstanding.
+
+- int1DL duplicate — salvaged lineage (holding note, August 2026): the
+  Entities tab briefly held two int1DL rows — one validated (gold standard)
+  and one WormFindr 'review' import. The review duplicate is being deleted
+  (see bugs.md). Its lineage data is preserved here because there is nowhere
+  yet to file it (the cell_lineage table is DECIDED but not built):
+  - int1DL sublineage recorded by WormFindr: Ealaad (immediate parent Ealaa).
+  - UNVERIFIED — sourced from the WormFindr import, whose quality varies (the
+    source description even carries the typo "Emrbyonic"). Must be checked
+    against the canonical Sulston lineage before it is ever entered into
+    cell_lineage. Do not treat as confirmed.
+  - Modeling note for when cell_lineage is built: Ealaa is a deep
+    intermediate blastomere that is NOT an entity in the tab (and not one we
+    are creating). cell_lineage.parent_cell_id is meant to reference a real
+    entity, so a choice is needed then — store the lineage as a plain-text
+    path, or create the intermediate blastomeres. Table-design question,
+    deferred.
+  - Companion fix (see bugs.md): the kept validated int1DL row's
+    parent_entity_id is being changed from int-ring-I (old mislabeled form)
+    to int-ring-1.
+
+  - parent_entity_id holds embryonic lineage, not structural parent
+  (RESOLVED 2026-08-31 for parent_entity_id itself — lineage strings removed
+  project-wide, DB7 final straggler deleted, live Google Sheet confirmed
+  authoritative. Downstream cell_lineage migration and self-FK remain; see
+  RESOLUTION NOTE at the end of this entry. Originally discovered August 2026
+  during the int1DL duplicate fix; see bugs.md for the discovery record). 564 of the 565 Entities-tab rows that have a
+  parent_entity_id set store an embryonic CELL-LINEAGE PATH there, not the
+  cell's structural parent — e.g. int1VR → Earaa, int2D → Earp,
+  ADAL → ABplapaaaap, ADEsoL → H2L.a. Only 1 row (the validated int1DL, after
+  its fix) uses a real structural parent (int-ring-1). The problem is
+  project-wide, not intestine-specific: it spans the entire WormFindr
+  Information Cards import (Nov 2024) across all organ systems, because that
+  import mapped each cell's lineage path into parent_entity_id. This
+  contradicts the agreed model (decisions.md → Founder/Blast Cells Are `cell`;
+  cell_lineage Table): structural parentage belongs in parent_entity_id,
+  developmental parentage belongs in cell_lineage.
+    - RESOLUTION NOTE (2026-08-31): the parent_entity_id lineage cleanup is
+    complete — the last straggler (DB7 -> ABprppaapp) has been deleted, so no
+    parent_entity_id still holds a lineage path. The entities_export.csv used
+    for RectFIG2 cataloguing was confirmed to match the live Google Sheet, so
+    the post-cleanup state is current (no stale snapshot). Embryonic lineages
+    now live almost entirely in the DESCRIPTION field as the interim single
+    copy — the guardrail above still holds: description enrichment must not
+    drop them before cell_lineage is built.    ... parent_entity_id will be populated with real structural designations
+    over time (still-blank rows are awaiting that assignment, not an error).
+    DESTINATION: the eventual home for lineage is already decided — decisions.md
+    -> "cell_lineage Table" (May 2026: cell_id, parent_cell_id, division_stage,
+    division_time_minutes, division_orientation, fate), which explicitly states
+    lineage belongs in that table, NOT in prose. The current descriptions-holding
+    is therefore an INTERIM deviation pending that table's build; the strip-and-
+    hold step was decided in a separate chat session (date to confirm). No new
+    binding decision is needed since the destination is logged — but if the
+    interim + the "don't drop lineage from descriptions before migration"
+    guardrail should themselves be binding, add them as a short addendum to the
+    cell_lineage decision rather than as a standalone entry.
+
+  - Consequence for schema: the anatomical_entities self-FK
+    FOREIGN KEY (parent_entity_id) REFERENCES anatomical_entities(entity_id)
+    must NOT be enabled yet. The lineage values (Earaa, ABplapaaaap, H2L.a…)
+    are not entity_ids in the table, so enabling the FK now would reject all
+    564 rows at import. This is the exact parallel of the figure_entities FK
+    deferral noted above — same guardrail, different table.
+  - Consequence for RAG: structural hierarchy queries ("what ring/organ is
+    int2D part of?") cannot be answered from parent_entity_id in its current
+    state.
+  - The IntFIG3 lineage-cell batch (August 2026) already follows the correct
+    convention — founder cells were added with parent_entity_id NULL — so this
+    cleanup targets the pre-existing WormFindr rows only, not the new ones.
+  - Fix (not yet done; sequence, after cell_lineage is built): (1) move each
+    cell's lineage path into cell_lineage, verified against the canonical
+    Sulston lineage (WormFindr lineage is unverified — see the int1DL holding
+    note); (2) set parent_entity_id to the cell's real structural parent
+    (ring/organ/tissue), or NULL where none applies; (3) only then enable the
+    self-FK. Scope ~564 rows — batch/scripted correction, not a hand edit.
+    A solved-bug entry goes in bugs.md when this pass runs, and this gap is
+    marked resolved at the same time.  
+    - STATUS UPDATE (August 2026): Step 2 executed early and project-wide —
+    embryonic-lineage strings removed from parent_entity_id on ALL ~564
+    affected rows. Structural parents assigned so far: pharyngeal cells
+    (pm4/pm5/mc3 groups + their 9 member cells) -> PENDING-pharynx; int1DL ->
+    int-ring-1 (prior fix). All other cleared rows now have parent_entity_id
+    NULL/blank (real structural parent still to be assigned).
+  - CONSEQUENCE — lineage is now SINGLE-COPY: it previously sat in BOTH
+    parent_entity_id and the description; after the clear it survives ONLY in
+    the description field. Steps 1 (migrate to cell_lineage) and 3 (enable
+    self-FK) are still not done; cell_lineage is not built.
+  - NEW RISK / GUARDRAIL: the description is now the sole surviving copy of
+    every cell's lineage. The "Enhanced Cell Descriptions" enrichment pass
+    MUST NOT drop the lineage string when rewriting a description, OR the
+    cell_lineage build + migration must run BEFORE enrichment touches these
+    rows. Losing the description string before migration = permanent lineage
+    loss (no backup). Sequence cell_lineage migration ahead of WormFindr-row
+    enrichment.
+  - Self-FK: still deferred — no longer because of lineage strings (gone),
+    but because PENDING-pharynx (and any other PENDING placeholder used as a
+    structural parent) is not yet a real entity_id and would be rejected.
+    Enable only after those placeholders are backfilled.
+
+    - STATUS UPDATE (August 2026): Step 2 executed early and project-wide —
+    embryonic-lineage strings removed from parent_entity_id on ALL ~564
+    affected rows. Structural parents assigned so far: pharyngeal cells
+    (pm4/pm5/mc3 groups + their 9 member cells) -> PENDING-pharynx; int1DL ->
+    int-ring-1 (prior fix). All other cleared rows now have parent_entity_id
+    NULL/blank (real structural parent still to be assigned).
+  - CONSEQUENCE — lineage is now SINGLE-COPY: it previously sat in BOTH
+    parent_entity_id and the description; after the clear it survives ONLY in
+    the description field. Steps 1 (migrate to cell_lineage) and 3 (enable
+    self-FK) are still not done; cell_lineage is not built.
+  - NEW RISK / GUARDRAIL: the description is now the sole surviving copy of
+    every cell's lineage. The "Enhanced Cell Descriptions" enrichment pass
+    MUST NOT drop the lineage string when rewriting a description, OR the
+    cell_lineage build + migration must run BEFORE enrichment touches these
+    rows. Losing the description string before migration = permanent lineage
+    loss (no backup). Sequence cell_lineage migration ahead of WormFindr-row
+    enrichment.
+  - Self-FK: still deferred — no longer because of lineage strings (gone),
+    but because PENDING-pharynx (and any other PENDING placeholder used as a
+    structural parent) is not yet a real entity_id and would be rejected.
+    Enable only after those placeholders are backfilled.
+
+ - PhaFIG1 (Pharynx chapter, figure 1) catalogued August 2026: 2 `figures`
+  rows (panels A/B), 69 `figure_entities` rows. Primary entity = existing
+  PENDING-pharynx placeholder (reused, no new placeholder).
+- pm4/pm5/mc3 cell-group conversion COMPLETE (decisions.md — Pharyngeal
+  pm4/pm5/mc3; and Cell-Group Membership via part_of): pm4, pm5, mc3 retyped
+  cell -> cell-group; 9 member cells created (status=draft) with
+  parent_entity_id=PENDING-pharynx; 9 part_of relationship rows added
+  (rel-004..rel-012 — verify numbering didn't collide). STILL OWED on the 9
+  drafts before they leave draft/reach RAG-readiness: individual WBbt lookups
+  (wormbase_id + wormbase_url currently blank; never infer from siblings),
+  embryonic lineage into cell_lineage, and function/size_description/
+  common_questions/key_concepts enrichment.
+- The 3 cell-group rows pm4/pm5/mc3 need parent_entity_id=PENDING-pharynx set
+  (organ-level structural parent) if not already done during retype.
+- data_source/curator_name on the 9 drafts were set to "PhaFIG1 cataloguing
+  (Aug 2026)" / "[PhaFIG1 cataloguing - draft]" — align with the string the
+  IntFIG3-created cells used, for consistency.
+- Pre-existing cell-group gap (surfaced, not yet done): pm2, pm3, mc1, mc2
+  are stored only as member cells with NO cell-group parent. Each needs the
+  same treatment pm4/pm5/mc3 just got — a cell-group parent, member part_of
+  rows, and organ-level parent_entity_id. Not blocking.
+- int-ring structural migration (follow-on): int1DR etc. currently put the
+  cell-group in parent_entity_id (int-ring-1); per the Aug 2026 membership
+  decision, membership becomes part_of and parent_entity_id moves to the
+  organ (intestine — already an entity). Reconcile the int-ring-1 / int-ring-I
+  id-format issue (bugs.md 2026-07) in the same pass.
+- Lineage for the 9 pharyngeal member cells rides with the whole WormFindr
+  set under the "parent_entity_id holds lineage" gap above (see its August
+  2026 status update): parent_entity_id cleared, lineage now description-only,
+  cell_lineage migration owed, enrichment must preserve lineage.
+- pm2L-pmVL -> pm2L-pm2VL entity_id typo corrected in the live Entities tab.
+- Pharynx chapter enrichment: text says "4 gland cells" but there are 5
+  gland nuclei (g1AL, g1AR, g1P, g2L, g2R), all present as entities. Carry
+  the "5 gland cells" fix into the chapter prose.
+- Pharynx figure-ID abbreviation is PhaFIG (e.g. PhaFIG1), NOT PharFIG;
+  conventions.md's Figure ID example was corrected from "PharFIG2" to
+  "PhaFIG1" (Aug 2026).
+
+- pm6 and pm7 cell-group creation (PhaFIG2 cataloguing, Aug 2026): PhaFIG2
+  panel F labels the bare muscle class "pm6", which had no cell-group row —
+  the first bare-class pharyngeal-muscle callout (PhaFIG1 only ever labeled
+  the individual nuclei). pm6 and pm7 are the same pre-existing cell-group
+  gap as pm2/pm3/mc1/mc2, but were OMITTED from that earlier list; both are
+  multi-member classes (pm6D/pm6VL/pm6VR; pm7D/pm7VL/pm7VR) that under the
+  cell-group rule need a class parent. Actioned:
+  - 2 cell-group rows created (status=draft): pm6, pm7. entity_id = class
+    name; parent_entity_id = PENDING-pharynx; data_source "PhaFIG2
+    cataloguing (Aug 2026)".
+  - 6 part_of rows added (rel-013..rel-018): pm6D/pm6VL/pm6VR part_of pm6;
+    pm7D/pm7VL/pm7VR part_of pm7.
+  - Member cells needed NO change — they already carried
+    parent_entity_id=PENDING-pharynx and their own WBbt IDs (status review).
+  - STILL OWED before pm6/pm7 leave draft: class-level WBbt lookups in the
+    WormBase Ontology Browser (wormbase_id + wormbase_url currently blank;
+    never infer from members, NULL only if the class genuinely has none),
+    and function/common_questions/key_concepts enrichment.
+  - Pre-existing gap reminder: pm2, pm3, mc1, mc2 still need the same
+    treatment (cell-group parent + part_of rows); not blocking.
+
+- PhaFIG2 (Pharynx chapter, figure 2) catalogued Aug 2026: 7 figures rows
+  (panels A-G), 15 figure_entities rows. 6 new PENDING- placeholders
+  introduced (Type A structures, glossary anchors to confirm on backfill):
+  PENDING-pharyngeal-epithelium, PENDING-pharyngeal-intestinal-valve,
+  PENDING-buccal-cavity, PENDING-radial-channels, PENDING-sieve,
+  PENDING-grinder. Reused existing PENDING-pharynx. Running PENDING- set is
+  now: PENDING-uterus, PENDING-gut-granules, PENDING-pharynx, PENDING-rectum,
+  PENDING-adherensjunction, PENDING-vulva, PENDING-preanal-ganglion,
+  PENDING-lumen, PENDING-pharyngeal-epithelium,
+  PENDING-pharyngeal-intestinal-valve, PENDING-buccal-cavity,
+  PENDING-radial-channels, PENDING-sieve, PENDING-grinder. Stub count
+  unaffected (figure-surfaced placeholders, not glossary stubs). Note: the
+  ventral gland openings (labeled generically "Gl" in panel D) were NOT
+  mapped to specific gland cells (g1AL/g1AR/g1P/g2L/g2R all exist) — pending
+  Hall/Schroeder confirmation of which cells the two openings correspond to.
+
+- RectFIG2 (Rectum/Anus chapter) cataloguing status (2026-08-31): drafted
+  and pending review before import. 5 Figures-tab rows (panels A-main,
+  A-inset, B, C, D) + 19 figure_entities rows. Panel A split into A-main /
+  A-inset (the inset is a magnified view of the valve). Strain: only strain
+  SOURCES given (people), no genotype — strain = "PENDING — strain not yet
+  confirmed", source in image_source as "[Wang/Chen strain source]
+  wormatlas.org" (A/B) and "[Land/Rubin strain source] wormatlas.org" (C/D).
+
+- PENDING-anus (new Type A placeholder, surfaced by RectFIG2): anus is labeled
+  in the figure (panel A "Anus" arrowhead; panel B arrowhead) but has no
+  Entities-tab row and no glossary anchor. Figure-row value only. Distinct
+  from the cells "mu anal" / "mu sph" (anal muscles, not the opening). Running
+  PENDING- set is now: PENDING-uterus, PENDING-gut-granules, PENDING-pharynx,
+  PENDING-rectum, PENDING-adherensjunction, PENDING-vulva, PENDING-anus.
+
+- Two new anatomical-grouping cell-groups owed (surfaced by RectFIG2; entity
+  rows NOT yet created — figure rows reference them as Type B):
+  - intestinal-rectal-valve — members virL + virR (Dave Hall: "collectively,
+    as a cell group, they make up the intestinal rectal valve"). Synonym: vir.
+    entity_id is the descriptive, hyphenated, no-space form matching
+    int-ring-1 (not the "vir" class-name form, not a glossary slug).
+  - rectal-gland — members rect_D + rect_VL + rect_VR ("a group of cells that
+    make up the rectal gland structure"). Same entity_id format.
+  - Each group needs its own class-level WBbt, looked up individually; NULL if
+    none.
+  - Containment (decisions.md -> Aug 2026 model, affirmed 2026-08-31,
+    Option A): members are part_of their group AND parent_entity_id =
+    alimentary-system; each group's parent_entity_id = alimentary-system.
+    part_of = membership, parent_entity_id = structural parent — non-redundant,
+    not mirrored.
+
+- alimentary-system entity row owed (approved 2026-08-31): created so it is a
+  real structural parent, resolving the dangling intestine -> alimentary-system
+  reference and serving the new valve/gland groups. WBbt looked up
+  individually; NULL if none. See bugs.md (2026-08 parent_entity_id integrity).
+
+- Containment model — SETTLED (2026-08-31, Option A): the Aug 2026 decision
+  (part_of = membership; parent_entity_id = single structural parent;
+  non-redundant) is affirmed, not superseded. The int-ring consistency
+  migration it owed is scheduled and tracked in bugs.md. See decisions.md ->
+  "Aug 2026 Containment Model Affirmed; int-ring Migration, alimentary-system
+  Entity, and Valve/Gland Cell-Groups".
+
+- virL description lineage typo: "Abprpappppp" -> "ABprpappppp" (matches virR
+  "ABprpappppa"; sister cells from ABprpapppp). To be applied on next
+  Entities-tab edit.
+
+- IntroFIG1 (Introduction chapter, "Anatomy of an adult hermaphrodite")
+  cataloguing (September 2026): 9 figure_entities rows across 2 panels
+  (A: DIC whole animal; B: schematic). Surfaced the following gaps.
+  - c-elegans organism entity row OWED (Type B — id known and certain, row
+    simply missing; NOT a PENDING- placeholder). This is the FIRST
+    `organism`-type record (the type was previously zero-record). Create per
+    decisions.md → Organism Entities — Species-Level Modeling and entity_id
+    Construction: entity_id `c-elegans`, entity_name "Caenorhabditis elegans",
+    common_name "C. elegans", entity_type `organism`, parent_entity_id NULL,
+    species `c-elegans`, taxon_id `NCBITaxon:6239`, developmental_stage `all`,
+    sex `both`, status `draft`. wormbase_id: Ontology Browser lookup owed;
+    NULL if no organism-level term exists — do not invent. Referenced as the
+    primary entity on IntroFIG1 panels A and B; the interim placeholder
+    PENDING-celegans-adult-hermaphrodite is now RESOLVED to `c-elegans` and is
+    therefore NOT added to the PENDING- set. The animal's adult/hermaphrodite
+    specificity is carried on the figure rows (specimen_stage=adult,
+    specimen_sex=hermaphrodite), not in the entity.
+  - Three new Type A PENDING- placeholders (figure-row values only, glossary
+    anchors to confirm on backfill): PENDING-embryo (the two ovoid eggs in
+    panel A, present in the image but omitted from the official legend),
+    PENDING-proximal-gonad, PENDING-distal-gonad. Note: the existing `Gonad`
+    record (entity_type=cell, WBbt:0005785) is correctly a separate thing and
+    is NOT a match for these adult gonad regions — confirmed with Chris Crocker.
+  - Reused existing placeholders (no new gap): PENDING-pharynx, PENDING-uterus,
+    PENDING-anus. Real entity reused: intestine.
+  - Running PENDING- set RECONCILED (the PhaFIG2 note and the later RectFIG2
+    note had drifted — RectFIG2's list silently dropped the six PhaFIG2
+    pharyngeal placeholders, PENDING-preanal-ganglion, and PENDING-lumen).
+    Correct union as of IntroFIG1: PENDING-uterus, PENDING-gut-granules,
+    PENDING-pharynx, PENDING-rectum, PENDING-adherensjunction, PENDING-vulva,
+    PENDING-preanal-ganglion, PENDING-lumen, PENDING-pharyngeal-epithelium,
+    PENDING-pharyngeal-intestinal-valve, PENDING-buccal-cavity,
+    PENDING-radial-channels, PENDING-sieve, PENDING-grinder, PENDING-anus,
+    PENDING-embryo, PENDING-proximal-gonad, PENDING-distal-gonad. Stub count
+    unaffected (figure-surfaced placeholders, not glossary stubs).
+
 
 ## Enhanced Cell Descriptions — Status (as of March 2026)
 - 70 nervous system cells have completed enhanced descriptions

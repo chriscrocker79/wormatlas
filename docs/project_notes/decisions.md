@@ -291,6 +291,390 @@ Status key:
   for use when cell group entities are entered
 - Logged: [May 2026]
 
+### Decision: Neuron and Multi-Member Cell Classes Are cell-group Entities — DECIDED
+
+- **Status:** DECIDED — the core rule (cell classes are `cell-group`) is
+  signed off by David Hall and Chris Crocker. The entity_id refinement and
+  the membership-link mechanism below are drafted for Chris to confirm on
+  sign-off.
+- **Date drafted:** July 2026
+- **Date decided:** July 2026
+- **Relates to:** cell-group Added as Entity Type; Extended Entity Type ENUM;
+  Unified Entities Table; WormBase IDs Are the Canonical Identifier;
+  entity_id Construction for Non-Cell Entities — Glossary Anchor Slug;
+  cell_lineage Table; Glossary Entity Backfill Runs in Parallel with Figure
+  Cataloguing
+
+#### Context
+Glossary classification surfaced that the entities tab stores cells at the
+individual level: ADAL and ADAR are two separate `cell` rows, each with its
+own WBbt ID (WBbt:0004013, WBbt:0004011), and there is no "ADA" record. A
+neuron class name like ADA therefore denotes a *grouping* of cells, not a
+single cell. Marking such a class `cell` is factually wrong (no single ADA
+cell exists); the open question was whether the class should be its own
+entity or merely a label on its members.
+
+The current data shows why the class needs its own record: class-level
+description text has been duplicated onto member cells, producing errors —
+ADAR's imported description reads "located to the left of the terminal
+bulb" (copied from ADAL, laterality never corrected), and ASEL/ASER carry
+byte-identical descriptions that erase the very asymmetry that
+distinguishes them. A single class record is the single-source-of-truth
+fix, consistent with the figures ai_summary decision's refusal to
+copy-paste shared content across sibling rows.
+
+#### Decision
+1. A multi-member cell class is modeled as a `cell-group` entity. This
+   covers bilateral pairs (ADA = ADAL/ADAR) and numbered series (AS =
+   AS1–AS11). Nomenclatural classes are housed under `cell-group` alongside
+   anatomical groupings (e.g. intestinal ring I) — David Hall confirmed
+   this shared type is acceptable.
+2. Scope — multi-member only. A singleton neuron whose class name denotes
+   exactly one cell (AVG, DVA, RIS, ALA) stays `cell`. Individual member
+   cells (ADAL, ADAR, AS1) stay `cell`. Only names covering 2+ cells become
+   `cell-group`. The rule generalises beyond neurons to any multi-member
+   named cell class.
+3. entity_id for a cell-class `cell-group` is the CLASS NAME, case
+   preserved (ADA, ASE, AS) — matching the cell naming convention, NOT the
+   glossary anchor slug.
+4. Each class carries its own class-level WBbt ID, looked up in the
+   WormBase Ontology Browser (ADA = WBbt:0006811, distinct from its
+   members). Never derived from member IDs, never taken from the glossary
+   (glossary rows link only member IDs — verified), never invented. If a
+   class genuinely has no WBbt, wormbase_id may be NULL, but look first.
+5. The shared class-level description lives on the class record (written
+   once). Member cell records carry only genuinely lateralised or
+   individual content (e.g. the ASEL/ASER asymmetry). This retires the
+   duplication described above.
+
+#### Conflict declared — entity_id convention
+This refines "entity_id Construction for Non-Cell Entities — Glossary
+Anchor Slug." That decision assigns non-cell entities the glossary anchor
+slug; applied literally it would make ADA's entity_id `adacell`. That is
+overridden here for cell-class cell-groups: they use the class name (ADA),
+so the class and its members (ADAL, ADAR) share one obvious naming family
+and the membership join is legible. The anchor-slug rule still governs
+non-cell structural/process/tissue entities. Anatomical groupings that are
+not cell classes (intestinal ring I) keep their existing identifier
+approach (e.g. int-ring-1) and are unaffected.
+
+#### Recommended implementation — confirm before building
+Model class membership as a `part_of` relationship in the relationships
+table (ADAL part_of ADA), leaving `parent_entity_id` free for structural
+hierarchy, since a cell has only one parent_entity_id slot. Flagged rather
+than finalised because it wasn't separately signed off.
+
+#### Worked example (gold standard for class records)
+entity_id `ADA`, entity_type `cell-group`, wormbase_id `WBbt:0006811`,
+members ADAL and ADAR linked via `part_of`.
+
+#### Downstream RAG impact
+Researchers query by class name (ADA, ASE) far more than by individual cell
+(ADAL). A class record gives those queries a real target and one home for
+class-level content, instead of duplicating it across members (drift risk,
+already realised as the ADAR laterality error). This is the same
+single-source-of-truth principle applied to figure panels.
+
+#### Supersedes interim guidance
+Replaces the temporary "flag neuron-class rows as ambiguous" instruction.
+The classification guide, the editor materials, and the earlier A-page
+change-list must be updated: class rows are `cell-group` with a class-name
+entity_id and a looked-up class WBbt — not `cell`, and no longer "ambiguous".
+
+- **Logged by:** Claude (drafted) — cell-group housing signed off by David
+  Hall and Chris Crocker, July 2026; entity_id and membership specifics
+  pending Chris's confirmation.
+
+### Decision: Founder/Blast Cells Are `cell`, Not `cell-group` — DECIDED
+
+- **Status:** DECIDED — signed off by Chris Crocker (the
+  signatories of the parent cell-group decision). This entry CLARIFIES the
+  Scope of an existing DECIDED entry; it refines that decision and does not
+  conflict with it.
+- **Date drafted:** August 2026
+- **Date decided:** August 2026
+- **Clarifies:** Neuron and Multi-Member Cell Classes Are cell-group Entities
+  — DECIDED (its "Scope — multi-member only" clause); cell-group Added as
+  Entity Type — DECIDED
+- **Relates to:** cell_lineage Table — DECIDED; Unified Entities Table;
+  entity_id Construction for Non-Cell Entities — Glossary Anchor Slug;
+  WormBase IDs Are the Canonical Identifier
+
+#### Context
+AlimFIG1 (alimentary overview) cataloguing surfaced the embryonic
+founder/blast cells E, MS, AB, EMS, ABa, and ABp in its lineage panels
+(B and C). None exist in the Entities tab. Each name carries two meanings
+— a single blastomere that exists at one moment, and the clone of all its
+descendants ("the E lineage") — which made the entity_type ambiguous:
+`cell`, `cell-group`, or some lineage construct.
+
+#### Decision
+Founder/blast cells are `cell` entities — individual cells, not
+`cell-group`. This covers E, MS, AB, EMS, ABa, ABp and the other early
+blastomeres (e.g. P0, P1, C, D; Z2/Z3 are already logged as Type B gaps in
+key_facts.md) as they are encountered.
+- entity_id is the founder-cell name exactly as written, case preserved
+  (E, MS, AB, EMS, ABa, ABp) — the cell naming convention, NOT the glossary
+  anchor slug used for non-cell entities.
+- These are Type B gaps (known name, missing row): use the real entity_id
+  directly, never a PENDING- placeholder. Each needs a row plus a
+  cell-level WBbt lookup in the WormBase Ontology Browser (never invented;
+  wormbase_id NULL if genuinely none exists).
+
+#### Why founder cells are NOT cell-group
+The cell-group decision covers names where multiple cells coexist under one
+label and no single cell of that name exists (ADA = ADAL/ADAR; AS =
+AS1–AS11). Founder cells are the opposite case:
+- There genuinely IS a single cell named E (the blastomere).
+- Its descendants are not named "E-anything" — they are int1DL, int1DR,
+  etc., which already exist as their own `cell` records. "E" does not group
+  a set of member rows the way "ADA" groups {ADAL, ADAR}.
+- On the cell-group decision's own Scope line, a singleton whose name
+  denotes exactly one cell stays `cell`. Founder cells are singletons.
+Modeling them as cell-group would also force a second grouping hierarchy
+(all intestinal cells as "members" of E) cross-cutting the anatomical one
+(those same cells part_of intestine), conflating developmental descent with
+structural containment — two things researchers query separately.
+
+#### Where the lineage meaning lives
+The generative/lineage role is captured as relationships, not as entity
+type:
+- Developmental derivation → the cell_lineage table (DECIDED): EMS→MS,
+  EMS→E, AB→ABa, AB→ABp, E→intestinal cells go in
+  cell_lineage.parent_cell_id / division_stage / fate.
+- The develops_from relationship vocabulary carries the same information at
+  the relationship level.
+- There is NO `lineage` entity type and none is added — a lineage is a set
+  of relationships among cell entities, not an entity.
+
+#### Modeling note (apply when the rows are created)
+- Put developmental parentage in cell_lineage.parent_cell_id (EMS is the
+  parent of E and MS; AB is the parent of ABa and ABp).
+- Leave anatomical_entities.parent_entity_id NULL for founder cells — they
+  have no structural parent. This keeps developmental parentage
+  (cell_lineage) and structural parentage (parent_entity_id) separate.
+
+#### Downstream RAG impact
+Founder-cell queries ("What does EMS develop into?", "What is the precursor
+of int1DL?") are listed target query types (key_facts.md). Classifying
+founders as `cell` and routing their derivation through cell_lineage makes
+those answerable without inventing a lineage entity type. key_facts.md
+already frames EMS as a cell in its common_questions worked example, so this
+keeps the docs consistent.
+
+#### Application to AlimFIG1 — pending Nate
+The general rule above is DECIDED and stands on the biology. Its application
+to AlimFIG1 specifically still awaits Nate Schroeder's confirmation
+(classification email, Q1) that the figure's E/AB/MS/etc. labels point at
+the founder cells rather than the lineages-as-groups. Expected to confirm;
+the rule is settled regardless of that one figure.
+
+- **Logged by:** Claude (drafted) — signed off by Chris
+  Crocker, August 2026.
+
+### Decision: Pharyngeal pm4, pm5, and mc3 Modeled as cell-group Parents Over Member Cells — DECIDED
+
+- **Status:** DECIDED — resolution approved during PhaFIG1 cataloguing
+  review, August 2026, as a direct application of the binding "Neuron and
+  Multi-Member Cell Classes Are cell-group Entities" rule.
+  [Confirm signatory attribution — Chris Crocker, per that decision's
+  signatories.]
+- **Date drafted:** August 2026
+- **Date decided:** August 2026
+- **Clarifies / applies:** Neuron and Multi-Member Cell Classes Are
+  cell-group Entities — DECIDED (points 1–4 and the "Scope — multi-member
+  only" clause); cell-group Added as Entity Type — DECIDED
+- **Relates to:** Founder/Blast Cells Are `cell`, Not `cell-group`;
+  WormBase IDs Are the Canonical Identifier; cell_lineage Table; Figure
+  Cataloguing Begins Immediately; anatomical_entities Table Schema
+  (figure_entities FK deferral)
+
+#### Context
+PhaFIG1 (Pharynx chapter, figure 1) cataloguing surfaced that pharyngeal
+muscles pm4 and pm5 and marginal cell mc3 were each stored as a single
+multinucleate `cell` row, while the figure labels their individual nuclei —
+nuclei that had no matching entity_id. pm2, pm3, pm6, pm7, mc1, and mc2 are
+already stored as their individual cells, so the single-row pm4/pm5/mc3
+modeling was internally inconsistent and left pharyngeal muscle at 16
+entities against the canonical 20-cell count (and marginal cells short of 9).
+
+#### Decision
+pm4, pm5, and mc3 are each multi-member cell classes (2+ cells). Per the
+binding cell-group rule they are modeled as `cell-group` entities — NOT
+retired, and NOT left as single `cell` rows:
+- The existing `pm4`, `pm5`, `mc3` rows are RETYPED `cell` -> `cell-group`.
+  entity_id is unchanged (the class name, case preserved: pm4, pm5, mc3),
+  per the cell-group decision's entity_id rule.
+- Each cell-group carries its own class-level WBbt ID, looked up
+  individually in the WormBase Ontology Browser — never derived from
+  members, never invented; wormbase_id NULL only if the class genuinely has
+  none. The class-level description lives on the class record.
+- The member cells are `cell` entities (Type B gaps to create), grouped on
+  the established pm3 threefold-symmetry pattern (one dorsal binucleate cell
+  + two subventral binucleate cells for muscle; three mononucleate cells for
+  marginal, per mc1/mc2):
+  - pm4 -> pm4DL-pm4DR, pm4L-pm4VL, pm4R-pm4VR
+  - pm5 -> pm5DL-pm5DR, pm5L-pm5VL, pm5R-pm5VR
+  - mc3 -> mc3DL, mc3DR, mc3V
+  Each member needs a cell-level WBbt lookup (never inferred from a sibling;
+  NULL if none), mirroring its existing siblings (pm3DL-pm3DR for the
+  pm4/pm5 cells; mc2DL/mc2DR/mc2V for the mc3 cells) for species, taxon_id,
+  and sex.
+
+#### Membership mechanism — confirm before building
+Class membership (pm4DL-pm4DR part_of pm4, etc.) uses the SAME mechanism the
+cell-group decision recommended for ADA/ADAR — a `part_of` relationship in
+the relationships table, leaving parent_entity_id free — and inherits that
+decision's not-yet-finalised status (pending Chris's confirmation). One open
+point specific to pharyngeal groups: the intestinal-ring anatomical
+groupings (int-ring-1..9) instead use parent_entity_id (int1DR
+parent_entity_id=int-ring-1). Confirm whether pharyngeal muscle/marginal
+classes follow the ADA `part_of` mechanism or the int-ring parent_entity_id
+mechanism before the member rows are wired up.
+
+#### Pre-existing gap surfaced (log; do not necessarily fix now)
+pm2, pm3, mc1, and mc2 are already stored only as their member cells with NO
+cell-group parent record — the same pre-conversion state the cell-group
+decision describes for ADA/ADAR. For consistency each needs a `cell-group`
+parent (pm2, pm3, mc1, mc2) created with a class-level WBbt. Tracked in
+key_facts.md -> Known Data Gaps; not blocking PhaFIG1.
+
+#### Downstream RAG impact (net positive)
+A query for an individual nucleus (pm4DL, mc3DR) now resolves to a specific
+member cell; a query for the class (pm4, mc3) resolves to the cell-group
+record — the same real-target benefit the cell-group decision cites, and the
+same removal of copy-pasted class content. PhaFIG1 figure_entities rows
+reference the member cells before those rows are enriched, so the deferred FK
+on figure_entities.entity_id stays deferred until backfill (existing rule).
+
+#### Figure rows unaffected
+PhaFIG1's figure_entities rows reference the member cells only (the figure
+labels individual nuclei; there is no bare "pm4" callout pointing at the
+parent), so the PhaFIG1 draft is unchanged by this decision.
+
+#### Naming note settled in the same review
+The Pharynx figure-ID abbreviation is `Pha` (PhaFIG1), not `Phar`;
+conventions.md's Figure ID example was corrected from "PharFIG2" to
+"PhaFIG1" to match.
+
+- **Logged by:** Claude (drafted) — resolution (A) approved during PhaFIG1
+  review, August 2026; signatory attribution to confirm.
+
+
+### Decision: Cell-Group Membership via part_of; parent_entity_id Reserved for Single Structural Parent — DECIDED
+
+- **Status:** DECIDED — resolves the membership-mechanism question parked
+  for Chris Crocker in the cell-group and pm4/pm5/mc3 decisions. Approved in
+  the PhaFIG1 working session, August 2026. [Confirm signatory attribution.]
+- **Date drafted / decided:** August 2026
+- **Resolves / clarifies:** Neuron and Multi-Member Cell Classes Are
+  cell-group Entities (its "Membership mechanism — confirm before building");
+  Pharyngeal pm4, pm5, and mc3 Modeled as cell-group Parents Over Member
+  Cells (its "Membership mechanism — confirm before building")
+- **Relates to:** Founder/Blast Cells Are `cell`, Not `cell-group`;
+  cell_lineage Table; anatomical_entities Table Schema; entity_id
+  Construction for Non-Cell Entities — Glossary Anchor Slug
+
+#### Decision
+Two different "parent" notions are modeled in two different places, never
+conflated:
+1. Class / group membership (a cell belongs to a multi-member cell-group)
+   is a `part_of` relationship row in the Relationships tab
+   (e.g. pm4DL-pm4DR part_of pm4). This matches the cell-group decision's
+   ADA example (ADAL part_of ADA).
+2. Structural containment (the single larger anatomical structure that
+   physically contains the entity) is the `parent_entity_id` field. Its
+   value MUST be a real entity_id that exists as its own row (or a PENDING-
+   placeholder for one not yet created) — pointing up the anatomical
+   hierarchy. A cell has exactly one parent_entity_id slot.
+3. Developmental origin (which cell it divided from) is NEVER in
+   parent_entity_id — it lives in the cell_lineage table (parent_cell_id),
+   per the founder-cell decision. Lineage strings in parent_entity_id are a
+   data error (see bugs.md, Aug 2026).
+
+#### Applied to the pharyngeal cell-groups
+- The 9 pm4/pm5/mc3 member cells: `part_of` {pm4 | pm5 | mc3}, and
+  `parent_entity_id = PENDING-pharynx`.
+- The 3 cell-groups pm4, pm5, mc3: `parent_entity_id = PENDING-pharynx`.
+- PENDING-pharynx (not "pharynx") is used because the pharynx organ has no
+  confirmed entity_id yet (key_facts.md); the value cascades to the real id
+  on backfill. parent_entity_id sits at organ level because pharyngeal
+  regions (metacorpus, isthmus, terminal bulb) are not entities; if region
+  entities are ever created, the structural parent may become more granular
+  while the part_of class link is unchanged.
+
+#### Consistency migration required (int-ring)
+The intestinal rings currently express structure the opposite way:
+int1DR.parent_entity_id = int-ring-1 (a cell-group in the structural slot).
+To match this decision, int-ring membership becomes part_of (rel-001 already
+records int1DL part_of int-ring-I) and the member cells' parent_entity_id
+moves to the organ (intestine, which already exists as an entity). The
+int-ring-1 vs int-ring-I id-format issue (bugs.md, 2026-07) should be
+reconciled in the same pass. Tracked as a follow-on; not blocking PhaFIG1.
+
+#### Downstream RAG impact
+Structure and membership become separately queryable and non-redundant:
+"what is pm4DL part of" (class) and "what contains pm4DL" (structure) return
+different, correct answers instead of one overloaded field. Removes the
+double-modeling that produced the lineage-in-parent_entity_id errors.
+
+- **Logged by:** Claude (drafted) — approved August 2026; signatory
+  attribution to confirm.
+
+### Decision: Aug 2026 Containment Model Affirmed; int-ring Migration, alimentary-system Entity, and Valve/Gland Cell-Groups — DECIDED
+
+- **Status:** DECIDED — affirms and does not revise "Cell-Group Membership
+  via part_of; parent_entity_id Reserved for Single Structural Parent"
+  (Aug 2026). Option A chosen by Chris Crocker, 2026-08-31, after a
+  parent_entity_id-authoritative + part_of-mirror alternative (Option B) was
+  considered and rejected for collapsing the group-vs-structure distinction
+  and reintroducing field redundancy.
+- **Date decided:** 2026-08-31
+- **Relates to:** Cell-Group Membership via part_of; parent_entity_id
+  Reserved for Single Structural Parent; Neuron and Multi-Member Cell Classes
+  Are cell-group Entities; Pharyngeal pm4, pm5, mc3; entity_id Construction
+  for Non-Cell Entities — Glossary Anchor Slug; bugs.md (2026-08 containment
+  entries)
+
+#### Decision
+1. The Aug 2026 containment model stands unchanged: `part_of` (Relationships
+   tab) = class/group membership; `parent_entity_id` = the single structural
+   parent (organ level); the two are deliberately non-redundant. `part_of`
+   does NOT mirror `parent_entity_id`.
+2. **int-ring consistency migration is scheduled** (the follow-on the Aug
+   2026 decision already flagged). Member cells' `parent_entity_id` → the
+   organ (`intestine`); membership → `part_of` the group (`int-ring-1`); the
+   stale `int-ring-I` Roman-numeral targets are repointed to `int-ring-1`.
+   Tracked in bugs.md (2026-08 containment + int-ring entries).
+3. **`alimentary-system` is created as an entity row** so it is a real
+   structural parent (resolves the existing dangling `intestine ->
+   alimentary-system` ref, and serves the new valve/gland groups). WBbt to be
+   looked up individually; NULL if the system class has none.
+4. **Two new anatomical-grouping cell-groups**, modeled per (1):
+   - `intestinal-rectal-valve` (members `virL`, `virR`): each member
+     `part_of intestinal-rectal-valve`, `parent_entity_id = alimentary-system`;
+     the group `parent_entity_id = alimentary-system`. Synonym: `vir`.
+   - `rectal-gland` (members `rect_D`, `rect_VL`, `rect_VR`): each member
+     `part_of rectal-gland`, `parent_entity_id = alimentary-system`; the group
+     `parent_entity_id = alimentary-system`.
+   Each group carries its own class-level WBbt, looked up individually (never
+   inferred from members; NULL if none). Dave Hall confirmed the valve is a
+   cell group of virL + virR and is part of the alimentary system.
+5. **entity_id format:** these anatomical-grouping cell-groups use the
+   descriptive, hyphenated, no-space form matching `int-ring-1`
+   (`intestinal-rectal-valve`, `rectal-gland`) — not the nomenclatural
+   class-name form of decision 294(3) (which governs cell-class groups like
+   ADA/ASE), and not the glossary anchor slug. The nomenclatural stem `vir`
+   is held as a synonym, not the id.
+
+#### Downstream RAG impact
+Preserves the two-edge model: "what is virL part of" (intestinal-rectal-valve)
+and "what contains virL" (alimentary-system) remain separately answerable.
+Creating alimentary-system removes a dangling structural parent that would
+otherwise break upward hierarchy traversal from intestine and the new groups.
+
+- **Logged by:** Claude (drafted 2026-08-31); pending Chris Crocker sign-off.
+
 ### Decision: Entity Type Naming Uses Hyphens — DECIDED
 - The `entity_type` ENUM in the database uses hyphens, not underscores
 - Correct spelling: `cell-group` not `cell_group`
@@ -880,7 +1264,8 @@ CREATE TABLE anatomical_entities (
     key_concepts TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-    FOREIGN KEY (parent_entity_id) REFERENCES anatomical_entities(entity_id),
+        -- DEFERRED — DO NOT ENABLE: see key_facts.md → Known Data Gaps (parent_entity_id holds lineage). ~564 WormFindr rows must be corrected first, or this FK rejects them all. Enable via ALTER TABLE after cleanup.
+    -- FOREIGN KEY (parent_entity_id) REFERENCES anatomical_entities(entity_id),
     INDEX idx_entity_id (entity_id),
     INDEX idx_entity_type (entity_type),
     INDEX idx_parent_entity_id (parent_entity_id)
@@ -909,6 +1294,15 @@ CREATE TABLE anatomical_entities (
   Figures Base Table, Join Tables, and Content Pages Table decision.
   `figure_entities.entity_id` can now reference this table's `entity_id`
   column with a proper FOREIGN KEY, rather than an unconfirmed assumption.
+
+#### Correction — August 2026 (parent_entity_id FK disabled)
+- The parent_entity_id self-FK is commented out in the CREATE TABLE and must
+  be added later via ALTER TABLE, not at creation. Reason: ~564 existing rows
+  carry embryonic lineage paths (not entity_ids) in parent_entity_id and would
+  all be rejected. Same class of deferral as the figure_entities FK. See
+  key_facts.md → Known Data Gaps (parent_entity_id holds lineage) for the full
+  record and the remediation sequence.
+- Caught during the int1DL duplicate fix, August 2026.
 
 ---
 
@@ -1063,7 +1457,93 @@ entity_mentions, and cell_lineage all point at stable values from day
 one. A convention chosen after hundreds of records exist would require
 rewriting every join.
 
+#### Documentation note — July 2026 (GLOSSARY.md reconciled)
+GLOSSARY.md was cross-checked against the glossary-backfill work and
+updated so the terminology file stays current:
+- Added Technical Terms entries for "glossary anchor (anchor slug)",
+  "entity_id", and "stub (stub record)", plus the "PENDING-" placeholder
+  convention.
+- Added a note distinguishing GLOSSARY.md (this project's internal
+  terminology file) from the wormatlas.org public glossary (the backfill
+  source), since both are informally called "the glossary".
+- Verified already-consistent, no change needed: the developmental_stage
+  value list (embryo / L1–L4 / dauer / adult / all) and the Entity Types
+  table already match the Extended Entity Type ENUM.
+Relates to: Stub Entity Records Permitted for Glossary Backfill; Glossary
+Entity Backfill Runs in Parallel with Figure Cataloguing.
+
 - **Logged by:** Claude (drafted) — signed off by Chris Crocker, July 2026.
+
+### Decision: Organism Entities — Species-Level Modeling and entity_id Construction — DECIDED
+
+- **Status:** DECIDED — signed off by Chris Crocker; David Hall's scientific
+  concurrence on the species-level model obtained.
+- **Date drafted:** September 2026
+- **Date decided:** September 2026
+- **Relates to:** Standardized Figure Metadata Structure; Species and Taxonomy
+  Use NCBI Taxon IDs; entity_id Construction for Non-Cell Entities — Glossary
+  Anchor Slug; anatomical_entities Table Schema; cell-group Added as Entity
+  Type; Figure Cataloguing Begins Immediately
+
+#### Context
+Cataloguing IntroFIG1 (Introduction chapter, "Anatomy of an adult
+hermaphrodite") surfaced the first figure whose subject is the whole animal
+rather than a specific organ. No organism entity existed in the tab, and
+entity_id construction for organism-type entities was undefined by any prior
+rule (cells use the cell name; glossary-backfilled non-cell entities use the
+glossary anchor slug; cell-group classes use the class name; figure-surfaced
+Type A structures use PENDING-). An interim placeholder
+(PENDING-celegans-adult-hermaphrodite) was used to avoid blocking cataloguing.
+
+#### Decision
+1. A whole-animal subject is modeled as a single **species-level `organism`
+   entity** — one record per species. `organism` is an already-permitted
+   entity_type ENUM value that previously had zero records; this is the first.
+2. Stage and sex are **not** encoded in the entity or its id. They live in the
+   record's `developmental_stage` / `sex` columns (`all` / `both` for a
+   species-level record) and, for any given figure, on that figure row's
+   `specimen_stage` / `specimen_sex` fields.
+3. **entity_id for an `organism` entity = the project's established species
+   slug** — the exact value already used in the `species` column and the
+   `data-species` attribute: `c-elegans`, `p-pacificus`, `s-stercoralis`.
+   `taxon_id` (NCBITaxon:...) remains the canonical machine identifier.
+4. First record to create (see key_facts.md → Known Data Gaps):
+   entity_id `c-elegans`, entity_name "Caenorhabditis elegans", common_name
+   "C. elegans", entity_type `organism`, parent_entity_id NULL,
+   species `c-elegans`, taxon_id `NCBITaxon:6239`, developmental_stage `all`,
+   sex `both`, status `draft`. wormbase_id looked up in the Ontology Browser;
+   NULL if no organism-level term exists — never invented.
+
+#### Rationale
+- **Consistency.** The organism entity's `entity_id` equals its own `species`
+  column value — the record literally is the species. No third species spelling
+  enters the system (a full binomial like `caenorhabditis-elegans` would
+  mismatch the `species` column, which already holds `c-elegans` on 608 rows).
+- **Free alignment with `data-species`.** Because `entity_id` == the
+  `data-species` slug, a content page's `data-species="c-elegans"` links to the
+  organism entity with zero translation — a direct RAG/join benefit that gives
+  Introduction overview figures a stable whole-animal retrieval anchor.
+- **Deterministic and multi-species-ready.** The slug format is already defined
+  project-wide (`c-elegans/p-pacificus/etc`); new species follow mechanically.
+- **Global uniqueness holds.** No existing entity_id equals a species slug
+  (cells are mixed-case like int1DL; groups are hyphenated like int-ring-1).
+
+#### Collision note
+The slug abbreviates the genus to one letter (`c-` = *Caenorhabditis*), which
+carries a low, theoretical cross-genus collision risk in a large multi-species
+future (another `C.`-genus species sharing the same epithet). The project
+already accepted this abbreviation for the `species` column, so organism ids
+inherit that policy — no new risk is introduced. Any real collision is resolved
+at the species-slug level (in the `species` column and here together), not by
+special-casing organism ids.
+
+#### Downstream RAG impact
+entity_id is the permanent key every retrieval join lands on. Fixing the
+organism rule before the first organism record is created means figure_entities
+(and later entity_mentions) point at a stable value from day one.
+
+- **Logged by:** Claude (drafted) — signed off by Chris Crocker (David Hall
+  concurring on the species-level model), September 2026.
 
 ### Decision: Species and Taxonomy Use NCBI Taxon IDs — DECIDED
 - C. elegans: NCBITaxon:6239
