@@ -3,3 +3,12 @@ relationship_id,entity_from,relationship_type,entity_to,confidence,evidence_sour
 rel-001,int1DL,part_of,int-ring-I,1.0,WormAtlas Intestine page,One of four cells
 rel-002,int-ring-I,part_of,intestine,1.0,WormAtlas Intestine page,Anteriormost ring
 rel-003,intestine,adjacent_to,gonad,1.0,IntFIG1,Runs parallel along body
+rel-004,pm4DL-pm4DR,part_of,pm4,1,PhaFIG1,"Member cell of the pm4 cell-group (pm4/pm5/mc3 cell-group split, Aug 2026)"
+rel-005,pm4L-pm4VL,part_of,pm4,1,PhaFIG1,"Member cell of the pm4 cell-group (pm4/pm5/mc3 cell-group split, Aug 2026)"
+rel-006,pm4R-pm4VR,part_of,pm4,1,PhaFIG1,"Member cell of the pm4 cell-group (pm4/pm5/mc3 cell-group split, Aug 2026)"
+rel-007,pm5DL-pm5DR,part_of,pm5,1,PhaFIG1,"Member cell of the pm5 cell-group (pm4/pm5/mc3 cell-group split, Aug 2026)"
+rel-008,pm5L-pm5VL,part_of,pm5,1,PhaFIG1,"Member cell of the pm5 cell-group (pm4/pm5/mc3 cell-group split, Aug 2026)"
+rel-009,pm5R-pm5VR,part_of,pm5,1,PhaFIG1,"Member cell of the pm5 cell-group (pm4/pm5/mc3 cell-group split, Aug 2026)"
+rel-010,mc3DL,part_of,mc3,1,PhaFIG1,"Member cell of the mc3 cell-group (pm4/pm5/mc3 cell-group split, Aug 2026)"
+rel-011,mc3DR,part_of,mc3,1,PhaFIG1,"Member cell of the mc3 cell-group (pm4/pm5/mc3 cell-group split, Aug 2026)"
+rel-012,mc3V,part_of,mc3,1,PhaFIG1,"Member cell of the mc3 cell-group (pm4/pm5/mc3 cell-group split, Aug 2026)"

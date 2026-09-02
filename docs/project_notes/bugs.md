@@ -95,3 +95,198 @@ to Claude Project Knowledge.
   no application code.
 
 - **Logged by:** Chris Crocker
+
+### 2026-07 — int-ring-1 mislabeled as "int-ring-I" (Roman numeral)
+
+- **Symptom:** key_facts.md's Known Data Gaps section referenced a
+  missing entity as "int-ring-I," using a capital Roman numeral I.
+
+- **Cause:** Confusion between two separate labeling conventions used
+  for intestinal rings. The eight posterior rings are genuinely
+  labeled with Roman numerals (II–IX). The anteriormost ring is a
+  structural exception — a four-cell ring, distinct from the others —
+  and its actual name uses an Arabic numeral: "Int ring 1," not
+  "int ring I." The Roman-numeral form was mistakenly applied to this
+  ring as well.
+
+- **Solution:** Corrected entity_id to int-ring-1 (all lowercase,
+  hyphenated, matching the style of other entity_ids such as
+  int1DL). key_facts.md's Known Data Gaps entry updated accordingly.
+  No entity record had yet been created under the incorrect name, so
+  no data migration was needed — caught before it entered the
+  Entities tab.
+
+- **Files affected:** key_facts.md (Known Data Gaps section). No
+  database or spreadsheet entity records existed yet, so no other
+  files needed correction.
+
+- **Logged by:** Chris Crocker
+
+### 2026-08 — Duplicate int1DL row in Entities tab
+
+- **Symptom:** The Entities tab held two rows with entity_id = int1DL: one
+  validated gold-standard record ("Intestinal ring I, dorsal left cell",
+  WBbt:0004361, status=validated) and one thin WormFindr import
+  ("int1DL cell", status=review). Because anatomical_entities.entity_id is
+  UNIQUE and the import uses INSERT ... ON DUPLICATE KEY UPDATE, the two
+  rows collapse to one at import (last-write-wins), silently overwriting the
+  gold-standard record with whichever imports second. Caught while
+  cross-checking int1DL for IntFIG3 cataloguing; no database was affected
+  (the sheet had not been re-imported).
+
+- **Cause:** The WormFindr Information Cards import (Nov 2024) created its
+  own int1DL record without detecting the existing curated one. The
+  duplicate was easy to miss: a naive comma-split reader mis-parsed the
+  validated row's quoted fields as a column shift, but a proper CSV parse
+  confirmed two genuine, separate int1DL rows sharing one entity_id.
+
+- **Solution:**
+  1. Keep the validated row; delete the WormFindr review duplicate.
+  2. Before deleting, salvage the duplicate's lineage (int1DL sublineage
+     Ealaad, immediate parent Ealaa) into key_facts.md -> Known Data Gaps as
+     an UNVERIFIED holding note — cell_lineage is DECIDED but not built, so
+     there is nowhere else to file it.
+  3. Fix the kept row's parent_entity_id from int-ring-I (old mislabeled
+     ring id) to int-ring-1, per the July 2026 int-ring correction and the
+     int-ring-1 identifier decision.
+  4. (Housekeeping) replace the kept row's curator_name placeholder
+     "[Your Name]" with the real curator.
+
+- **Prevention:** entity_id is UNIQUE, so duplicates are always detectable.
+  Sorting the Entities tab by entity_id makes duplicates adjacent (how this
+  pair was confirmed). Run a duplicate-entity_id scan on the export before
+  every DB import — a one-line check (count by entity_id, flag > 1) turns a
+  silent overwrite into a caught error.
+
+- **Files affected:** Entities tab (Google Sheets) — one row deleted, two
+  fields edited on the kept row; docs/project_notes/key_facts.md (holding
+  note). No database, no application code.
+
+- **Logged by:** Chris Crocker
+### 2026-08 — Containment double-modeled (parent_entity_id vs part_of) and not migrated to the Aug 2026 decision
+
+- **Symptom:** The same containment is stored two ways that disagree.
+  Member cells carry a `parent_entity_id` (e.g. the int cells now export
+  with `parent_entity_id = intestine`) while the Relationships tab records
+  a separate `part_of` edge to the cell-group (`int1DL part_of int-ring-I`).
+  Neither consistently matches decisions.md → "Cell-Group Membership via
+  part_of; parent_entity_id Reserved for Single Structural Parent"
+  (Aug 2026). Surfaced while cataloguing RectFIG2 and modeling the new
+  `intestinal-rectal-valve` and `rectal-gland` cell-groups.
+
+- **Cause:** The Aug 2026 containment decision (part_of = group membership;
+  parent_entity_id = single structural/organ parent; the two deliberately
+  non-redundant) was never migrated into the existing int-ring data. The
+  decision itself flags this under "Consistency migration required
+  (int-ring)" as a follow-on that was never executed.
+
+- **Solution (BLOCKED on the containment-model confirmation — see
+  decisions.md):** Reconcile every cell-group's members to ONE model, then
+  apply the same shape to the new valve/gland groups. Under the Aug 2026
+  decision as written: member cells' `parent_entity_id` → the organ,
+  `part_of` → the group. If the team instead supersedes that decision with a
+  `parent_entity_id`-authoritative + `part_of`-mirror model, the migration
+  direction reverses. Do NOT execute either until the decision entry is
+  settled — the wrong direction would have to be undone.
+
+- **Prevention:** Reconcile a cell-group's members against the containment
+  decision at creation time. Add a pre-import check that every `part_of`
+  target and every `parent_entity_id` value resolves to an existing (or
+  `PENDING-`) entity_id.
+
+- **Files affected:** Entities tab (parent_entity_id), Relationships tab
+  (part_of); decisions.md cross-reference. No database.
+
+- **Logged by:** Claude (drafted 2026-08-31); pending Chris Crocker review.
+
+### 2026-08 — Stale "int-ring-I" (Roman) references remain in the Relationships tab
+
+- **Symptom:** The Relationships tab still contains `part_of` rows targeting
+  `int-ring-I` (Roman numeral I): `int1DL part_of int-ring-I` and
+  `int-ring-I part_of intestine`. No entity `int-ring-I` exists — the
+  entity_id is `int-ring-1` (Arabic) — so both are dangling references.
+
+- **Cause:** The 2026-07 `int-ring-I` → `int-ring-1` correction updated
+  key_facts.md and the entity_id but did not propagate to the Relationships
+  tab. (Related: the 2026-07 and 2026-08 int-ring entries above.)
+
+- **Solution:** Repoint the two rows from `int-ring-I` to `int-ring-1`. Fold
+  into the containment-reconciliation pass above so it is one edit round.
+
+- **Files affected:** Relationships tab. No database.
+
+- **Logged by:** Claude (drafted 2026-08-31); pending Chris Crocker review.
+
+### 2026-08 — Template/header rows leaked into the Entities and Relationships exports
+
+- **Symptom:** Non-data placeholder rows appear as real rows. Entities tab:
+  a row with entity_id `Unique ID (e.g., int1DL)` and parent_entity_id
+  `Parent structure ID`. Relationships tab: a row with relationship_type
+  `Type of relationship`.
+
+- **Cause:** Template/example header text left in the sheet body and exported
+  as data.
+
+- **Solution:** Delete the placeholder rows from both tabs. Add a guard to
+  pre-import validation that skips/flags any row whose key fields equal the
+  known template header strings.
+
+- **Files affected:** Entities tab, Relationships tab. Exports only — not yet
+  imported, so no database.
+
+- **Logged by:** Claude (drafted 2026-08-31); pending Chris Crocker review.
+
+### 2026-08 — Non-atomic (compound) entity_from in part_of rows
+
+- **Symptom:** Several `part_of` rows use a compound/paired source that is not
+  a single entity_id: e.g. `entity_from` = `pm4DL-pm4DR`, `pm4L-pm4VL`,
+  `pm4R-pm4VR`, `pm5DL-pm5DR`, `pm5L-pm5VL`, `pm5R-pm5VR`. No such compound
+  entity_ids exist; the member cells are separate rows (`pm4DL`, `pm4DR`, …),
+  so these edges do not join to any entity.
+
+- **Cause:** Bilateral/paired cells were shorthand-collapsed into one
+  relationship row instead of one row per cell.
+
+- **Solution:** Expand each compound row into one `part_of` row per member
+  cell (`pm4DL part_of pm4`, `pm4DR part_of pm4`, …), matching the Aug 2026
+  decision's per-cell example.
+
+- **Files affected:** Relationships tab. No database.
+
+- **Logged by:** Claude (drafted 2026-08-31); pending Chris Crocker review.
+
+### 2026-08 — parent_entity_id integrity: lineage string in the field, and a dangling alimentary-system parent
+
+- **Symptom:** Two `parent_entity_id` problems. (a) `DB7.parent_entity_id =
+  ABprppaapp` — a cell-lineage name in the structural-parent field, which the
+  Aug 2026 decision explicitly defines as a data error (developmental origin
+  belongs in the cell_lineage table, never in parent_entity_id). (b)
+  `intestine.parent_entity_id = alimentary-system`, but no entity with id
+  `alimentary-system` exists — a dangling structural parent. The new
+  valve/gland groups are slated to point at `alimentary-system` too, so it
+  must resolve first.
+
+- **Cause:** (a) Lineage mis-filed in the structural slot — the double-
+  modeling the Aug 2026 decision was meant to remove. (b) `alimentary-system`
+  was used as a parent value before its entity row was created.
+
+- **Note (snapshot):** key_facts.md → Known Data Gaps already logs the
+  lineage-in-parent_entity_id problem as a project-wide gap (Aug 2026: 564 of
+  565 rows). In the provided entities_export.csv that cleanup appears largely
+  done — only `DB7` remains as a straggler, and int cells / rings already
+  carry structural parents (intestine). BUT this export does NOT match the
+  Aug 2026 snapshot key_facts.md describes. Confirm which entities_export is
+  authoritative (live Google Sheet vs. this file) before acting on (a); the
+  amount of remaining lineage cleanup depends entirely on that answer.
+
+- **Solution:** (a) Move DB7's `ABprppaapp` origin into the cell_lineage table
+  (`parent_cell_id`) once that table is built; repoint/clear
+  `DB7.parent_entity_id` to its real structural parent. (b) Create the
+  `alimentary-system` entity row (approved by Chris Crocker, 2026-08-31) so
+  `intestine` and the incoming `intestinal-rectal-valve` and `rectal-gland`
+  groups resolve to a real parent.
+
+- **Files affected:** Entities tab; cell_lineage table (when built);
+  decisions.md / key_facts.md cross-reference. No database.
+
+- **Logged by:** Claude (drafted 2026-08-31); pending Chris Crocker review.

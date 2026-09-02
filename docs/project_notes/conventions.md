@@ -306,10 +306,21 @@ wormatlas_project/
 - WormBase IDs never invented or assumed — always verified
 - Entity IDs match the Google Sheets spreadsheet exactly
   (e.g., int1DL not Int1DL or int-1-DL)
+- Organism entities: entity_id = the established species slug — the same
+  value used in the `species` column and the `data-species` attribute
+  (e.g. c-elegans, p-pacificus, s-stercoralis). One organism record per
+  species; stage and sex are never encoded in the id (they live in the
+  developmental_stage / sex columns). See decisions.md → Organism Entities —
+  Species-Level Modeling and entity_id Construction.
 - Relationship types always use established vocabulary:
   part_of | develops_from | adjacent_to | connected_to | expresses | contains
 - Figure IDs follow the pattern [SystemAbbrev]FIG[Number]
-  (e.g., IntFIG1, PharFIG2)
+  (e.g., IntFIG1, PhaFIG1, RectFIG1, AlimFIG1, IntroFIG1)
+  Sanctioned chapter abbreviations: Int (Intestine), Pha (Pharynx — not
+  Phar), Rect (Rectum), Alim (Alimentary), Intro (Introduction). Intro is
+  distinct from Int and confirmed not to collide with it (Chris Crocker,
+  September 2026). Chapter abbreviations must be confirmed before use — see
+  the Pha (not Phar) precedent logged in decisions.md.
 - Citation format: Author Year (e.g., Kimble1983)
 - DOI links always use https://doi.org/ prefix
 
@@ -463,6 +474,18 @@ Command interneurons:
     have an entity_id in the Entities tab, use entity_id =
     "PENDING-[descriptive-name]" (e.g., PENDING-gut-granules) rather
     than leaving the cell blank or guessing a value. See key_facts.md
+  - Two different kinds of "missing entity" exist, and they are
+    handled differently:
+    - Type A (name genuinely undetermined): a structure with no
+      established identifier — e.g., gut granules. Use
+      PENDING-[descriptive-name] until the glossary backfill
+      resolves it.
+    - Type B (name already known, row simply missing): a cell with
+      an unambiguous, standard name that just hasn't been entered
+      into the Entities tab yet — e.g., Z2, Z3, int1DR. Use the real
+      entity_id directly; do NOT wrap it in PENDING-. Log it in
+      key_facts.md → Known Data Gaps as a cell needing a new row,
+      not as a naming question.
     → Known Data Gaps for tracking these until the WormAtlas glossary
     review backfills them with real entity_id values.
 - image_source format: [Photographer/Lab] + [archive reference]
