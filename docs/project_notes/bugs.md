@@ -290,3 +290,22 @@ to Claude Project Knowledge.
   decisions.md / key_facts.md cross-reference. No database.
 
 - **Logged by:** Claude (drafted 2026-08-31); pending Chris Crocker review.
+
+
+2026-09 — "epiflourescent" misspelling in Figures data, caught by capture_technique lookup FK
+Symptom: During the first real import of the Figures tab into the local database, four figures were skipped by import_figures.py with: capture_technique 'epiflourescent' is not in the capture_techniques lookup. Figure skipped. Affected panels: IntFIG1 C, IntFIG2 B, IntFIG3 B, RectFIG2 A-main.
+Cause: The value was misspelled epiflourescent (flour-) instead of the correct epifluorescent (fluor-). The misspelling pre-dates the Figure Type Axes Split — it was present in the original source data — but nothing had ever validated the value before. Under the old free-text ENUM-style handling it would have imported silently, creating two spellings for one technique and polluting both the data and RAG retrieval. The new capture_technique foreign key to the capture_techniques lookup table is the first check strict enough to reject it.
+Solution: Corrected all instances to epifluorescent in the Figures tab via Find & Replace, re-exported, and re-imported. The four figures then imported cleanly. Because capture_technique is FK-checked, the misspelling is now impossible to store.
+Prevention: The lookup-table foreign key is the prevention — invalid capture techniques cannot enter the database. Worth scanning the rest of the dataset (Entities/Relationships/other tabs) for the same epiflourescent misspelling, since it may appear outside the Figures tab where no FK guards it.
+Files affected: Figures tab (Google Sheets) — four cells corrected. No application code. (Data was corrected at source, not in the database.)
+Logged by: Claude (drafted) — signed off by Chris Crocker, September 2026.
+
+
+2026-09 — figures.panel VARCHAR(5) too short for compound panel labels (A-main)
+Symptom: On the first real Figures import, three figures failed with (1406, "Data too long for column 'panel' at row 1") and were rolled back: IntFIG2, IntFIG3, RectFIG2. The other seven figures imported normally.
+Cause: The panel column was defined VARCHAR(5) in both figures and figure_entities, on the original assumption that panels are single letters (A, B, C). Real data uses compound panel labels — e.g. A-main (6 characters) — which overflow a 5-character column, so MariaDB rejected the row. The assumption was too tight; it did not survive contact with real figure data.
+Solution: Widened panel to VARCHAR(20) in BOTH tables (they must match, because import_figures.py writes the same panel value to figures and figure_entities): ALTER TABLE figures MODIFY COLUMN panel VARCHAR(20) NOT NULL; ALTER TABLE figure_entities MODIFY COLUMN panel VARCHAR(20) NOT NULL; Widening never truncates existing data, so the ALTERs were safe on the already-imported rows. Re-ran the import (idempotent): the seven existing figures updated in place and the three rolled-back figures imported. Final counts: 36 rows in figures, 290 in figure_entities.
+Prevention: The per-figure transaction contained the damage — each failed figure rolled back as a unit, so no half-figure was left in the database, and the dry-run/real-run pattern surfaced it early. scripts/create_schema.sql has been updated to VARCHAR(20) so fresh builds are correct. Dev and production, if they were built on the VARCHAR(5) schema, need the same two ALTER statements.
+Files affected: local database wormatlas_local (figures, figure_entities); docs/project_notes/decisions.md (Figures Base Table — Correction, September 2026); scripts/create_schema.sql. No application code.
+Logged by: Claude (drafted) — signed off by Chris Crocker, September 2026.
+

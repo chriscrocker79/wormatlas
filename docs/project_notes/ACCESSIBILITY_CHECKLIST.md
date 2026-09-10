@@ -15,9 +15,13 @@
 - [ ] All microscopy images include descriptions of what is anatomically depicted
 
 ### 1.2 Time-Based Media
-- [ ] Videos have captions (auto-captions reviewed and corrected)
-- [ ] Audio-only content has a transcript
-- [ ] No auto-playing audio or video
+Applies to every figure whose media_type has is_time_based = 1 (movie, animation).
+- [ ] 🔴 Movies/animations with meaningful audio have synchronized captions (auto-captions reviewed and corrected) — stored in figures.caption_file (WebVTT)
+- [ ] Audio-only content has a transcript — stored in figures.transcript
+- [ ] 🔴 No auto-playing audio (WCAG 1.4.2). figures.autoplay must be 0 for any figure with audio
+- [ ] Silent animation may autoplay ONLY if it is ≤5s or can be paused, and it must still respect prefers-reduced-motion (see §2.3)
+- [ ] A movie/animation whose visuals convey information not in the audio has an audio description OR an equivalent text description in figures.text_alternative (WCAG 1.2.5)
+- [ ] Every movie/animation has a poster_image so a still preview renders before playback
 
 ### 1.3 Adaptable
 - [ ] 🔴 Information is not conveyed by color alone (shape, pattern, or text also used)
@@ -46,15 +50,22 @@
 - [ ] 🔴 No keyboard traps (user can always navigate away using Tab/Escape)
 - [ ] 🔴 Custom interactive components (dropdowns, modals, sliders) implement keyboard patterns from ARIA Authoring Practices Guide
 - [ ] Keyboard shortcuts (if any) can be turned off or remapped
+- [ ] 🔴 Interactive 3D models (is_interactive = 1) are fully operable by keyboard — rotate, zoom, and pan have keyboard equivalents, not mouse-drag only (WCAG 2.1.1)
 
 ### 2.2 Enough Time
 - [ ] No time limits on core tasks (or user can extend/disable them)
 - [ ] Moving or auto-updating content can be paused, stopped, or hidden
 - [ ] Session timeouts warn the user and allow extension
+- [ ] Any looping movie/animation (figures.loops = 1) can be paused, stopped, or hidden (WCAG 2.2.2)
+- [ ] No figure animation flashes more than 3×/second (WCAG 2.3.1)
+- [ ] Figure animations are disabled/reduced under prefers-reduced-motion
 
 ### 2.3 Seizures & Physical Reactions
 - [ ] 🔴 No content flashes more than 3 times per second
 - [ ] Animations can be disabled via `prefers-reduced-motion` media query
+- [ ] Any looping movie/animation (figures.loops = 1) can be paused, stopped, or hidden (WCAG 2.2.2)
+- [ ] No figure animation flashes more than 3×/second (WCAG 2.3.1)
+- [ ] Figure animations are disabled/reduced under prefers-reduced-motion
 
 ### 2.4 Navigable
 - [ ] 🔴 Skip navigation link ("Skip to main content") is the first focusable element on every page
@@ -111,7 +122,9 @@
 These go beyond WCAG but are required for Wormatlas specifically:
 
 - [ ] Microscopy images include zoom functionality that is keyboard accessible
-- [ ] 3D anatomical diagrams have a text-based alternative representation
+- [ ] 🔴 Interactive 3D models have a text-based alternative representation stored in figures.text_alternative. This field is required whenever the figure's media_type.requires_text_alternative = 1, and it doubles as the RAG retrieval surface for media that has no readable frame.
+- [ ] Data tables catalogued as figures use a native HTML <table> (media_type = table), not an image of a table. Where only an image exists, its full contents are entered in figures.text_alternative.
+- [ ] Every time-based / interactive figure has been checked against §1.2 and §2.1 before its figure record is marked complete.
 - [ ] Data tables (neuron connections, synaptic data) have summary descriptions
 - [ ] Downloadable data files (CSV, JSON) are offered as an alternative to visual tables
 - [ ] Mathematical notation uses MathML or has a plain-text alternative
@@ -153,3 +166,5 @@ Before any page or major component goes to production:
 | Date | Change | Author |
 |---|---|---|
 | [DATE] | Initial document created | — |
+
+| 2026-09-03 | Added time-based/interactive figure requirements (captions, transcript, audio description, keyboard-operable 3D, text alternatives) tied to new figures fields; see decisions.md → Figure Type Axes Split | Claude (draft), Chris Crocker (sign-off) |
