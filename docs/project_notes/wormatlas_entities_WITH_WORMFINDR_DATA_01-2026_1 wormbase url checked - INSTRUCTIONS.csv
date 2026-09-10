@@ -180,55 +180,49 @@ GOAL: Document at least 5-10 relationships per priority cell (100-150 total)
 
 PRIORITY 6: MAP FIGURES TABLE
 ESTIMATED TIME: 1-2 hours | TARGET: 5-10 key figures
-
 Go to the 'Figures' tab and document which cells appear in which figures.
 
-EXAMPLE FOR IntFIG1:
-  IntFIG1 | A | intestine    | primary   | Diagram showing full intestine     | diagram
-  IntFIG1 | B | int1DL       | labeled   | Cell labeled in first ring         | diagram
-  IntFIG1 | C | gut-granules | primary   | Autofluorescent granules visible   | epifluorescent
+"Figure type is now THREE columns (not the old single ""image type""):"
+• media_type        = what KIND of figure it is:
+"image, diagram, table, movie, animation, interactive-3d"
+(REQUIRED for every figure)
+"• capture_technique = HOW it was imaged, if a microscope was used:"
+"DIC, TEM, SEM, epifluorescent, confocal, AFM"
+"(type N/A if it was drawn or built, not imaged)"
+"• is_composite      = 1 if it overlays channels or stitches images together,"
+"otherwise 0   (this replaces the old ""merged"" value)"
+Reminder: type N/A when a field does not apply; leave BLANK only when it
+applies but you haven't filled it in yet.
 
-This helps AI answer: 'Show me figures containing int1DL'
+EXAMPLE - a diagram and a fluorescence image (IntFIG1):
 
+figure_id | panel | entity_id    | visibility | media_type | capture_technique | is_composite
+IntFIG1   | A     | intestine    | primary    | diagram    | N/A               | 0
+IntFIG1   | B     | int1DL       | labeled    | diagram    | N/A               | 0
+IntFIG1   | C     | gut-granules | primary    | image      | epifluorescent    | 0
 
+"EXAMPLE - a MOVIE (pharynx pumping, filmed under DIC, no sound):"
+media_type=movie | capture_technique=DIC | is_composite=0
+"Also fill: media_file, media_format (mp4), duration_seconds, poster_image."
+"ai_summary must describe what HAPPENS over time, not a single frame."
 
-PRIORITY 7: UPDATE STATUS COLUMN
-ESTIMATED TIME: 5 minutes | TARGET: All enhanced cells
+"EXAMPLE - an INTERACTIVE 3D MODEL (nerve ring, reconstructed from TEM):"
+media_type=interactive-3d | capture_technique=TEM | is_composite=0
+"Also fill: media_file, media_format (glb), text_alternative (REQUIRED)."
+"Set view_orientation, magnification, scale_bar to N/A (reader controls them)."
 
-"After enhancing each cell, change Column T from 'review' to 'validated'"
+EXAMPLE - a TABLE:
+media_type=table | capture_technique=N/A | is_composite=0
+"Enter as a real table, not a screenshot. If only an image exists, type its"
+full contents into text_alternative.
 
-This helps you track progress:
-  • review = Imported but needs enhancement
-"  • validated = Description enhanced, function added, ready for database"
+"EXAMPLE - an old ""MERGED"" figure (DIC with fluorescence overlaid):"
+media_type=image | capture_technique=DIC | is_composite=1
+(If a composite has no single technique - e.g. a timeline built from several
+"papers, like IntFIG3 panel A-main - use capture_technique=N/A, is_composite=1.)"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This helps AI answer: 'Show me a movie of pharyngeal pumping' or
+Show me figures containing int1DL'.
 
 
 DELIVERABLES CHECKLIST

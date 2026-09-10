@@ -981,6 +981,10 @@ RECOMMENDED and OPTIONAL columns blank until enrichment.
 - **Status:** DECIDED — signed off by Chris Crocker, David Hall, and
   Nate Schroeder, including the new `both`/`b` sex-abbreviation
   convention
+- **Superseded in part (Sept 2026):** the `image_type` / `microscopy_technique`
+  ENUMs are replaced by `media_type` + `capture_technique` + `is_composite` —
+  see "Figure Type Axes Split" at the end of this section.
+  - **Superseded in part (Sept 2026):** the image_type / microscopy_technique ENUMs are replaced by media_type + capture_technique + is_composite — see "Figure Type Axes Split" at the end of this section.
 - **Date drafted:** July 2026
 - **Date decided:** July 2026
 - **Context:** Figure cataloguing (IntFIG1, IntFIG2, IntFIG3, IntFIG5 first)
@@ -1141,19 +1145,36 @@ GLOSSARY.md addition.
   incompatible with real multi-panel figures (e.g., IntFIG1 has panels
   A, B, and C, each with different image_type, magnification, and
   content). Corrected to a compound `UNIQUE(figure_id, panel)` key.
-  Caught while cataloguing IntFIG1, the first real figure entered.
+    Caught while cataloguing IntFIG1, the first real figure entered.
 
 - **Logged by:** Claude (drafted) — signed off by Chris Crocker, David
   Hall, and Nate Schroeder, July 2026.
 
-### Decision: figure_entities Uniqueness Constraint — DRAFTED, AWAITING SIGN-OFF
+#### Correction — September 2026
+- `panel` was defined `VARCHAR(5)`, which holds at most five characters. Real
+  panel labels are not all single letters: compound labels such as `A-main`
+  (6 characters) — used in IntFIG2, IntFIG3, and RectFIG2 — overflow the column,
+  so MariaDB rejects the row (error 1406, "Data too long for column 'panel'").
+  Widened `panel` to `VARCHAR(20)` in BOTH `figures` and `figure_entities` (the
+  two must match, since the import writes the same panel value to both). Caught
+  during the first real figure import into the local database; the three
+  affected figures rolled back cleanly (per-figure transaction) and imported
+  after the widening. Fix on an existing database:
+      ALTER TABLE figures         MODIFY COLUMN panel VARCHAR(20) NOT NULL;
+      ALTER TABLE figure_entities MODIFY COLUMN panel VARCHAR(20) NOT NULL;
+  scripts/create_schema.sql has been updated so fresh builds are correct; dev and
+  production need the two ALTERs above if they were built on the VARCHAR(5)
+  schema. See bugs.md (2026-09).
 
-- **Status:** DRAFTED — awaiting sign-off from Chris Crocker, David Hall,
-  and Nate Schroeder. This entry MODIFIES a previously signed-off
-  CREATE TABLE statement and must not be applied before sign-off.
+- **Logged by:** Claude (drafted) — signed off by Chris Crocker, September 2026.
+
+### Decision: figure_entities Uniqueness Constraint — DECIDED
+
+- **Status:** DECIDED — signed off by Chris Crocker, September 2026. Modifies a
+  previously signed-off CREATE TABLE statement; logged separately per the
+  "declare conflicts, don't silently override" convention.
 - **Date drafted:** July 2026
-- **Modifies:** Figures Base Table, Join Tables, and Content Pages Table
-  — DECIDED (signed off July 2026)
+- **Date decided:** September 2026
 
 #### Conflict declared
 The `figure_entities` CREATE TABLE in the entry above was signed off
@@ -1186,7 +1207,7 @@ Add to CREATE TABLE figure_entities:
 figure identifier — see conventions.md → "figure_id means two different
 things."
 
-- **Logged by:** Claude (drafted for review)
+- **Logged by:** Claude (drafted) — signed off by Chris Crocker, September 2026.
 
 
 ### Decision: anatomical_entities Table Schema — DECIDED
@@ -1338,6 +1359,86 @@ CREATE TABLE anatomical_entities (
   already enforced elsewhere in the pipeline (spreadsheet convention +
   import validation, not DB-level constraints).
 - **Logged by:** Claude (drafted) — signed off by Chris Crocker, July 2026.
+
+---
+
+### Decision: Figure Type Axes Split — media_type + capture_technique + is_composite — DECIDED
+
+- **Status:** DECIDED — supersedes the `image_type` / `microscopy_technique`
+  ENUMs in the "Figures Base Table, Join Tables, and Content Pages Table"
+  decision. Signed off by Chris Crocker, September 2026, including the
+  lookup-table sub-decision.
+- **Date drafted:** September 2026
+- **Date decided:** September 2026
+- **Relates to / modifies:** Standardized Figure Metadata Structure; Figures
+  Base Table, Join Tables, and Content Pages Table.
+
+#### Context
+The original `figures` schema stored figure classification in two identical
+ENUMs — `image_type` and `microscopy_technique`, both
+`ENUM('DIC','TEM','epifluorescent','diagram','merged')` — which held
+byte-identical values on every row. That single list conflated three distinct
+concepts: the asset's FORMAT, the imaging TECHNIQUE, and whether it was a
+COMPOSITE. This is why multimedia figures could not be represented. The
+confirmed WormAtlas figure-type list — DIC, TEM, SEM, epifluorescent, confocal,
+diagram, merged, movie, animation, 3D model, table, AFM — makes the conflation
+explicit, and the team confirmed the list will keep growing as imaging
+technology evolves.
+
+#### Decision
+1. Replace the two ENUMs with two orthogonal fields plus one flag:
+   - `media_type` — asset format. REQUIRED. Values: `image`, `diagram`,
+     `table`, `movie`, `animation`, `interactive-3d`.
+   - `capture_technique` — imaging method. NULLABLE; NULL = not applicable.
+     Values: `DIC`, `TEM`, `SEM`, `epifluorescent`, `confocal`, `AFM`.
+   - `is_composite` — boolean. Replaces the old `merged` value. A composite
+     panel sets `is_composite = 1` and still records its real underlying
+     technique in `capture_technique` where one exists.
+2. Lookup tables, not ENUMs (confirmed sub-decision). Allowed values live in
+   `media_types` and `capture_techniques` tables, referenced by foreign key.
+   Adding a future type is an INSERT, not an `ALTER TABLE` — no schema
+   migration. Deliberate departure from the ENUM pattern used for
+   `entity_type`: that is a bounded biological ontology that changes rarely,
+   whereas figure types are open-ended and technology-driven, which is the case
+   where a lookup table earns its cost. `media_types` carries `is_time_based`,
+   `is_interactive`, and `requires_text_alternative` flags that the
+   accessibility layer and editor form read to auto-enforce obligations;
+   `capture_techniques` carries a `category` (light / electron / fluorescence /
+   scanning-probe) for grouped RAG retrieval.
+3. `media_type = table` should be a native HTML `<table>` where possible;
+   image-only tables require full contents in the `text_alternative` field.
+4. `view_orientation`, `magnification`, and `scale_bar` are N/A (→ NULL) for
+   `interactive-3d`, since the reader controls view and zoom.
+5. Time-based (`movie`, `animation`) and interactive (`interactive-3d`) types
+   carry WCAG 2.1 AA obligations enforced via the `media_types` flags and
+   recorded in companion columns (`caption_file`, `transcript`,
+   `text_alternative`, `poster_image`, `autoplay`, `loops`, `media_file`,
+   `media_format`, `duration_seconds`).
+
+#### Rationale
+Separates three concepts that were conflated; represents all twelve confirmed
+types and future ones without schema churn; lookup tables minimise maintenance
+burden on a small team and enable per-type accessibility enforcement; keeps
+`media_type` and `capture_technique.category` clean RAG retrieval facets.
+
+#### Downstream RAG impact
+`media_type` and `capture_technique.category` become filter/ranking facets; the
+time-based/interactive flags let the assistant caveat non-static results; the
+`text_alternative` field doubles as the retrieval surface for 3D models and
+image-only tables, which have no readable frame.
+
+#### Migration / build
+On a FRESH build the schema is created already split (scripts/create_schema.sql),
+so no migration is needed. scripts/migrate_figure_type_axes.py converts an
+existing pre-split database (dev/prod, if built on the old schema): it seeds the
+lookup tables, adds the columns, backfills deterministically
+(`DIC`→(image, DIC), `diagram`→(diagram, N/A), `merged`→(image, N/A,
+is_composite=1), etc.), adds NOT NULL + foreign keys, and keeps the legacy
+columns until `--drop-legacy` is run after verification.
+`scripts/import_figures.py` writes the new columns and treats editor-typed `N/A`
+as NULL.
+
+- **Logged by:** Claude (drafted) — signed off by Chris Crocker, September 2026.
 
 ---
 
@@ -1668,6 +1769,5 @@ Each must be logged as a DECIDED entry before work begins on that area.
 | 8 | Rate limiting on API and AI assistant | Medium | Prevent abuse |
 | 9 | GDPR compliance approach | Medium | International academic audience |
 | 10 | Expected traffic volume post-launch | Medium | Affects hosting and API cost planning |
-| 11 | Will 3D anatomical models be in Version 1 or deferred? | Medium | |
 | 12 | Is multilingual support required? | Low | |
 | 13 | Accessibility testing tooling | Medium | axe-core confirmed candidate |

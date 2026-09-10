@@ -23,6 +23,75 @@
   resolved via exception request to Greg Parks
 - API/networking: Webserver can communicate freely with database server.
   Cross-origin (CORS) is the primary networking concern to manage.
+- Local project path (the real platform): /Users/christophercrocker/Desktop/sites/wormatlas
+  — contains admin/, config/, content/, docs/, includes/, public/, rag_data/, scripts/.
+- LOOK-ALIKE WARNING: a separate internal progress/workflow tracker lives at
+  /Users/christophercrocker/Desktop/WA_workflowmanager. It is NOT the platform —
+  it has no scripts/, config/, or schema. Do not run platform scripts there.
+- Database names: local = `wormatlas_local` (XAMPP, this MacBook) — CONFIRMED
+  September 2026; dev = `wormatlas_dev` (per config/database.php example, on
+  cpsc-db-01.cropsci.illinois.edu); production = TBD — confirm with Greg Parks.
+- Local .env configuration (this MacBook, CONFIRMED September 2026):
+  DB_HOST=127.0.0.1, DB_PORT=3306, DB_NAME=wormatlas_local, DB_USER=root,
+  DB_PASS= (empty — XAMPP default). The migration, schema, and import
+  scripts all read these from .env via python-dotenv. .env is gitignored and
+  must never be committed.
+
+## Database Build State (as of September 2026)
+- History / lesson: the schema was DECIDED in decisions.md but had NOT been
+  built into any database as of early September 2026 — the local MySQL held only
+  XAMPP's own system databases (information_schema, mysql, performance_schema,
+  phpmyadmin, sys). This gap (schema decided vs. schema built) was not recorded
+  and cost a full working session to discover; hence this note.
+- LOCAL BUILD NOW COMPLETE (September 2026): `wormatlas_local` was built from
+  scripts/create_schema.sql and populated by scripts/import_figures.py.
+  Current contents: 10 figures, 36 rows in `figures`, 290 rows in
+  `figure_entities`. All figure classification is on the split model
+  (media_type / capture_technique / is_composite). figure_entities.entity_type
+  is 'pending' for entities not yet in anatomical_entities (that table is empty;
+  resolved at entity backfill).
+- Fresh build method: scripts/create_schema.sql builds the full schema in one
+  pass, with the Figure Type Axes Split already baked into `figures`
+  (media_type / capture_technique / is_composite + the two lookup tables +
+  the media-support columns) and `panel` as VARCHAR(20). On a fresh build, NO
+  migration is required.
+- scripts/migrate_figure_type_axes.py applies ONLY to an environment that
+  already holds the OLD pre-split schema (the old image_type /
+  microscopy_technique ENUMs). It is not used for a fresh local build.
+- panel column width: VARCHAR(5) was too small for compound panel labels like
+  `A-main`; corrected to VARCHAR(20) in create_schema.sql and in the local DB
+  (see bugs.md 2026-09 and decisions.md Correction — September 2026). Any
+  environment built on VARCHAR(5) needs:
+    ALTER TABLE figures         MODIFY COLUMN panel VARCHAR(20) NOT NULL;
+    ALTER TABLE figure_entities MODIFY COLUMN panel VARCHAR(20) NOT NULL;
+- OPEN — confirm when dev access is available: do dev.wormatlas.org and
+  production already have a pre-split `figures` table, or were they never built
+  either? Run, on each, the information_schema check for a `figures` table.
+  If never built, use create_schema.sql there too (and the migration script can
+  be retired); if built on the old schema, run the migration AND the panel
+  ALTERs (with Greg Parks for production, per the hosting decision).
+- Deferred foreign keys stay DISABLED at build (enable later via ALTER TABLE):
+  anatomical_entities.parent_entity_id self-FK, and figure_entities.entity_id →
+  anatomical_entities(entity_id). See Known Data Gaps (parent_entity_id holds
+  lineage) for the remediation sequence.
+
+## Figure Cataloging — Standard Prompt
+- Every new figure-cataloging chat should START from the standard prompt
+  template: `FIGURE_CATALOGING_PROMPT_TEMPLATE.md` (kept in
+  docs/project_notes/). Paste it, fill in the `[TEAMMATE NAME]` placeholder and
+  the figure's source material, and let it run. Do not hand-write a fresh prompt
+  each time — use this canonical copy so standards don't drift between chats.
+  (Adjust the path here if the template is stored elsewhere.)
+- The template enforces the current standards: the three-field figure type
+  (media_type / capture_technique / is_composite; see decisions.md "Figure Type
+  Axes Split"), the multimedia rules (movie / animation / interactive-3d / table,
+  plus the media-support and accessibility columns), exact lookup-value spelling
+  (e.g. epifluorescent), compound panel labels up to VARCHAR(20), the per-panel
+  ai_summary / ai_answerable_questions rules, Type A / Type B entity resolution,
+  and N/A-vs-blank / never-invent discipline.
+- When a decision changes how figures are catalogued (new media_type, new
+  capture_technique, changed field rules), UPDATE the template in the same pass
+  so it never lags the decisions it depends on.
 
 ## Species & Taxonomy
 - C. elegans: NCBITaxon:6239

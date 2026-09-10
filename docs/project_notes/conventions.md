@@ -433,8 +433,17 @@ Command interneurons:
   within the intestine — both are genuinely the subject.
   `primary` is for genuine subjects, however, not a default. If in
   doubt, apply the removal test above.
-- Microscopy technique values use these terms only:
-  DIC | TEM | epifluorescent | diagram | merged
+Figure type is recorded on three fields, not one. The old single image_type / microscopy_technique pair is retired. Every figure panel now carries:
+Field	Question it answers	Allowed values
+media_type (required)	What KIND of asset is this?	image, diagram, table, movie, animation, interactive-3d
+capture_technique (optional)	HOW was it imaged?	DIC, TEM, SEM, epifluorescent, confocal, AFM, or N/A
+is_composite (yes/no)	Is it an overlay/composite of channels or sources?	0 or 1
+Allowed values live in lookup tables, not in code. media_type and capture_technique are validated against the media_types and capture_techniques tables (foreign keys), NOT hardcoded ENUMs. To add a new figure type in future (e.g. a new imaging method), insert one row into the relevant lookup table — never alter the figures table and never edit a script. This is deliberate: figure types evolve with imaging technology, so the list must be editable without a schema migration.
+media_type is always required; capture_technique is often N/A. A hand-drawn diagram, an animation, or an interactive-3d model usually has no capture technique — set capture_technique to N/A (written to the database as NULL). A movie or a still image that WAS imaged does carry a technique (e.g. a movie shot under DIC). Follow the existing N/A-vs-blank rule below: N/A = considered and not applicable (→ NULL); blank = still outstanding.
+merged is no longer a type — it became the is_composite flag. A panel that overlays channels (e.g. DIC + GFP) or compiles multiple sources/timepoints sets is_composite = 1 AND records its real underlying technique in capture_technique where one exists. This keeps the true technique visible to search instead of hiding it behind the word "merged." When a composite has no single technique (e.g. a developmental timeline built from several papers), leave capture_technique N/A and set is_composite = 1.
+media_type = table means a real HTML <table>, not a picture of one. A table rendered as a flat image is invisible to screen readers and unusable by the RAG pipeline. Catalogue tables as native HTML wherever possible. If a legacy table exists only as an image, its full contents MUST be entered in the text_alternative field (see ACCESSIBILITY_CHECKLIST.md). This is the one case where the accessibility-first and RAG-first requirements point at the same fix.
+view_orientation, magnification, and scale_bar are N/A for interactive-3d. The reader controls the view and zoom, so there is no fixed value — set all three to N/A (→ NULL). For movie and animation, magnification/scale bar apply only if the footage is calibrated microscopy; otherwise N/A.
+ai_summary for time-based and interactive media must describe change or structure, not a frozen frame. A movie / animation summary describes what happens over time; an interactive-3d summary describes the structure the reader can rotate to. A summary written like a still-image caption will retrieve poorly. All other ai_summary rules (50–150 words, per-panel, parent-figure anchor) still apply.
 - Not every field applies to every figure — many WormAtlas figures
   are illustrations/diagrams rather than photomicrographs, and fields
   like magnification, scale_bar, and strain do not apply to them.
@@ -455,10 +464,7 @@ Command interneurons:
     archive reference
 - Multi-entity panels: when more than one entity is visible in the
   same panel, only the FIRST row for that figure_id + panel
-  combination carries panel-level content (description_in_figure,
-  image_type, magnification, view_orientation, source_reference,
-  microscopy_technique, specimen_stage, specimen_sex, strain,
-  image_source, scale_bar, ai_summary, ai_answerable_questions).
+  combination carries panel-level content (description_in_figure, media_type, capture_technique, is_composite, magnification, view_orientation, source_reference, specimen_stage, specimen_sex, strain, image_source, scale_bar, media_file, media_format, duration_seconds, poster_image, caption_file, transcript, text_alternative, autoplay, loops, ai_summary, ai_answerable_questions).
   - Additional rows for the same figure_id + panel: fill in only
     entity_id and visibility. Leave every panel-level field blank
     on these rows — they exist solely to record that another entity
@@ -549,9 +555,7 @@ Grouping rule:
 
 - `figures` receives the FIRST row of each figure_id + panel group.
   This row carries all panel-level content (description_in_figure,
-  image_type, magnification, view_orientation, source_reference,
-  microscopy_technique, specimen_stage, specimen_sex, strain,
-  image_source, scale_bar, ai_summary, ai_answerable_questions).
+  media_type, capture_technique, is_composite, magnification, view_orientation, source_reference, specimen_stage, specimen_sex, strain, image_source, scale_bar, media_file, media_format, duration_seconds, poster_image, caption_file, transcript, text_alternative, autoplay, loops, ai_summary, ai_answerable_questions).
 - `figure_entities` receives EVERY row, including additional
   entity-only rows for the same panel.
 
@@ -603,3 +607,8 @@ raise a type error or silently link rows to the wrong figure.
 - Skip navigation link at top of every page
 - Heading hierarchy must be logical (h1 → h2 → h3, no skipping)
 - Use semantic HTML first — ARIA only when native semantics are insufficient
+
+
+## REVISION HISTORY 
+
+2026-09-03 — Figure classification moved from the single image_type / microscopy_technique ENUM pair to three fields (media_type, capture_technique, is_composite) backed by lookup tables. Adds movie, animation, interactive-3d, table, SEM, confocal, AFM. See decisions.md → "Figure Type Axes Split." Companion media-support columns and accessibility fields added; see ACCESSIBILITY_CHECKLIST.md.
