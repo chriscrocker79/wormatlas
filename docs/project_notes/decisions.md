@@ -1440,6 +1440,70 @@ as NULL.
 
 - **Logged by:** Claude (drafted) — signed off by Chris Crocker, September 2026.
 
+Decision: Figure Identifier Format — DECIDED
+Pattern: [SpeciesCode][StageToken?][SectionToken]FIG[Number]
+SpeciesCode (2 letters): Ce (C. elegans), Pp (P. pacificus), Ss (S. stercoralis)
+StageToken: Male, Dauer, Embryo, Aged — full words only. Adult hermaphrodite is unmarked (the default)
+Reason: single-letter codes (A, D) collide with section abbreviations (Alim, Atyp) and cannot be read reliably
+SectionToken: drawn from the ratified section-token vocabulary (see next entry)
+Number: integer, sequential per home page, starting at 1
+Stored form has no internal spaces: CeIntFIG1, not CeIntFIG 1
+Panel, sub-panel, and media type are NOT in the identifier — they live in columns: panel VARCHAR(20) including sub-panel suffixes (A-inset, C-top); media_type per the Figure Type Axes Split decision
+Movies, videos, tables, cell lists, and supplementary figures all fold into the single FIG counter; their kind is recorded in media_type, so FIG is a generic exhibit label
+The identifier is opaque: it is NEVER parsed for species/stage/system/panel. The database columns (species, sex, developmental_stage, system, subsystem, media_type, panel) are the source of truth for all queries and RAG retrieval
+Supersedes the legacy naming that crammed panel ranges into the identifier (e.g. IntFIG4B-J) and reused chapter abbreviations across species
+Reason: legacy names were not globally unique, could not be split into columns, could not act as a stable join key, and could not resolve panel-level citations
+Logged: September 2026 — team-agreed; [sign-off pending: Chris Crocker]; David Hall / Nate Schroeder consulted on citability
+
+Decision: Figure Identifiers Are Permanent — DECIDED
+Once assigned, a figure's identifier never changes — not when its subsystem is renamed, not when it is reordered on its page
+The subsystem lives in a column and can move independently; the reader-facing number is a separate display label (see below)
+Reason: the identifier is the external citation anchor, the RAG retrieval key, and the join key; changing it silently breaks every external citation and internal reference
+Logged: September 2026
+
+Decision: Ratified Section-Token Vocabulary — DECIDED
+The controlled list of section tokens is maintained in WormAtlas_figure_section_vocabulary (ratified copy). Chapter/section abbreviations must be confirmed against this list before use (extends the existing "confirm abbreviations" rule)
+Each section has one figure-ID token AND one URL subsystem slug, defined together — one vocabulary, two renderings
+Token and slug may differ in wording (e.g. token Intro ↔ slug general-description), so the crosswalk stores the pair explicitly; slugs are NOT auto-derived from tokens by lowercasing
+Six sections received new tokens the legacy naming never provided: SomMus (somatic muscle), NonStrMus (nonstriated muscle), SpecMus (male-specific muscle), NeuroSup (neuronal support cells), DefMus (defecation muscles); and SomGon unifies the somatic gonad (legacy used hermaphrodite Somatic vs male Repro)
+Logged: September 2026 — team-ratified
+Decision: Figure Display Label vs Internal Identifier — DECIDED
+Two layers: the permanent internal figure_id (join key, RAG anchor, citation target) and a separate reader-facing display label
+The display label is per-page positional: figures are shown as "FIG 1", "FIG 2" … restarting at 1 on each page. The reader never sees species/stage/section abbreviations
+Movies and tables also display as "FIG N" (unified positional numbering), consistent with the identifier folding them into one counter
+The display number is STORED per page on the figure's link to that page (article_figures), not computed on the fly
+One page per subsystem, so a chapter's positional numbering and its citation are unambiguous
+Public citation format: "WormAtlas, C. elegans intestine, Fig. 1"
+Panels display as clean letters (A, B, C) in the legend; the internal panel field keeps the re-lettering/mapping (e.g. legacy IntFIG4 panels K–W stored as A–M)
+A shared figure may correctly show a different number on each page, because the number lives on the per-page link
+Logged: September 2026 — team-agreed
+Decision: Shared / Cross-Listed Figures — DECIDED
+A figure shown on more than one page has exactly ONE canonical identifier (its home subsection); additional appearances are recorded in article_figures, never by minting a second identifier
+The home page is marked with a boolean is_primary_page on article_figures
+Male Proctodeum figures: home system = Alimentary (CeMaleProc…); their appearances under Epithelial and Reproductive are cross-references
+Reason: one identifier = one figure record = one ai_summary/embedding; duplicate identifiers split retrieval and create drift
+Logged: September 2026 — [sign-off pending: David Hall / Nate Schroeder on anatomical home]
+Decision: Legacy Figure-ID Alias Mechanism — DECIDED
+Every legacy identifier is preserved as a persistent alias so existing citations and cross-references keep resolving — the figure equivalent of the 301 URL redirects
+Authoritative map: a dedicated figure_aliases lookup table at PANEL granularity (old figure + old panel → new figure + new panel), which handles splits, merges, cross-listing, and panel re-lettering
+Plus a denormalized legacy_id column on figures holding the single former parent name, for quick lookup/display; the table wins any disagreement
+Reference-update plan: a script auto-updates every unambiguous one-to-one legacy reference (primary_figures, ai_summary anchors, descriptions, page metadata) through the alias table, and produces a flagged report of ambiguous references (e.g. a bare IntFIG5 that now splits into two figures) for an editor to disambiguate by hand
+- Provenance fields (`data_source`, `curator_name`) are updated the same way — clean-namespace rule: no legacy figure ID survives anywhere in the data. Already applied to the catalogued entities in the source Sheet.
+Reason: renaming is site-wide; without panel-level aliases, external citations and RAG retrieval on old identifiers break
+Logged: September 2026
+Decision: Figure Renaming Crosswalk & Master List — DECIDED
+The authoritative old→new crosswalk is WormAtlas_figure_master_list (one row per figure), derived from the live-site figure inventory
+Corrections applied and recorded, with original source values preserved:
+Introduction: IntroFIG 6 → CeIntroFIG 10, following items shifted +1 (resolves the CeIntroFIG 9 duplicate; IntroFIG 5 and 6 are two separate figures)
+Hypodermis: HypFIG 8G → CeHypFIG 11; HypFIG 9 restored as CeHypFIG 12 (it was dropped from the source list)
+SupFIG 3 → CeExcFIG 16 (continues the Excretory sequence)
+MaleProcFIG 13-C old-name typo corrected to 13B-C
+- Live-site completeness reconciliation COMPLETE (2026-09-30, verified by CC) — zero discrepancies (procedure: `figure_reconciliation_protocol`).
+- Crosswalk FROZEN as v1.0 (2026-09-30): 694 figures across 66 chapters; 0 blank IDs, 0 numbering gaps, 0 collisions; every figure row verified. Stored: Google Sheet (protected snapshot), repo export, project knowledge.
+- v1.0 is authoritative and read-only; any change requires a new version + logged reason (ID-freeze rule).
+P. pacificus and S. stercoralis: only Introductions mapped so far; remaining chapters are a labeled later phase
+Logged: September 2026
+
 ---
 
 ## URL STRUCTURE
@@ -1450,6 +1514,15 @@ as NULL.
 - Database-driven routing — no static file extensions in URLs
 - Old URLs must redirect to new pattern (301 redirects)
 - Logged: Project start
+
+Decision: Figure Section URL Taxonomy Adjustments — DECIDED
+Extends the /species/sex/system/subsystem pattern for non-anatomical and cross-form cases:
+"General Description" is a pseudo-system slug: /c-elegans/hermaphrodite/general-description (the figure-ID token stays Intro)
+Dauer sub-topics are its subsystems: /dauer/general-description/genetics, /…/general-description/other-species
+Hypodermis is normalized under Epithelial for ALL stages, including aging (/aging/epithelial/hypodermis); the legacy aging chaptering (Hypodermis as its own chapter) is corrected
+Subcellular & Pericellular Structures uses the system slug subcellular-pericellular
+Generic subsections (Introduction / Overview / Anatomy / General Description) collapse to a single overview subsystem per system — EXCEPT dauer "Anatomy" and dauer "Neuroanatomy", which are separate subjects and keep their own subsystem slugs
+Logged: September 2026 — team-agreed
 
 ---
 

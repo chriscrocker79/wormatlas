@@ -9,8 +9,8 @@ rather than silently working around it:
 
 Source material for this figure was prepared by a teammate ([TEAMMATE NAME]),
 not the team lead directly: their plain-language description of the figure, the
-official figure legend, supporting text from the chapter, and some example
-ai_answerable_questions they drafted. I'll paste all of this in below.
+official figure legend, supporting text from the chapter, and possibly some example
+ai_answerable_questions if they drafted. I'll paste all of this in below.
 
 Please draft the panel rows following the established conventions and the
 figures already in the database (IntFIG1–3, PhaFIG1–3, RectFIG1–2, AlimFIG1,
