@@ -312,15 +312,35 @@ wormatlas_project/
   species; stage and sex are never encoded in the id (they live in the
   developmental_stage / sex columns). See decisions.md → Organism Entities —
   Species-Level Modeling and entity_id Construction.
+- Note: the "no stage/sex in the id" rule above applies to ENTITY ids only. Figure ids
+  do carry a species and (non-hermaphrodite) stage token as a human-facing label, but
+  are still never PARSED for those facts — the columns remain the source of truth. The
+  two rules are consistent: entity ids stay stage/sex-neutral; figure ids use the token
+  purely for readability and uniqueness.
 - Relationship types always use established vocabulary:
   part_of | develops_from | adjacent_to | connected_to | expresses | contains
-- Figure IDs follow the pattern [SystemAbbrev]FIG[Number]
-  (e.g., IntFIG1, PhaFIG1, RectFIG1, AlimFIG1, IntroFIG1)
-  Sanctioned chapter abbreviations: Int (Intestine), Pha (Pharynx — not
-  Phar), Rect (Rectum), Alim (Alimentary), Intro (Introduction). Intro is
-  distinct from Int and confirmed not to collide with it (Chris Crocker,
-  September 2026). Chapter abbreviations must be confirmed before use — see
-  the Pha (not Phar) precedent logged in decisions.md.
+- Figure IDs follow the pattern [SpeciesCode][StageToken?][SectionToken]FIG[Number]
+  (e.g., CeIntFIG1, CePhaFIG1, CeMaleSpicFIG8, CeDauerPhaFIG12, PpIntroFIG1)
+  - SpeciesCode (2 letters): Ce (C. elegans), Pp (P. pacificus), Ss (S. stercoralis)
+  - StageToken: Male, Dauer, Embryo, Aged — full words only. Adult hermaphrodite
+    is unmarked (the default). Single-letter codes are NOT used (A/D collide with
+    section tokens like Alim/Atyp and cannot be read reliably).
+  - SectionToken: from the ratified section-token vocabulary. Tokens must be
+    confirmed against that list before use (this replaces the old inline
+    abbreviation list; the Pha-not-Phar precedent still stands). See decisions.md →
+    Ratified Section-Token Vocabulary and the WormAtlas_figure_section_vocabulary file.
+  - Number: integer, sequential per home page, starting at 1.
+  - Stored form has NO internal spaces: CeIntFIG1, not "CeIntFIG 1".
+  - Panel, sub-panel, and media type are NEVER part of the ID — they live in columns
+    (panel, media_type). Movies, videos, tables, cell lists, and supplementary figures
+    all fold into the FIG counter; their kind lives in media_type.
+  - The ID is opaque: never parse it for species/stage/system/panel. The columns
+    (species, sex, developmental_stage, system, subsystem, media_type, panel) are the
+    source of truth. IDs are permanent once assigned. See decisions.md → Figure
+    Identifier Format and Figure Identifiers Are Permanent.
+    - Legacy example IDs shown elsewhere in this file (IntFIG1, etc.) reflect pre-rename
+    naming and become their Ce-prefixed forms when the figure rename runs.
+    
 - Citation format: Author Year (e.g., Kimble1983)
 - DOI links always use https://doi.org/ prefix
 
@@ -400,10 +420,26 @@ Command interneurons:
     part of a set
    - Do not copy-paste one shared summary across all panel rows of the
     same figure_id — this creates drift risk if one copy is edited
-    later and the others aren't
+    later and the others aren't.
+  - A figure's stored ID (CeIntFIG1) is NOT what the reader sees. On the page and in the
+  legend, figures are numbered per-page and positional — "FIG 1", "FIG 2" — restarting on
+  each page; movies and tables use the same "FIG N" numbering. The display number is
+  stored on the figure's link to that page (article_figures), not computed. A figure shown
+  on several pages may correctly show a different number on each. Public citation format:
+  "WormAtlas, C. elegans intestine, Fig. 1". See decisions.md → Figure Display Label vs
+  Internal Identifier.
 - Panel designations use capital letters (A, B, C, D, E...) — never
   lowercase. Figures may have any number of panels; the letter
   sequence is not limited to three.
+  - Sub-panels use a hyphen suffix on the panel letter: A-main, A-inset,
+    C-top, C-bottom. The panel column (VARCHAR 20) holds the full label.
+  - When a legacy compound figure is split into several new figures, each
+    new figure's panels re-letter to start at A. The internal panel field
+    preserves the legacy→new panel mapping (e.g. legacy IntFIG4 panels K–W
+    become CeIntFIG6 panels A–M), so citations to a legacy panel still
+    resolve. See decisions.md → Legacy Figure-ID Alias Mechanism.
+  - Reader-facing legends show clean letters (A, B, C); the re-lettering
+    lives in the data, not on the page.
 - Visibility levels use these values only:
   primary | secondary | labeled | visible
 
