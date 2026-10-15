@@ -45,8 +45,7 @@
   and cost a full working session to discover; hence this note.
 - LOCAL BUILD NOW COMPLETE (September 2026): `wormatlas_local` was built from
   scripts/create_schema.sql and populated by scripts/import_figures.py.
-  Current contents: 10 figures, 36 rows in `figures`, 290 rows in
-  `figure_entities`. All figure classification is on the split model
+  Current contents (2026-10-14): 11 figures, 39 rows in `figures` (one per panel), 306 rows in `figure_entities`. All figure classification is on the split model
   (media_type / capture_technique / is_composite). figure_entities.entity_type
   is 'pending' for entities not yet in anatomical_entities (that table is empty;
   resolved at entity backfill).
@@ -74,11 +73,12 @@
   anatomical_entities.parent_entity_id self-FK, and figure_entities.entity_id →
   anatomical_entities(entity_id). See Known Data Gaps (parent_entity_id holds
   lineage) for the remediation sequence.
+  - `figure_aliases` (legacy figure ID -> new ID, per decisions.md "Legacy Figure-ID Alias Mechanism") is NOT built or populated by scripts/import_figures.py. Until it exists, legacy IDs such as PhaFIG 3E-G do not resolve in the database; translate them through the crosswalk (currently v1.1).
 
 ## Figure Cataloging — Standard Prompt
 - Every new figure-cataloging chat should START from the standard prompt
   template: `FIGURE_CATALOGING_PROMPT_TEMPLATE.md` (kept in
-  docs/project_notes/). Paste it, fill in the `[TEAMMATE NAME]` placeholder and
+  docs/project_notes/), (project-knowledge copy under claude/). Paste it, fill in the `[TEAMMATE NAME]` placeholder and
   the figure's source material, and let it run. Do not hand-write a fresh prompt
   each time — use this canonical copy so standards don't drift between chats.
   (Adjust the path here if the template is stored elsewhere.)
@@ -92,6 +92,10 @@
 - When a decision changes how figures are catalogued (new media_type, new
   capture_technique, changed field rules), UPDATE the template in the same pass
   so it never lags the decisions it depends on.
+- Figure ID lookups use crosswalk v1.1 (2026-10-14, WormAtlas_figure_crosswalk_v1.1_2026-10-14_Master_List.csv): 695 figure rows, 660 unique IDs. v1.0 (2026-09-30) stays in the repo as history. Pharynx IDs from PhaMOVIE 2 onward are one higher than in v1.0 (see decisions.md "Figure Crosswalk v1.1"). 
+
+- Prompt template v2.1 (2026-10-14) merges the two diverged copies. v2.0 (project knowledge) had the frozen figure-ID rules but lacked the media_type / capture_technique / is_composite and multimedia rules; the older repo copy had those rules but old IDs and the stale entities_export.csv. v2.1 has both, points at crosswalk v1.1 and the current Entities file, specifies output as the exact 27-column Figures tab header, and adds: no "(Type B)" suffix or N/A in entity_id, reuse an existing PENDING- placeholder before creating a new one, ask rather than infer what unexplained symbols/arrows/colours mean, and ask all questions before finalizing rows. Teammate name is a [TEAMMATE NAME] placeholder. The repo copy (docs/project_notes/FIGURE_CATALOGING_PROMPT_TEMPLATE.md) and the project-knowledge copy (claude/FIGURE_CATALOGING_PROMPT_TEMPLATE.md) must stay identical; update both in the same pass whenever a decision or the crosswalk version changes.
+
 
 ## Species & Taxonomy
 - C. elegans: NCBITaxon:6239
@@ -195,11 +199,8 @@ Source file: wormatlas_entities_WITH_WORMFINDR_DATA_01-2026
 - Target for Phase 1: 100-150 relationships
 
 ### Figures tab
-- Total records: 4 rows covering 1 figure — IntFIG1, panels A/B/C.
-  Panel C carries a second entity-only row (PENDING-gut-granules).
-- Column structure: COMPLETE as of July 2026. All 17 columns required
-  by the DECIDED `figures` schema are present, the microscopy_technique
-  header typo is corrected, and header whitespace has been cleaned.
+- Total (2026-10-14): 11 figures, 39 panels, 306 rows (one row per entity per panel). Figures v4 CSV is the current file. Panel-level content is on the first row of each figure + panel; extra entity rows carry only entity_id and visibility.
+- Column structure: 27 columns on the split model (media_type, capture_technique, is_composite and the media-support columns; see decisions.md "Figure Type Axes Split"). The helper row's figure_id cell is exactly "Figure identifier". Any export with image_type or microscopy_technique columns is stale.
 - IntFIG1 is the validated gold-standard reference — match its format
   and level of detail for all subsequent figure rows. Verified against
   the schema and Figure Metadata Conventions, July 2026.
@@ -693,6 +694,9 @@ Source file: wormatlas_entities_WITH_WORMFINDR_DATA_01-2026
     PENDING-embryo, PENDING-proximal-gonad, PENDING-distal-gonad. Stub count
     unaffected (figure-surfaced placeholders, not glossary stubs).
 
+- CePhaFIG7 (Pharynx chapter, legacy PhaFIG 3E-G) catalogued October 2026: 3 panels (A diagram, B TEM, C TEM at higher magnification than B), 16 figure_entities rows, all seven entities Type A. Image source Hall archive. Panel B shows six black and three white arrows. Panel A's page legend should read "left, middle, right". New PENDING- placeholders: PENDING-blastopore (CePhaFIG6 panel B), PENDING-pharyngeal-lumen, PENDING-marginal-cells, PENDING-intermediate-filaments, PENDING-basal-lamina, PENDING-pharyngeal-muscle, PENDING-pharyngeal-channels. Reused: PENDING-adherensjunction, PENDING-pharynx. Check whether PENDING-pharyngeal-lumen duplicates the existing PENDING-lumen. Stub count unaffected.
+- Owed review: Hall/Schroeder to confirm the CeIntFIG2 panel C-bottom summary's claim that the nuclear GFP signal "corresponds to the nucleolus" (unverified).
+- Owed cleanup: the int1DL primary_figures still cites the bare legacy "IntFIG5", which now splits into more than one figure. An editor needs to pick the right new ID.
 
 ## Enhanced Cell Descriptions — Status (as of March 2026)
 - 70 nervous system cells have completed enhanced descriptions

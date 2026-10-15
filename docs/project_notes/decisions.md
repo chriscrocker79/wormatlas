@@ -1499,10 +1499,58 @@ Hypodermis: HypFIG 8G → CeHypFIG 11; HypFIG 9 restored as CeHypFIG 12 (it was 
 SupFIG 3 → CeExcFIG 16 (continues the Excretory sequence)
 MaleProcFIG 13-C old-name typo corrected to 13B-C
 - Live-site completeness reconciliation COMPLETE (2026-09-30, verified by CC) — zero discrepancies (procedure: `figure_reconciliation_protocol`).
-- Crosswalk FROZEN as v1.0 (2026-09-30): 694 figures across 66 chapters; 0 blank IDs, 0 numbering gaps, 0 collisions; every figure row verified. Stored: Google Sheet (protected snapshot), repo export, project knowledge.
+- Crosswalk FROZEN as v1.0 (2026-09-30): 694 figure ROWS (rows, not unique IDs) across 66 chapters; 0 blank IDs, 0 numbering gaps, 0 collisions; every figure row verified. Stored: Google Sheet (protected snapshot), repo export, project knowledge. SUPERSEDED by v1.1 (2026-10-14), see "Figure Crosswalk v1.1" below.
 - v1.0 is authoritative and read-only; any change requires a new version + logged reason (ID-freeze rule).
+- v1.0 is authoritative and read-only; any change requires a new version + logged reason (ID-freeze rule). v1.0 stays in the repo as history; v1.1 is now the working crosswalk.
 P. pacificus and S. stercoralis: only Introductions mapped so far; remaining chapters are a labeled later phase
 Logged: September 2026
+
+### Decision: Figure Crosswalk v1.1 — DECIDED
+
+- **Status:** DECIDED — approved by Chris Crocker, 2026-10-14. Supersedes
+  crosswalk v1.0 (2026-09-30) under the ID-freeze rule (any change = new
+  version + logged reason).
+- **Date decided:** 2026-10-14
+
+#### Why a new version was needed
+The Master List circulated on 2026-10-13 as "FROZEN v1.0" no longer matched
+the frozen 2026-09-30 file: the Pharynx chapter had gained a row because
+PhaMOVIE 1 was split into PhaMOVIE 1A (CePhaFIG3) and 1B (CePhaFIG4), and
+PhaMOVIE 2 became CePhaFIG5. That shifted 23 Pharynx figure mappings up by
+one (PhaMOVIE 2 through PhaMOVIE 4; e.g. PhaFIG 3A-D = CePhaFIG6 and
+PhaFIG 3E-G = CePhaFIG7, which were CePhaFIG5 and CePhaFIG6 in v1.0). The
+change had no version bump, so it is recorded here as v1.1.
+
+#### What changed
+- Spaces removed from new_id in all 695 figure rows (CePhaFIG 7 ->
+  CePhaFIG7). new_id_as_listed keeps the original source values.
+- Combined old names split (assigned by row order; confirm against legacy
+  pages): AIntVID 1 & 2 -> AIntVID 1 (CeAgedIntFIG2) and 2 (CeAgedIntFIG3);
+  AReproVID 1&2 -> AReproVID 1 (CeAgedReproFIG3) and 2 (CeAgedReproFIG4);
+  AMusVID 1 -> AMusVID 1 / 2 / 3 (CeAgedMusFIG7 / 8 / 9) — three separate
+  videos, confirmed by Chris Crocker.
+- MaleIntroMOVIE 1 is ONE video with ONE canonical ID, CeMaleIntroFIG5
+  (home = Introduction). Its Muscle > Overview row now carries the same ID
+  as a cross-listed appearance (see "Shared / Cross-Listed Figures").
+  CeMaleMusFIG1 is retired and never reused; CeMaleMusFIG2-4 keep their
+  numbers because identifiers are permanent. This creates a deliberate
+  numbering gap, so "0 numbering gaps" holds for v1.0 only.
+- Counts: 695 figure rows, 660 unique IDs. The 9 other rows (links and
+  notes) have no new_id.
+
+#### Still open
+- CePhaFIG4 awaits verification by Chris Crocker.
+- The 23 renumbered rows were verified on 09/30 against the v1.0 numbers;
+  they are flagged "re-confirm after renumber" in discrepancy_notes.
+- Aged video 1/2 assignments need a check against the legacy pages.
+
+#### Downstream RAG impact
+Legacy references (ai_summary anchors, entity primary_figures) must be
+translated through v1.1, not v1.0, or Pharynx citations will point one
+figure too low. See the figure_aliases mechanism in "Legacy Figure-ID Alias
+Mechanism".
+
+- **Logged by:** Claude (drafted) — approved by Chris Crocker, 2026-10-14.
 
 ---
 
