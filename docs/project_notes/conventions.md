@@ -338,6 +338,8 @@ wormatlas_project/
     (species, sex, developmental_stage, system, subsystem, media_type, panel) are the
     source of truth. IDs are permanent once assigned. See decisions.md → Figure
     Identifier Format and Figure Identifiers Are Permanent.
+    - Legacy references (e.g. "PhaFIG 3E-G") are always translated through the CURRENT crosswalk version (v1.1 as of 2026-10-14), never from memory or an older copy. See decisions.md → Figure Crosswalk v1.1.
+    - A figure or video shown on more than one page has ONE canonical ID. Extra crosswalk rows for the same item reuse that ID instead of minting a new one (e.g. MaleIntroMOVIE 1 = CeMaleIntroFIG5 under both Introduction and Muscle). See decisions.md → Shared / Cross-Listed Figures.
     - Legacy example IDs shown elsewhere in this file (IntFIG1, etc.) reflect pre-rename
     naming and become their Ce-prefixed forms when the figure rename runs.
     
@@ -528,8 +530,9 @@ ai_summary for time-based and interactive media must describe change or structur
       entity_id directly; do NOT wrap it in PENDING-. Log it in
       key_facts.md → Known Data Gaps as a cell needing a new row,
       not as a naming question.
-    → Known Data Gaps for tracking these until the WormAtlas glossary
-    review backfills them with real entity_id values.
+    - Never write a suffix such as "(Type B)" into an entity_id. The entity_id is the real id only; Type B status is tracked in key_facts.md → Known Data Gaps.
+    - "N/A" is never an entity_id when a structure is visible in the panel. Use a PENDING-[descriptive-name] placeholder (Type A) or the real id (Type B) so the structure stays findable by RAG. Example: CePhaFIG6 panel B uses PENDING-blastopore.
+   
 - image_source format: [Photographer/Lab] + [archive reference]
   e.g., "[Hall] N510-R338"
 - Gold standard template: IntFIG1 (intestine article)
@@ -552,9 +555,10 @@ future tab importer).
   treat it as a record and import it.
   - Skip it by validating the row, not by counting position: skip any
     row whose key identifier column does not match its expected pattern
-    (figure_id must match [SystemAbbrev]FIG[Number]; entity_type must be
+    (figure_id must match [SpeciesCode][StageToken?][SectionToken]FIG[Number] (e.g. CeIntFIG1); entity_type must be
     one of the ENUM values). Pattern validation also catches stray notes
     and blank rows anywhere in the file, not only at the top.
+    - Current limitation (Oct 2026): scripts/import_figures.py skips the helper row ONLY when its figure_id cell is exactly "Figure identifier", and it does not strip header whitespace. Do not reword that cell. Making the script pattern-based is an open follow-up.
   - Skipping "the first two lines" works today and breaks the moment
     anyone inserts a row.
 
@@ -648,3 +652,5 @@ raise a type error or silently link rows to the wrong figure.
 ## REVISION HISTORY 
 
 2026-09-03 — Figure classification moved from the single image_type / microscopy_technique ENUM pair to three fields (media_type, capture_technique, is_composite) backed by lookup tables. Adds movie, animation, interactive-3d, table, SEM, confocal, AFM. See decisions.md → "Figure Type Axes Split." Companion media-support columns and accessibility fields added; see ACCESSIBILITY_CHECKLIST.md.
+
+2026-10-14 — Figure-ID rules updated for crosswalk v1.1 (legacy references translated via the current version; cross-listed items share one ID). Entity_id rules added for the "(Type B)" suffix and N/A. Import-script helper-row limitation noted. See decisions.md → Figure Crosswalk v1.1.
