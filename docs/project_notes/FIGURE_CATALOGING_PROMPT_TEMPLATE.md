@@ -24,7 +24,7 @@ teammate's source material and the figure image where marked. One figure per cha
 new capture_technique, changed field rules, new crosswalk version), update this template in the
 same pass so it never lags the decisions it depends on. Keep ONE copy: repo
 `docs/project_notes/FIGURE_CATALOGING_PROMPT_TEMPLATE.md` and the project-knowledge copy
-`claude/FIGURE_CATALOGING_PROMPT_TEMPLATE.md` must be identical.
+`FIGURE_CATALOGING_PROMPT_TEMPLATE.md` (top level) must be identical.
 
 ---
 

@@ -636,6 +636,31 @@ raise a type error or silently link rows to the wrong figure.
 
 ---
 
+## PROJECT NOTES FILES & PROJECT KNOWLEDGE
+
+These rules apply to every file in docs/project_notes/ (decisions.md,
+bugs.md, key_facts.md, conventions.md, GLOSSARY.md,
+ACCESSIBILITY_CHECKLIST.md, FIGURE_CATALOGING_PROMPT_TEMPLATE.md).
+
+- The repo copy in docs/project_notes/ is the source of truth. The Claude
+  Project Knowledge copy is a mirror of it and must be identical.
+- Edit the file in the repo (VS Code), commit it on a docs/ branch, merge
+  the pull request, THEN upload that exact file to Project Knowledge.
+  Never edit the project copy first and copy it back.
+- Upload the file from disk with the upload button (delete the old copy
+  first). Never copy text out of the rendered claude.ai view and paste it
+  into a file: the rendered view strips markdown (# headings, **bold**,
+  `code`, table pipes), so the pasted file loses its formatting. This
+  caused a 940-line false-deletion diff in Oct 2026 (see bugs.md).
+- Before committing a notes file, run git diff --stat. The change should
+  be roughly the size of what you edited. Hundreds of unexpected deletions
+  mean something was pasted or reformatted: stop and git restore the file.
+- Keep exactly one copy of each file in Project Knowledge, at the top
+  level. Files Claude writes there land in a claude/ folder by default;
+  delete those and upload the repo file instead.
+- Paths written inside notes files (for example the template's
+  maintenance rule) must name the real current location of the file.
+
 ## ACCESSIBILITY CONVENTIONS
 
 - Every page must pass WCAG 2.1 AA
@@ -654,3 +679,5 @@ raise a type error or silently link rows to the wrong figure.
 2026-09-03 — Figure classification moved from the single image_type / microscopy_technique ENUM pair to three fields (media_type, capture_technique, is_composite) backed by lookup tables. Adds movie, animation, interactive-3d, table, SEM, confocal, AFM. See decisions.md → "Figure Type Axes Split." Companion media-support columns and accessibility fields added; see ACCESSIBILITY_CHECKLIST.md.
 
 2026-10-14 — Figure-ID rules updated for crosswalk v1.1 (legacy references translated via the current version; cross-listed items share one ID). Entity_id rules added for the "(Type B)" suffix and N/A. Import-script helper-row limitation noted. See decisions.md → Figure Crosswalk v1.1.
+
+2026-10-16 — Added "Project Notes Files & Project Knowledge": repo is the source of truth; upload notes files from disk, never paste from the rendered view; one copy per file in Project Knowledge. See bugs.md (Oct 2026).

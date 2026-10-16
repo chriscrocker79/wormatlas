@@ -347,3 +347,11 @@ Cause: PhaMOVIE 1 was split into 1A and 1B (one extra Pharynx row), which renumb
 Solution: Published as v1.1 with a logged reason (see decisions.md). Anything cited as a Pharynx figure under 09-30 numbering (e.g. old CePhaFIG6 for PhaFIG 3E-G) is now one higher (CePhaFIG7).
 Files affected: Crosswalk Master List.
 Logged by: Chris Crocker
+
+### 2026-10 — Notes files pasted from the rendered claude.ai view lost their markdown
+Symptom: After pasting project-knowledge text into docs/project_notes/bugs.md and conventions.md, git diff --stat showed 411 insertions / 940 deletions, and the diff showed "# WormAtlas Coding Conventions" replaced by "WormAtlas Coding Conventions" (heading markers gone).
+Cause: The rendered claude.ai view displays formatted text, not the raw file. Copying from it drops markdown syntax (#, **, backticks, table pipes), so the pasted file no longer matched the repo's formatting.
+Solution: Not committed. Restored both files with git restore, rebuilt them from the raw project text, and confirmed with git diff --stat that only the intended additions remained (46 and 14 changed lines). Notes files are now uploaded to Project Knowledge from disk, never pasted.
+Prevention: See conventions.md → Project Notes Files & Project Knowledge. Run git diff --stat before every notes commit; hundreds of unexpected deletions mean stop and restore.
+Files affected: docs/project_notes/bugs.md, docs/project_notes/conventions.md (working tree only, never committed).
+Logged by: Chris Crocker
