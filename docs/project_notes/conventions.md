@@ -584,6 +584,40 @@ future tab importer).
   create duplicates. Use INSERT ... ON DUPLICATE KEY UPDATE against the
   table's unique key.
 
+### Import order: entities first, then figures
+
+Run the importers in this order whenever both tabs have changed:
+
+1. `python3 scripts/import_entities.py exports/Entities.csv`
+2. `python3 scripts/import_figures.py exports/Figures.csv`
+
+Why: `figure_entities.entity_type` is stored as `'pending'` until the
+entity exists in `anatomical_entities`. `import_entities.py` finishes by
+resolving those rows (it copies the entity's real type onto every
+matching `pending` row). `import_figures.py` only writes `'pending'` for
+IDs it cannot find, so running figures first is safe, but the figure
+rows stay `'pending'` until the next entities run.
+
+Rules:
+
+- Run `import_entities.py` after ANY change to the Entities tab, and
+  `import_figures.py` after ANY change to the Figures tab. Both are
+  re-runnable upserts; running them again never creates duplicates.
+- Export each tab as CSV from Google Sheets with "Convert text to
+  numbers, dates and formulas" unticked, and save it into `exports/`
+  under the fixed name (`Entities.csv`, `Figures.csv`).
+- Run with `--dry-run` first after any bulk edit. A row missing a
+  required entity field (entity_id, entity_name, entity_type, species,
+  taxon_id, data_source, curator_name) is skipped with a message, and
+  the entity is not imported. See bugs.md (2026-10).
+- Expected leftovers: `figure_entities` rows whose entity_id starts
+  with `PENDING-` (Type A) legitimately stay `'pending'`. Any REAL
+  entity_id still `'pending'` after both imports is a gap: the entity is
+  missing from the Entities tab, or its ID is misspelled in the Figures
+  tab. `import_entities.py` lists these at the end of its run.
+- After a run, record the new row counts in key_facts.md ("Current
+  contents").
+
 ### Figures tab — one spreadsheet, two tables
 
 The Figures tab is a flat, merged view of two different database tables.
@@ -681,3 +715,5 @@ ACCESSIBILITY_CHECKLIST.md, FIGURE_CATALOGING_PROMPT_TEMPLATE.md).
 2026-10-14 — Figure-ID rules updated for crosswalk v1.1 (legacy references translated via the current version; cross-listed items share one ID). Entity_id rules added for the "(Type B)" suffix and N/A. Import-script helper-row limitation noted. See decisions.md → Figure Crosswalk v1.1.
 
 2026-10-16 — Added "Project Notes Files & Project Knowledge": repo is the source of truth; upload notes files from disk, never paste from the rendered view; one copy per file in Project Knowledge. See bugs.md (Oct 2026).
+
+2026-10-21 — Added "Import order: entities first, then figures" to Spreadsheet Import Scripts, following the first full entity import (617 entities; see key_facts.md and bugs.md).
