@@ -45,10 +45,17 @@
   and cost a full working session to discover; hence this note.
 - LOCAL BUILD NOW COMPLETE (September 2026): `wormatlas_local` was built from
   scripts/create_schema.sql and populated by scripts/import_figures.py.
-  Current contents (2026-10-14): 11 figures, 39 rows in `figures` (one per panel), 306 rows in `figure_entities`. All figure classification is on the split model
-  (media_type / capture_technique / is_composite). figure_entities.entity_type
-  is 'pending' for entities not yet in anatomical_entities (that table is empty;
-  resolved at entity backfill).
+  Current contents (2026-10-21): 11 figures, 39 rows in `figures` (one per panel), 306 rows in `figure_entities`, and 617 rows in `anatomical_entities`. All figure classification is on the split model
+  (media_type / capture_technique / is_composite).
+- ENTITY IMPORT DONE (2026-10-21): scripts/import_entities.py loaded the Entities
+  tab export (exports/Entities.csv, 617 rows) into anatomical_entities, then set
+  figure_entities.entity_type from it. Result: 252 figure_entities rows resolved
+  (cell 210, cell-group 24, organ 16, organism 2). The 54 rows still 'pending'
+  are exactly the PENDING-[name] placeholders (25 distinct Type A placeholders);
+  no real entity_id is left pending. Before this import (2026-10-16) the
+  anatomical_entities table was empty and all 139 distinct real entity_ids in
+  the figures were 'pending'. The script is re-runnable; run it after every
+  Entities-tab change, and re-run import_figures.py after figure changes.
 - Fresh build method: scripts/create_schema.sql builds the full schema in one
   pass, with the Figure Type Axes Split already baked into `figures`
   (media_type / capture_technique / is_composite + the two lookup tables +
@@ -94,7 +101,7 @@
   so it never lags the decisions it depends on.
 - Figure ID lookups use crosswalk v1.1 (2026-10-14, WormAtlas_figure_crosswalk_v1.1_2026-10-14_Master_List.csv): 695 figure rows, 660 unique IDs. v1.0 (2026-09-30) stays in the repo as history. Pharynx IDs from PhaMOVIE 2 onward are one higher than in v1.0 (see decisions.md "Figure Crosswalk v1.1"). 
 
-- Prompt template v2.1 (2026-10-14) merges the two diverged copies. v2.0 (project knowledge) had the frozen figure-ID rules but lacked the media_type / capture_technique / is_composite and multimedia rules; the older repo copy had those rules but old IDs and the stale entities_export.csv. v2.1 has both, points at crosswalk v1.1 and the current Entities file, specifies output as the exact 27-column Figures tab header, and adds: no "(Type B)" suffix or N/A in entity_id, reuse an existing PENDING- placeholder before creating a new one, ask rather than infer what unexplained symbols/arrows/colours mean, and ask all questions before finalizing rows. Teammate name is a [TEAMMATE NAME] placeholder. The repo copy (docs/project_notes/FIGURE_CATALOGING_PROMPT_TEMPLATE.md) and the project-knowledge copy (claude/FIGURE_CATALOGING_PROMPT_TEMPLATE.md) must stay identical; update both in the same pass whenever a decision or the crosswalk version changes.
+- Prompt template v2.1 (2026-10-14) merges the two diverged copies. v2.0 (project knowledge) had the frozen figure-ID rules but lacked the media_type / capture_technique / is_composite and multimedia rules; the older repo copy had those rules but old IDs and the stale entities_export.csv. v2.1 has both, points at crosswalk v1.1 and the current Entities file, specifies output as the exact 27-column Figures tab header, and adds: no "(Type B)" suffix or N/A in entity_id, reuse an existing PENDING- placeholder before creating a new one, ask rather than infer what unexplained symbols/arrows/colours mean, and ask all questions before finalizing rows. Teammate name is a [TEAMMATE NAME] placeholder. The repo copy (docs/project_notes/FIGURE_CATALOGING_PROMPT_TEMPLATE.md) and the project-knowledge copy (FIGURE_CATALOGING_PROMPT_TEMPLATE.md, top level) must stay identical; update both in the same pass whenever a decision or the crosswalk version changes.
 
 
 ## Species & Taxonomy
@@ -349,6 +356,8 @@ Source file: wormatlas_entities_WITH_WORMFINDR_DATA_01-2026
     Ontology Browser (never invented; NULL if none exists). Their naming is
     not in question — tracked here so they are not lost, same as the
     int1DR / Z2 / Z3 / K / PDA Type B cells above.
+    (Update 2026-10-21: founder cells E, MS, EMS, ABa, ABp and the AB, K and
+    PDA rows now exist in the Entities tab; check each row's wormbase_id.)
   - Type A (non-cell structure, glossary anchor slug not yet confirmed —
     PENDING- placeholder per the standard backfill process): pharynx and
     rectum, entered in the AlimFIG1 figure rows as PENDING-pharynx and
@@ -641,11 +650,17 @@ Source file: wormatlas_entities_WITH_WORMFINDR_DATA_01-2026
     alimentary-system; each group's parent_entity_id = alimentary-system.
     part_of = membership, parent_entity_id = structural parent — non-redundant,
     not mirrored.
+  - Update 2026-10-21: both group rows were added to the Entities tab as
+    draft stubs, and the five part_of rows (virL, virR, rect_D, rect_VL, rect_VR)
+    were added to the Relationships tab. Class-level WBbt lookups remain owed
+    where the wormbase_id cell is still blank.
 
 - alimentary-system entity row owed (approved 2026-08-31): created so it is a
   real structural parent, resolving the dangling intestine -> alimentary-system
   reference and serving the new valve/gland groups. WBbt looked up
   individually; NULL if none. See bugs.md (2026-08 parent_entity_id integrity).
+  Update 2026-10-21: the row now exists in the Entities tab (draft stub,
+  entity_type organ). wormbase_id lookup still owed if blank.
 
 - Containment model — SETTLED (2026-08-31, Option A): the Aug 2026 decision
   (part_of = membership; parent_entity_id = single structural parent;

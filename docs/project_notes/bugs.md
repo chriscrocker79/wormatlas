@@ -355,3 +355,11 @@ Solution: Not committed. Restored both files with git restore, rebuilt them from
 Prevention: See conventions.md → Project Notes Files & Project Knowledge. Run git diff --stat before every notes commit; hundreds of unexpected deletions mean stop and restore.
 Files affected: docs/project_notes/bugs.md, docs/project_notes/conventions.md (working tree only, never committed).
 Logged by: Chris Crocker
+
+### 2026-10 — Entities rows missing required curator_name / data_source blocked the entity import
+Symptom: The first dry run of scripts/import_entities.py skipped 7 rows (AC, ADLL, ADLR, PVDL, PVDR, VD12, VD13) with "missing required field".
+Cause: curator_name and data_source are NOT NULL in anatomical_entities, but these 7 WormFindr-era rows had one of them blank in the Entities tab. Nothing had checked them before, because no entity import existed.
+Solution: Filled the blank cells in the Entities tab from the neighbouring WormFindr rows, re-exported, and re-ran the dry run (617 valid rows, no warnings). The script now reports any such row instead of crashing.
+Prevention: Run python3 scripts/import_entities.py exports/Entities.csv --dry-run after any bulk edit of the Entities tab; it also catches duplicate entity_ids and template rows.
+Files affected: Entities tab (Google Sheets) only. No database or application code.
+Logged by: Chris Crocker
