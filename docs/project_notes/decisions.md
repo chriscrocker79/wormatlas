@@ -1767,6 +1767,55 @@ organism rule before the first organism record is created means figure_entities
 - **Logged by:** Claude (drafted) — signed off by Chris Crocker (David Hall
   concurring on the species-level model), September 2026.
 
+### Decision: Nerve Ring entity_id Is the Descriptive Hyphenated Form `nerve-ring` — DECIDED
+
+- **Status:** DECIDED by Chris Crocker, 2026-10-26. Confirmation from David Hall / Nate Schroeder of the `structure` classification is still to be recorded.
+- **Date drafted / decided:** 2026-10-26
+- **Relates to:** entity_id Construction for Non-Cell Entities — Glossary Anchor Slug; Glossary Entity Backfill Runs in Parallel with Figure Cataloguing; Aug 2026 Containment Model Affirmed (descriptive hyphenated ids for int-ring-1, intestinal-rectal-valve, rectal-gland); Extended Entity Type ENUM
+
+#### Context
+CePhaFIG8 panel A labels the nerve ring ("NR"). The Entities tab had no row for it and the wormatlas.org glossary has no standard anchor for it (confirmed by Chris Crocker). Under "entity_id Construction for Non-Cell Entities — Glossary Anchor Slug", a non-cell entity's id is its glossary anchor slug, and a PENDING- placeholder resolves to the anchor, not to a de-hyphenated placeholder. With no anchor, PENDING-nerve-ring had no route to a real id.
+
+#### Conflict declared
+This departs from the anchor-slug rule for this one entity. It is logged here rather than applied silently.
+
+#### Decision
+1. entity_id is `nerve-ring` (lowercase, hyphenated, no spaces), the same descriptive form already used for int-ring-1, intestinal-rectal-valve and rectal-gland.
+2. entity_type is `structure`. This is the first `structure` record in the table.
+3. wormbase_id is WBbt:0006749, looked up by Chris Crocker in the WormBase Ontology Browser (2026-10-26) and recorded as supplied. wormbase_url follows the standard anatomy-term pattern.
+4. parent_entity_id is left NULL. No nervous-system entity exists yet, and none is invented. Revisit when one is created.
+5. The row is a draft (status=draft). It is not RAG-ready until description, function, synonyms, primary_figures and validation meet the RAG Readiness Standard.
+6. Scope: this entity only. The anchor-slug rule still governs other non-cell entities, and other figure-surfaced structures with no anchor continue to use PENDING-[descriptive-name].
+7. Permanence: if a wormatlas.org glossary anchor is ever created for the nerve ring, the entity_id stays `nerve-ring` (entity_ids are permanent join keys). The anchor may be recorded as a synonym.
+
+#### Downstream RAG impact
+The nerve ring is one of the most-queried structures for the nervous-system-first RAG phase and will be labeled in many figures. A stable real id now means figure_entities rows point at one permanent key from the first figure, instead of a placeholder that every figure would need rewriting later. It also removes one PENDING- value that would block the deferred figure_entities foreign key.
+
+- **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-10-26; Hall/Schroeder confirmation pending.
+
+### Decision: Region and Landmark Labels in Figures Are Not Entities — No Row, No PENDING- Placeholder — DECIDED
+
+- **Status:** DECIDED by Chris Crocker, 2026-10-26. Hall/Schroeder confirmation still to be recorded.
+- **Date drafted / decided:** 2026-10-26
+- **Relates to:** Pharyngeal pm4, pm5, and mc3 Modeled as cell-group Parents Over Member Cells (its note that pharyngeal regions such as metacorpus, isthmus and terminal bulb are not entities); Glossary Entity Backfill Runs in Parallel with Figure Cataloguing; conventions.md → Figure Metadata Conventions (Type A / Type B, "N/A is never an entity_id")
+
+#### Context
+CePhaFIG8 panel B labels "Anterior bulb" and "Posterior bulb". These were first entered as PENDING-anterior-bulb and PENDING-posterior-bulb. They name physiological landmarks of the pharynx, not anatomical entities.
+
+#### Conflict declared
+conventions.md and the cataloguing template v2.1 say that a structure visible in a panel must have a Type A or Type B entity_id and must never be N/A. This decision narrows that rule: it applies to entities, not to region or landmark labels.
+
+#### Decision
+1. A label that only names a region or landmark of a larger structure (for example the anterior bulb or posterior bulb of the pharynx) gets no Entities-tab row and no PENDING- placeholder, and no figure_entities row.
+2. The label is still recorded as text. It stays in the panel's description_in_figure and ai_summary so that text search can find the panel.
+3. Whether a label is a landmark or an entity is an editor judgment. When unsure, ask. This decision does not cover named structures such as the buccal cavity, grinder or sieve, which keep their placeholders.
+4. Follow-on: add one sentence to conventions.md and to FIGURE_CATALOGING_PROMPT_TEMPLATE.md stating this exception, in the same pass and keeping the repo and project-knowledge template copies identical (the template's own maintenance rule).
+
+#### Downstream RAG impact
+Landmark terms stay searchable through panel text, and the entity index stays limited to things that can have their own description, WBbt id and relationships. It also avoids creating two placeholders that could never resolve to a glossary anchor.
+
+- **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-10-26; Hall/Schroeder confirmation pending.
+
 ### Decision: Species and Taxonomy Use NCBI Taxon IDs — DECIDED
 - C. elegans: NCBITaxon:6239
 - P. pacificus: NCBITaxon:54126
