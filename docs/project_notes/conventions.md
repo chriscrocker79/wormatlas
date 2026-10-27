@@ -531,7 +531,7 @@ ai_summary for time-based and interactive media must describe change or structur
       key_facts.md → Known Data Gaps as a cell needing a new row,
       not as a naming question.
     - Never write a suffix such as "(Type B)" into an entity_id. The entity_id is the real id only; Type B status is tracked in key_facts.md → Known Data Gaps.
-    - "N/A" is never an entity_id when a structure is visible in the panel. Use a PENDING-[descriptive-name] placeholder (Type A) or the real id (Type B) so the structure stays findable by RAG. Example: CePhaFIG6 panel B uses PENDING-blastopore.
+     - Exception: a label that only names a region or landmark of a larger structure (for example the anterior bulb or posterior bulb of the pharynx) is not an entity. It gets no Entities row, no PENDING- placeholder and no figure_entities row; keep the label as text in description_in_figure and ai_summary. If you are unsure whether a label is a landmark or an entity, ask. See decisions.md → Region and Landmark Labels in Figures Are Not Entities.
    
 - image_source format: [Photographer/Lab] + [archive reference]
   e.g., "[Hall] N510-R338"
