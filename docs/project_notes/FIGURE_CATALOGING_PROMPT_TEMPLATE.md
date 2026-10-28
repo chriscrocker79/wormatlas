@@ -19,6 +19,7 @@ teammate's source material and the figure image where marked. One figure per cha
 - Added: when a legacy figure is split into several new figures, map old panel letters to the
   new panel letters and say so.
 - Teammate name is a placeholder again, not hard-coded.
+- Added 2026-10-27: region and landmark labels are not entities (no placeholder, no row); style-reference list now includes CePhaFIG8.
 
 **Maintenance rule:** when a decision changes how figures are catalogued (new media_type,
 new capture_technique, changed field rules, new crosswalk version), update this template in the
@@ -42,7 +43,7 @@ FIGURE ID & NAMING (crosswalk v1.1):
 - Figure IDs appearing in the teammate's description, the legend, and the chapter text are almost certainly OLD-format (as on the live site, e.g. "PhaFIG 3E-G"). Treat every figure reference in the pasted material as old-format, translate it through the v1.1 crosswalk, and flag any you cannot resolve. Never copy an old-format ID (no Ce prefix) into the data, and never rely on an ID from memory.
 - If the old figure was split into several new figures, the old panel letters may be re-lettered (A, B, C… per new figure). State the old-to-new panel mapping explicitly in your reply.
 
-STYLE REFERENCES: use the figures already catalogued in the Figures tab (CeIntFIG1–3, CePhaFIG1–7, CeRectFIG1–2, CeAlimFIG1, CeIntroFIG1) as style and level-of-detail references. Do not rely on the older entities_export.csv anywhere.
+STYLE REFERENCES: use the figures already catalogued in the Figures tab (CeIntFIG1–3, CePhaFIG1–8, CeRectFIG1–2, CeAlimFIG1, CeIntroFIG1) as style and level-of-detail references. Do not rely on the older entities_export.csv anywhere.
 
 OUTPUT FORMAT: draft the rows for the 27-column Figures tab, in exactly this column order:
 figure_id, panel, entity_id, visibility, description_in_figure, media_type, capture_technique, is_composite, magnification, view_orientation, source_reference, specimen_stage, specimen_sex, strain, image_source, scale_bar, media_file, media_format, duration_seconds, poster_image, caption_file, transcript, text_alternative, autoplay, loops, ai_summary, ai_answerable_questions
@@ -75,6 +76,7 @@ ENTITY resolution:
 - Type A (name genuinely unknown, no established identifier) → PENDING-[descriptive-name]. FIRST check key_facts.md → Known Data Gaps (the running PENDING- set) and reuse an existing placeholder where one fits; if a new name is close to an existing one (e.g. lumen vs pharyngeal-lumen), flag it as a question instead of silently adding a near-duplicate.
 - Type B (known name, row simply missing) → use the real entity_id directly and log it as a gap. Never write a suffix such as "(Type B)" into an entity_id.
 - Never use N/A as entity_id for a structure that is visible in the panel; use a Type A or Type B value so the structure stays findable by RAG.
+- Exception: a label that only names a region or landmark of a larger structure (for example the anterior bulb or posterior bulb of the pharynx) is not an entity. Give it no entity_id, no PENDING- placeholder and no row; keep the label as text in description_in_figure and ai_summary. If you are unsure whether a label is a landmark or an entity, ask me before deciding (decisions.md → Region and Landmark Labels in Figures Are Not Entities).
 - (The entities table is not fully populated, so import currently marks entity_type as 'pending' for unresolved entities — expected, resolved at backfill. Still use the correct entity_id.)
 
 DATA INTEGRITY:
