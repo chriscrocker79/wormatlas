@@ -560,6 +560,40 @@ conventions.md's Figure ID example was corrected from "PharFIG2" to
 - **Logged by:** Claude (drafted) — resolution (A) approved during PhaFIG1
   review, August 2026; signatory attribution to confirm.
 
+### Decision: pm4 and pm5 Are Single Syncytial `cell` Entities — Supersedes the cell-group Modeling for pm4 and pm5 Only — DECIDED
+
+- **Status:** DECIDED by Chris Crocker, 2026-10-27, after confirmation with Nate Schroeder and David Hall. APPLICATION STATUS: NOT YET APPLIED to the Sheet or the database (see "Application" below). Update this line when the migration is done.
+- **Date drafted / decided:** 2026-10-27
+- **Supersedes (in part):** Pharyngeal pm4, pm5, and mc3 Modeled as cell-group Parents Over Member Cells — DECIDED, for pm4 and pm5 only; and the pm4/pm5 application of Cell-Group Membership via part_of; parent_entity_id Reserved for Single Structural Parent — DECIDED.
+- **Relates to:** Neuron and Multi-Member Cell Classes Are cell-group Entities (its "Scope — multi-member only" clause); WormBase IDs Are the Canonical Identifier; Figure Identifiers Are Permanent; binucleate-cell synonym handling in key_facts.md → Known Data Gaps (IntFIG3 nuclei)
+
+#### Context
+The pm4/pm5/mc3 decision modelled pm4 and pm5 as `cell-group` entities over three member cells each (dorsal, left-ventral, right-ventral sectors). While cataloguing CePhaFIG8, Nate Schroeder reported that the WormBase ontology needs updating here: pm4DL and pm4DR name individual NUCLEI, not cells, and that the dorsal, ventral-left and ventral-right sectors of each of pm4 and pm5 fuse to form a single syncytium (cited by Nate as Harry et al., 2022; the citation was not seen or checked when this entry was drafted — add the full reference to the references table once verified). Chris Crocker confirmed with Nate Schroeder and David Hall that only pm4 and pm5 are affected.
+
+#### Conflict declared
+The earlier pm4/pm5/mc3 decision, and the "Neuron and Multi-Member Cell Classes" rule it applies, make a multi-member class a `cell-group`. A single syncytial cell is a singleton under that rule's own scope clause, so it stays `cell`. This entry changes pm4 and pm5 only.
+
+#### Decision
+1. `pm4` and `pm5` change entity_type from `cell-group` to `cell`. Each is one multinucleate syncytial muscle cell. Their entity_ids do not change.
+2. The six member entities are RETIRED as entities: pm4DL-pm4DR, pm4L-pm4VL, pm4R-pm4VR, pm5DL-pm5DR, pm5L-pm5VL, pm5R-pm5VR. Their nuclei labels (the individual nucleus names) become synonyms on `pm4` and `pm5`, following the same handling as the binucleate intestinal-cell nuclei (int3Da/int3Dp and others), which are synonyms on the parent cell, not entities. The synonym values are taken from the existing member rows' names and synonyms; none are invented.
+3. The six `part_of` rows (rel-004 to rel-009) are removed from the Relationships tab. Relationship ids are never reused.
+4. Retired member entity_ids are never reused for a different entity.
+5. wormbase_id stays as it is on pm4 (WBbt:0003739) and pm5 (WBbt:0003737). WormBase has not yet updated its ontology; revisit if it does. The nuclei terms found for pm4DL and pm4DR (WBbt:0004320 and WBbt:0004319, supplied by Chris Crocker) are NOT entered in any wormbase_id field; they may be recorded as a note.
+6. parent_entity_id of pm4 and pm5 stays `PENDING-pharynx`.
+7. Scope: only pm4 and pm5. pm3, pm6, pm7 and the marginal cells (mc1, mc2, mc3) are unchanged by this entry. If the same fusion is later shown for any other group, that needs its own decision.
+8. Descriptions: any member or class description that says "binucleate" or "cell-group" for pm4/pm5 is wrong under this model and must be corrected in the enrichment pass, citing the verified reference.
+
+#### Application (to be done, in this order)
+1. Dry-run, then update the Entities tab: retype pm4/pm5, add nuclei synonyms, delete the six member rows. Expected entities: 619 → 613.
+2. Relationships tab: delete rel-004 to rel-009.
+3. Figures tab: CePhaFIG1 holds 8 entity-only rows on the members (panel A: pm4DL-pm4DR, pm4L-pm4VL, pm5DL-pm5DR, pm5L-pm5VL; panel B: pm4DL-pm4DR, pm4R-pm4VR, pm5DL-pm5DR, pm5R-pm5VR, all `labeled`). Replace them with `pm4` and `pm5` in panels A and B (4 rows, `labeled`). Expected figure_entities: 316 → 312. No panel-level content changes.
+4. Importers do not delete rows that disappear from the Sheet (see bugs.md, 2026-10 entry on removed rows). After the imports, delete the retired rows from the database with targeted DELETEs and verify the counts.
+5. Update key_facts.md (the pm4/pm5/mc3 conversion bullets, the Known Data Gaps member-cell list and the counts) in the same pass.
+
+#### Downstream RAG impact
+A query on pm4 or pm5, or on any of their nuclei labels, resolves to one `cell` record, which is what the biology now says. Class-level text is no longer duplicated across three member rows. The cost is a one-time rewrite of 8 figure rows and 6 entity rows. Until the migration is applied, the database still shows the old model.
+
+- **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-10-27, confirmed with Nate Schroeder and David Hall; fusion citation unverified.
 
 ### Decision: Cell-Group Membership via part_of; parent_entity_id Reserved for Single Structural Parent — DECIDED
 
@@ -1769,7 +1803,7 @@ organism rule before the first organism record is created means figure_entities
 
 ### Decision: Nerve Ring entity_id Is the Descriptive Hyphenated Form `nerve-ring` — DECIDED
 
-- **Status:** DECIDED by Chris Crocker, 2026-10-26. Confirmation from David Hall / Nate Schroeder of the `structure` classification is still to be recorded.
+- **Status:** DECIDED by Chris Crocker, 2026-10-26. Hall/Schroeder confirmation of the `structure` classification and the id `nerve-ring` received (reported by Chris Crocker, 2026-10-27).
 - **Date drafted / decided:** 2026-10-26
 - **Relates to:** entity_id Construction for Non-Cell Entities — Glossary Anchor Slug; Glossary Entity Backfill Runs in Parallel with Figure Cataloguing; Aug 2026 Containment Model Affirmed (descriptive hyphenated ids for int-ring-1, intestinal-rectal-valve, rectal-gland); Extended Entity Type ENUM
 
@@ -1791,7 +1825,7 @@ This departs from the anchor-slug rule for this one entity. It is logged here ra
 #### Downstream RAG impact
 The nerve ring is one of the most-queried structures for the nervous-system-first RAG phase and will be labeled in many figures. A stable real id now means figure_entities rows point at one permanent key from the first figure, instead of a placeholder that every figure would need rewriting later. It also removes one PENDING- value that would block the deferred figure_entities foreign key.
 
-- **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-10-26; Hall/Schroeder confirmation pending.
+- **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-10-26; Hall/Schroeder confirmation received 2026-10-27.
 
 ### Decision: Region and Landmark Labels in Figures Are Not Entities — No Row, No PENDING- Placeholder — DECIDED
 
