@@ -552,6 +552,9 @@ PhaFIG1's figure_entities rows reference the member cells only (the figure
 labels individual nuclei; there is no bare "pm4" callout pointing at the
 parent), so the PhaFIG1 draft is unchanged by this decision.
 
+#### Superseded in part for pm4 and pm5 — 2026-10-27
+The pm4 and pm5 parts of this decision (cell-group parents, six member cells) are superseded by "pm4 and pm5 Are Single Syncytial `cell` Entities" (decided 2026-10-27, applied 2026-10-29). mc3 and its three member cells (mc3DL, mc3DR, mc3V) are unchanged by that entry and stay as described here.
+
 #### Naming note settled in the same review
 The Pharynx figure-ID abbreviation is `Pha` (PhaFIG1), not `Phar`;
 conventions.md's Figure ID example was corrected from "PharFIG2" to
@@ -562,7 +565,7 @@ conventions.md's Figure ID example was corrected from "PharFIG2" to
 
 ### Decision: pm4 and pm5 Are Single Syncytial `cell` Entities — Supersedes the cell-group Modeling for pm4 and pm5 Only — DECIDED
 
-- **Status:** DECIDED by Chris Crocker, 2026-10-27, after confirmation with Nate Schroeder and David Hall. APPLICATION STATUS: NOT YET APPLIED to the Sheet or the database (see "Application" below). Update this line when the migration is done.
+- **Status:** DECIDED by Chris Crocker, 2026-10-27, after confirmation with Nate Schroeder and David Hall. APPLICATION STATUS: APPLIED 2026-10-29 to the Sheet, the exports and the local database wormatlas_local (613 entities, 312 figure_entities); dev and production were not touched (see "Applied 2026-10-29" below).
 - **Date drafted / decided:** 2026-10-27
 - **Supersedes (in part):** Pharyngeal pm4, pm5, and mc3 Modeled as cell-group Parents Over Member Cells — DECIDED, for pm4 and pm5 only; and the pm4/pm5 application of Cell-Group Membership via part_of; parent_entity_id Reserved for Single Structural Parent — DECIDED.
 - **Relates to:** Neuron and Multi-Member Cell Classes Are cell-group Entities (its "Scope — multi-member only" clause); WormBase IDs Are the Canonical Identifier; Figure Identifiers Are Permanent; binucleate-cell synonym handling in key_facts.md → Known Data Gaps (IntFIG3 nuclei)
@@ -590,8 +593,19 @@ The earlier pm4/pm5/mc3 decision, and the "Neuron and Multi-Member Cell Classes"
 4. Importers do not delete rows that disappear from the Sheet (see bugs.md, 2026-10 entry on removed rows). After the imports, delete the retired rows from the database with targeted DELETEs and verify the counts.
 5. Update key_facts.md (the pm4/pm5/mc3 conversion bullets, the Known Data Gaps member-cell list and the counts) in the same pass.
 
+#### Applied 2026-10-29
+- Applied to the Sheet, the exports and the LOCAL database wormatlas_local only. Dev and production were not touched.
+- Team confirmation of the retire list (all six member rows) received 2026-10-28.
+- Entities: `pm4` and `pm5` retyped `cell-group` -> `cell`; WBbt ids and the PENDING-pharynx parent unchanged; CePhaFIG1 added to primary_figures. The six member rows were removed. Entities 619 -> 613.
+- Synonyms: only the labels that were already on the retired rows (for example pm4DL-DR and pm4DL-pm4DR) were moved onto `pm4` and `pm5`. The single-nucleus names (for example pm4L, pm4VL, pm4R, pm4VR) have NOT been confirmed by the team and are not synonyms yet; add them when confirmed.
+- Relationships: rel-004 to rel-009 removed. The remaining ids were NOT renumbered; the gap is deliberate. A first attempt that renumbered them was reverted (bugs.md, 2026-10).
+- Figures: CePhaFIG1 panels A and B, the 8 member rows were replaced by `pm4` and `pm5` `labeled` rows (4 rows). figure_entities 316 -> 312. Panel-level content unchanged.
+- Database: backup taken first; dry runs clean; entities import then figures import run; the importers do not delete, so 8 figure_entities rows and 6 anatomical_entities rows were removed with targeted DELETE statements (row counts 8 and 6). Final counts 613 and 312.
+- Item 8 (descriptions): the `pm4` and `pm5` descriptions already say "Multinucleated". The words "binucleate" and "one of the three cells comprising the pm4/pm5 muscle group" were only in the retired member rows, so no description correction is needed for pm4/pm5 on that point.
+- Still open: add the single-nucleus synonyms after team confirmation; verify and record the fusion citation (Harry et al., 2022, as cited by Nate Schroeder, not seen); WormBase ontology update for pm4/pm5 is WormBase's to make.
+
 #### Downstream RAG impact
-A query on pm4 or pm5, or on any of their nuclei labels, resolves to one `cell` record, which is what the biology now says. Class-level text is no longer duplicated across three member rows. The cost is a one-time rewrite of 8 figure rows and 6 entity rows. Until the migration is applied, the database still shows the old model.
+A query on pm4 or pm5, or on any of their nuclei labels, resolves to one `cell` record, which is what the biology now says. Class-level text is no longer duplicated across three member rows. The cost is a one-time rewrite of 8 figure rows and 6 entity rows. The migration was applied to the local database on 2026-10-29.
 
 - **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-10-27, confirmed with Nate Schroeder and David Hall; fusion citation unverified.
 
@@ -630,6 +644,7 @@ conflated:
 - The 9 pm4/pm5/mc3 member cells: `part_of` {pm4 | pm5 | mc3}, and
   `parent_entity_id = PENDING-pharynx`.
 - The 3 cell-groups pm4, pm5, mc3: `parent_entity_id = PENDING-pharynx`.
+- Superseded for pm4 and pm5 by "pm4 and pm5 Are Single Syncytial `cell` Entities" (decided 2026-10-27, applied 2026-10-29): those two now have no member cells and no part_of rows. The member-cell lines above apply to mc3 only.
 - PENDING-pharynx (not "pharynx") is used because the pharynx organ has no
   confirmed entity_id yet (key_facts.md); the value cascades to the real id
   on backfill. parent_entity_id sits at organ level because pharyngeal
