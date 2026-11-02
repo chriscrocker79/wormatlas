@@ -1818,6 +1818,28 @@ organism rule before the first organism record is created means figure_entities
 
 ### Decision: Nerve Ring entity_id Is the Descriptive Hyphenated Form `nerve-ring` — DECIDED
 
+### Decision: Arcade Cells Are Modelled as cell-group Entities — `arcade-cells`, `anterior-arcade`, `posterior-arcade` — DECIDED
+
+- **Status:** DECIDED by Chris Crocker, 2026-10-30. Hall/Schroeder confirmation of the `cell-group` classification still to be recorded. The 3 anterior plus 6 posterior cell count was supplied by Chris Crocker (from Nate Schroeder's material) on 2026-10-30.
+- **Date drafted / decided:** 2026-10-30
+- **Relates to:** Neuron and Multi-Member Cell Classes Are cell-group Entities; Cell-Group Membership via part_of; parent_entity_id Reserved for Single Structural Parent; Aug 2026 Containment Model Affirmed (descriptive hyphenated ids for int-ring-1, intestinal-rectal-valve, rectal-gland); Nerve Ring entity_id Is the Descriptive Hyphenated Form; Region and Landmark Labels in Figures Are Not Entities
+
+#### Context
+CePhaFIG9 (legacy PhaFIG 4E-I) labels "Arcade cells" (panel C), "Ant. arcade" and "Post. arcade" (panel D) and "Arcade" (panel E). The Entities tab had no arcade rows. There are nine arcade cells: three anterior (arc ant DL, arc ant DR, arc ant V) and six posterior (arc post D, DL, DR, V, VL, VR). The two rings were first described as "structures"; the figure labels name fixed sets of named cells, so they are modelled as cell-groups.
+
+#### Decision
+1. Nine `cell` entities, entity_id = the cell name exactly as written, with spaces (arc ant DL, arc ant DR, arc ant V, arc post D, arc post DL, arc post DR, arc post V, arc post VL, arc post VR), each with its own WBbt id as supplied by Chris Crocker (see key_facts.md). Spaces are allowed in cell ids (precedent: "Ant DTC", "mu anal").
+2. Three `cell-group` entities with descriptive hyphenated ids (the int-ring-1 / intestinal-rectal-valve pattern, not the nomenclatural class-name form): `anterior-arcade` (3 cells), `posterior-arcade` (6 cells) and `arcade-cells` (the two rings, 9 cells).
+3. Membership is `part_of` (Relationships tab): each cell part_of its ring (rel-030 to rel-038); each ring part_of `arcade-cells` (rel-039, rel-040). Cells are not also linked directly to `arcade-cells` (non-redundant, per the Aug 2026 containment decision).
+4. `parent_entity_id` = `alimentary-system` for all twelve rows (the single structural parent, as for the valve and gland groups).
+5. The three groups carry no wormbase_id yet. Class-level WBbt lookups are owed (never inferred from members).
+6. Figure rows use the real ids. No PENDING- placeholder was introduced for the arcade.
+
+#### Downstream RAG impact
+A query on a single cell resolves to a `cell`, a query on "anterior arcade" or "arcade cells" resolves to a group record, and "what is arc post V part of" and "what contains arc post V" return different, correct answers.
+
+- **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-10-30; Hall/Schroeder confirmation pending.
+
 - **Status:** DECIDED by Chris Crocker, 2026-10-26. Hall/Schroeder confirmation of the `structure` classification and the id `nerve-ring` received (reported by Chris Crocker, 2026-10-27).
 - **Date drafted / decided:** 2026-10-26
 - **Relates to:** entity_id Construction for Non-Cell Entities — Glossary Anchor Slug; Glossary Entity Backfill Runs in Parallel with Figure Cataloguing; Aug 2026 Containment Model Affirmed (descriptive hyphenated ids for int-ring-1, intestinal-rectal-valve, rectal-gland); Extended Entity Type ENUM
