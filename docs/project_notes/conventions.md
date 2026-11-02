@@ -619,6 +619,16 @@ Rules:
 - After a run, record the new row counts in key_facts.md ("Current
   contents").
 
+- Commit the refreshed export CSVs (exports/Entities.csv, exports/Figures.csv
+  and exports/Relationships.csv) after each import batch, in the same pull
+  request as that batch's notes where possible, so the repository records
+  exactly what was imported. Stage the three files by name. Export the
+  Relationships tab every time even if it did not change: the importers do not
+  read it (the database has no relationships table), so the export is the only
+  copy of the relationship rows outside the Sheet. Before accepting a new
+  Relationships export, diff it against the previous copy and check that no
+  id appears twice (ids are never renumbered or reused).
+
 ### Figures tab — one spreadsheet, two tables
 
 The Figures tab is a flat, merged view of two different database tables.
@@ -718,3 +728,5 @@ ACCESSIBILITY_CHECKLIST.md, FIGURE_CATALOGING_PROMPT_TEMPLATE.md).
 2026-10-16 — Added "Project Notes Files & Project Knowledge": repo is the source of truth; upload notes files from disk, never paste from the rendered view; one copy per file in Project Knowledge. See bugs.md (Oct 2026).
 
 2026-10-21 — Added "Import order: entities first, then figures" to Spreadsheet Import Scripts, following the first full entity import (617 entities; see key_facts.md and bugs.md).
+
+2026-11-02 — Added the rule that the exports/ CSVs are committed after each import batch, with a Relationships diff check before accepting the tab. See key_facts.md (CePhaFIG9 entry).
