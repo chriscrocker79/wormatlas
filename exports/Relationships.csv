@@ -43,3 +43,5 @@ rel-046,e2V,part_of,e2,1,CePhaFIG10,"Member cell of the e2 cell-group (e2 cell-g
 rel-047,e3D,part_of,e3,1,CePhaFIG10,"Member cell of the e3 cell-group (e3 cell-group creation, Nov 2026)"
 rel-048,e3VL,part_of,e3,1,CePhaFIG10,"Member cell of the e3 cell-group (e3 cell-group creation, Nov 2026)"
 rel-049,e3VR,part_of,e3,1,CePhaFIG10,"Member cell of the e3 cell-group (e3 cell-group creation, Nov 2026)"
+rel-050,I2L,part_of,I2,1,CePhaFIG11,"Member cell of the I2 cell-group (I2 cell-group creation, Nov 2026)"
+rel-051,I2R,part_of,I2,1,CePhaFIG11,"Member cell of the I2 cell-group (I2 cell-group creation, Nov 2026)"
