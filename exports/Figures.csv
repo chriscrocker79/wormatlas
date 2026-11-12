@@ -182,7 +182,7 @@ CePhaFIG1,A,e3VL,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,A,mc1DL,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,A,mc1V,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,A,mc2DL,labeled,,,,,,,,,,,,,,,,,,,,,,,
-CePhaFIG1,A,mc3DL,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG1,A,mc3,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,A,mc2V,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,A,g1AL,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,A,g2L,labeled,,,,,,,,,,,,,,,,,,,,,,,
@@ -212,8 +212,7 @@ CePhaFIG1,B,e1VR,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,B,e3VR,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,B,mc1DR,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,B,mc2V,labeled,,,,,,,,,,,,,,,,,,,,,,,
-CePhaFIG1,B,mc3DR,labeled,,,,,,,,,,,,,,,,,,,,,,,
-CePhaFIG1,B,mc3V,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG1,B,mc3,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,B,g1AR,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,B,g1P,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CePhaFIG1,B,g2R,labeled,,,,,,,,,,,,,,,,,,,,,,,
@@ -366,3 +365,48 @@ CeRectFIG2,D,rect_D,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CeRectFIG2,D,rect_VR,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CeRectFIG2,D,rect_VL,labeled,,,,,,,,,,,,,,,,,,,,,,,
 CeRectFIG2,D,intestine,visible,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,pm1,primary,"Table of characteristics of the pharyngeal muscle cell classes and marginal cell classes of C. elegans, shown as an image with four columns: Cell name, Cell number, type, Nucleus count, and Synaptic input. It has eleven rows, one each for pm1, pm2, pm3, pm4, pm5, pm6, pm7, pm8, mc1, mc2 and mc3. Footnote letters a to e appear in superscript after some cell types and some neuron names in the Synaptic input column. The credit ""©WormAtlas"" appears at the lower right.",table,N/A,0,N/A,N/A,Albertson and Thomson 1976; Bhatla et al. 2015; Cook et al. 2019; Harry et al. 2022,,,N/A,©WormAtlas,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"PhaTABLE 1: Characteristics of pharyngeal muscle cells and marginal cells. Columns: Cell name | Cell number, type | Nucleus count | Synaptic input [b]. Footnote letters are shown in square brackets.
+pm1 | one, syncytial | six nuclei | M1 [b,c]; I1 [c]; I2 [d]
+pm2 | three, syncytial | two nuclei each; total six | M1 [b,c]
+pm3 | three, syncytial | two nuclei each; total six | M1 [b,c]; I1 [c]; I2 [c,d]
+pm4 | one, syncytial [a] | six nuclei | M1 [c]; M2 [b,c]; M3 [b,c]; M4 [c]; MI [b,c]; NSM [c]; I1 [c]; I2 [c]; I3 [c]; I4 [c]; MC [e]
+pm5 | one, syncytial [a] | six nuclei | M1 [c]; M2 [b,c]; M3 [b,c]; M4 [c]; MI [c]; NSM [b,c]; I1R [c]; I2L [c,d]; I3 [c]; I4 [c]; I5 [b,c]; I6 [c]
+pm6 | three, nonsyncytial | one nucleus count | M4 [e]; M5 [b,c]; I5 [c]
+pm7 | three, nonsyncytial | one nucleus count | M5 [b,c]
+pm8 | one, nonsyncytial | one nucleus | No direct innervation from motor neurons [b,c]
+mc1 | three, nonsyncytial | one nucleus each | M2 to subdorsal [b]
+mc2 | three, nonsyncytial | one nucleus each | MC [c]
+mc3 | one, syncytial | three nuclei | M5 [b,c]
+General note: as a general rule, cells also have gap junctions with their nearest neighbors (marginal cell to muscle cell within a segment, marginal cell to marginal cell, and muscle cell to muscle cell between segments).
+[a] pm4 and pm5 were originally described as a set of three binucleate syncytia (Albertson and Thomson 1976). Reanalysis by Harry et al. (2022) of original MRC micrographs has shown that both are single syncytia with six nuclei each.
+[b] Synaptic input for Albertson and Thomson (1976) did not distinguish between bilaterally symmetrical cells.
+[c] Cook et al. (2019) conducted a reanalysis of the original MRC micrographs and uncovered previously unknown connections.
+[d] Bhatla et al. (2015) restricted their analysis to a subset of connections.
+[e] Leon Avery, pers. comm.",N/A,N/A,"CePhaFIG12 is a table of characteristics of the pharyngeal muscle cell classes (pm1 to pm8) and marginal cell classes (mc1 to mc3) of C. elegans. It has one row per class and four columns: cell name, cell number and type (one or three cells; syncytial or nonsyncytial), nucleus count, and synaptic input, which lists the pharyngeal neuron classes reported to synapse onto that class, with footnote letters showing the source of each report. pm1, pm4, pm5 and mc3 are each a single syncytial cell, pm2 and pm3 are three syncytial cells with two nuclei each, and pm6, pm7, pm8, mc1 and mc2 are nonsyncytial. pm8 has no direct innervation from motor neurons.","In CePhaFIG12, which pharyngeal muscle cell classes are syncytial? In CePhaFIG12, how many nuclei does each pharyngeal muscle and marginal cell class contain? In CePhaFIG12, which pharyngeal cell classes receive synaptic input from the M1 neuron? In CePhaFIG12, which pharyngeal cell class has no direct innervation from motor neurons? In CePhaFIG12, which neuron classes are reported to form synapses on pm5? In CePhaFIG12, which marginal cell classes are nonsyncytial, and what synaptic input does each receive?"
+CePhaFIG12,A,pm2,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,pm3,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,pm4,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,pm5,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,pm6,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,pm7,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,pm8,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,mc1,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,mc2,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,mc3,primary,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,M1,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,M2,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,M3,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,M4,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,M5,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,MI,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,NSM,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,I1,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,I2,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,I3,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,I4,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,I5,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,I6,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,MC,labeled,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,PENDING-pharyngeal-muscle,visible,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,PENDING-marginal-cells,visible,,,,,,,,,,,,,,,,,,,,,,,
+CePhaFIG12,A,PENDING-pharynx,visible,,,,,,,,,,,,,,,,,,,,,,,

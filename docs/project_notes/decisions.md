@@ -553,7 +553,7 @@ labels individual nuclei; there is no bare "pm4" callout pointing at the
 parent), so the PhaFIG1 draft is unchanged by this decision.
 
 #### Superseded in part for pm4 and pm5 — 2026-10-27
-The pm4 and pm5 parts of this decision (cell-group parents, six member cells) are superseded by "pm4 and pm5 Are Single Syncytial `cell` Entities" (decided 2026-10-27, applied 2026-10-29). mc3 and its three member cells (mc3DL, mc3DR, mc3V) are unchanged by that entry and stay as described here.
+The pm4 and pm5 parts of this decision (cell-group parents, six member cells) are superseded by "pm4 and pm5 Are Single Syncytial `cell` Entities" (decided 2026-10-27, applied 2026-10-29). mc3 and its three member cells (mc3DL, mc3DR, mc3V) are unchanged by that entry and stay as described here. Superseded for mc3 as well on 2026-11-12 (see "mc3 Is a Single Syncytial `cell` Entity"); the mc3 member cells mc3DL, mc3DR and mc3V were retired.
 
 #### Naming note settled in the same review
 The Pharynx figure-ID abbreviation is `Pha` (PhaFIG1), not `Phar`;
@@ -583,7 +583,7 @@ The earlier pm4/pm5/mc3 decision, and the "Neuron and Multi-Member Cell Classes"
 4. Retired member entity_ids are never reused for a different entity.
 5. wormbase_id stays as it is on pm4 (WBbt:0003739) and pm5 (WBbt:0003737). WormBase has not yet updated its ontology; revisit if it does. The nuclei terms found for pm4DL and pm4DR (WBbt:0004320 and WBbt:0004319, supplied by Chris Crocker) are NOT entered in any wormbase_id field; they may be recorded as a note.
 6. parent_entity_id of pm4 and pm5 stays `PENDING-pharynx`.
-7. Scope: only pm4 and pm5. pm3, pm6, pm7 and the marginal cells (mc1, mc2, mc3) are unchanged by this entry. If the same fusion is later shown for any other group, that needs its own decision.
+7. Scope: only pm4 and pm5. pm3, pm6, pm7 and the marginal cells (mc1, mc2, mc3) are unchanged by this entry. If the same fusion is later shown for any other group, that needs its own decision. Extended to mc3 on 2026-11-12 by a separate entry.
 8. Descriptions: any member or class description that says "binucleate" or "cell-group" for pm4/pm5 is wrong under this model and must be corrected in the enrichment pass, citing the verified reference.
 
 #### Application (to be done, in this order)
@@ -608,6 +608,39 @@ The earlier pm4/pm5/mc3 decision, and the "Neuron and Multi-Member Cell Classes"
 A query on pm4 or pm5, or on any of their nuclei labels, resolves to one `cell` record, which is what the biology now says. Class-level text is no longer duplicated across three member rows. The cost is a one-time rewrite of 8 figure rows and 6 entity rows. The migration was applied to the local database on 2026-10-29.
 
 - **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-10-27, confirmed with Nate Schroeder and David Hall; fusion citation unverified.
+
+### Decision: mc3 Is a Single Syncytial `cell` Entity — Extends the pm4 and pm5 Decision to mc3 — DECIDED
+
+- **Status:** DECIDED by Chris Crocker, 2026-11-11, as the same treatment already settled for pm4 and pm5 on 2026-10-27. APPLICATION STATUS: APPLIED 2026-11-12 to the Sheet, the exports and the local database wormatlas_local (634 entities, 393 figure_entities); dev and production were not touched (see "Applied 2026-11-12" below).
+- **Date drafted / decided:** 2026-11-11
+- **Supersedes (in part):** Pharyngeal pm4, pm5, and mc3 Modeled as cell-group Parents Over Member Cells — DECIDED, for mc3 (its last remaining part); and the mc3 application of Cell-Group Membership via part_of; parent_entity_id Reserved for Single Structural Parent — DECIDED.
+- **Extends:** pm4 and pm5 Are Single Syncytial `cell` Entities (its item 7 limited its scope to pm4 and pm5 and said any other group "needs its own decision"; this is that decision).
+- **Relates to:** Neuron and Multi-Member Cell Classes Are cell-group Entities (its "Scope — multi-member only" clause); WormBase IDs Are the Canonical Identifier; Figure Identifiers Are Permanent
+
+#### Context
+PhaTABLE 1 (CePhaFIG12), "Characteristics of pharyngeal muscle cells and marginal cells", lists mc3 as one syncytial cell with three nuclei, while mc1 and mc2 are three nonsyncytial cells with one nucleus each. The Entities tab modelled mc3 as a cell-group over three member cells (mc3DL, mc3DR, mc3V), the same modelling that was retired for pm4 and pm5.
+
+#### Conflict declared
+The earlier pm4/pm5/mc3 decision left mc3 as a cell-group. That conflicts with the table. A single syncytial cell is a singleton under the cell-group rule's own scope clause, so it stays `cell`.
+
+#### Decision
+1. `mc3` changes entity_type from `cell-group` to `cell`. Its entity_id, wormbase_id (WBbt:0003707) and parent_entity_id (PENDING-pharynx) do not change.
+2. The three member entities are RETIRED: mc3DL, mc3DR and mc3V. Their labels become synonyms on `mc3`. Retired ids are never reused. The three rows were drafts with no WBbt id, so no WBbt id is lost.
+3. The three `part_of` rows rel-010 to rel-012 are removed from the Relationships tab. Ids are not renumbered; the gap rel-004 to rel-012 is deliberate.
+4. CePhaFIG1 rows that used the member ids are replaced: panel A `mc3DL` becomes `mc3`; panel B `mc3DR` becomes `mc3` and `mc3V` is deleted (3 rows become 2, all `labeled`). The on-image labels mc3DL, mc3DR and mc3V stay in the CePhaFIG1 panel descriptions, since they are what the figure shows.
+5. Scope: mc3 only. mc1 and mc2 (three nonsyncytial cells each) stay cell-groups, now with their own cell-group parent rows (created in the same CePhaFIG12 pass).
+6. Hall/Schroeder confirmation of the mc3 syncytial reading is not recorded here; the basis is the legacy WormAtlas table (PhaTABLE 1).
+
+#### Applied 2026-11-12
+- Applied to the Sheet, the exports and the LOCAL database wormatlas_local only. Dev and production were not touched.
+- Entities: `mc3` retyped; mc3DL, mc3DR and mc3V removed; mc3DL, mc3DR and mc3V added to the synonyms. Relationships: rel-010 to rel-012 removed. Figures: CePhaFIG1 edited as in item 4.
+- Database: backup taken first; the importers do not delete, so 3 anatomical_entities rows and 3 figure_entities rows were removed with targeted DELETE statements (row counts 3 and 3).
+- Final counts after the whole CePhaFIG12 pass: anatomical_entities 634, figures 57 panel rows, figure_entities 393.
+
+#### Downstream RAG impact
+A query on mc3 or any of its nucleus labels resolves to one `cell` record, matching the biology in the table. Class-level text is no longer duplicated across member rows.
+
+- **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-11-11.
 
 ### Decision: Cell-Group Membership via part_of; parent_entity_id Reserved for Single Structural Parent — DECIDED
 
@@ -644,7 +677,7 @@ conflated:
 - The 9 pm4/pm5/mc3 member cells: `part_of` {pm4 | pm5 | mc3}, and
   `parent_entity_id = PENDING-pharynx`.
 - The 3 cell-groups pm4, pm5, mc3: `parent_entity_id = PENDING-pharynx`.
-- Superseded for pm4 and pm5 by "pm4 and pm5 Are Single Syncytial `cell` Entities" (decided 2026-10-27, applied 2026-10-29): those two now have no member cells and no part_of rows. The member-cell lines above apply to mc3 only.
+- Superseded for pm4 and pm5 by "pm4 and pm5 Are Single Syncytial `cell` Entities" (decided 2026-10-27, applied 2026-10-29): those two now have no member cells and no part_of rows. The member-cell lines above apply to mc3 only. Also superseded for mc3 (2026-11-12): no member cells and no part_of rows remain for pm4, pm5 or mc3.
 - PENDING-pharynx (not "pharynx") is used because the pharynx organ has no
   confirmed entity_id yet (key_facts.md); the value cascades to the real id
   on backfill. parent_entity_id sits at organ level because pharyngeal
@@ -1488,6 +1521,25 @@ columns until `--drop-legacy` is run after verification.
 as NULL.
 
 - **Logged by:** Claude (drafted) — signed off by Chris Crocker, September 2026.
+
+### Decision: PhaTABLE 1 Is Delivered as a Native HTML Table; Synaptic Input Not Modelled as Relationships Yet — DECIDED
+
+- **Status:** DECIDED by Chris Crocker, 2026-11-11.
+- **Date drafted / decided:** 2026-11-11
+- **Relates to:** Figure Type Axes Split (item 3: media_type = table is a native HTML table where possible); Standardized Figure Metadata Structure; ACCESSIBILITY_CHECKLIST.md
+
+#### Context
+CePhaFIG12 (legacy PhaTABLE 1) exists on the live site only as a JPG. A flat image is invisible to screen readers and unusable by the RAG pipeline. Its fourth column lists, for each pharyngeal muscle and marginal cell class, the neuron classes reported to form synapses on it.
+
+#### Decision
+1. On the new site the table is a native HTML `<table>`: a `<caption>` carrying the PhaTABLE 1 title; `<th scope="col">` for the four column headers and `<th scope="row">` for the cell names; footnote letters as real `<sup>` links to a footnote list below the table; a keyboard-focusable, horizontally scrollable wrapper on small screens (a stacked card layout is the alternative). The JPG is kept only as a downloadable original-image link.
+2. For CePhaFIG12, media_file and media_format are N/A. The `text_alternative` holds the full table (footnotes a to e included) and is the retrieval surface until the HTML table exists.
+3. Synaptic input is NOT modelled as relationship rows for now. The Relationships tab uses only `part_of` and `adjacent_to`; the established vocabulary in key_facts.md also lists `connected_to`, but none of these is defined for directed synaptic input with per-source footnotes (b to e). Before any synaptic-input rows are added, the team must decide whether `connected_to` or a new relationship type carries them, and how the footnote sources are recorded.
+
+#### Downstream RAG impact
+The HTML table and the `text_alternative` are the retrieval surfaces for the table. Questions about which neurons synapse on which pharyngeal cells are answered from that text until relationships exist.
+
+- **Logged by:** Claude (drafted) — decided by Chris Crocker, 2026-11-11.
 
 Decision: Figure Identifier Format — DECIDED
 Pattern: [SpeciesCode][StageToken?][SectionToken]FIG[Number]
