@@ -751,6 +751,46 @@ Source file: wormatlas_entities_WITH_WORMFINDR_DATA_01-2026
 - Owed review: Hall/Schroeder to confirm the CeIntFIG2 panel C-bottom summary's claim that the nuclear GFP signal "corresponds to the nucleolus" (unverified).
 - Owed cleanup: the int1DL primary_figures still cites the bare legacy "IntFIG5", which now splits into more than one figure. An editor needs to pick the right new ID.
 
+## Connectome Explorer (prototype)
+
+A single-file interactive map of the *C. elegans* hermaphrodite connectome. A prototype built outside the project plan; see decisions.md → CONNECTOME EXPLORER and the connectome-explorer-handoff.md file. "Connectome Explorer" is a placeholder title; "Worm Wiring" must not be used.
+
+### Where it lives
+- Review copy: private claude.ai Artifact https://claude.ai/artifact/5xLQVSkkbhTugkB9pmzdLu (Version 12 as of 2026-11-20). Update it in place by republishing the same file so the link does not change. Only one chat edits it at a time.
+- Standalone dev copy: `connectome-explorer.html` (carries `noindex, nofollow`). How it is uploaded to dev.wormatlas.org, and whether it has been, is not recorded. Greg Parks is the fallback.
+- Not linked from wormatlas.org.
+
+### Source data (as supplied by Chris Crocker)
+- File: `Fig. 1 Hermaphrodite nervous system.cys` (Cytoscape session, saved April 2020; internal session folder `CytoscapeSession-2020_04_09-15_41`). Network name "Newest_10-12-16".
+- 473 nodes and 6,312 directed edges: 4,869 chemical and 1,443 gap junction. Edge weights (synapse counts) 1 to 244. 55 self-loops.
+- Node types: 138 motor, 136 muscle, 88 sensory, 74 interneuron, 28 end organ, 9 marginal cell. The 300 neuron-type cells (motor + sensory + interneuron) are fewer than the 302 neurons of the adult hermaphrodite (GLOSSARY.md); which two are missing is not identified.
+- The node positions in the explorer are the Cytoscape layout, stored in the file's view.
+- The file contains NO neurotransmitter text, descriptions, gene or innexin expression, or morphology.
+- **Data version and provenance are NOT verified.** The counts resemble the Cook et al. 2019 hermaphrodite dataset, but that is only a suspicion. Do not cite Cook et al. 2019, or any other source, for this data until the version is confirmed. The explorer's on-page source line ("Source: Scott Emmons; WormWiring.org") is a placeholder.
+- Reuse permission for the data, the Cytoscape layout and the body-model SVG has not been checked (decisions.md Open Question 17). The repository is public: do not commit these files.
+
+### Body model
+- An SVG supplied by Chris Crocker, drawn from a left-side view; the explorer draws one dot per left/right pair, left-side body-wall muscle strips only (dorsal 1 to 24, ventral 1 to 23), and a head-detail inset of the pharyngeal neurons. Non-neuronal cells (hyp, int, bm, mu_int) are not drawn.
+- `PM6D` in the source SVG was a typo for `pm6D`.
+
+### WormWiring links
+Two URL patterns were supplied; no others are known:
+- `<base>/neuronMaps/?cell=<CELL>&sex=1&db=N2U`
+- `<base>/neuronMaps/?cell=<CELL>&sex=-1&db=N930`
+
+(`<base>` is the WormWiring address exactly as it appears in the legacy ADAL page links; paste the full verified URLs here from that page. They were not recorded in the project notes.) The prototype assumes the first applies to cells whose legacy label ends in "h" and the second to "m". That is an assumption to confirm. MoW and Nemanode links exist on the legacy page; those names are not expanded here because the expansion has not been confirmed.
+
+### Legacy neuron page fields (from the ADAL/ADAR page)
+Type; connectivity links (MoW, WormWiring, Nemanode, WormBase); lineage; location; description; neurotransmitter / neuropeptide; innexin expression; receptor expression; function; one JPG per cell. The ADA class text and its seven citations (Loer and Rand 2022; Janssen et al. 2009; Li and Kim 2008; Lee et al. 1999; Altun et al. 2009; Bhattacharya et al. 2019; Sohn et al. 2011) are legacy text, pasted verbatim into the prototype. ADA is not among the 70 enhanced descriptions, and it has not been checked against Verified Neurotransmitter Corrections.
+
+WormBase IDs pasted from the legacy page and NOT re-verified: ADA WBbt:0006811, ADAL WBbt:0004013, ADAR WBbt:0004011.
+
+### Overlap between the explorer's cell names and Entities.csv (snapshot, 2026-11-20)
+Of the 473 graph cell names: 256 match an Entities.csv `entity_id` exactly; 64 more match only after zero-padding the number; 153 match nothing. Of the unmatched, 128 are muscle names, and at least one name (`mc3`) is a retired name; the rest were not categorised. Entities.csv has no rows for the classes ADA, ASE or AVA; ADAL and ADAR exist as `cell` stubs with 33-word descriptions, and ADAR's still says "located to the left of the terminal bulb" (the copied-laterality error). 141 of the 634 Entities.csv rows have descriptions of 150 words or more, all with status `review`.
+### Rules for anyone adding to this section
+- Never write a WormBase ID, a species term or a taxonomy identifier here from memory. Copy it from the source and say where it came from.
+- Counts come from a script run on the file named, with the date.
+
 ## Enhanced Cell Descriptions — Status (as of March 2026)
 - 70 nervous system cells have completed enhanced descriptions
 - All follow the writing standard in conventions.md

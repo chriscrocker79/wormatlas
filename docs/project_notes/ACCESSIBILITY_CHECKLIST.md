@@ -51,6 +51,7 @@ Applies to every figure whose media_type has is_time_based = 1 (movie, animation
 - [ ] 🔴 Custom interactive components (dropdowns, modals, sliders) implement keyboard patterns from ARIA Authoring Practices Guide
 - [ ] Keyboard shortcuts (if any) can be turned off or remapped
 - [ ] 🔴 Interactive 3D models (is_interactive = 1) are fully operable by keyboard — rotate, zoom, and pan have keyboard equivalents, not mouse-drag only (WCAG 2.1.1)
+- Interactive maps and diagrams (for example the Connectome Explorer): keyboard operation, a table or CSV alternative, tooltips also available on focus and tap, pause control and reduced-motion support for any animation. See conventions.md → Interactive Visualisation Conventions.
 
 ### 2.2 Enough Time
 - [ ] No time limits on core tasks (or user can extend/disable them)

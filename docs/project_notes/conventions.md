@@ -685,7 +685,7 @@ raise a type error or silently link rows to the wrong figure.
 
 These rules apply to every file in docs/project_notes/ (decisions.md,
 bugs.md, key_facts.md, conventions.md, GLOSSARY.md,
-ACCESSIBILITY_CHECKLIST.md, FIGURE_CATALOGING_PROMPT_TEMPLATE.md).
+ACCESSIBILITY_CHECKLIST.md, FIGURE_CATALOGING_PROMPT_TEMPLATE.md, connectome-explorer-handoff.md).
 
 - The repo copy in docs/project_notes/ is the source of truth. The Claude
   Project Knowledge copy is a mirror of it and must be identical.
@@ -718,6 +718,32 @@ ACCESSIBILITY_CHECKLIST.md, FIGURE_CATALOGING_PROMPT_TEMPLATE.md).
 - Heading hierarchy must be logical (h1 → h2 → h3, no skipping)
 - Use semantic HTML first — ARIA only when native semantics are insufficient
 
+## INTERACTIVE VISUALISATION CONVENTIONS
+
+These rules apply to the Connectome Explorer and any later interactive map, diagram or chart (see decisions.md → CONNECTOME EXPLORER).
+
+### Drawings and SVG files
+- Orientation: the head is on the LEFT, anterior to the left, dorsal at the top, matching the body model. A redrawn image that faces the other way is flipped before it is accepted.
+- Every label is real text in the SVG (a `<text>` element), not outlines or an image of text, so it can be read, selected, translated and searched.
+- Every SVG has a `<title>` and a `<desc>`, and the page that shows it has alt text written to the Figure Cataloging standard. Decorative parts are hidden from assistive technology.
+- IDs inside an SVG for a cell use the cell's `entity_id` exactly as written in the Entities sheet (for example `AINL`, not a lowercase or re-spelled form). A mismatch silently breaks selection.
+- Colour is never the only signal (for example neuron red on pharynx green): add shape, pattern, line style or a text label. Check text and meaningful graphics at 4.5:1 and 3:1 against the background in both themes.
+- Keep drawings flat and simple. Do not embed large raster images as base64 in a production SVG.
+
+### Interaction
+- Nothing is available on hover alone. Anything shown on hover is also shown on keyboard focus and on tap, and the same information is reachable another way (a list or table).
+- Every interactive map has a keyboard route and a non-visual alternative: a table of the same data, with a download as CSV. A canvas drawing is not an accessible alternative on its own.
+- Any movement (growth, flow, animation) has a pause control, runs only on request or can be switched off, and respects `prefers-reduced-motion`.
+- Light theme is the default on every device. Dark mode is used only when the viewer selects it.
+- Tabs follow the ARIA tab pattern: arrow keys move between tabs, one tab stop for the group. If that is not built, use buttons instead of `role="tab"`.
+
+### Prototype versus production
+A single-file prototype may use inline CSS and JavaScript and an external font service. A production page may not: CSS and JavaScript in external files, fonts self-hosted (decisions.md Open Question 9), data from the REST API under /api/v1/ and never copied into the page. A prototype is not linked from wormatlas.org and is not committed to the repository.
+
+### Data and content
+- Cell text, transmitters, expression and links shown for a cell come from the database, with the source cited. They are not retyped into the page.
+- Transmitter and neuropeptide values are checked against key_facts.md → Verified Neurotransmitter Corrections before display.
+- The direction of a connection is shown in words ("Sends to", "Receives from", "Gap junction with"). The symbols `+` and `-` are reserved for excitatory and inhibitory effect, and only when that effect comes from sourced data.
 
 ## REVISION HISTORY 
 
@@ -730,3 +756,5 @@ ACCESSIBILITY_CHECKLIST.md, FIGURE_CATALOGING_PROMPT_TEMPLATE.md).
 2026-10-21 — Added "Import order: entities first, then figures" to Spreadsheet Import Scripts, following the first full entity import (617 entities; see key_facts.md and bugs.md).
 
 2026-11-02 — Added the rule that the exports/ CSVs are committed after each import batch, with a Relationships diff check before accepting the tab. See key_facts.md (CePhaFIG9 entry).
+
+2026-11-20 — Added "Interactive Visualisation Conventions" (SVG authoring, no hover-only information, keyboard and table alternatives, motion, tab pattern, prototype versus production) from the Connectome Explorer prototype. See decisions.md → CONNECTOME EXPLORER.

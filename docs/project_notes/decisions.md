@@ -1655,6 +1655,188 @@ Mechanism".
 
 ---
 
+## CONNECTOME EXPLORER
+
+### Decision: Connectome Explorer Is a Prototype; Display Rules for the Network Map and Body Model Are Settled for the Prototype — DECIDED (prototype only); production adoption PENDING
+
+- **Status:** DECIDED by Chris Crocker for the prototype, 2026-11-16 (the rules below were approved one by one during review). Adopting the explorer as a production WormAtlas feature is PENDING (see "Connectome Explorer Work Is Phased, With a Go/No-Go Gate Before Any Production Build"). David Hall and Nate Schroeder did not request the explorer.
+- **Date drafted / decided:** 2026-11-16 (revised 2026-11-20)
+- **Relates to:** WCAG 2.1 AA Compliance Is Non-Negotiable; Mobile-First Development; RAG Search Is a Primary Deliverable; Unified Entities Table; Git Hosting Platform — GitHub; conventions.md (no inline CSS/JS in production files); key_facts.md → Connectome Explorer (prototype)
+- **Where it lives:** a single self-contained HTML file. A private claude.ai Artifact is the review copy (Version 12 as of 2026-11-20). A standalone copy, `connectome-explorer.html` (`noindex, nofollow`), exists for dev.wormatlas.org. The upload method and server login for dev are not recorded in the project notes; Greg Parks is the fallback. Whether the dev copy has been uploaded is not recorded.
+
+#### Context
+Built in Chris Crocker's free time as a proof of concept: an interactive map of the *C. elegans* hermaphrodite connectome (chemical synapses with synapse counts, and gap junctions) with a linked adult-hermaphrodite body model and a head-detail inset of the pharyngeal neurons. It is not a deliverable on the 9-month plan. "Connectome Explorer" is a placeholder title; the name "Worm Wiring" must not be used. Source data, counts and cell-name coverage are in key_facts.md → Connectome Explorer (prototype).
+
+#### Decisions (prototype)
+1. **Body model.** The model is a left-side view with one dot per left/right pair. The head-detail inset sits in the same card as the body, under the map, and follows cell selection. A dashed box on the body marks the inset's region.
+2. **Left/right sharing.** A graph cell with an L/R partner (for example AVAL and AVAR) selects and highlights the one shared dot. Vulva muscles follow the same rule.
+3. **Body-wall muscles.** The model draws only the left-side strips: dorsal 1 to 24 and ventral 1 to 23. A right-side muscle does NOT highlight a left strip; it has no strip on the model.
+4. **Cells not drawn.** Non-neuronal cells (hyp, int, bm, mu_int) are intentionally not drawn.
+5. **Naming fixes.** `pm1` links to the two model dots `pm1D` and `pm1VL`. `PM6D` in the source SVG was a typo and is `pm6D`.
+6. **Orientation.** The body and inset show anterior-posterior and dorsal-ventral labels. The inset caption reads: "Head detail: pharyngeal neurons (dashed box on the body below). Anterior at left, dorsal at top."
+7. **Dimming.** When a cell is selected, unselected dots in both the inset and the body are drawn at 87% opacity.
+8. **Keyboard.** Arrow keys move between model dots, Home/End jump, Enter/Space selects, Esc clears. A white arrow marks the keyboard position; it appears only after an arrow key and disappears when anything is selected. Muscle strips are not reachable by arrow keys; search and the partner lists are the equivalent.
+9. **Connection hover.** With a cell selected, hovering a line shows "Sends to X", "Receives from X" or "Gap junction with X", then "Chemical" or "Electrical" and the synapse count. No +/- symbols are used for direction.
+10. **Reserved transmitter notation (not implemented).** Once transmitter data exists, `+` and `-` are used ONLY for effect: `A —(+)-> B` means A excites B; `A —(-)-> B` means A inhibits B. The sign must come from sourced data about the effect; it is never inferred from the transmitter name alone, because the effect of one transmitter can differ by receptor.
+11. **Theme.** Light by default on every device. Dark mode only if a viewer explicitly chooses it. Brand colour #003366 for the title and boundary lines.
+12. **Source line.** "Source: Scott Emmons; WormWiring.org" is a PLACEHOLDER until Nate Schroeder and David Hall give the official wording.
+13. **Do not publish the source material.** The Cytoscape file, the connectome data and the body-model SVG are NOT to be committed to the public GitHub repository, and the explorer is not to be linked from the public site, until reuse permission is confirmed (Open Question 17). The repository is public (see Git Hosting Platform — GitHub), so a commit would publish them.
+
+#### Conflicts declared
+- **WCAG 2.1 AA Compliance Is Non-Negotiable — "No exceptions, no deferrals."** The prototype does not yet meet it. Known gaps: the network map canvas cannot be operated or read by keyboard or screen reader; connection-line tooltips appear on hover or tap only (ACCESSIBILITY_CHECKLIST.md: nothing may rely on hover alone); the Sends / Receives / Gap links / About tabs carry tab roles but not the arrow-key behaviour the ARIA tab pattern expects; the contrast of the Chemical/Gap toggle in its off state is unchecked; there is no table or CSV alternative to the map (checklist section 5). This entry does not defer the requirement: the explorer is a prototype that is not linked from wormatlas.org, and none of these gaps may ship to production.
+- **conventions.md forbids inline CSS and JavaScript in production files.** The prototype is one file by design. Exception for the prototype only; a production version splits CSS and JS into external files.
+- **Google Fonts.** The prototype loads fonts from Google's servers. For production this belongs under Open Question 9 (GDPR approach); self-hosting the fonts is the likely answer.
+
+#### Open items
+- The version and provenance of the connectome data are NOT verified. The source line is a placeholder, not a citation.
+- Phone overview scale is small.
+- The explorer shows 300 neuron-type cells; the hermaphrodite has 302 neurons (GLOSSARY.md). Which two are absent is not identified. Any "all neurons" wording on the page must be checked and corrected.
+- Mapping graph cell names to WormAtlas entity_ids is only analysed, not built (key_facts.md has the numbers).
+- Official source line, final title, permission to reuse, and the production go/no-go.
+
+#### Downstream RAG impact
+None today: the prototype reads no WormAtlas data and the RAG assistant does not use it. If adopted, every cell must resolve to an `anatomical_entities` row so that a map selection and a RAG citation point at the same WormAtlas page.
+
+- **Logged by:** Claude (drafted 2026-11-16, revised 2026-11-20) — prototype rules approved by Chris Crocker, 2026-11-16; production adoption, source wording and permission pending.
+
+---
+
+### Decision: Per-Cell Information Is Shown in Three Levels — Summary, "About" Tab, and a Full Profile Page; No Pop-Ups — PENDING (prototype built, awaiting team sign-off)
+
+- **Status:** PENDING. Chris Crocker approved building levels 1 and 2 as a prototype on 2026-11-16 (Version 12). The pattern is not final until Chris Crocker, David Hall and Nate Schroeder sign off and the Full profile page exists.
+- **Date drafted:** 2026-11-16 (revised 2026-11-20)
+- **Relates to:** Neuron and Multi-Member Cell Classes Are cell-group Entities; RAG Search Is a Primary Deliverable; RAG AI Assistant Scope and Guardrails (every answer cites a WormAtlas page); Hierarchical Clean URLs; WCAG 2.1 AA; Mobile-First; conventions.md → Cell Description Writing Standard
+
+#### Context
+Each cell has far more information than a dense map page can hold. The legacy ADAL/ADAR page lists type, connectivity links (MoW, WormWiring, Nemanode, WormBase), lineage, location, description, neurotransmitter/neuropeptide, innexin expression, receptor expression and function, plus one JPG per cell. A pop-up per cell and an individual page per cell were both considered.
+
+#### Decision
+1. **Level 1, always visible (side panel):** name, type, group, synapse counts, a one-sentence summary, and short chips for the main neurotransmitters. A transmitter that the source marks as uncertain is shown with a qualifier (the prototype shows "FLP-8 (possible)").
+2. **Level 2, one click (an "About" tab beside Sends / Receives / Gap links):** image, then collapsible sections (native `<details>`) for Description, Location, Lineage, Neurotransmitter/neuropeptide, Innexin expression, Receptor expression, Function, and Connectivity and other databases, each with its in-text citations. Description is open by default; "Expand all" is available. The tab appears only for cells that have information.
+3. **Level 3, "Full profile" link:** goes to that cell's own WormAtlas page (full text, images, every external link, complete reference list). Until the page exists the prototype shows "Full profile page: coming soon" as plain text, not a link.
+4. **Pop-ups and modals: REJECTED.** They cover the map, need extra keyboard and screen-reader handling, work poorly on phones, and give the RAG assistant no URL to cite.
+5. **No cell text embedded in the explorer in production.** The explorer fetches each cell's summary and About content from the database (REST endpoint under /api/v1/). The prototype embeds the ADA text for demonstration only.
+6. **Class versus cell.** Shared text (the ADA description) belongs on the class record; ADAL and ADAR carry only individual content (image, lineage, WBbt id). The About tab states which class the cell belongs to.
+7. **Images.** The legacy JPGs are placeholders. Their SVG replacements face the head to the left (matching the body model), use real text labels, carry alt text, and do not rely on colour alone (neuron red on pharynx green).
+8. **Transmitter content is checked before it is shown.** Any transmitter or neuropeptide chip must agree with key_facts.md → Verified Neurotransmitter Corrections (currently IL2, AVE, RMD, ASJ, DVA), which override imported data. The ADA text in the prototype is legacy WormAtlas text; ADA is not on the completed list of 70 enhanced descriptions, so it has not been checked against that list.
+
+#### Conflict to resolve — the description standard
+conventions.md → Cell Description Writing Standard requires each description to be ONE prose paragraph with no headers or lists, and that paragraph already carries lineage, neurotransmitters, receptors, innexins and citations. The About tab shows the same facts as separate sections. Keeping the facts in both places by hand would create drift (the ADAR laterality error is that failure already). Open choice, recommendation only: (a) the description stays the retrieval text and the sections are extracted from it by script and reviewed by an editor, with a check that flags disagreement; (b) the structured fields become the source and the description is validated against them; (c) both maintained by hand (not recommended). See the neuron_details entry below.
+
+#### Prototype items to confirm
+- The one-sentence ADA summary was written by Claude from the description; an editor must confirm or replace it.
+- WormWiring links: only the two URL patterns were supplied (`...neuronMaps/?cell=ADAL&sex=1&db=N2U` and `...sex=-1&db=N930`). The prototype assumes the "h" labels (ADALh, ADARh) use the first and the "m" labels use the second. Confirm, and confirm the pattern holds for every cell.
+- WormBase IDs are shown as text; no URL pattern was supplied. The IDs (ADA WBbt:0006811, ADAL WBbt:0004013, ADAR WBbt:0004011) are as pasted from the legacy page, not re-verified in the Ontology Browser.
+- Lineage is shown exactly as pasted ("AB plapaaaapp, AB prapaaaapp") with no left/right assignment. Do not drop lineage when descriptions are rewritten (key_facts.md guardrail).
+- Only in-text citations are shown; the reference list is not built.
+
+#### Downstream RAG impact
+Positive if built as above: the Full profile page is a stable, citable URL for every answer about a cell, and the summary, About sections and chips give the assistant clean fields ("which neurons use glutamate?", "which innexins does ADA express?"). A pop-up would have left nothing to cite. The risk is drift between the description and the fields (see the conflict above).
+
+- **Logged by:** Claude (drafted 2026-11-16, revised 2026-11-20) — prototype approved by Chris Crocker, 2026-11-16; final sign-off pending.
+
+---
+
+### Decision: Neuron-Specific Fields Need a One-to-One `neuron_details` Table (Proposed) — PENDING
+
+- **Status:** PENDING — a recommendation, not a decision. It must be decided before any neuron neurotransmitter, innexin or receptor data is imported as structured fields.
+- **Date drafted:** 2026-11-16 (revised 2026-11-20)
+- **Relates to:** Unified Entities Table (its exception path); Neuron and Multi-Member Cell Classes Are cell-group Entities; cell_lineage Table; references and article_citations Tables; RAG Readiness Standard for Entities; conventions.md → Cell Description Writing Standard; key_facts.md (lineage lives only in descriptions)
+
+#### Context
+The legacy neuron page carries fields that `anatomical_entities` has no column for: neurotransmitter, neuropeptide, innexin expression, receptor expression, connectivity links to MoW / WormWiring / Nemanode, and lineage, each with citations. The Unified Entities Table decision allows a separate one-to-one details table once more than five or six columns apply to only one entity type. This is that case.
+
+Facts checked 2026-11-20 against the project's Entities.csv (634 rows): there is no `ADA` row (nor `ASE` or `AVA`), although the cell-group rule says classes get their own record; ADAL and ADAR exist as `cell` rows with 33-word WormFindr-style descriptions, and ADAR's still says "located to the left of the terminal bulb" (the copied-laterality error recorded in the cell-group decision); 141 rows have descriptions of 150 words or more, all with status `review`, which is consistent with the March 2026 enhanced descriptions being in the Sheet (not compared to the list of 70).
+
+#### Recommendation (not yet decided)
+1. Create a `neuron_details` table, one row per neuron or neuron class, joined one-to-one to `anatomical_entities` on `entity_id`. Rejected alternatives: more sparse columns on `anatomical_entities` (breaks the exception-path threshold) and a generic key-value table (weak for RAG filtering).
+2. Fields: neurotransmitter, neuropeptide, innexin expression, receptor expression, external database identifiers and links (MoW, WormWiring, Nemanode), and per-field citations linked to the `references` table. Neuron type and function stay on `anatomical_entities`.
+3. Class-level fields live on the `cell-group` class record (ADA). Member records (ADAL, ADAR) hold only individual content. The missing class rows (ADA, ASE, AVA and others) are created under the existing cell-group rule, with class-level WBbt ids looked up individually.
+4. Lineage must not be dropped. Until `cell_lineage` is populated, lineage stays in the description text per the key_facts.md guardrail.
+5. Decide the source of truth against the description paragraph (see the conflict in the previous entry) before any extraction script is written.
+6. The seven references cited in the ADA text (Loer and Rand 2022; Janssen et al. 2009; Li and Kim 2008; Lee et al. 1999; Altun et al. 2009; Bhattacharya et al. 2019; Sohn et al. 2011) need records in `references` with ref_ids following the Author+Year convention. The ids are to be assigned, not guessed. key_facts.md does not list a built `references` table; confirm it exists in the database first.
+
+#### Questions for the team
+- Does David Hall and Nate Schroeder agree with the one-to-one table?
+- Are neurotransmitter and innexin values controlled vocabularies (lookup tables, as for media_type) or free text? A lookup lets the assistant filter by transmitter.
+- Which is the source of truth: the description paragraph or the structured fields?
+
+#### Downstream RAG impact
+High. Each field is something researchers ask about. Without a structured home they stay buried in prose and the assistant cannot filter or cite them reliably. A decision is needed before ingestion.
+
+- **Logged by:** Claude (drafted 2026-11-16, revised 2026-11-20) — recommendation only; pending Chris Crocker, David Hall and Nate Schroeder.
+
+---
+
+### Decision: Synaptic Connections Need a Home — a `connections` Table With a Dataset Version (Proposed) — PENDING
+
+- **Status:** PENDING — a recommendation. It resolves the question the PhaTABLE 1 decision left open ("whether `connected_to` or a new relationship type carries synaptic input, and how footnote sources are recorded") for the connectome as a whole.
+- **Date drafted:** 2026-11-20
+- **Relates to:** PhaTABLE 1 Is Delivered as a Native HTML Table; Synaptic Input Not Modelled as Relationships Yet; Open Question 6 (RAG architecture pattern); Unified Entities Table; references and article_citations Tables; Entity Data Pipeline
+
+#### Context
+The explorer holds 6,312 weighted, directed connections between 473 cells (4,869 chemical, 1,443 gap junction; weights 1 to 244; 55 self-loops). The Relationships tab uses only `part_of` and `adjacent_to`, has no database table (bugs.md, 2026-10: "the database has no relationships table"), and is edited by hand in a Sheet. A directed, weighted, typed, dataset-specific connection does not fit that model, and 6,312 rows are not hand-edited.
+
+#### Recommendation (not yet decided)
+1. A `connections` table: source cell, target cell, connection type (chemical or electrical), weight (number of synapses), and a `dataset_id`. Cells are referenced by WormAtlas `entity_id`, not by the explorer's own names (see the mapping numbers in key_facts.md).
+2. A `connectome_datasets` lookup table (the media_types pattern): name, species, sex, developmental stage, source citation, version, licence note, and date acquired. The dataset version is part of every connection from the start, so that male, dauer or other datasets can be added later without a schema change.
+3. The data are loaded from the source files by a script (re-runnable, one transaction per dataset), never typed into the Sheet. The Sheet stays the source of truth for entity data only.
+4. Connection questions ("what does AVA synapse onto?") are structured lookups, not embedding searches. This is the case for the query router in Open Question 6: factual connectivity goes to the database, explanatory questions go to RAG, and every answer still cites a WormAtlas page.
+5. Permission and provenance (Open Question 17) are settled before any connectome data is loaded into any WormAtlas database.
+
+#### Downstream RAG impact
+High. It decides whether the assistant can answer connectivity questions exactly instead of from prose, and it affects the router design.
+
+- **Logged by:** Claude (drafted 2026-11-20) — recommendation only; pending Chris Crocker, David Hall and Nate Schroeder.
+
+---
+
+### Decision: Are Neuron and Cell Illustrations Figures? (Proposed) — PENDING
+
+- **Status:** PENDING — a question that must be answered before the SVG redraws are made, because the Figure Identifiers Are Permanent rule means an ID cannot be changed once assigned.
+- **Date drafted:** 2026-11-20
+- **Relates to:** Figure Identifier Format; Figure Identifiers Are Permanent; Figure Crosswalk v1.1; Figure Type Axes Split; Legacy Figure-ID Alias Mechanism; Standardized Figure Metadata Structure
+
+#### Context
+Each neuron page on the legacy site carries a JPG (for example ADAL and ADAR), to be redrawn as SVG. Crosswalk v1.1 has no row that mentions ADA, a neuron page or the connectome (checked 2026-11-20 by searching the Master List); its rows come from the live-site figure inventory. How neuron-page images were treated in that inventory was not checked, so they appear to sit outside the 695 catalogued figure rows.
+
+#### Recommendation (not yet decided)
+Treat the redrawn neuron illustrations as `diagram` figures so they get a permanent ID, panel metadata, an `ai_summary` and alt text like any other figure, with the crosswalk changed only by a new version and logged reason (the ID-freeze rule). The alternative is to treat them as page assets outside the figure catalogue, which gives them no `ai_summary` and no retrieval surface. Decide before the first SVG is made. If they are figures, the ID needs a section token from the ratified vocabulary (not invented here).
+
+#### Downstream RAG impact
+Medium. A catalogued figure is retrievable and citable; an uncatalogued image is not.
+
+- **Logged by:** Claude (drafted 2026-11-20) — question for Chris Crocker, David Hall and Nate Schroeder.
+
+---
+
+### Decision: Connectome Explorer Work Is Phased, With a Go/No-Go Gate Before Any Production Build — PENDING
+
+- **Status:** PENDING — proposed 2026-11-20 after the team responded to the prototype with ideas. It becomes DECIDED when Chris Crocker, David Hall and Nate Schroeder agree the gate and the time limit.
+- **Date drafted:** 2026-11-20
+- **Relates to:** RAG Search Is a Primary Deliverable; Phased RAG Implementation; 9-Month Project Deadline; WCAG 2.1 AA Compliance Is Non-Negotiable; Custom PHP/MySQL CMS Only
+
+#### Context
+The explorer began as a free-time prototype and the team is now suggesting improvements. The RAG assistant is the primary deliverable with a 9-month deadline, so the explorer must not displace it. The prototype is one 500 KB file with the data and text embedded in the page, which cannot keep absorbing features.
+
+#### Proposed phases
+0. **Triage and gate.** One backlog of team ideas (who asked, why, size). A yes or no from David Hall and Nate Schroeder on whether the explorer belongs in the plan, with a time limit and a definition of done. Settle Open Questions 14 to 17 (source wording, name, go/no-go, permission).
+1. **Data foundations (no screens).** Decide Open Questions 18 to 20. Build the graph-to-entity mapping. Create the missing neuron class rows. Collect and review descriptions, transmitters and references. Record the dataset provenance.
+2. **Explorer features, still in the prototype.** Keyboard and screen-reader access to the map, a table and CSV/JSON alternative, a mobile layout, a pause control and reduced-motion support for any animation, then new features the team asked for.
+3. **Production build.** A PHP page and REST endpoints under /api/v1/, data from the database, CSS and JS in external files, self-hosted fonts, per-cell profile pages, SVG neuron images, built mobile-first and tested against ACCESSIBILITY_CHECKLIST.md.
+4. **RAG link, guided stories, launch.** Connect the explorer and the assistant, add guided stories, then dev, then production with Greg Parks.
+
+#### Working rules
+- One phase per chat in the Claude Project. Each chat starts by reading connectome-explorer-handoff.md, decisions.md and the other notes files, and ends with the log entries drafted.
+- Only one chat at a time edits the Artifact (two chats publishing to the same link overwrite each other).
+- Phases 1 and 2 can overlap because one is documents and database work and the other is the prototype.
+- Nothing from the prototype is committed to the public repository until Open Question 17 is settled.
+
+#### Downstream RAG impact
+Protects the primary deliverable by capping the explorer's scope, and ensures that cell data enters the database once, in the shape the assistant needs.
+
+- **Logged by:** Claude (drafted 2026-11-20) — proposal; pending Chris Crocker, David Hall and Nate Schroeder.
+
 ## URL STRUCTURE
 
 ### Decision: Hierarchical Clean URLs — DECIDED
@@ -2064,3 +2246,10 @@ Each must be logged as a DECIDED entry before work begins on that area.
 | 10 | Expected traffic volume post-launch | Medium | Affects hosting and API cost planning |
 | 12 | Is multilingual support required? | Low | |
 | 13 | Accessibility testing tooling | Medium | axe-core confirmed candidate |
+| 14 | Official source and attribution wording for the connectome explorer, and the version of the underlying data | Medium | Placeholder today: "Source: Scott Emmons; WormWiring.org". From Nate Schroeder and David Hall. |
+| 15 | Final public name of the connectome explorer | Low | "Connectome Explorer" is a placeholder; "Worm Wiring" cannot be used. |
+| 16 | Is the connectome explorer adopted as a production feature, with what time limit and definition of done? | High | Built outside the plan. Needs a Hall/Schroeder decision (see the phased-work entry). |
+| 17 | May the connectome data, the Cytoscape layout and the body-model art be reused on WormAtlas, and may they go in the public repository? | High | Not yet checked. Blocks loading data into any WormAtlas database and committing the files. |
+| 18 | `neuron_details` table: approve, set vocabularies for neurotransmitter and innexin, and choose the source of truth against the description paragraph | High | Blocks import of structured neuron data. |
+| 19 | Where synaptic connections live: `connections` table with a `connectome_datasets` lookup? | High | Also feeds Open Question 6 (router). |
+| 20 | Are redrawn neuron illustrations catalogued as figures (and with what section token)? | Medium | Decide before the first SVG is made; figure IDs are permanent. |

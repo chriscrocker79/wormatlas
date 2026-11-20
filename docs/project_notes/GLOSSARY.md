@@ -57,6 +57,12 @@ stage-specific. | See decisions.md → anatomical_entities Table Schema | |
 | Sensory neuron | Neuron that detects external or internal stimuli | |
 | Amphid | Pair of major chemosensory organs in the head | Contains ~12 neuron types |
 | Phasmid | Pair of chemosensory organs in the tail | Hermaphrodite only |
+| Innexin | A protein subunit of invertebrate gap junctions (the counterpart of vertebrate connexins) | Neuron pages list innexin expression per cell |
+| Neurotransmitter | A chemical released at a chemical synapse to signal to the next cell | Examples: glutamate, acetylcholine, GABA. Verified values: key_facts.md → Verified Neurotransmitter Corrections |
+| Neuropeptide | A peptide signalling molecule released by neurons, often acting at a distance | |
+| Cell class | A group of neurons, usually a left/right pair, treated as one named class (for example ADA with ADAL and ADAR) | In the database a class is a `cell-group` entity. Its `entity_id` is the class name and its members are `part_of` it. See decisions.md → Neuron and Multi-Member Cell Classes |
+| Synaptic weight | The number of synapses between two cells in a connectome dataset | In the explorer the line width and the "×N synapses" text |
+| Contralateral | On the opposite side of the body | The partner of ADAL is the contralateral cell ADAR |
 
 ---
 
@@ -148,6 +154,7 @@ Optimized for retrieval tasks on specialized text |
 | input_type | A required Voyage API parameter. Must be "document" when
 embedding content for storage, and "query" when embedding a
 user's search question. Mixing these degrades search quality |
+| Connectome Explorer (working title) | The prototype interactive map of the hermaphrodite connectome, with a linked body model | Placeholder name; the name "Worm Wiring" must not be used. See decisions.md → CONNECTOME EXPLORER and key_facts.md → Connectome Explorer (prototype) |
 
 ### Entity Types in WormAtlas
 
